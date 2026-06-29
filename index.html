@@ -250,6 +250,11 @@
   .chip.dev .yr{color:var(--flamingo);opacity:.85}
   .chip.dev.on{color:var(--ink)}
 
+  /* non-UN first-class chips */
+  .chip.nonun{border-style:dashed;color:var(--text-dim)}
+  .chip.nonun .led{background:var(--slate)}
+  .chip.nonun.on{color:var(--ink)}
+
   /* ---------- panel drill navigator ---------- */
   .pnl-crumbs{display:flex;align-items:center;gap:2px;flex-wrap:wrap;font-family:"IBM Plex Mono",monospace;font-size:12px;margin:8px 0 2px}
   .pnl-crumbs .crumb{cursor:pointer;background:none;border:none;color:var(--accent);font:inherit;padding:2px 4px;border-radius:6px}
@@ -298,8 +303,8 @@
     <div class="meter-head">
       <div class="pct-readout"><span id="pctNum">0.0</span><span class="sym">%</span></div>
       <div class="meter-label">
-        <div class="big">nations online worldwide</div>
-        <div class="count-line"><b id="cOnline">0</b> of <b id="cTotal">0</b> nations online · <b id="cNeed">0</b> needed for 51%</div>
+        <div class="big">nations &amp; peoples online</div>
+        <div class="count-line"><b id="cOnline">0</b> of <b id="cTotal">0</b> online · <b id="cNeed">0</b> needed for 51%</div>
       </div>
     </div>
     <div class="track-wrap">
@@ -334,7 +339,7 @@
   </div>
 
   <footer class="note">
-    <b>This is a conceptual instrument, not a forecast.</b> The roster reflects the 2022–2026 wave of popular uprisings and peaceful revolutions; the regions and years are editable seeds, not official records. What counts as a “revolution” is contested, contestable, and meant to be argued over — the data lives at the top of the source and is yours to rewrite. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim. Situations marked <b>developing</b> (flamingo pink) are unfolding now and are deliberately <b>not</b> counted toward the threshold until they cross it.
+    <b>This is a conceptual instrument, not a forecast.</b> The roster reflects the 2022–2026 wave of popular uprisings and peaceful revolutions; the regions and years are editable seeds, not official records. What counts as a “revolution” is contested, contestable, and meant to be argued over — the data lives at the top of the source and is yours to rewrite. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim. Situations marked <b>developing</b> (flamingo pink) are unfolding now and are deliberately <b>not</b> counted toward the threshold until they cross it. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. That roster is contested and editable too.
   </footer>
 
 </div>
@@ -377,6 +382,25 @@ const DEVELOPING = {
         lat:41.15, lon:20.05,
         regions:["Tiranë","Durrës","Vlorë","Shkodër","Elbasan","Fier","Korçë","Berat","Dibër","Gjirokastër","Kukës","Lezhë"],
         online:["Tiranë","Durrës","Vlorë","Shkodër"] },   // 4/12 — stirring, below 51%
+};
+
+/* ============================================================
+   EDIT HERE — peoples & de-facto / disputed polities that are
+   NOT UN members but ARE first-class here: clickable, counted
+   toward the threshold. "Those present," not "those recognized."
+   Shown as diamond markers (no UN polygon to fill). Contested
+   and editable by design; codes below are internal keys only.
+   ============================================================ */
+const NON_UN = {
+  XKK:{ name:"Kosovo",                 lat:42.67, lon:21.17,  note:"partially recognized · not a UN member" },
+  TWN:{ name:"Taiwan",                 lat:23.70, lon:121.00, note:"de-facto state · not a UN member" },
+  PSE:{ name:"Palestine",              lat:31.95, lon:35.23,  note:"UN observer state · not a full member" },
+  ESH:{ name:"Western Sahara (SADR)",  lat:24.50, lon:-13.00, note:"partially recognized · AU member" },
+  CYN:{ name:"Northern Cyprus",        lat:35.33, lon:33.40,  note:"de-facto state · limited recognition" },
+  SOL:{ name:"Somaliland",             lat:9.56,  lon:44.07,  note:"de-facto state · unrecognized" },
+  ABK:{ name:"Abkhazia",               lat:43.00, lon:41.02,  note:"partially recognized · not a UN member" },
+  SOS:{ name:"South Ossetia",          lat:42.22, lon:43.97,  note:"partially recognized · not a UN member" },
+  TRA:{ name:"Transnistria",           lat:46.84, lon:29.64,  note:"de-facto state · unrecognized" },
 };
 
 /* ============================================================
@@ -454,8 +478,9 @@ const UK_SUB = [
    The same 51% rule fires at every level (the fractal).
    ============================================================ */
 const ISO = Object.keys(UN_MEMBERS);
-const N = ISO.length;
-const NEEDED = Math.ceil(N * 0.51);                 // majority of nations
+const NONUN_KEYS = Object.keys(NON_UN);
+const N = ISO.length + NONUN_KEYS.length;            // UN members + first-class peoples/disputed
+const NEEDED = Math.ceil(N * 0.51);                 // majority of all polities present
 
 function buildRaw(raw){                              // sub-national node from data
   const n = { name: raw.name };
@@ -477,11 +502,16 @@ function buildNation(iso){
   return { name:UN_MEMBERS[iso], iso, noun:"regions",
            children:[{name:"National", leaf:true, online:false}] };                        // default OFFLINE
 }
-function buildTree(){ return { name:"World", noun:"nations", children: ISO.map(buildNation) }; }
+function buildNonUn(code){
+  const d = NON_UN[code];
+  return { name:d.name, code, nonun:true, note:d.note, lat:d.lat, lon:d.lon, noun:"regions",
+           children:[{name:"National", leaf:true, online:false}] };   // first-class, default OFFLINE
+}
+function buildTree(){ return { name:"World", noun:"nations", children: ISO.map(buildNation).concat(NONUN_KEYS.map(buildNonUn)) }; }
 
 let TREE = buildTree();
 let BYISO = {};
-function indexIso(){ BYISO = {}; TREE.children.forEach(n=>BYISO[n.iso]=n); }
+function indexIso(){ BYISO = {}; TREE.children.forEach(n=>BYISO[n.iso||n.code]=n); }   // keyed by ISO or non-UN code
 indexIso();
 
 /* ---- recursive fractal rules (depth-agnostic) ---- */
@@ -532,6 +562,19 @@ function developingTrace(){
   };
 }
 
+// first-class peoples / disputed polities (no UN polygon to fill -> diamond markers)
+function nonUnColors(){ return NONUN_KEYS.map(k=>isOnline(BYISO[k])?"#ffd84a":"#7da0d8"); }
+function nonUnHover(){ return NONUN_KEYS.map(k=>{ const n=BYISO[k]; return `<b>${n.name}</b> — ${isOnline(n)?"● ONLINE":"○ dormant"}<br>${n.note}`; }); }
+function nonUnTrace(){
+  return {
+    type:"scattergeo", mode:"markers",
+    lon: NONUN_KEYS.map(k=>NON_UN[k].lon), lat: NONUN_KEYS.map(k=>NON_UN[k].lat),
+    _key: NONUN_KEYS,
+    marker:{ symbol:"diamond", size:9, color:nonUnColors(), line:{color:"#dce8ff", width:1.1}, opacity:0.95 },
+    hovertext: nonUnHover(), hoverinfo:"text", showlegend:false,
+  };
+}
+
 function drawMap(){
   const data=[{
     type:"choropleth", locationmode:"ISO-3",
@@ -539,7 +582,7 @@ function drawMap(){
     hovertemplate:"%{text}<extra></extra>",
     colorscale:COLORSCALE, zmin:0, zmax:1, showscale:false,
     marker:{line:{color:"#10254a", width:0.4}},
-  }, developingTrace()];
+  }, developingTrace(), nonUnTrace()];
   const layout={
     paper_bgcolor:"rgba(0,0,0,0)", plot_bgcolor:"rgba(0,0,0,0)",
     margin:{l:0,r:0,t:0,b:0},
@@ -561,6 +604,7 @@ function drawMap(){
       const p = ev.points && ev.points[0]; if(!p) return;
       if(p.location) openNation(p.location);                                   // choropleth nation
       else if(p.data && p.data._iso) openNation(p.data._iso[p.pointIndex]);    // developing marker
+      else if(p.data && p.data._key) openNation(p.data._key[p.pointIndex]);    // non-UN polity marker
     });
     // gentle heartbeat on developing markers (global reduced-motion CSS can't reach Plotly, so gate here)
     const rm = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -570,6 +614,7 @@ function drawMap(){
 
 function refreshMap(){
   Plotly.restyle("map", {z:[zArray()], text:[hoverText()]}, [0]);
+  Plotly.restyle("map", {"marker.color":[nonUnColors()], hovertext:[nonUnHover()]}, [2]);
 }
 
 /* ============================================================
@@ -637,6 +682,15 @@ function refreshRoster(){
       b.innerHTML=`<span class="led"></span>${UN_MEMBERS[iso]} <span class="yr">'${String(SEEDED[iso].year).slice(2)}</span>`;
       b.setAttribute("aria-pressed","false");
       b.addEventListener("click",()=>{ selectNation(iso); refreshAll(); document.getElementById("panel").scrollIntoView({block:"nearest"}); });
+      el.appendChild(b);
+    });
+    NONUN_KEYS.forEach(key=>{                                  // first-class non-UN peoples / disputed
+      const b=document.createElement("button");
+      b.className="chip nonun"; b.dataset.iso=key; b.type="button";
+      b.title=NON_UN[key].note;
+      b.innerHTML=`<span class="led"></span>${NON_UN[key].name}`;
+      b.setAttribute("aria-pressed","false");
+      b.addEventListener("click",()=>{ selectNation(key); refreshAll(); document.getElementById("panel").scrollIntoView({block:"nearest"}); });
       el.appendChild(b);
     });
   }
