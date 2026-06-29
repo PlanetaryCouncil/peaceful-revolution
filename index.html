@@ -10,43 +10,17 @@
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
 <style>
   :root{
-    /* cool / dormant */
-    --ink:#13213f;            /* brighter ink-navy background */
-    --ink-2:#1a2c52;
-    --panel:#1e3262;
-    --panel-2:#192a54;
-    --line:#33508a;
-    --slate:#5b86c4;          /* dormant slate-blue (brighter) */
-    --slate-dim:#2f4a85;
-    --text:#f1f6ff;
-    --text-dim:#b7caea;
-    --text-faint:#8aa3cf;
-    /* warm / awake */
-    --amber:#ffb43d;
-    --gold:#ffd84a;
-    --gold-bright:#fff0a0;
-    --accent:var(--amber);
-    --ocean:#10254a;
-    --land:#284273;
-    --good:#5fe6b0;
-    --flamingo:#ff5fa2;       /* a situation developing right now */
-    --radius:14px;
-    --maxw:1320px;
+    --ink:#13213f; --ink-2:#1a2c52; --panel:#1e3262; --panel-2:#192a54; --line:#33508a;
+    --slate:#5b86c4; --slate-dim:#2f4a85;
+    --text:#f1f6ff; --text-dim:#b7caea; --text-faint:#8aa3cf;
+    --amber:#ffb43d; --gold:#ffd84a; --gold-bright:#fff0a0; --accent:var(--amber);
+    --flamingo:#ff5fa2;
+    --radius:14px; --maxw:1320px;
   }
-
-  /* global activation: warm the whole palette toward gold */
   body.activated{
-    --ink:#3a2607;
-    --ink-2:#4a3309;
-    --panel:#553c0d;
-    --panel-2:#4a330c;
-    --line:#7a5a1c;
-    --text:#fff7e4;
-    --text-dim:#f0d9a3;
-    --text-faint:#cdae72;
-    --accent:var(--gold);
+    --ink:#3a2607; --ink-2:#4a3309; --panel:#553c0d; --panel-2:#4a330c; --line:#7a5a1c;
+    --text:#fff7e4; --text-dim:#f0d9a3; --text-faint:#cdae72; --accent:var(--gold);
   }
-
   *{box-sizing:border-box}
   html,body{margin:0;padding:0}
   body{
@@ -54,187 +28,20 @@
       radial-gradient(1200px 700px at 78% -8%, rgba(255,180,61,0.16), transparent 60%),
       radial-gradient(900px 600px at 8% 110%, rgba(91,134,196,0.28), transparent 55%),
       var(--ink);
-    color:var(--text);
-    font-family:Inter,system-ui,sans-serif;
-    min-height:100vh;
-    transition:background 1.2s ease, color .8s ease;
-    -webkit-font-smoothing:antialiased;
+    color:var(--text); font-family:Inter,system-ui,sans-serif; min-height:100vh;
+    transition:background 1.2s ease,color .8s ease; -webkit-font-smoothing:antialiased;
   }
   .wrap{max-width:var(--maxw);margin:0 auto;padding:22px clamp(14px,3vw,34px) 48px}
 
-  /* ---------- header ---------- */
-  header.top{display:flex;flex-direction:column;gap:6px;margin-bottom:18px}
-  .eyebrow{
-    font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.32em;
-    text-transform:uppercase;color:var(--text-faint);
-  }
-  h1{
-    font-family:"Space Grotesk",sans-serif;font-weight:700;
-    font-size:clamp(28px,5.2vw,52px);line-height:1.02;margin:0;letter-spacing:-0.02em;
-  }
+  /* header */
+  .eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--text-faint)}
+  .eyebrow a{color:var(--accent);text-decoration:none}
+  .eyebrow a:hover{text-decoration:underline}
+  h1{font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:clamp(28px,5.2vw,52px);line-height:1.02;margin:6px 0 0;letter-spacing:-0.02em}
   h1 .em{color:var(--accent);transition:color .8s ease}
-  .sub{color:var(--text-dim);font-size:clamp(13px,1.6vw,15px);max-width:64ch;line-height:1.5}
+  .sub{color:var(--text-dim);font-size:clamp(13px,1.6vw,15px);max-width:70ch;line-height:1.5;margin-top:8px}
 
-  /* ---------- threshold meter ---------- */
-  .meter-card{
-    margin:20px 0 8px;background:linear-gradient(180deg,var(--panel),var(--panel-2));
-    border:1px solid var(--line);border-radius:var(--radius);
-    padding:18px clamp(16px,2.4vw,26px) 22px;
-    transition:background 1s ease,border-color 1s ease;
-  }
-  .meter-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap}
-  .pct-readout{
-    font-family:"IBM Plex Mono",monospace;font-weight:600;line-height:.9;
-    font-size:clamp(40px,8vw,76px);color:var(--accent);letter-spacing:-0.02em;
-    transition:color .8s ease;
-  }
-  .pct-readout .sym{font-size:.42em;color:var(--text-dim);margin-left:4px}
-  .meter-label{text-align:right}
-  .meter-label .big{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:15px}
-  .count-line{
-    font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--text-dim);
-    margin-top:2px;
-  }
-  .count-line b{color:var(--text)}
-
-  .track-wrap{position:relative;margin-top:18px}
-  .track{
-    position:relative;height:26px;border-radius:999px;overflow:hidden;
-    background:var(--slate-dim);border:1px solid var(--line);
-  }
-  .fill{
-    position:absolute;inset:0 auto 0 0;width:0%;border-radius:999px;
-    background:linear-gradient(90deg,#3a5170,#5a7aa6 48%,var(--amber) 90%,var(--gold));
-    transition:width .55s cubic-bezier(.2,.7,.2,1), background 1s ease;
-  }
-  body.activated .fill{background:linear-gradient(90deg,var(--amber),var(--gold) 60%,var(--gold-bright))}
-  /* hard 51% marker */
-  .marker{position:absolute;top:-7px;bottom:-7px;left:51%;width:2px;background:var(--gold);
-    box-shadow:0 0 0 1px rgba(0,0,0,.35);z-index:3}
-  .marker::after{
-    content:"51% · CHARTER REWRITE";position:absolute;top:-20px;left:50%;
-    transform:translateX(-50%);white-space:nowrap;
-    font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.14em;
-    color:var(--gold);text-shadow:0 1px 4px rgba(0,0,0,.7);
-  }
-  @media (max-width:560px){
-    .marker::after{font-size:9px;left:auto;right:0;transform:none}
-  }
-
-  /* activation banner */
-  .banner{
-    margin-top:16px;display:none;align-items:center;gap:12px;
-    background:linear-gradient(90deg,rgba(255,210,74,.16),rgba(232,162,58,.06));
-    border:1px solid var(--gold);border-radius:10px;padding:13px 16px;
-  }
-  body.activated .banner{display:flex;animation:rise .7s ease}
-  .banner .dot{width:10px;height:10px;border-radius:50%;background:var(--gold);
-    box-shadow:0 0 12px var(--gold);flex:none}
-  .banner .msg{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:15px;color:var(--gold-bright)}
-  .banner .msg small{display:block;font-family:Inter;font-weight:400;font-size:12px;color:var(--text-dim)}
-  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-
-  /* ---------- roster strip ---------- */
-  .roster{
-    display:flex;gap:8px;overflow-x:auto;padding:14px 2px 6px;margin-top:6px;
-    scrollbar-width:thin;scrollbar-color:var(--line) transparent;
-  }
-  .roster::-webkit-scrollbar{height:7px}
-  .roster::-webkit-scrollbar-thumb{background:var(--line);border-radius:9px}
-  .chip{
-    flex:none;cursor:pointer;border-radius:999px;border:1px solid var(--line);
-    background:var(--panel-2);color:var(--text-dim);
-    font-family:"IBM Plex Mono",monospace;font-size:12px;
-    padding:7px 13px;display:flex;align-items:center;gap:7px;
-    transition:all .25s ease;white-space:nowrap;
-  }
-  .chip .yr{opacity:.6;font-size:11px}
-  .chip .led{width:7px;height:7px;border-radius:50%;background:var(--slate);flex:none;transition:all .3s}
-  .chip.on{color:var(--ink);background:linear-gradient(180deg,var(--gold),var(--amber));border-color:var(--gold)}
-  .chip.on .yr{opacity:.75;color:#3a2a06}
-  .chip.on .led{background:#3a2a06;box-shadow:0 0 6px rgba(58,42,6,.4)}
-  .chip.sel{outline:2px solid var(--accent);outline-offset:2px}
-
-  /* ---------- main layout ---------- */
-  .stage{display:grid;grid-template-columns:1fr 340px;gap:18px;margin-top:16px;align-items:start}
-  @media (max-width:920px){.stage{grid-template-columns:1fr}}
-
-  .map-card{
-    position:relative;background:linear-gradient(180deg,var(--panel),var(--panel-2));
-    border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;
-    transition:background 1s ease,border-color 1s ease;
-  }
-  #map{width:100%;height:min(62vh,580px);min-height:340px}
-  .map-hint{
-    position:absolute;left:14px;bottom:12px;z-index:2;pointer-events:none;
-    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-faint);
-    background:rgba(19,33,63,.6);padding:4px 9px;border-radius:7px;border:1px solid var(--line);
-  }
-
-  /* ---------- side panel ---------- */
-  .panel{
-    background:linear-gradient(180deg,var(--panel),var(--panel-2));
-    border:1px solid var(--line);border-radius:var(--radius);padding:18px;
-    transition:background 1s ease,border-color 1s ease;position:relative;min-height:340px;
-  }
-  .panel .ph-empty{color:var(--text-faint);font-size:13px;line-height:1.6;margin-top:6px}
-  .panel .ph-empty b{color:var(--text-dim)}
-  .pnl-name{font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:22px;margin:0;line-height:1.1}
-  .pnl-iso{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-faint);letter-spacing:.18em}
-  .pnl-status{
-    display:inline-flex;align-items:center;gap:7px;margin-top:10px;
-    font-family:"IBM Plex Mono",monospace;font-size:12px;
-    padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--panel-2);
-  }
-  .pnl-status .led{width:8px;height:8px;border-radius:50%;background:var(--slate)}
-  .pnl-status.online{color:var(--gold);border-color:var(--gold)}
-  .pnl-status.online .led{background:var(--gold);box-shadow:0 0 8px var(--gold)}
-  .pnl-frac{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--text-dim);margin-top:9px}
-  .pnl-frac b{color:var(--text)}
-
-  .pnl-actions{display:flex;gap:8px;margin:14px 0 6px}
-  .btn{
-    flex:1;cursor:pointer;font-family:"IBM Plex Mono",monospace;font-size:12px;
-    border-radius:9px;border:1px solid var(--line);background:var(--panel-2);
-    color:var(--text);padding:9px 10px;transition:all .2s ease;
-  }
-  .btn:hover{border-color:var(--accent);color:var(--accent)}
-  .btn.primary{background:linear-gradient(180deg,var(--amber),#cf8b22);color:#241502;border-color:var(--amber);font-weight:600}
-  .btn.primary:hover{filter:brightness(1.08);color:#241502}
-
-  .regions{list-style:none;margin:12px 0 0;padding:0;display:flex;flex-direction:column;gap:6px;
-    max-height:320px;overflow-y:auto;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
-  .regions::-webkit-scrollbar{width:7px}
-  .regions::-webkit-scrollbar-thumb{background:var(--line);border-radius:9px}
-  .region{display:flex;align-items:center;justify-content:space-between;gap:10px;
-    padding:9px 11px;border-radius:9px;border:1px solid var(--line);background:var(--panel-2)}
-  .region .rname{font-size:13px;color:var(--text-dim)}
-  .toggle{
-    position:relative;width:42px;height:23px;border-radius:999px;flex:none;cursor:pointer;
-    border:1px solid var(--line);background:var(--slate-dim);padding:0;transition:all .25s ease;
-  }
-  .toggle .knob{position:absolute;top:2px;left:2px;width:17px;height:17px;border-radius:50%;
-    background:var(--slate);transition:all .25s cubic-bezier(.2,.7,.2,1)}
-  .toggle[aria-checked="true"]{background:linear-gradient(90deg,var(--amber),var(--gold));border-color:var(--gold)}
-  .toggle[aria-checked="true"] .knob{left:21px;background:#241502}
-  .toggle[aria-checked="true"]+.rname,.region.on .rname{color:var(--text)}
-
-  /* ---------- controls / footer ---------- */
-  .controls{display:flex;justify-content:flex-end;margin-top:14px}
-  .reset{
-    cursor:pointer;font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.06em;
-    background:transparent;border:1px solid var(--line);color:var(--text-dim);
-    border-radius:9px;padding:9px 16px;transition:all .2s ease;
-  }
-  .reset:hover{border-color:var(--accent);color:var(--accent)}
-
-  footer.note{
-    margin-top:30px;border-top:1px solid var(--line);padding-top:16px;
-    color:var(--text-faint);font-size:12px;line-height:1.6;max-width:90ch;
-  }
-  footer.note b{color:var(--text-dim)}
-
-  /* ---------- developing dispatch ---------- */
+  /* developing dispatch */
   .dispatch{display:flex;align-items:center;gap:11px;flex-wrap:wrap;margin:16px 0 0;padding:11px 15px;border:1px solid var(--flamingo);border-radius:11px;background:linear-gradient(90deg,rgba(255,95,162,.15),rgba(255,95,162,.04))}
   .dispatch .pulse{width:11px;height:11px;border-radius:50%;background:var(--flamingo);flex:none;animation:pulse 1.8s ease-out infinite}
   @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(255,95,162,.55)}70%{box-shadow:0 0 0 11px rgba(255,95,162,0)}100%{box-shadow:0 0 0 0 rgba(255,95,162,0)}}
@@ -244,58 +51,96 @@
   .dispatch .dtext a{color:var(--flamingo);font-weight:600;text-decoration:none}
   .dispatch .dtext a:hover{text-decoration:underline}
 
-  /* developing roster chips */
+  /* threshold meter */
+  .meter-card{margin:20px 0 8px;background:linear-gradient(180deg,var(--panel),var(--panel-2));border:1px solid var(--line);border-radius:var(--radius);padding:18px clamp(16px,2.4vw,26px) 22px;transition:background 1s ease,border-color 1s ease}
+  .meter-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  .pct-readout{font-family:"IBM Plex Mono",monospace;font-weight:600;line-height:.9;font-size:clamp(40px,8vw,76px);color:var(--accent);letter-spacing:-0.02em;transition:color .8s ease}
+  .pct-readout .sym{font-size:.42em;color:var(--text-dim);margin-left:4px}
+  .meter-label{text-align:right}
+  .meter-label .big{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:15px}
+  .count-line{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--text-dim);margin-top:2px}
+  .count-line b{color:var(--text)}
+  .track-wrap{position:relative;margin-top:18px}
+  .track{position:relative;height:26px;border-radius:999px;overflow:hidden;background:var(--slate-dim);border:1px solid var(--line)}
+  .fill{position:absolute;inset:0 auto 0 0;width:0%;border-radius:999px;background:linear-gradient(90deg,#3a5170,#5a7aa6 48%,var(--amber) 90%,var(--gold));transition:width .55s cubic-bezier(.2,.7,.2,1),background 1s ease}
+  body.activated .fill{background:linear-gradient(90deg,var(--amber),var(--gold) 60%,var(--gold-bright))}
+  .marker{position:absolute;top:-7px;bottom:-7px;left:51%;width:2px;background:var(--gold);box-shadow:0 0 0 1px rgba(0,0,0,.35);z-index:3}
+  .marker::after{content:"51% · CHARTER REWRITE";position:absolute;top:-20px;left:50%;transform:translateX(-50%);white-space:nowrap;font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.14em;color:var(--gold);text-shadow:0 1px 4px rgba(0,0,0,.7)}
+  @media (max-width:560px){.marker::after{left:auto;right:0;transform:none}}
+  .banner{margin-top:16px;display:none;align-items:center;gap:12px;background:linear-gradient(90deg,rgba(255,210,74,.16),rgba(232,162,58,.06));border:1px solid var(--gold);border-radius:10px;padding:13px 16px}
+  body.activated .banner{display:flex;animation:rise .7s ease}
+  .banner .dot{width:10px;height:10px;border-radius:50%;background:var(--gold);box-shadow:0 0 12px var(--gold);flex:none}
+  .banner .msg{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:15px;color:var(--gold-bright)}
+  .banner .msg small{display:block;font-family:Inter;font-weight:400;font-size:12px;color:var(--text-dim)}
+  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+  /* roster */
+  .roster{display:flex;gap:8px;overflow-x:auto;padding:14px 2px 6px;margin-top:6px;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+  .roster::-webkit-scrollbar{height:7px}
+  .roster::-webkit-scrollbar-thumb{background:var(--line);border-radius:9px}
+  .chip{flex:none;cursor:pointer;border-radius:999px;border:1px solid var(--line);background:var(--panel-2);color:var(--text-dim);font-family:"IBM Plex Mono",monospace;font-size:12px;padding:7px 13px;display:flex;align-items:center;gap:7px;transition:all .25s ease;white-space:nowrap}
+  .chip .yr{opacity:.6;font-size:11px}
+  .chip .led{width:7px;height:7px;border-radius:50%;background:var(--slate);flex:none;transition:all .3s}
+  .chip.on{color:var(--ink);background:linear-gradient(180deg,var(--gold),var(--amber));border-color:var(--gold)}
+  .chip.on .yr{opacity:.75;color:#3a2a06}
+  .chip.on .led{background:#3a2a06}
+  .chip.sel{outline:2px solid var(--accent);outline-offset:2px}
   .chip.dev{border-color:var(--flamingo);color:var(--flamingo)}
   .chip.dev .led{background:var(--flamingo);box-shadow:0 0 6px var(--flamingo);animation:pulse 1.8s ease-out infinite}
   .chip.dev .yr{color:var(--flamingo);opacity:.85}
-  .chip.dev.on{color:var(--ink)}
-
-  /* non-UN first-class chips */
   .chip.nonun{border-style:dashed;color:var(--text-dim)}
   .chip.nonun .led{background:var(--slate)}
   .chip.nonun.on{color:var(--ink)}
 
-  /* ---------- panel drill navigator ---------- */
-  .pnl-crumbs{display:flex;align-items:center;gap:2px;flex-wrap:wrap;font-family:"IBM Plex Mono",monospace;font-size:12px;margin:8px 0 2px}
-  .pnl-crumbs .crumb{cursor:pointer;background:none;border:none;color:var(--accent);font:inherit;padding:2px 4px;border-radius:6px}
-  .pnl-crumbs .crumb:hover{text-decoration:underline}
-  .pnl-crumbs .crumb.here{color:var(--text-dim);cursor:default}
-  .pnl-crumbs .crumb.here:hover{text-decoration:none}
-  .pnl-crumbs .sep{color:var(--text-faint)}
-  .pnl-subbar{height:5px;border-radius:999px;background:var(--slate-dim);overflow:hidden;margin:10px 0 2px}
-  .pnl-subbar > i{display:block;height:100%;width:0;border-radius:999px;background:linear-gradient(90deg,#5a7aa6,var(--amber),var(--gold));transition:width .4s ease}
-  .region.nav{padding:0 11px 0 0}
-  .region.nav .navbtn{flex:1;display:flex;align-items:center;justify-content:space-between;gap:10px;background:none;border:none;color:inherit;font:inherit;text-align:left;cursor:pointer;padding:9px 11px;border-radius:9px}
-  .region.nav .navbtn:hover{color:var(--accent)}
-  .region.nav .navbtn .rname{font-weight:500}
-  .region.nav .subfrac{display:inline-flex;align-items:center;gap:6px;font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-dim);white-space:nowrap}
-  .region.nav .subfrac .led{width:7px;height:7px;border-radius:50%;background:var(--slate);flex:none}
-  .region.nav .subfrac .led.on{background:var(--gold);box-shadow:0 0 7px var(--gold)}
-  .region.nav.on{border-color:var(--gold)}
+  /* layout */
+  .stage{display:grid;grid-template-columns:1fr 340px;gap:18px;margin-top:16px;align-items:start}
+  @media (max-width:920px){.stage{grid-template-columns:1fr}}
+  .map-card{position:relative;background:linear-gradient(180deg,var(--panel),var(--panel-2));border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;transition:background 1s ease,border-color 1s ease}
+  #map{width:100%;height:min(62vh,580px);min-height:340px}
+  .map-hint{position:absolute;left:14px;bottom:12px;z-index:2;pointer-events:none;font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-faint);background:rgba(19,33,63,.6);padding:4px 9px;border-radius:7px;border:1px solid var(--line)}
 
-  /* focus visibility */
+  /* panel (read-only) */
+  .panel{background:linear-gradient(180deg,var(--panel),var(--panel-2));border:1px solid var(--line);border-radius:var(--radius);padding:18px;transition:background 1s ease,border-color 1s ease;min-height:340px}
+  .panel .ph-empty{color:var(--text-faint);font-size:13px;line-height:1.6;margin-top:6px}
+  .panel .ph-empty b{color:var(--text-dim)}
+  .pnl-iso{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-faint);letter-spacing:.18em}
+  .pnl-name{font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:22px;margin:2px 0 0;line-height:1.12}
+  .pnl-status{display:inline-flex;align-items:center;gap:7px;margin-top:11px;font-family:"IBM Plex Mono",monospace;font-size:12px;padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--panel-2);color:var(--text-dim)}
+  .pnl-status .led{width:8px;height:8px;border-radius:50%;background:var(--slate)}
+  .pnl-status.online{color:var(--gold);border-color:var(--gold)}
+  .pnl-status.online .led{background:var(--gold);box-shadow:0 0 8px var(--gold)}
+  .pnl-status.developing{color:var(--flamingo);border-color:var(--flamingo)}
+  .pnl-status.developing .led{background:var(--flamingo);box-shadow:0 0 8px var(--flamingo)}
+  .pnl-meta{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--text-dim);margin-top:11px;line-height:1.55}
+  .pnl-meta b{color:var(--text)}
+  .sources{margin-top:16px;display:flex;flex-direction:column;gap:8px}
+  .sources-label{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--text-faint)}
+  .source-link{display:flex;align-items:center;justify-content:space-between;gap:8px;font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--accent);text-decoration:none;border:1px solid var(--line);border-radius:9px;padding:10px 12px;transition:all .2s ease}
+  .source-link:hover{border-color:var(--accent);background:var(--panel-2)}
+  .source-link .arr{opacity:.7}
+
+  footer.note{margin-top:30px;border-top:1px solid var(--line);padding-top:16px;color:var(--text-faint);font-size:12px;line-height:1.6;max-width:92ch}
+  footer.note b{color:var(--text-dim)}
+  footer.note a{color:var(--accent)}
+
   :focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:6px}
-  .chip:focus-visible,.btn:focus-visible,.reset:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-
-  @media (prefers-reduced-motion: reduce){
-    *{transition:none !important;animation:none !important}
-  }
+  @media (prefers-reduced-motion: reduce){*{transition:none !important;animation:none !important}}
 </style>
 </head>
 <body>
 <div class="wrap">
 
-  <header class="top">
-    <div class="eyebrow">Conceptual activation instrument · 2022–2026 uprising wave · <a href="uk.html" style="color:var(--accent);text-decoration:none">UK fractal →</a></div>
+  <header>
+    <div class="eyebrow">Conceptual activation instrument · curated &amp; sourced · <a href="uk.html">UK fractal →</a></div>
     <h1>Peaceful Revolution — <span class="em">Activation Threshold</span></h1>
-    <p class="sub">One fractal, all the way down. A nation comes online when a majority of its parts do; the world activates when a majority of nations do. Open the United Kingdom and you can drill to a single one of its 650 constituencies — act locally, and watch it count globally. When a majority crosses the line, the Charter is rewritten by those present.</p>
+    <p class="sub">A curated world map of peaceful revolutions and popular uprisings. Every place that comes online marks where people have taken power peacefully. When a majority — 51% of nations and peoples present — are online, the board declares the Charter rewritten by those present. Click any country for its status and a source to dig deeper.</p>
   </header>
 
   <!-- DEVELOPING DISPATCH -->
   <div class="dispatch" role="status">
     <span class="pulse" aria-hidden="true"></span>
     <span class="dlabel">LIVE · DEVELOPING</span>
-    <span class="dtext"><b>Albania</b> — the <a href="https://flamingorevolution.org/" target="_blank" rel="noopener">Flamingo Revolution</a> is unfolding. Situation developing; counties are stirring but not yet at the 51% threshold, so it is not yet counted online. Marked in flamingo pink on the map.</span>
+    <span class="dtext"><b>Albania</b> — the <a href="https://flamingorevolution.org/" target="_blank" rel="noopener">Flamingo Revolution</a> is unfolding. Marked in flamingo pink; counted only once it crosses the threshold.</span>
   </div>
 
   <!-- THRESHOLD METER -->
@@ -307,105 +152,74 @@
         <div class="count-line"><b id="cOnline">0</b> of <b id="cTotal">0</b> online · <b id="cNeed">0</b> needed for 51%</div>
       </div>
     </div>
-    <div class="track-wrap">
-      <div class="track"><div class="fill" id="fill"></div><div class="marker" aria-hidden="true"></div></div>
-    </div>
+    <div class="track-wrap"><div class="track"><div class="fill" id="fill"></div><div class="marker" aria-hidden="true"></div></div></div>
     <div class="banner" id="banner" role="status">
       <span class="dot"></span>
       <span class="msg">Threshold met — the Charter is rewritten by those present.
-        <small>A majority of nations stand activated. Participatory governance, by those who showed up.</small></span>
+        <small>A majority of nations and peoples stand activated.</small></span>
     </div>
   </section>
 
-  <!-- ROSTER STRIP -->
-  <div class="roster" id="roster" aria-label="Recent revolution roster"></div>
+  <!-- ROSTER -->
+  <div class="roster" id="roster" aria-label="Revolution &amp; developing roster"></div>
 
-  <!-- MAIN STAGE -->
+  <!-- MAP + PANEL -->
   <div class="stage">
     <div class="map-card">
       <div id="map"></div>
-      <div class="map-hint">click a nation to open & activate it ▸</div>
+      <div class="map-hint">click a country for its status &amp; sources ▸</div>
     </div>
-
-    <aside class="panel" id="panel" aria-label="Selected nation detail">
-      <div id="panelBody">
-        <p class="ph-empty">Select a nation — on the <b>map</b> or from the <b>roster</b> — to inspect its regions.<br><br>A nation is <b>online</b> when ≥51% of its regions are online. The same rule scales up: the world activates when ≥51% of nations are online.</p>
-      </div>
+    <aside class="panel" id="panel" aria-label="Selected country detail">
+      <div id="panelBody"></div>
     </aside>
   </div>
 
-  <div class="controls">
-    <button class="reset" id="resetBtn">↺ reset board</button>
-  </div>
-
   <footer class="note">
-    <b>This is a conceptual instrument, not a forecast.</b> The roster reflects the 2022–2026 wave of popular uprisings and peaceful revolutions; the regions and years are editable seeds, not official records. What counts as a “revolution” is contested, contestable, and meant to be argued over — the data lives at the top of the source and is yours to rewrite. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim. Situations marked <b>developing</b> (flamingo pink) are unfolding now and are deliberately <b>not</b> counted toward the threshold until they cross it. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. That roster is contested and editable too.
+    <b>Conceptual instrument, not a forecast.</b> The map is curated by hand: which places count as having had a peaceful revolution is contested, contestable, and editable at the top of the source. Each entry links to <b>Wikipedia</b> as a starting point — dig deeper from there. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. Situations marked <b>developing</b> (flamingo pink) are unfolding now and are deliberately <b>not</b> counted until they cross the line. The United Kingdom has its own <a href="uk.html">fractal page →</a>. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim.
   </footer>
 
 </div>
 
 <script>
 /* ============================================================
-   EDIT HERE — roster of pre-seeded "recent revolution" nations.
-   iso3 -> { year, regions: [...] }  (all regions start ONLINE)
+   EDIT HERE — curated rosters. State is set by hand here, not
+   toggled in the browser. (Countries rarely change; we curate.)
    ============================================================ */
+
+/* Online: a peaceful revolution / popular uprising has taken hold. iso -> year */
 const SEEDED = {
-  LKA:{year:2022, regions:["Western","Central","Southern","Northern","Eastern","North Western","North Central","Uva","Sabaragamuwa"]},
-  BGD:{year:2024, regions:["Dhaka","Chattogram","Khulna","Rajshahi","Barishal","Sylhet","Rangpur","Mymensingh"]},
-  NPL:{year:2025, regions:["Koshi","Madhesh","Bagmati","Gandaki","Lumbini","Karnali","Sudurpashchim"]},
-  SYR:{year:2024, regions:["Damascus","Aleppo","Homs","Hama","Latakia","Idlib","Deir ez-Zor","Daraa"]},
-  KEN:{year:2024, regions:["Nairobi","Mombasa","Kisumu","Nakuru","Eldoret"]},
-  IDN:{year:2025, regions:["Jakarta","West Java","East Java","Sumatra","Sulawesi"]},
-  MDG:{year:2025, regions:["Antananarivo","Toamasina","Mahajanga","Fianarantsoa","Toliara"]},
-  TZA:{year:2025, regions:["Dar es Salaam","Dodoma","Mwanza","Arusha","Zanzibar"]},
-  MLI:{year:2025, regions:["Bamako","Gao","Sikasso","Kayes"]},
-  SRB:{year:2024, regions:["Belgrade","Novi Sad","Niš","Kragujevac"]},
-  GEO:{year:2024, regions:["Tbilisi","Batumi","Kutaisi","Rustavi"]},
-  ROU:{year:2025, regions:["Bucharest","Cluj","Timișoara","Iași"]},
-  IRN:{year:2025, regions:["Tehran","Isfahan","Mashhad","Shiraz","Tabriz"]},
-  MOZ:{year:2024, regions:["Maputo","Beira","Nampula"]},
-  VEN:{year:2024, regions:["Caracas","Maracaibo","Valencia"]},
-  ARM:{year:2018, regions:["Yerevan","Gyumri","Vanadzor"]},
-  SVK:{year:2025, regions:["Bratislava","Košice"]},
-  TUR:{year:2025, regions:["Istanbul","Ankara","İzmir"]},
-  MEX:{year:2025, regions:["Mexico City","Guadalajara","Monterrey"]},
-  CHL:{year:2019, regions:["Santiago","Valparaíso","Concepción"]},
+  LKA:2022, BGD:2024, NPL:2025, SYR:2024, KEN:2024, IDN:2025, MDG:2025, TZA:2025,
+  MLI:2025, SRB:2024, GEO:2024, ROU:2025, IRN:2025, MOZ:2024, VEN:2024, ARM:2018,
+  SVK:2025, TUR:2025, MEX:2025, CHL:2019,
 };
 
-/* ============================================================
-   EDIT HERE — situations DEVELOPING right now. Highlighted in
-   flamingo pink and NOT counted toward the threshold until they
-   actually cross it. Honest by design: developing ≠ done.
-   ============================================================ */
+/* Developing: unfolding now. Pink marker; not counted until it crosses. */
 const DEVELOPING = {
-  ALB:{ note:"the Flamingo Revolution", url:"https://flamingorevolution.org/", since:"2026",
-        lat:41.15, lon:20.05,
-        regions:["Tiranë","Durrës","Vlorë","Shkodër","Elbasan","Fier","Korçë","Berat","Dibër","Gjirokastër","Kukës","Lezhë"],
-        online:["Tiranë","Durrës","Vlorë","Shkodër"] },   // 4/12 — stirring, below 51%
+  ALB:{ note:"the Flamingo Revolution", link:"https://flamingorevolution.org/", linkLabel:"Flamingo Revolution",
+        year:2026, lat:41.15, lon:20.05 },
 };
 
-/* ============================================================
-   EDIT HERE — peoples & de-facto / disputed polities that are
-   NOT UN members but ARE first-class here: clickable, counted
-   toward the threshold. "Those present," not "those recognized."
-   Shown as diamond markers (no UN polygon to fill). Contested
-   and editable by design; codes below are internal keys only.
-   ============================================================ */
+/* First-class non-UN / de-facto / disputed polities. Diamond markers; counted. */
 const NON_UN = {
-  XKK:{ name:"Kosovo",                 lat:42.67, lon:21.17,  note:"partially recognized · not a UN member" },
-  TWN:{ name:"Taiwan",                 lat:23.70, lon:121.00, note:"de-facto state · not a UN member" },
-  PSE:{ name:"Palestine",              lat:31.95, lon:35.23,  note:"UN observer state · not a full member" },
-  ESH:{ name:"Western Sahara (SADR)",  lat:24.50, lon:-13.00, note:"partially recognized · AU member" },
-  CYN:{ name:"Northern Cyprus",        lat:35.33, lon:33.40,  note:"de-facto state · limited recognition" },
-  SOL:{ name:"Somaliland",             lat:9.56,  lon:44.07,  note:"de-facto state · unrecognized" },
-  ABK:{ name:"Abkhazia",               lat:43.00, lon:41.02,  note:"partially recognized · not a UN member" },
-  SOS:{ name:"South Ossetia",          lat:42.22, lon:43.97,  note:"partially recognized · not a UN member" },
-  TRA:{ name:"Transnistria",           lat:46.84, lon:29.64,  note:"de-facto state · unrecognized" },
+  XKK:{ name:"Kosovo",                lat:42.67, lon:21.17,  note:"partially recognized · not a UN member" },
+  TWN:{ name:"Taiwan",                lat:23.70, lon:121.00, note:"de-facto state · not a UN member" },
+  PSE:{ name:"Palestine",             lat:31.95, lon:35.23,  note:"UN observer state · not a full member" },
+  ESH:{ name:"Western Sahara (SADR)", lat:24.50, lon:-13.00, note:"partially recognized · AU member", wiki:"Western Sahara" },
+  CYN:{ name:"Northern Cyprus",       lat:35.33, lon:33.40,  note:"de-facto state · limited recognition" },
+  SOL:{ name:"Somaliland",            lat:9.56,  lon:44.07,  note:"de-facto state · unrecognized" },
+  ABK:{ name:"Abkhazia",              lat:43.00, lon:41.02,  note:"partially recognized · not a UN member" },
+  SOS:{ name:"South Ossetia",         lat:42.22, lon:43.97,  note:"partially recognized · not a UN member" },
+  TRA:{ name:"Transnistria",          lat:46.84, lon:29.64,  note:"de-facto state · unrecognized" },
+};
+
+/* Wikipedia title overrides where the display name ≠ article title */
+const WIKI = {
+  COD:"Democratic Republic of the Congo", COG:"Republic of the Congo",
+  FSM:"Federated States of Micronesia",
 };
 
 /* ============================================================
-   EDIT HERE — full UN member roster (iso3 -> display name).
-   Ordinary nations get a single "National" region, OFFLINE.
+   Full UN member roster (iso3 -> display name).
    ============================================================ */
 const UN_MEMBERS = {
   // Africa
@@ -452,126 +266,80 @@ const UN_MEMBERS = {
 };
 
 /* ============================================================
-   EDIT HERE — the United Kingdom as a full sub-fractal.
-   Real 2024-boundary constituencies (650 total). The UK rolls
-   straight up into the world count: act locally, count globally.
-   ============================================================ */
-const UK_SUB = [
-  { name:"England", children:[
-    { name:"North East England", seats:["Bishop Auckland","Blaydon and Consett","Blyth and Ashington","City of Durham","Cramlington and Killingworth","Darlington","Easington","Gateshead Central and Whickham","Hartlepool","Hexham","Houghton and Sunderland South","Jarrow and Gateshead East","Middlesbrough and Thornaby East","Middlesbrough South and East Cleveland","Newcastle upon Tyne Central and West","Newcastle upon Tyne East and Wallsend","Newcastle upon Tyne North","Newton Aycliffe and Spennymoor","North Durham","North Northumberland","Redcar","South Shields","Stockton North","Stockton West","Sunderland Central","Tynemouth","Washington and Gateshead South"]},
-    { name:"North West England", seats:["Altrincham and Sale West","Ashton-under-Lyne","Barrow and Furness","Birkenhead","Blackburn","Blackley and Middleton South","Blackpool North and Fleetwood","Blackpool South","Bolton North East","Bolton South and Walkden","Bolton West","Bootle","Burnley","Bury North","Bury South","Carlisle","Cheadle","Chester North and Neston","Chester South and Eddisbury","Chorley","Congleton","Crewe and Nantwich","Ellesmere Port and Bromborough","Fylde","Gorton and Denton","Hazel Grove","Heywood and Middleton North","Hyndburn","Knowsley","Lancaster and Wyre","Leigh and Atherton","Liverpool Garston","Liverpool Riverside","Liverpool Walton","Liverpool Wavertree","Liverpool West Derby","Macclesfield","Makerfield","Manchester Central","Manchester Rusholme","Manchester Withington","Mid Cheshire","Morecambe and Lunesdale","Oldham East and Saddleworth","Oldham West, Chadderton and Royton","Pendle and Clitheroe","Penrith and Solway","Preston","Ribble Valley","Rochdale","Rossendale and Darwen","Runcorn and Helsby","Salford","Sefton Central","South Ribble","Southport","St Helens North","St Helens South and Whiston","Stalybridge and Hyde","Stockport","Stretford and Urmston","Tatton","Wallasey","Warrington North","Warrington South","West Lancashire","Westmorland and Lonsdale","Whitehaven and Workington","Widnes and Halewood","Wigan","Wirral West","Worsley and Eccles","Wythenshawe and Sale East"]},
-    { name:"Yorkshire and the Humber", seats:["Barnsley North","Barnsley South","Beverley and Holderness","Bradford East","Bradford South","Bradford West","Bridlington and The Wolds","Brigg and Immingham","Calder Valley","Colne Valley","Dewsbury and Batley","Doncaster Central","Doncaster East and the Isle of Axholme","Doncaster North","Goole and Pocklington","Great Grimsby and Cleethorpes","Halifax","Harrogate and Knaresborough","Huddersfield","Keighley and Ilkley","Kingston upon Hull East","Kingston upon Hull North and Cottingham","Kingston upon Hull West and Haltemprice","Leeds Central and Headingley","Leeds East","Leeds North East","Leeds North West","Leeds South","Leeds South West and Morley","Leeds West and Pudsey","Normanton and Hemsworth","Ossett and Denby Dale","Penistone and Stocksbridge","Pontefract, Castleford and Knottingley","Rawmarsh and Conisbrough","Richmond and Northallerton","Rother Valley","Rotherham","Scarborough and Whitby","Scunthorpe","Selby","Sheffield Brightside and Hillsborough","Sheffield Central","Sheffield Hallam","Sheffield Heeley","Sheffield South East","Shipley","Skipton and Ripon","Spen Valley","Thirsk and Malton","Wakefield and Rothwell","Wetherby and Easingwold","York Central","York Outer"]},
-    { name:"East Midlands", seats:["Amber Valley","Ashfield","Bassetlaw","Bolsover","Boston and Skegness","Broxtowe","Chesterfield","Corby and East Northamptonshire","Daventry","Derby North","Derby South","Derbyshire Dales","Erewash","Gainsborough","Gedling","Grantham and Bourne","Harborough, Oadby and Wigston","High Peak","Hinckley and Bosworth","Kettering","Leicester East","Leicester South","Leicester West","Lincoln","Loughborough","Louth and Horncastle","Mansfield","Melton and Syston","Mid Derbyshire","Mid Leicestershire","Newark","North East Derbyshire","North West Leicestershire","Northampton North","Northampton South","Nottingham East","Nottingham North and Kimberley","Nottingham South","Rushcliffe","Rutland and Stamford","Sherwood Forest","Sleaford and North Hykeham","South Derbyshire","South Holland and The Deepings","South Leicestershire","South Northamptonshire","Wellingborough and Rushden"]},
-    { name:"West Midlands", seats:["Aldridge-Brownhills","Birmingham Edgbaston","Birmingham Erdington","Birmingham Hall Green and Moseley","Birmingham Hodge Hill and Solihull North","Birmingham Ladywood","Birmingham Northfield","Birmingham Perry Barr","Birmingham Selly Oak","Birmingham Yardley","Bromsgrove","Burton and Uttoxeter","Cannock Chase","Coventry East","Coventry North West","Coventry South","Droitwich and Evesham","Dudley","Halesowen","Hereford and South Herefordshire","Kenilworth and Southam","Kingswinford and South Staffordshire","Lichfield","Meriden and Solihull East","Newcastle-under-Lyme","North Herefordshire","North Shropshire","North Warwickshire and Bedworth","Nuneaton","Redditch","Rugby","Shrewsbury","Smethwick","Solihull West and Shirley","South Shropshire","Stafford","Staffordshire Moorlands","Stoke-on-Trent Central","Stoke-on-Trent North","Stoke-on-Trent South","Stone, Great Wyrley and Penkridge","Stourbridge","Stratford-on-Avon","Sutton Coldfield","Tamworth","Telford","The Wrekin","Tipton and Wednesbury","Walsall and Bloxwich","Warwick and Leamington","West Bromwich","West Worcestershire","Wolverhampton North East","Wolverhampton South East","Wolverhampton West","Worcester","Wyre Forest"]},
-    { name:"East of England", seats:["Basildon and Billericay","Bedford","Braintree","Brentwood and Ongar","Broadland and Fakenham","Broxbourne","Bury St Edmunds and Stowmarket","Cambridge","Castle Point","Central Suffolk and North Ipswich","Chelmsford","Clacton","Colchester","Dunstable and Leighton Buzzard","Ely and East Cambridgeshire","Epping Forest","Great Yarmouth","Harlow","Harpenden and Berkhamsted","Harwich and North Essex","Hemel Hempstead","Hertford and Stortford","Hertsmere","Hitchin","Huntingdon","Ipswich","Lowestoft","Luton North","Luton South and South Bedfordshire","Maldon","Mid Bedfordshire","Mid Norfolk","North Bedfordshire","North East Cambridgeshire","North East Hertfordshire","North Norfolk","North West Cambridgeshire","North West Essex","North West Norfolk","Norwich North","Norwich South","Peterborough","Rayleigh and Wickford","South Basildon and East Thurrock","South Cambridgeshire","South Norfolk","South Suffolk","South West Hertfordshire","South West Norfolk","Southend East and Rochford","Southend West and Leigh","St Albans","St Neots and Mid Cambridgeshire","Stevenage","Suffolk Coastal","Thurrock","Watford","Waveney Valley","Welwyn Hatfield","West Suffolk","Witham"]},
-    { name:"London", seats:["Barking","Battersea","Beckenham and Penge","Bermondsey and Old Southwark","Bethnal Green and Stepney","Bexleyheath and Crayford","Brent East","Brent West","Brentford and Isleworth","Bromley and Biggin Hill","Carshalton and Wallington","Chelsea and Fulham","Chingford and Woodford Green","Chipping Barnet","Cities of London and Westminster","Clapham and Brixton Hill","Croydon East","Croydon South","Croydon West","Dagenham and Rainham","Dulwich and West Norwood","Ealing Central and Acton","Ealing North","Ealing Southall","East Ham","Edmonton and Winchmore Hill","Eltham and Chislehurst","Enfield North","Erith and Thamesmead","Feltham and Heston","Finchley and Golders Green","Greenwich and Woolwich","Hackney North and Stoke Newington","Hackney South and Shoreditch","Hammersmith and Chiswick","Hampstead and Highgate","Harrow East","Harrow West","Hayes and Harlington","Hendon","Holborn and St Pancras","Hornchurch and Upminster","Hornsey and Friern Barnet","Ilford North","Ilford South","Islington North","Islington South and Finsbury","Kensington and Bayswater","Kingston and Surbiton","Lewisham East","Lewisham North","Lewisham West and East Dulwich","Leyton and Wanstead","Mitcham and Morden","Old Bexley and Sidcup","Orpington","Peckham","Poplar and Limehouse","Putney","Queen's Park and Maida Vale","Richmond Park","Romford","Ruislip, Northwood and Pinner","Southgate and Wood Green","Stratford and Bow","Streatham and Croydon North","Sutton and Cheam","Tooting","Tottenham","Twickenham","Uxbridge and South Ruislip","Vauxhall and Camberwell Green","Walthamstow","West Ham and Beckton","Wimbledon"]},
-    { name:"South East England", seats:["Aldershot","Arundel and South Downs","Ashford","Aylesbury","Banbury","Basingstoke","Beaconsfield","Bexhill and Battle","Bicester and Woodstock","Bognor Regis and Littlehampton","Bracknell","Brighton Kemptown and Peacehaven","Brighton Pavilion","Buckingham and Bletchley","Canterbury","Chatham and Aylesford","Chesham and Amersham","Chichester","Crawley","Dartford","Didcot and Wantage","Dorking and Horley","Dover and Deal","Earley and Woodley","East Grinstead and Uckfield","East Hampshire","East Surrey","East Thanet","East Worthing and Shoreham","Eastbourne","Eastleigh","Epsom and Ewell","Esher and Walton","Fareham and Waterlooville","Farnham and Bordon","Faversham and Mid Kent","Folkestone and Hythe","Gillingham and Rainham","Godalming and Ash","Gosport","Gravesham","Guildford","Hamble Valley","Hastings and Rye","Havant","Henley and Thame","Herne Bay and Sandwich","Horsham","Hove and Portslade","Isle of Wight East","Isle of Wight West","Lewes","Maidenhead","Maidstone and Malling","Mid Buckinghamshire","Mid Sussex","Milton Keynes Central","Milton Keynes North","New Forest East","New Forest West","Newbury","North East Hampshire","North West Hampshire","Oxford East","Oxford West and Abingdon","Portsmouth North","Portsmouth South","Reading Central","Reading West and Mid Berkshire","Reigate","Rochester and Strood","Romsey and Southampton North","Runnymede and Weybridge","Sevenoaks","Sittingbourne and Sheppey","Slough","Southampton Itchen","Southampton Test","Spelthorne","Surrey Heath","Sussex Weald","Tonbridge","Tunbridge Wells","Weald of Kent","Winchester","Windsor","Witney","Woking","Wokingham","Worthing West","Wycombe"]},
-    { name:"South West England", seats:["Bath","Bournemouth East","Bournemouth West","Bridgwater","Bristol Central","Bristol East","Bristol North East","Bristol North West","Bristol South","Camborne and Redruth","Central Devon","Cheltenham","Chippenham","Christchurch","East Wiltshire","Exeter","Exmouth and Exeter East","Filton and Bradley Stoke","Forest of Dean","Frome and East Somerset","Glastonbury and Somerton","Gloucester","Honiton and Sidmouth","Melksham and Devizes","Mid Dorset and North Poole","Newton Abbot","North Cornwall","North Cotswolds","North Devon","North Dorset","North East Somerset and Hanham","North Somerset","Plymouth Moor View","Plymouth Sutton and Devonport","Poole","Salisbury","South Cotswolds","South Devon","South Dorset","South East Cornwall","South West Devon","South West Wiltshire","St Austell and Newquay","St Ives","Stroud","Swindon North","Swindon South","Taunton and Wellington","Tewkesbury","Thornbury and Yate","Tiverton and Minehead","Torbay","Torridge and Tavistock","Truro and Falmouth","Wells and Mendip Hills","West Dorset","Weston-super-Mare","Yeovil"]},
-  ]},
-  { name:"Scotland", seats:["Aberdeen North","Aberdeen South","Aberdeenshire North and Moray East","Airdrie and Shotts","Alloa and Grangemouth","Angus and Perthshire Glens","Arbroath and Broughty Ferry","Argyll, Bute and South Lochaber","Ayr, Carrick and Cumnock","Bathgate and Linlithgow","Berwickshire, Roxburgh and Selkirk","Caithness, Sutherland and Easter Ross","Central Ayrshire","Coatbridge and Bellshill","Cowdenbeath and Kirkcaldy","Cumbernauld and Kirkintilloch","Dumfries and Galloway","Dumfriesshire, Clydesdale and Tweeddale","Dundee Central","Dunfermline and Dollar","East Kilbride and Strathaven","East Renfrewshire","Edinburgh East and Musselburgh","Edinburgh North and Leith","Edinburgh South","Edinburgh South West","Edinburgh West","Falkirk","Glasgow East","Glasgow North","Glasgow North East","Glasgow South","Glasgow South West","Glasgow West","Glenrothes and Mid Fife","Gordon and Buchan","Hamilton and Clyde Valley","Inverclyde and Renfrewshire West","Inverness, Skye and West Ross-shire","Kilmarnock and Loudoun","Livingston","Lothian East","Mid Dunbartonshire","Midlothian","Moray West, Nairn and Strathspey","Motherwell, Wishaw and Carluke","Na h-Eileanan an Iar","North Ayrshire and Arran","North East Fife","Orkney and Shetland","Paisley and Renfrewshire North","Paisley and Renfrewshire South","Perth and Kinross-shire","Rutherglen","Stirling and Strathallan","West Aberdeenshire and Kincardine","West Dunbartonshire"]},
-  { name:"Wales", seats:["Aberafan Maesteg","Alyn and Deeside","Bangor Aberconwy","Blaenau Gwent and Rhymney","Brecon, Radnor and Cwm Tawe","Bridgend","Caerfyrddin","Caerphilly","Cardiff East","Cardiff North","Cardiff South and Penarth","Cardiff West","Ceredigion Preseli","Clwyd East","Clwyd North","Dwyfor Meirionnydd","Gower","Llanelli","Merthyr Tydfil and Aberdare","Mid and South Pembrokeshire","Monmouthshire","Montgomeryshire and Glyndŵr","Neath and Swansea East","Newport East","Newport West and Islwyn","Pontypridd","Rhondda and Ogmore","Swansea West","Torfaen","Vale of Glamorgan","Wrexham","Ynys Môn"]},
-  { name:"Northern Ireland", seats:["Belfast East","Belfast North","Belfast South and Mid Down","Belfast West","East Antrim","East Londonderry","Fermanagh and South Tyrone","Foyle","Lagan Valley","Mid Ulster","Newry and Armagh","North Antrim","North Down","South Antrim","South Down","Strangford","Upper Bann","West Tyrone"]},
-];
-
-/* ============================================================
-   STATE — ONE recursive tree: World → nations → … → leaves.
-   The same 51% rule fires at every level (the fractal).
+   BUILD — a flat, curated list of entities. No mutation in-app.
    ============================================================ */
 const ISO = Object.keys(UN_MEMBERS);
 const NONUN_KEYS = Object.keys(NON_UN);
-const N = ISO.length + NONUN_KEYS.length;            // UN members + first-class peoples/disputed
-const NEEDED = Math.ceil(N * 0.51);                 // majority of all polities present
+const LOOKUP = {};        // key -> entity
+const ORDER = [];         // all keys (UN then non-UN)
 
-function buildRaw(raw){                              // sub-national node from data
-  const n = { name: raw.name };
-  if(raw.children){ n.children = raw.children.map(buildRaw); n.noun = "regions"; }
-  else { n.children = raw.seats.map(s=>({name:s, leaf:true, online:false})); n.noun = "constituencies"; }
-  return n;
-}
-function buildNation(iso){
+ISO.forEach(iso=>{
+  const e = { key:iso, kind:"un", name:UN_MEMBERS[iso] };
   if(DEVELOPING[iso]){
     const d = DEVELOPING[iso];
-    return { name:UN_MEMBERS[iso], iso, developing:true, note:d.note, url:d.url, year:d.since, noun:"regions",
-             children: d.regions.map(r=>({name:r, leaf:true, online: d.online.includes(r)})) };
+    e.status="developing"; e.note=d.note; e.link=d.link; e.linkLabel=d.linkLabel;
+    e.year=d.year; e.lat=d.lat; e.lon=d.lon;
+  } else if(SEEDED[iso]!=null){
+    e.status="online"; e.year=SEEDED[iso];
+  } else {
+    e.status="dormant";
   }
-  if(iso === "GBR")
-    return { name:"United Kingdom", iso, noun:"nations", children: UK_SUB.map(buildRaw) };
-  if(SEEDED[iso])
-    return { name:UN_MEMBERS[iso], iso, year:SEEDED[iso].year, noun:"regions",
-             children: SEEDED[iso].regions.map(r=>({name:r, leaf:true, online:true})) };  // seeded ONLINE
-  return { name:UN_MEMBERS[iso], iso, noun:"regions",
-           children:[{name:"National", leaf:true, online:false}] };                        // default OFFLINE
-}
-function buildNonUn(code){
-  const d = NON_UN[code];
-  return { name:d.name, code, nonun:true, note:d.note, lat:d.lat, lon:d.lon, noun:"regions",
-           children:[{name:"National", leaf:true, online:false}] };   // first-class, default OFFLINE
-}
-function buildTree(){ return { name:"World", noun:"nations", children: ISO.map(buildNation).concat(NONUN_KEYS.map(buildNonUn)) }; }
+  if(WIKI[iso]) e.wiki=WIKI[iso];
+  LOOKUP[iso]=e; ORDER.push(iso);
+});
+NONUN_KEYS.forEach(code=>{
+  const d=NON_UN[code];
+  const e={ key:code, kind:"nonun", name:d.name, status:d.online?"online":"dormant",
+            note:d.note, lat:d.lat, lon:d.lon };
+  if(d.wiki) e.wiki=d.wiki; if(d.link){ e.link=d.link; e.linkLabel=d.linkLabel; }
+  LOOKUP[code]=e; ORDER.push(code);
+});
 
-let TREE = buildTree();
-let BYISO = {};
-function indexIso(){ BYISO = {}; TREE.children.forEach(n=>BYISO[n.iso||n.code]=n); }   // keyed by ISO or non-UN code
-indexIso();
+const N = ORDER.length;                                   // 193 + 9 = 202
+const NEEDED = Math.ceil(N * 0.51);                       // majority of all present
+const isOnline = key => LOOKUP[key].status==="online";
+function countOnline(){ return ORDER.reduce((a,k)=>a+(isOnline(k)?1:0),0); }
 
-/* ---- recursive fractal rules (depth-agnostic) ---- */
-const isLeaf = n => !!n.leaf;
-function isOnline(n){ if(isLeaf(n)) return n.online; const t=n.children.length; return t ? n.children.filter(isOnline).length/t >= 0.51 : false; }
-function onlineKids(n){ return isLeaf(n)?0:n.children.filter(isOnline).length; }
-function dirFrac(n){ if(isLeaf(n)) return n.online?1:0; const t=n.children.length; return t? onlineKids(n)/t : 0; }
-function setSubtree(n,v){ if(isLeaf(n)) n.online=v; else n.children.forEach(c=>setSubtree(c,v)); }
-function fullyOffline(n){ return isLeaf(n) ? !n.online : n.children.every(fullyOffline); }
-function leafCount(n){ return isLeaf(n)?1:n.children.reduce((a,c)=>a+leafCount(c),0); }
-function leafOnline(n){ return isLeaf(n)?(n.online?1:0):n.children.reduce((a,c)=>a+leafOnline(c),0); }
-const noun = n => n.noun || "parts";
+function wikiUrl(e){
+  const base = (e.wiki || e.name.replace(/\s*\(.*?\)\s*/g,"")).trim().replace(/ /g,"_");
+  return "https://en.wikipedia.org/wiki/"+encodeURIComponent(base);
+}
 
 /* ============================================================
-   MAP  (Plotly choropleth, ISO-3)
+   MAP  (Plotly choropleth + marker overlays)
    ============================================================ */
-// cool below 51%, hard jump warm at/above 51%
 const COLORSCALE = [
-  [0.00, "#3a5a96"],   // dormant slate-blue (brighter)
-  [0.22, "#4a72b4"],
-  [0.45, "#5e8bcf"],
-  [0.5099, "#5e8bcf"], // still cool right up to the line
-  [0.51, "#ffaf36"],   // jump warm (amber)
-  [0.75, "#ffc845"],
-  [1.00, "#ffe26a"],   // bright gold
+  [0.00, "#3a5a96"], [0.45, "#5e8bcf"], [0.5099, "#5e8bcf"],
+  [0.51, "#ffaf36"], [1.00, "#ffe26a"],
 ];
-
-function zArray(){ return ISO.map(iso=>dirFrac(BYISO[iso])); }
+function zArray(){ return ISO.map(iso=>isOnline(iso)?1:0); }
 function hoverText(){
   return ISO.map(iso=>{
-    const n=BYISO[iso], on=onlineKids(n), tot=n.children.length;
-    const tag = isOnline(n) ? "● ONLINE" : "○ dormant";
-    const yr = n.year ? "  ·  "+n.year : "";
-    return `<b>${n.name}</b>${yr}<br>${tag}  ·  ${on}/${tot} ${noun(n)}`;
+    const e=LOOKUP[iso];
+    const tag = e.status==="online" ? "● ONLINE" : (e.status==="developing" ? "◆ developing" : "○ dormant");
+    const yr = e.year ? "  ·  "+e.year : "";
+    return `<b>${e.name}</b>${yr}<br>${tag}`;
   });
 }
 
-// flamingo-pink overlay for situations developing right now
+const DEV_KEYS = Object.keys(DEVELOPING);
 function developingTrace(){
-  const isos = Object.keys(DEVELOPING);
   return {
     type:"scattergeo", mode:"markers",
-    lon: isos.map(i=>DEVELOPING[i].lon), lat: isos.map(i=>DEVELOPING[i].lat),
-    _iso: isos,
+    lon:DEV_KEYS.map(k=>DEVELOPING[k].lon), lat:DEV_KEYS.map(k=>DEVELOPING[k].lat), _iso:DEV_KEYS,
     marker:{ size:13, color:"#ff5fa2", line:{color:"#ffd6e8", width:1.3}, opacity:0.95 },
-    hovertext: isos.map(i=>`<b>${UN_MEMBERS[i]}</b> — developing · ${DEVELOPING[i].note}`),
+    hovertext:DEV_KEYS.map(k=>`<b>${UN_MEMBERS[k]}</b> — developing · ${DEVELOPING[k].note}`),
     hoverinfo:"text", showlegend:false,
   };
 }
-
-// first-class peoples / disputed polities (no UN polygon to fill -> diamond markers)
-function nonUnColors(){ return NONUN_KEYS.map(k=>isOnline(BYISO[k])?"#ffd84a":"#7da0d8"); }
-function nonUnHover(){ return NONUN_KEYS.map(k=>{ const n=BYISO[k]; return `<b>${n.name}</b> — ${isOnline(n)?"● ONLINE":"○ dormant"}<br>${n.note}`; }); }
+function nonUnColors(){ return NONUN_KEYS.map(k=>isOnline(k)?"#ffd84a":"#7da0d8"); }
 function nonUnTrace(){
   return {
     type:"scattergeo", mode:"markers",
-    lon: NONUN_KEYS.map(k=>NON_UN[k].lon), lat: NONUN_KEYS.map(k=>NON_UN[k].lat),
-    _key: NONUN_KEYS,
+    lon:NONUN_KEYS.map(k=>NON_UN[k].lon), lat:NONUN_KEYS.map(k=>NON_UN[k].lat), _key:NONUN_KEYS,
     marker:{ symbol:"diamond", size:9, color:nonUnColors(), line:{color:"#dce8ff", width:1.1}, opacity:0.95 },
-    hovertext: nonUnHover(), hoverinfo:"text", showlegend:false,
+    hovertext:NONUN_KEYS.map(k=>{ const e=LOOKUP[k]; return `<b>${e.name}</b> — ${isOnline(k)?"● ONLINE":"○ dormant"}<br>${e.note}`; }),
+    hoverinfo:"text", showlegend:false,
   };
 }
 
@@ -587,194 +355,103 @@ function drawMap(){
     paper_bgcolor:"rgba(0,0,0,0)", plot_bgcolor:"rgba(0,0,0,0)",
     margin:{l:0,r:0,t:0,b:0},
     geo:{
-      projection:{type:"natural earth"},
-      bgcolor:"rgba(0,0,0,0)",
+      projection:{type:"natural earth"}, bgcolor:"rgba(0,0,0,0)",
       showframe:false, showcoastlines:false,
       showland:true, landcolor:"#284273",
       showocean:true, oceancolor:"#10254a",
-      showlakes:true, lakecolor:"#10254a",
+      showlakes:true, lakecolor:"#284273",          /* lakes in land tone — no dark holes */
       showcountries:true, countrycolor:"#1a3460",
       lonaxis:{range:[-180,180]}, lataxis:{range:[-58,84]},
     },
   };
-  const config={scrollZoom:true, displayModeBar:false, responsive:true};
-  Plotly.newPlot("map", data, layout, config).then(()=>{
+  Plotly.newPlot("map", data, layout, {scrollZoom:true, displayModeBar:false, responsive:true}).then(()=>{
     const gd=document.getElementById("map");
     gd.on("plotly_click", ev=>{
       const p = ev.points && ev.points[0]; if(!p) return;
-      if(p.location) openNation(p.location);                                   // choropleth nation
-      else if(p.data && p.data._iso) openNation(p.data._iso[p.pointIndex]);    // developing marker
-      else if(p.data && p.data._key) openNation(p.data._key[p.pointIndex]);    // non-UN polity marker
+      if(p.location) select(p.location);
+      else if(p.data && p.data._iso) select(p.data._iso[p.pointIndex]);
+      else if(p.data && p.data._key) select(p.data._key[p.pointIndex]);
     });
-    // gentle heartbeat on developing markers (global reduced-motion CSS can't reach Plotly, so gate here)
     const rm = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
     if(!rm){ let big=false; setInterval(()=>{ big=!big; Plotly.restyle("map", {"marker.size":[big?16:12]}, [1]); }, 1100); }
   });
 }
 
-function refreshMap(){
-  Plotly.restyle("map", {z:[zArray()], text:[hoverText()]}, [0]);
-  Plotly.restyle("map", {"marker.color":[nonUnColors()], hovertext:[nonUnHover()]}, [2]);
-}
-
-/* ============================================================
-   ACTIONS
-   ============================================================ */
-let selected = null;     // iso of the selected nation
-let pPath = [];          // drill path within the selected nation's subtree
-
-function selectNation(iso){ selected = iso; pPath = [BYISO[iso]]; }
-function openNation(iso){                 // map click: toggle whole nation + open it
-  const n = BYISO[iso];
-  setSubtree(n, fullyOffline(n));         // fully offline -> all on; else all off
-  selectNation(iso);
-  refreshAll();
-}
-
-function mkToggle(on, label, onclick){
-  const tg=document.createElement("button");
-  tg.className="toggle"; tg.type="button"; tg.setAttribute("role","switch");
-  tg.setAttribute("aria-checked", on?"true":"false");
-  tg.setAttribute("aria-label", label);
-  tg.innerHTML='<span class="knob"></span>';
-  tg.addEventListener("click", e=>{ e.stopPropagation(); onclick(e); });
-  return tg;
-}
-
-function resetBoard(){
-  TREE = buildTree(); indexIso();
-  selected = null; pPath = [];
-  refreshAll();
-}
-
 /* ============================================================
    RENDER
    ============================================================ */
-function countNationsOnline(){ return TREE.children.filter(isOnline).length; }
+let selected = null;
+function select(key){ selected = key; renderRoster(); renderPanel(); document.getElementById("panel").scrollIntoView({block:"nearest"}); }
 
-function refreshMeter(){
-  const on = countNationsOnline();
-  const pct = on / N * 100;
+function renderMeter(){
+  const on = countOnline(), pct = on/N*100;
   document.getElementById("pctNum").textContent = pct.toFixed(1);
   document.getElementById("cOnline").textContent = on;
   document.getElementById("cTotal").textContent = N;
   document.getElementById("cNeed").textContent = NEEDED;
-  document.getElementById("fill").style.width = Math.min(100,pct) + "%";
-  const activated = on >= NEEDED;     // majority of nations
-  document.body.classList.toggle("activated", activated);
+  document.getElementById("fill").style.width = Math.min(100,pct)+"%";
+  document.body.classList.toggle("activated", on>=NEEDED);
 }
 
-function refreshRoster(){
-  const el = document.getElementById("roster");
+function renderRoster(){
+  const el=document.getElementById("roster");
   if(el.childElementCount===0){
-    Object.keys(DEVELOPING).forEach(iso=>{                     // developing first — the live frontier
-      const b=document.createElement("button");
-      b.className="chip dev"; b.dataset.iso=iso; b.type="button";
-      b.title=DEVELOPING[iso].note;
-      b.innerHTML=`<span class="led"></span>${UN_MEMBERS[iso]} <span class="yr">● dev</span>`;
-      b.setAttribute("aria-pressed","false");
-      b.addEventListener("click",()=>{ selectNation(iso); refreshAll(); document.getElementById("panel").scrollIntoView({block:"nearest"}); });
-      el.appendChild(b);
-    });
-    Object.keys(SEEDED).forEach(iso=>{
-      const b=document.createElement("button");
-      b.className="chip"; b.dataset.iso=iso; b.type="button";
-      b.innerHTML=`<span class="led"></span>${UN_MEMBERS[iso]} <span class="yr">'${String(SEEDED[iso].year).slice(2)}</span>`;
-      b.setAttribute("aria-pressed","false");
-      b.addEventListener("click",()=>{ selectNation(iso); refreshAll(); document.getElementById("panel").scrollIntoView({block:"nearest"}); });
-      el.appendChild(b);
-    });
-    NONUN_KEYS.forEach(key=>{                                  // first-class non-UN peoples / disputed
-      const b=document.createElement("button");
-      b.className="chip nonun"; b.dataset.iso=key; b.type="button";
-      b.title=NON_UN[key].note;
-      b.innerHTML=`<span class="led"></span>${NON_UN[key].name}`;
-      b.setAttribute("aria-pressed","false");
-      b.addEventListener("click",()=>{ selectNation(key); refreshAll(); document.getElementById("panel").scrollIntoView({block:"nearest"}); });
-      el.appendChild(b);
-    });
+    DEV_KEYS.forEach(k=>addChip(el,k,"chip dev",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">● dev</span>`, DEVELOPING[k].note));
+    Object.keys(SEEDED).forEach(k=>addChip(el,k,"chip",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">'${String(SEEDED[k]).slice(2)}</span>`,""));
+    NONUN_KEYS.forEach(k=>addChip(el,k,"chip nonun",`<span class="led"></span>${NON_UN[k].name}`, NON_UN[k].note));
   }
   [...el.children].forEach(b=>{
-    const iso=b.dataset.iso, on=isOnline(BYISO[iso]);
-    b.classList.toggle("on", on);
-    b.classList.toggle("sel", iso===selected);
-    b.setAttribute("aria-pressed", on?"true":"false");
+    const k=b.dataset.key;
+    b.classList.toggle("on", isOnline(k));
+    b.classList.toggle("sel", k===selected);
   });
 }
+function addChip(el,key,cls,html,title){
+  const b=document.createElement("button");
+  b.className=cls; b.dataset.key=key; b.type="button"; if(title) b.title=title;
+  b.innerHTML=html;
+  b.addEventListener("click",()=>select(key));
+  el.appendChild(b);
+}
 
-const PANEL_PLACEHOLDER = `<p class="ph-empty">Select a nation — on the <b>map</b> or from the <b>roster</b> — to open it and act locally.<br><br>A unit is <b>online</b> when ≥51% of its parts are. Drill in: the United Kingdom opens into its nations, regions and all 650 constituencies. Light enough of them and the UK lights on the world map — and counts toward the global 51%.</p>`;
+const PLACEHOLDER = `<p class="ph-empty">Select a country — on the <b>map</b> or from the <b>roster</b> — to see its status and a source.<br><br>The board is curated by hand. Online (gold) marks a place a peaceful revolution has taken hold; flamingo pink marks one developing now; diamonds are non-UN peoples and disputed polities, counted as first-class.</p>`;
 
-function refreshPanel(){
-  const body = document.getElementById("panelBody");
-  if(!selected){ body.innerHTML = PANEL_PLACEHOLDER; return; }
-  const root = BYISO[selected];
-  const cur  = pPath[pPath.length-1];
-  const online = isOnline(cur), on = onlineKids(cur), tot = cur.children.length;
+function renderPanel(){
+  const body=document.getElementById("panelBody");
+  if(!selected){ body.innerHTML=PLACEHOLDER; return; }
+  const e=LOOKUP[selected];
+  const statusClass = e.status==="online" ? "online" : (e.status==="developing" ? "developing" : "");
+  const statusLabel = e.status==="online" ? "ONLINE" : (e.status==="developing" ? "developing" : "dormant");
+
+  let meta="";
+  if(e.status==="online") meta = `Peaceful revolution / popular uprising${e.year?`, <b>${e.year}</b>`:""}.`;
+  else if(e.status==="developing") meta = `<b>${e.note}</b> — unfolding now${e.year?` (${e.year})`:""}. Not yet counted toward the threshold.`;
+  else if(e.kind==="nonun") meta = e.note + ".";
+  else meta = "No revolution recorded yet. Dormant — awaiting those present.";
+
+  // sources
+  let links = `<a class="source-link" href="${wikiUrl(e)}" target="_blank" rel="noopener">Wikipedia <span class="arr">↗</span></a>`;
+  if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
+  if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
 
   body.innerHTML = `
-    <div class="pnl-iso">${selected}${root.year? " · "+root.year:""}</div>
-    <div class="pnl-crumbs" id="pcrumbs"></div>
-    <h2 class="pnl-name">${cur.name}</h2>
-    <span class="pnl-status ${online?"online":""}"><span class="led"></span>${online?"ONLINE":"dormant"}</span>
-    <div class="pnl-frac"><b>${on}</b> / ${tot} ${noun(cur)} online · majority needs <b>${Math.ceil(tot*0.51)}</b></div>
-    <div class="pnl-subbar"><i style="width:${tot?on/tot*100:0}%"></i></div>
-    <div class="pnl-actions">
-      <button class="btn primary" id="allOn">Bring all online</button>
-      <button class="btn" id="allOff">Take offline</button>
-    </div>
-    <ul class="regions" id="regionList"></ul>
-  `;
-
-  // breadcrumb within the nation's subtree
-  const cb = body.querySelector("#pcrumbs");
-  pPath.forEach((nd,i)=>{
-    if(i>0){ const s=document.createElement("span"); s.className="sep"; s.textContent="›"; cb.appendChild(s); }
-    const b=document.createElement("button");
-    b.className="crumb"+(i===pPath.length-1?" here":"");
-    b.textContent=nd.name;
-    if(i<pPath.length-1) b.addEventListener("click",()=>{ pPath=pPath.slice(0,i+1); refreshAll(); });
-    cb.appendChild(b);
-  });
-
-  // child rows: leaves toggle; internal nodes drill in
-  const list = body.querySelector("#regionList");
-  cur.children.forEach(child=>{
-    if(isLeaf(child)){
-      const li=document.createElement("li"); li.className="region"+(child.online?" on":"");
-      const nm=document.createElement("span"); nm.className="rname"; nm.textContent=child.name;
-      const tg=mkToggle(child.online, `${child.name} — ${child.online?"online":"offline"}`, ()=>{ child.online=!child.online; refreshAll(); });
-      li.appendChild(nm); li.appendChild(tg); list.appendChild(li);
-    } else {
-      const con=isOnline(child), ok=onlineKids(child), t=child.children.length;
-      const li=document.createElement("li"); li.className="region nav"+(con?" on":"");
-      const nav=document.createElement("button"); nav.className="navbtn"; nav.type="button";
-      nav.setAttribute("aria-label", `${child.name} — ${con?"online":"dormant"}, ${ok} of ${t} online. Open.`);
-      nav.innerHTML=`<span class="rname">${child.name}</span><span class="subfrac"><span class="led ${con?"on":""}"></span>${ok}/${t} ${noun(child)} ▸</span>`;
-      nav.addEventListener("click",()=>{ pPath.push(child); refreshAll(); });
-      const tg=mkToggle(con, `${child.name} — switch whole area`, ()=>{ setSubtree(child, !isOnline(child)); refreshAll(); });
-      li.appendChild(nav); li.appendChild(tg); list.appendChild(li);
-    }
-  });
-
-  body.querySelector("#allOn").addEventListener("click",()=>{ setSubtree(cur,true); refreshAll(); });
-  body.querySelector("#allOff").addEventListener("click",()=>{ setSubtree(cur,false); refreshAll(); });
-}
-
-function refreshAll(){
-  refreshMeter();
-  refreshMap();
-  refreshRoster();
-  refreshPanel();
+    <div class="pnl-iso">${e.kind==="nonun"?"non-UN polity":selected}</div>
+    <h2 class="pnl-name">${e.name}</h2>
+    <span class="pnl-status ${statusClass}"><span class="led"></span>${statusLabel}</span>
+    <div class="pnl-meta">${meta}</div>
+    <div class="sources">
+      <div class="sources-label">Source · dig deeper</div>
+      ${links}
+    </div>`;
 }
 
 /* ============================================================
    INIT
    ============================================================ */
-document.getElementById("resetBtn").addEventListener("click", resetBoard);
 drawMap();
-refreshMeter();
-refreshRoster();
-refreshPanel();
+renderMeter();
+renderRoster();
+renderPanel();
 window.addEventListener("resize", ()=>Plotly.Plots.resize("map"));
 </script>
 </body>
