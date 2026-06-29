@@ -91,6 +91,17 @@
   .chip.nonun{border-style:dashed;color:var(--text-dim)}
   .chip.nonun .led{background:var(--slate)}
   .chip.nonun.on{color:var(--ink)}
+  .chip.war{border-color:#e0524d;color:#e0524d}
+  .chip.war .led{background:#e0524d;box-shadow:0 0 6px #e0524d}
+  .chip.coup{border-color:#e8913a;color:#e8913a}
+  .chip.coup .led{background:#e8913a;box-shadow:0 0 6px #e8913a}
+
+  /* legend */
+  .legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:4px;padding:2px;font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-dim)}
+  .legend span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+  .legend em{color:var(--text-faint);font-style:normal}
+  .legend i{width:10px;height:10px;border-radius:50%;display:inline-block;flex:none}
+  .legend i.dia{border-radius:2px;transform:rotate(45deg)}
 
   /* layout */
   .stage{display:grid;grid-template-columns:1fr 340px;gap:18px;margin-top:16px;align-items:start}
@@ -111,6 +122,10 @@
   .pnl-status.online .led{background:var(--gold);box-shadow:0 0 8px var(--gold)}
   .pnl-status.developing{color:var(--flamingo);border-color:var(--flamingo)}
   .pnl-status.developing .led{background:var(--flamingo);box-shadow:0 0 8px var(--flamingo)}
+  .pnl-status.war{color:#e0524d;border-color:#e0524d}
+  .pnl-status.war .led{background:#e0524d;box-shadow:0 0 8px #e0524d}
+  .pnl-status.coup{color:#e8913a;border-color:#e8913a}
+  .pnl-status.coup .led{background:#e8913a;box-shadow:0 0 8px #e8913a}
   .pnl-meta{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--text-dim);margin-top:11px;line-height:1.55}
   .pnl-meta b{color:var(--text)}
   .sources{margin-top:16px;display:flex;flex-direction:column;gap:8px}
@@ -133,7 +148,7 @@
   <header>
     <div class="eyebrow">Conceptual activation instrument · curated &amp; sourced · <a href="uk.html">UK fractal →</a></div>
     <h1>Peaceful Revolution — <span class="em">Activation Threshold</span></h1>
-    <p class="sub">A curated world map of peaceful revolutions and popular uprisings. Every place that comes online marks where people have taken power peacefully. When a majority — 51% of nations and peoples present — are online, the board declares the Charter rewritten by those present. Click any country for its status and a source to dig deeper.</p>
+    <p class="sub">A curated situation map of the world — peaceful revolutions, coups, and wars. Gold marks where people have taken power <i>peacefully</i>; only those count toward the 51% threshold that rewrites the Charter by those present. Coups (orange) and wars (red) are shown for context, deliberately not counted. Click any country for its status and a source to dig deeper.</p>
   </header>
 
   <!-- DEVELOPING DISPATCH -->
@@ -161,7 +176,17 @@
   </section>
 
   <!-- ROSTER -->
-  <div class="roster" id="roster" aria-label="Revolution &amp; developing roster"></div>
+  <div class="roster" id="roster" aria-label="Situation roster"></div>
+
+  <!-- LEGEND -->
+  <div class="legend" aria-label="Map legend">
+    <span><i style="background:#ffd84a"></i> peaceful revolution <em>(counted)</em></span>
+    <span><i style="background:#ff5fa2"></i> developing</span>
+    <span><i style="background:#e8913a"></i> coup d'état</span>
+    <span><i style="background:#e0524d"></i> war / armed conflict</span>
+    <span><i class="dia" style="background:#7da0d8"></i> non-UN polity</span>
+    <span><i style="background:#3a5a96"></i> dormant</span>
+  </div>
 
   <!-- MAP + PANEL -->
   <div class="stage">
@@ -175,7 +200,7 @@
   </div>
 
   <footer class="note">
-    <b>Conceptual instrument, not a forecast.</b> The map is curated by hand: which places count as having had a peaceful revolution is contested, contestable, and editable at the top of the source. Each entry links to <b>Wikipedia</b> as a starting point — dig deeper from there. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. Situations marked <b>developing</b> (flamingo pink) are unfolding now and are deliberately <b>not</b> counted until they cross the line. The United Kingdom has its own <a href="uk.html">fractal page →</a>. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim.
+    <b>Conceptual instrument, not a forecast.</b> The map is curated by hand: which places count as having had a peaceful revolution is contested, contestable, and editable at the top of the source. Each entry links to <b>Wikipedia</b> as a starting point — dig deeper from there. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. Situations marked <b>developing</b> (flamingo pink) are unfolding now and are deliberately <b>not</b> counted until they cross the line. <b>Coups</b> (orange) and <b>wars</b> (red) are shown to illustrate the state of the world but are <b>not</b> counted toward the peaceful-revolution threshold — a military coup is not a peaceful revolution. The United Kingdom has its own <a href="uk.html">fractal page →</a>. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim.
   </footer>
 
 </div>
@@ -197,6 +222,28 @@ const SEEDED = {
 const DEVELOPING = {
   ALB:{ note:"the Flamingo Revolution", link:"https://flamingorevolution.org/", linkLabel:"Flamingo Revolution",
         year:2026, lat:41.15, lon:20.05 },
+};
+
+/* Coup belt: military takeover — NOT a peaceful revolution, NOT counted. iso -> {year, event?} */
+const COUP = {
+  BFA:{ year:2022, event:"2022 Burkina Faso coup d'état" },
+  GIN:{ year:2021, event:"2021 Guinean coup d'état" },
+  NER:{ year:2023, event:"2023 Nigerien coup d'état" },
+  GAB:{ year:2023, event:"2023 Gabonese coup d'état" },
+  TCD:{ year:2021 },
+};
+
+/* War / armed conflict — shown for context, NOT counted. iso -> {year, event?} */
+const WAR = {
+  UKR:{ year:2022, event:"Russian invasion of Ukraine" },
+  SDN:{ year:2023, event:"Sudanese civil war (2023–present)" },
+  COD:{ year:2022, event:"Kivu conflict" },
+};
+
+/* Optional specific-event links for revolutions (else falls back to country Wikipedia). */
+const REV_EVENT = {
+  LKA:"2022 Sri Lankan protests", KEN:"2024 Kenyan protests", SRB:"2024–2025 Serbian protests",
+  GEO:"2024 Georgian protests", ARM:"2018 Armenian revolution", BGD:"2024 Bangladesh quota reform movement",
 };
 
 /* First-class non-UN / de-facto / disputed polities. Diamond markers; counted. */
@@ -280,7 +327,11 @@ ISO.forEach(iso=>{
     e.status="developing"; e.note=d.note; e.link=d.link; e.linkLabel=d.linkLabel;
     e.year=d.year; e.lat=d.lat; e.lon=d.lon;
   } else if(SEEDED[iso]!=null){
-    e.status="online"; e.year=SEEDED[iso];
+    e.status="online"; e.year=SEEDED[iso]; if(REV_EVENT[iso]) e.event=REV_EVENT[iso];
+  } else if(WAR[iso]){
+    e.status="war"; e.year=WAR[iso].year; e.event=WAR[iso].event;
+  } else if(COUP[iso]){
+    e.status="coup"; e.year=COUP[iso].year; e.event=COUP[iso].event;
   } else {
     e.status="dormant";
   }
@@ -304,21 +355,32 @@ function wikiUrl(e){
   const base = (e.wiki || e.name.replace(/\s*\(.*?\)\s*/g,"")).trim().replace(/ /g,"_");
   return "https://en.wikipedia.org/wiki/"+encodeURIComponent(base);
 }
+function eventUrl(title){ return "https://en.wikipedia.org/wiki/"+encodeURIComponent(title.trim().replace(/ /g,"_")); }
 
 /* ============================================================
    MAP  (Plotly choropleth + marker overlays)
    ============================================================ */
+/* categorical: 0 dormant · 1 coup · 2 war · 3 peaceful revolution (z normalized over 0..3) */
 const COLORSCALE = [
-  [0.00, "#3a5a96"], [0.45, "#5e8bcf"], [0.5099, "#5e8bcf"],
-  [0.51, "#ffaf36"], [1.00, "#ffe26a"],
+  [0.00, "#3a5a96"], [0.16, "#3a5a96"],   // dormant (slate)
+  [0.17, "#e8913a"], [0.49, "#e8913a"],   // coup (orange)
+  [0.50, "#e0524d"], [0.82, "#e0524d"],   // war (red)
+  [0.83, "#ffd84a"], [1.00, "#ffd84a"],   // peaceful revolution (gold)
 ];
-function zArray(){ return ISO.map(iso=>isOnline(iso)?1:0); }
+function zCode(iso){ const s=LOOKUP[iso].status; return s==="online"?3 : s==="war"?2 : s==="coup"?1 : 0; }
+function zArray(){ return ISO.map(zCode); }
+function statusTag(s){
+  return s==="online" ? "● peaceful revolution"
+       : s==="war" ? "● war / armed conflict"
+       : s==="coup" ? "● coup d'état"
+       : s==="developing" ? "◆ developing"
+       : "○ dormant";
+}
 function hoverText(){
   return ISO.map(iso=>{
     const e=LOOKUP[iso];
-    const tag = e.status==="online" ? "● ONLINE" : (e.status==="developing" ? "◆ developing" : "○ dormant");
     const yr = e.year ? "  ·  "+e.year : "";
-    return `<b>${e.name}</b>${yr}<br>${tag}`;
+    return `<b>${e.name}</b>${yr}<br>${statusTag(e.status)}`;
   });
 }
 
@@ -348,7 +410,7 @@ function drawMap(){
     type:"choropleth", locationmode:"ISO-3",
     locations:ISO, z:zArray(), text:hoverText(),
     hovertemplate:"%{text}<extra></extra>",
-    colorscale:COLORSCALE, zmin:0, zmax:1, showscale:false,
+    colorscale:COLORSCALE, zmin:0, zmax:3, showscale:false,
     marker:{line:{color:"#10254a", width:0.4}},
   }, developingTrace(), nonUnTrace()];
   const layout={
@@ -397,7 +459,9 @@ function renderRoster(){
   const el=document.getElementById("roster");
   if(el.childElementCount===0){
     DEV_KEYS.forEach(k=>addChip(el,k,"chip dev",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">● dev</span>`, DEVELOPING[k].note));
-    Object.keys(SEEDED).forEach(k=>addChip(el,k,"chip",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">'${String(SEEDED[k]).slice(2)}</span>`,""));
+    Object.keys(WAR).forEach(k=>addChip(el,k,"chip war",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">war '${String(WAR[k].year).slice(2)}</span>`,"war / armed conflict"));
+    Object.keys(COUP).forEach(k=>addChip(el,k,"chip coup",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">coup '${String(COUP[k].year).slice(2)}</span>`,"coup d'état"));
+    Object.keys(SEEDED).forEach(k=>addChip(el,k,"chip",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">'${String(SEEDED[k]).slice(2)}</span>`,"peaceful revolution"));
     NONUN_KEYS.forEach(k=>addChip(el,k,"chip nonun",`<span class="led"></span>${NON_UN[k].name}`, NON_UN[k].note));
   }
   [...el.children].forEach(b=>{
@@ -420,24 +484,32 @@ function renderPanel(){
   const body=document.getElementById("panelBody");
   if(!selected){ body.innerHTML=PLACEHOLDER; return; }
   const e=LOOKUP[selected];
-  const statusClass = e.status==="online" ? "online" : (e.status==="developing" ? "developing" : "");
-  const statusLabel = e.status==="online" ? "ONLINE" : (e.status==="developing" ? "developing" : "dormant");
+  const STATUS = {
+    online:     {cls:"online",     label:"PEACEFUL REVOLUTION"},
+    developing: {cls:"developing", label:"DEVELOPING"},
+    war:        {cls:"war",        label:"WAR"},
+    coup:       {cls:"coup",       label:"COUP D'ÉTAT"},
+    dormant:    {cls:"",           label:"dormant"},
+  }[e.status] || {cls:"",label:"dormant"};
 
   let meta="";
   if(e.status==="online") meta = `Peaceful revolution / popular uprising${e.year?`, <b>${e.year}</b>`:""}.`;
   else if(e.status==="developing") meta = `<b>${e.note}</b> — unfolding now${e.year?` (${e.year})`:""}. Not yet counted toward the threshold.`;
+  else if(e.status==="war") meta = `Armed conflict / war${e.year?`, since <b>${e.year}</b>`:""}. Shown for context — not counted toward the peaceful-revolution threshold.`;
+  else if(e.status==="coup") meta = `Military coup${e.year?`, <b>${e.year}</b>`:""}. A takeover, not a peaceful revolution — not counted toward the threshold.`;
   else if(e.kind==="nonun") meta = e.note + ".";
   else meta = "No revolution recorded yet. Dormant — awaiting those present.";
 
-  // sources
+  // sources: country Wikipedia + the specific event (if curated) + extras
   let links = `<a class="source-link" href="${wikiUrl(e)}" target="_blank" rel="noopener">Wikipedia <span class="arr">↗</span></a>`;
+  if(e.event) links += `<a class="source-link" href="${eventUrl(e.event)}" target="_blank" rel="noopener">${e.event} <span class="arr">↗</span></a>`;
   if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
   if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
 
   body.innerHTML = `
     <div class="pnl-iso">${e.kind==="nonun"?"non-UN polity":selected}</div>
     <h2 class="pnl-name">${e.name}</h2>
-    <span class="pnl-status ${statusClass}"><span class="led"></span>${statusLabel}</span>
+    <span class="pnl-status ${STATUS.cls}"><span class="led"></span>${STATUS.label}</span>
     <div class="pnl-meta">${meta}</div>
     <div class="sources">
       <div class="sources-label">Source · dig deeper</div>
