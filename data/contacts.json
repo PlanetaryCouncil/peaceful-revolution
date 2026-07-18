@@ -1,0 +1,31 @@
+{
+  "_schema": {
+    "description": "Official contact channels per country, keyed by ISO3 (matching UN_MEMBERS and NON_UN keys in index.html). Each country maps to an array of contact entries. The app auto-generates Wikipedia + CIA Factbook links, so DO NOT add those here — focus on the channels below.",
+    "entry_fields": {
+      "type": "one of: gov | mfa | un_mission | head_of_state | parliament | nhri | embassy_directory | social  (required)",
+      "label": "human-readable name, e.g. 'Ministry of Foreign Affairs' (required)",
+      "url": "https URL you actually fetched and confirmed returns 200 and belongs to this country (optional but preferred)",
+      "email": "official email, only if found on an official page (optional)",
+      "phone": "E.164 or as published on the official page (optional)",
+      "address": "postal address as published (optional)",
+      "source": "URL of the page you took this from (required when url/email/phone/address present)",
+      "verified": "YYYY-MM-DD you verified it (required)"
+    },
+    "rules": [
+      "NEVER invent a URL, email, phone, or address. If you did not fetch and confirm it, leave the field out.",
+      "Prefer official government / intergovernmental sources over third parties.",
+      "Every entry needs a 'source' and a 'verified' date.",
+      "Keep the JSON valid at all times; append region by region."
+    ]
+  },
+  "USA": [
+    { "type": "gov", "label": "Official U.S. government web portal", "url": "https://www.usa.gov/", "source": "https://www.usa.gov/", "verified": "2026-07-11" },
+    { "type": "mfa", "label": "U.S. Department of State", "url": "https://www.state.gov/", "source": "https://www.state.gov/", "verified": "2026-07-11" },
+    { "type": "un_mission", "label": "U.S. Mission to the United Nations", "url": "https://usun.usmission.gov/", "source": "https://usun.usmission.gov/", "verified": "2026-07-11" }
+  ],
+  "FRA": [
+    { "type": "gov", "label": "Gouvernement français", "url": "https://www.gouvernement.fr/", "source": "https://www.gouvernement.fr/", "verified": "2026-07-11" },
+    { "type": "mfa", "label": "Ministère de l'Europe et des Affaires étrangères", "url": "https://www.diplomatie.gouv.fr/", "source": "https://www.diplomatie.gouv.fr/", "verified": "2026-07-11" },
+    { "type": "un_mission", "label": "Représentation permanente de la France auprès de l'ONU", "url": "https://onu.delegfrance.org/", "source": "https://onu.delegfrance.org/", "verified": "2026-07-11" }
+  ]
+}

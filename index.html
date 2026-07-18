@@ -10,24 +10,26 @@
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
 <style>
   :root{
-    --ink:#13213f; --ink-2:#1a2c52; --panel:#1e3262; --panel-2:#192a54; --line:#33508a;
-    --slate:#5b86c4; --slate-dim:#2f4a85;
-    --text:#f1f6ff; --text-dim:#b7caea; --text-faint:#8aa3cf;
-    /* "counted" accent = recent-revolution GREEN (names kept for minimal churn) */
-    --amber:#2fae5e; --gold:#3fbf6e; --gold-bright:#8fe9ad; --accent:var(--gold);
-    --flamingo:#f4cf3f;   /* developing = YELLOW */
+    /* White + UN-blue palette. Light surfaces, dark navy text. */
+    --ink:#eef4fc; --ink-2:#e2ecf8; --panel:#ffffff; --panel-2:#f5f9fe; --line:#cbdcf1;
+    --slate:#3f6fb0; --slate-dim:#d8e6f6;
+    --text:#10294f; --text-dim:#3f5b86; --text-faint:#8195b5;
+    /* "counted"/situation accent = UN dark blue (names kept for minimal churn) */
+    --amber:#103d8c; --gold:#103d8c; --gold-bright:#2d7dd2; --accent:#1f72c4;
+    --flamingo:#103d8c;   /* developing = dark blue */
+    --war:#d64545;        /* the one semantic exception: armed conflict */
     --radius:14px; --maxw:1320px;
   }
   body.activated{
-    --ink:#0c2a1b; --ink-2:#103626; --panel:#13402c; --panel-2:#0f3624; --line:#1f6e49;
-    --text:#eafff2; --text-dim:#a9e3c4; --text-faint:#74b894; --accent:var(--gold);
+    --ink:#dce9fb; --ink-2:#cfe0f7; --panel:#eaf2fd; --panel-2:#e0ecfb; --line:#a9c6ec;
+    --text:#0c2247; --text-dim:#33507f; --text-faint:#6a85ae; --accent:var(--gold);
   }
   *{box-sizing:border-box}
   html,body{margin:0;padding:0}
   body{
     background:
-      radial-gradient(1200px 700px at 78% -8%, rgba(255,180,61,0.16), transparent 60%),
-      radial-gradient(900px 600px at 8% 110%, rgba(91,134,196,0.28), transparent 55%),
+      radial-gradient(1200px 700px at 78% -8%, rgba(45,125,210,0.10), transparent 60%),
+      radial-gradient(900px 600px at 8% 110%, rgba(31,114,196,0.08), transparent 55%),
       var(--ink);
     color:var(--text); font-family:Inter,system-ui,sans-serif; min-height:100vh;
     transition:background 1.2s ease,color .8s ease; -webkit-font-smoothing:antialiased;
@@ -43,9 +45,9 @@
   .sub{color:var(--text-dim);font-size:clamp(13px,1.6vw,15px);max-width:70ch;line-height:1.5;margin-top:8px}
 
   /* developing dispatch */
-  .dispatch{display:flex;align-items:center;gap:11px;flex-wrap:wrap;margin:16px 0 0;padding:11px 15px;border:1px solid var(--flamingo);border-radius:11px;background:linear-gradient(90deg,rgba(244,207,63,.16),rgba(244,207,63,.04))}
+  .dispatch{display:flex;align-items:center;gap:11px;flex-wrap:wrap;margin:16px 0 0;padding:11px 15px;border:1px solid var(--flamingo);border-radius:11px;background:linear-gradient(90deg,rgba(16,61,140,.10),rgba(16,61,140,.03))}
   .dispatch .pulse{width:11px;height:11px;border-radius:50%;background:var(--flamingo);flex:none;animation:pulse 1.8s ease-out infinite}
-  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(244,207,63,.55)}70%{box-shadow:0 0 0 11px rgba(244,207,63,0)}100%{box-shadow:0 0 0 0 rgba(244,207,63,0)}}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(16,61,140,.45)}70%{box-shadow:0 0 0 11px rgba(16,61,140,0)}100%{box-shadow:0 0 0 0 rgba(16,61,140,0)}}
   .dispatch .dlabel{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.18em;color:var(--flamingo);font-weight:600;white-space:nowrap}
   .dispatch .dtext{font-size:13px;color:var(--text-dim);line-height:1.45}
   .dispatch .dtext b{color:var(--text)}
@@ -63,12 +65,12 @@
   .count-line b{color:var(--text)}
   .track-wrap{position:relative;margin-top:18px}
   .track{position:relative;height:26px;border-radius:999px;overflow:hidden;background:var(--slate-dim);border:1px solid var(--line)}
-  .fill{position:absolute;inset:0 auto 0 0;width:0%;border-radius:999px;background:linear-gradient(90deg,#3a5170,#5a7aa6 48%,var(--amber) 90%,var(--gold));transition:width .55s cubic-bezier(.2,.7,.2,1),background 1s ease}
-  body.activated .fill{background:linear-gradient(90deg,var(--amber),var(--gold) 60%,var(--gold-bright))}
-  .marker{position:absolute;top:-7px;bottom:-7px;left:51%;width:2px;background:var(--gold);box-shadow:0 0 0 1px rgba(0,0,0,.35);z-index:3}
-  .marker::after{content:"51% · CHARTER REWRITE";position:absolute;top:-20px;left:50%;transform:translateX(-50%);white-space:nowrap;font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.14em;color:var(--gold);text-shadow:0 1px 4px rgba(0,0,0,.7)}
+  .fill{position:absolute;inset:0 auto 0 0;width:0%;border-radius:999px;background:linear-gradient(90deg,#9cc0ea,#5a93d6 48%,var(--gold-bright) 90%,var(--accent));transition:width .55s cubic-bezier(.2,.7,.2,1),background 1s ease}
+  body.activated .fill{background:linear-gradient(90deg,var(--accent),var(--gold-bright) 60%,#103d8c)}
+  .marker{position:absolute;top:-7px;bottom:-7px;left:51%;width:2px;background:var(--gold);box-shadow:0 0 0 1px rgba(255,255,255,.6);z-index:3}
+  .marker::after{content:"51% · CHARTER REWRITE";position:absolute;top:-20px;left:50%;transform:translateX(-50%);white-space:nowrap;font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.14em;color:var(--gold);text-shadow:0 1px 4px rgba(255,255,255,.8)}
   @media (max-width:560px){.marker::after{left:auto;right:0;transform:none}}
-  .banner{margin-top:16px;display:none;align-items:center;gap:12px;background:linear-gradient(90deg,rgba(255,210,74,.16),rgba(232,162,58,.06));border:1px solid var(--gold);border-radius:10px;padding:13px 16px}
+  .banner{margin-top:16px;display:none;align-items:center;gap:12px;background:linear-gradient(90deg,rgba(45,125,210,.14),rgba(31,114,196,.05));border:1px solid var(--accent);border-radius:10px;padding:13px 16px}
   body.activated .banner{display:flex;animation:rise .7s ease}
   .banner .dot{width:10px;height:10px;border-radius:50%;background:var(--gold);box-shadow:0 0 12px var(--gold);flex:none}
   .banner .msg{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:15px;color:var(--gold-bright)}
@@ -82,22 +84,22 @@
   .chip{flex:none;cursor:pointer;border-radius:999px;border:1px solid var(--line);background:var(--panel-2);color:var(--text-dim);font-family:"IBM Plex Mono",monospace;font-size:12px;padding:7px 13px;display:flex;align-items:center;gap:7px;transition:all .25s ease;white-space:nowrap}
   .chip .yr{opacity:.6;font-size:11px}
   .chip .led{width:7px;height:7px;border-radius:50%;background:var(--slate);flex:none;transition:all .3s}
-  .chip.on{color:var(--ink);background:linear-gradient(180deg,var(--gold),var(--amber));border-color:var(--gold)}
-  .chip.on .yr{opacity:.75;color:#3a2a06}
-  .chip.on .led{background:#3a2a06}
+  .chip.on{color:#ffffff;background:linear-gradient(180deg,var(--gold-bright),var(--gold));border-color:var(--gold)}
+  .chip.on .yr{opacity:.85;color:#dce9fb}
+  .chip.on .led{background:#dce9fb}
   .chip.sel{outline:2px solid var(--accent);outline-offset:2px}
   .chip.dev{border-color:var(--flamingo);color:var(--flamingo)}
   .chip.dev .led{background:var(--flamingo);box-shadow:0 0 6px var(--flamingo);animation:pulse 1.8s ease-out infinite}
   .chip.dev .yr{color:var(--flamingo);opacity:.85}
   .chip.nonun{border-style:dashed;color:var(--text-dim)}
   .chip.nonun .led{background:var(--slate)}
-  .chip.nonun.on{color:var(--ink)}
-  .chip.war{border-color:#e0524d;color:#e0524d}
-  .chip.war .led{background:#e0524d;box-shadow:0 0 6px #e0524d}
-  .chip.coup{border-color:#e8913a;color:#e8913a}
-  .chip.coup .led{background:#e8913a;box-shadow:0 0 6px #e8913a}
-  .chip.improving{border-color:#2cc6bf;color:#2cc6bf}
-  .chip.improving .led{background:#2cc6bf;box-shadow:0 0 6px #2cc6bf}
+  .chip.nonun.on{color:#ffffff}
+  .chip.war{border-color:var(--war);color:var(--war)}
+  .chip.war .led{background:var(--war);box-shadow:0 0 6px var(--war)}
+  .chip.coup{border-color:var(--gold);color:var(--gold)}
+  .chip.coup .led{background:var(--gold);box-shadow:0 0 6px var(--gold)}
+  .chip.improving{border-color:var(--gold-bright);color:var(--gold-bright)}
+  .chip.improving .led{background:var(--gold-bright);box-shadow:0 0 6px var(--gold-bright)}
 
   /* legend */
   .legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:4px;padding:2px;font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-dim)}
@@ -111,7 +113,7 @@
   @media (max-width:920px){.stage{grid-template-columns:1fr}}
   .map-card{position:relative;background:linear-gradient(180deg,var(--panel),var(--panel-2));border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;transition:background 1s ease,border-color 1s ease}
   #map{width:100%;height:min(62vh,580px);min-height:340px}
-  .map-hint{position:absolute;left:14px;bottom:12px;z-index:2;pointer-events:none;font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-faint);background:rgba(19,33,63,.6);padding:4px 9px;border-radius:7px;border:1px solid var(--line)}
+  .map-hint{position:absolute;left:14px;bottom:12px;z-index:2;pointer-events:none;font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-faint);background:rgba(255,255,255,.78);padding:4px 9px;border-radius:7px;border:1px solid var(--line)}
 
   /* panel (read-only) */
   .panel{background:linear-gradient(180deg,var(--panel),var(--panel-2));border:1px solid var(--line);border-radius:var(--radius);padding:18px;transition:background 1s ease,border-color 1s ease;min-height:340px}
@@ -121,16 +123,16 @@
   .pnl-name{font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:22px;margin:2px 0 0;line-height:1.12}
   .pnl-status{display:inline-flex;align-items:center;gap:7px;margin-top:11px;font-family:"IBM Plex Mono",monospace;font-size:12px;padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--panel-2);color:var(--text-dim)}
   .pnl-status .led{width:8px;height:8px;border-radius:50%;background:var(--slate)}
-  .pnl-status.online{color:var(--gold);border-color:var(--gold)}
-  .pnl-status.online .led{background:var(--gold);box-shadow:0 0 8px var(--gold)}
+  .pnl-status.online{color:var(--accent);border-color:var(--accent)}
+  .pnl-status.online .led{background:var(--accent);box-shadow:0 0 8px var(--accent)}
   .pnl-status.developing{color:var(--flamingo);border-color:var(--flamingo)}
   .pnl-status.developing .led{background:var(--flamingo);box-shadow:0 0 8px var(--flamingo)}
-  .pnl-status.war{color:#e0524d;border-color:#e0524d}
-  .pnl-status.war .led{background:#e0524d;box-shadow:0 0 8px #e0524d}
-  .pnl-status.coup{color:#e8913a;border-color:#e8913a}
-  .pnl-status.coup .led{background:#e8913a;box-shadow:0 0 8px #e8913a}
-  .pnl-status.improving{color:#2cc6bf;border-color:#2cc6bf}
-  .pnl-status.improving .led{background:#2cc6bf;box-shadow:0 0 8px #2cc6bf}
+  .pnl-status.war{color:var(--war);border-color:var(--war)}
+  .pnl-status.war .led{background:var(--war);box-shadow:0 0 8px var(--war)}
+  .pnl-status.coup{color:var(--gold);border-color:var(--gold)}
+  .pnl-status.coup .led{background:var(--gold);box-shadow:0 0 8px var(--gold)}
+  .pnl-status.improving{color:var(--gold-bright);border-color:var(--gold-bright)}
+  .pnl-status.improving .led{background:var(--gold-bright);box-shadow:0 0 8px var(--gold-bright)}
   .pnl-meta{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--text-dim);margin-top:11px;line-height:1.55}
   .pnl-meta b{color:var(--text)}
   .sources{margin-top:16px;display:flex;flex-direction:column;gap:8px}
@@ -153,14 +155,14 @@
   <header>
     <div class="eyebrow">Conceptual activation instrument · curated &amp; sourced · <a href="uk.html">UK fractal →</a></div>
     <h1>Peaceful Revolution — <span class="em">Activation Threshold</span></h1>
-    <p class="sub">A curated situation map of the world — peaceful revolutions, coups, and wars. Green marks where people have taken power <i>peacefully</i>; only those count toward the 51% threshold that rewrites the Charter by those present. Coups (orange) and wars (red) are shown for context, deliberately not counted. Click any country for its status and a source to dig deeper.</p>
+    <p class="sub">A curated situation map of the world — peaceful revolutions, coups, and wars. Dark blue marks any country with a situation, including where people have taken power <i>peacefully</i>; only peaceful revolutions count toward the 51% threshold that rewrites the Charter by those present. Wars are shown in red for context, deliberately not counted. Click any country for its status and a source to dig deeper.</p>
   </header>
 
   <!-- DEVELOPING DISPATCH -->
   <div class="dispatch" role="status">
     <span class="pulse" aria-hidden="true"></span>
     <span class="dlabel">LIVE · DEVELOPING</span>
-    <span class="dtext"><b>Albania</b> — the <a href="https://flamingorevolution.org/" target="_blank" rel="noopener">Flamingo Revolution</a> is unfolding. Marked in yellow; counted only once it crosses the threshold.</span>
+    <span class="dtext"><b>Albania</b> — the <a href="https://flamingorevolution.org/" target="_blank" rel="noopener">Flamingo Revolution</a> is unfolding. Marked in blue; counted only once it crosses the threshold.</span>
   </div>
 
   <!-- THRESHOLD METER -->
@@ -185,13 +187,10 @@
 
   <!-- LEGEND -->
   <div class="legend" aria-label="Map legend">
-    <span><i style="background:#3fbf6e"></i> peaceful revolution <em>(counted)</em></span>
-    <span><i style="background:#f4cf3f"></i> developing</span>
-    <span><i style="background:#2cc6bf"></i> recent improvement</span>
-    <span><i style="background:#e8913a"></i> coup d'état</span>
-    <span><i style="background:#e0524d"></i> war / armed conflict</span>
-    <span><i class="dia" style="background:#7da0d8"></i> non-UN polity</span>
-    <span><i style="background:#3a5a96"></i> dormant</span>
+    <span><i style="background:#103d8c"></i> situation — revolution <em>(counted)</em>, developing, coup, improvement</span>
+    <span><i style="background:#d64545"></i> war / armed conflict</span>
+    <span><i class="dia" style="background:#103d8c"></i> non-UN polity</span>
+    <span><i style="background:#eef4fc;border:1px solid #cbdcf1"></i> dormant</span>
   </div>
 
   <!-- MAP + PANEL -->
@@ -206,7 +205,7 @@
   </div>
 
   <footer class="note">
-    <b>Conceptual instrument, not a forecast.</b> The map is curated by hand: which places count as having had a peaceful revolution is contested, contestable, and editable at the top of the source. Each entry links to <b>Wikipedia</b> as a starting point — dig deeper from there. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. Situations marked <b>developing</b> (yellow) are unfolding now and are deliberately <b>not</b> counted until they cross the line. <b>Coups</b> (orange) and <b>wars</b> (red) are shown to illustrate the state of the world but are <b>not</b> counted toward the peaceful-revolution threshold — a military coup is not a peaceful revolution. Places marked <b>recent improvement</b> (teal) — a ceasefire, the fall of a dictator, a fragile transition — are turns for the better but also <b>not</b> counted, since they are not (yet) peaceful revolutions. The United Kingdom has its own <a href="uk.html">fractal page →</a>. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim.
+    <b>Conceptual instrument, not a forecast.</b> The map is curated by hand: which places count as having had a peaceful revolution is contested, contestable, and editable at the top of the source. Each entry links to <b>Wikipedia</b> as a starting point — dig deeper from there. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. Situations marked <b>developing</b> (blue) are unfolding now and are deliberately <b>not</b> counted until they cross the line. <b>Coups</b> (blue) and <b>wars</b> (red) are shown to illustrate the state of the world but are <b>not</b> counted toward the peaceful-revolution threshold — a military coup is not a peaceful revolution. Places marked <b>recent improvement</b> (blue) — a ceasefire, the fall of a dictator, a fragile transition — are turns for the better but also <b>not</b> counted, since they are not (yet) peaceful revolutions. The United Kingdom has its own <a href="uk.html">fractal page →</a>. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim.
   </footer>
 
 </div>
@@ -377,12 +376,13 @@ function eventUrl(title){ return "https://en.wikipedia.org/wiki/"+encodeURICompo
    MAP  (Plotly choropleth + marker overlays)
    ============================================================ */
 /* categorical: 0 dormant · 1 coup · 2 war · 3 peaceful revolution (z normalized over 0..3) */
+/* White + UN-blue: every situation is dark blue; war is the one red exception;
+   dormant blends into the land tone. z normalized over 0..4. */
 const COLORSCALE = [
-  [0.00, "#3a5a96"], [0.12, "#3a5a96"],   // 0 dormant (slate)
-  [0.13, "#2cc6bf"], [0.37, "#2cc6bf"],   // 1 recent improvement (teal)
-  [0.38, "#e8913a"], [0.62, "#e8913a"],   // 2 coup (orange)
-  [0.63, "#e0524d"], [0.87, "#e0524d"],   // 3 war (red)
-  [0.88, "#3fbf6e"], [1.00, "#5fd488"],   // 4 peaceful revolution (green)
+  [0.00, "#eef4fc"], [0.18, "#eef4fc"],   // 0 dormant (land tone)
+  [0.20, "#103d8c"], [0.58, "#103d8c"],   // 1 improving + 2 coup (dark blue)
+  [0.62, "#d64545"], [0.88, "#d64545"],   // 3 war (red)
+  [0.92, "#103d8c"], [1.00, "#103d8c"],   // 4 peaceful revolution (dark blue)
 ];
 function zCode(iso){ const s=LOOKUP[iso].status; return s==="online"?4 : s==="war"?3 : s==="coup"?2 : s==="improving"?1 : 0; }
 function zArray(){ return ISO.map(zCode); }
@@ -407,17 +407,17 @@ function developingTrace(){
   return {
     type:"scattergeo", mode:"markers",
     lon:DEV_KEYS.map(k=>DEVELOPING[k].lon), lat:DEV_KEYS.map(k=>DEVELOPING[k].lat), _iso:DEV_KEYS,
-    marker:{ size:13, color:"#f4cf3f", line:{color:"#fff0b0", width:1.3}, opacity:0.95 },
+    marker:{ size:13, color:"#103d8c", line:{color:"#ffffff", width:1.3}, opacity:0.95 },
     hovertext:DEV_KEYS.map(k=>`<b>${UN_MEMBERS[k]}</b> — developing · ${DEVELOPING[k].note}`),
     hoverinfo:"text", showlegend:false,
   };
 }
-function nonUnColors(){ return NONUN_KEYS.map(k=>{ const s=LOOKUP[k].status; return s==="online"?"#3fbf6e":s==="war"?"#e0524d":s==="improving"?"#2cc6bf":"#7da0d8"; }); }
+function nonUnColors(){ return NONUN_KEYS.map(k=>{ const s=LOOKUP[k].status; return s==="war"?"#d64545":(s==="online"||s==="improving")?"#103d8c":"#9fb8db"; }); }
 function nonUnTrace(){
   return {
     type:"scattergeo", mode:"markers",
     lon:NONUN_KEYS.map(k=>NON_UN[k].lon), lat:NONUN_KEYS.map(k=>NON_UN[k].lat), _key:NONUN_KEYS,
-    marker:{ symbol:"diamond", size:9, color:nonUnColors(), line:{color:"#dce8ff", width:1.1}, opacity:0.95 },
+    marker:{ symbol:"diamond", size:9, color:nonUnColors(), line:{color:"#ffffff", width:1.1}, opacity:0.95 },
     hovertext:NONUN_KEYS.map(k=>{ const e=LOOKUP[k]; return `<b>${e.name}</b> — ${statusTag(e.status)}<br>${e.note}`; }),
     hoverinfo:"text", showlegend:false,
   };
@@ -428,8 +428,8 @@ function drawMap(){
     type:"choropleth", locationmode:"ISO-3",
     locations:ISO, z:zArray(), text:hoverText(),
     hovertemplate:"%{text}<extra></extra>",
-    colorscale:COLORSCALE, zmin:0, zmax:3, showscale:false,
-    marker:{line:{color:"#10254a", width:0.4}},
+    colorscale:COLORSCALE, zmin:0, zmax:4, showscale:false,
+    marker:{line:{color:"#ffffff", width:0.5}},
   }, developingTrace(), nonUnTrace()];
   const layout={
     paper_bgcolor:"rgba(0,0,0,0)", plot_bgcolor:"rgba(0,0,0,0)",
@@ -437,10 +437,10 @@ function drawMap(){
     geo:{
       projection:{type:"natural earth"}, bgcolor:"rgba(0,0,0,0)",
       showframe:false, showcoastlines:false,
-      showland:true, landcolor:"#284273",
-      showocean:true, oceancolor:"#10254a",
-      showlakes:true, lakecolor:"#284273",          /* lakes in land tone — no dark holes */
-      showcountries:true, countrycolor:"#1a3460",
+      showland:true, landcolor:"#eef4fc",
+      showocean:true, oceancolor:"#d6e8fa",
+      showlakes:true, lakecolor:"#d6e8fa",          /* lakes in ocean tone */
+      showcountries:true, countrycolor:"#ffffff",
       lonaxis:{range:[-180,180]}, lataxis:{range:[-58,84]},
     },
   };
@@ -497,7 +497,15 @@ function addChip(el,key,cls,html,title){
   el.appendChild(b);
 }
 
-const PLACEHOLDER = `<p class="ph-empty">Select a country — on the <b>map</b> or from the <b>roster</b> — to see its status and a source.<br><br>The board is curated by hand. Green marks a place a peaceful revolution has taken hold; yellow marks one developing now; orange a coup, red a war; diamonds are non-UN peoples and disputed polities, counted as first-class.</p>`;
+const PLACEHOLDER = `<p class="ph-empty">Select a country — on the <b>map</b> or from the <b>roster</b> — to see its status and a source.<br><br>The board is curated by hand. Blue marks any country with a situation. Only peaceful revolutions are counted toward the 51% threshold. Wars are shown in red for context, deliberately not counted.</p>`;
+
+let FACTBOOK_SLUGS = {};
+let CONTACTS = {};
+
+async function loadAssets(){
+  try { FACTBOOK_SLUGS = await(await fetch("data/factbook-slugs.json")).json(); } catch(e){ console.warn("factbook-slugs not loaded:", e); }
+  try { CONTACTS = await(await fetch("data/contacts.json")).json(); } catch(e){ console.warn("contacts not loaded:", e); }
+}
 
 function renderPanel(){
   const body=document.getElementById("panelBody");
@@ -521,11 +529,44 @@ function renderPanel(){
   else if(e.kind==="nonun") meta = e.note + ".";
   else meta = "No revolution recorded yet. Dormant — awaiting those present.";
 
-  // sources: country Wikipedia + the specific event (if curated) + extras
+  // sources: country Wikipedia + CIA World Factbook + the specific event (if curated) + extras
   let links = `<a class="source-link" href="${wikiUrl(e)}" target="_blank" rel="noopener">Wikipedia <span class="arr">↗</span></a>`;
+  const fbSlug = FACTBOOK_SLUGS[selected];
+  if(fbSlug) links += `<a class="source-link" href="https://www.cia.gov/the-world-factbook/countries/${fbSlug}/" target="_blank" rel="noopener">CIA World Factbook <span class="arr">↗</span></a>`;
   if(e.event) links += `<a class="source-link" href="${eventUrl(e.event)}" target="_blank" rel="noopener">${e.event} <span class="arr">↗</span></a>`;
   if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
   if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
+
+  // contacts section — render from data/contacts.json if available
+  let contactsHtml = "";
+  const countryContacts = CONTACTS[selected];
+  if(countryContacts && Array.isArray(countryContacts) && countryContacts.length > 0){
+    const contactsByType = {};
+    countryContacts.forEach(c=>{
+      if(!contactsByType[c.type]) contactsByType[c.type] = [];
+      contactsByType[c.type].push(c);
+    });
+    const typeLabels = {
+      gov: "Government Portal", mfa: "Foreign Ministry", un_mission: "UN Mission",
+      head_of_state: "Head of State", parliament: "Parliament", nhri: "Human Rights",
+      embassy_directory: "Embassies", social: "Official Social"
+    };
+    const typeOrder = ["gov","mfa","un_mission","head_of_state","parliament","nhri","embassy_directory","social"];
+    let contactsList = "";
+    typeOrder.forEach(type=>{
+      if(contactsByType[type]){
+        contactsList += `<div style="margin-bottom:10px"><strong>${typeLabels[type]||type}</strong><br>`;
+        contactsByType[type].forEach(c=>{
+          if(c.url) contactsList += `<a class="source-link" href="${c.url}" target="_blank" rel="noopener">${c.label} <span class="arr">↗</span></a><br>`;
+          if(c.email) contactsList += `<div style="font-size:0.85rem"><strong>Email:</strong> <a href="mailto:${c.email}">${c.email}</a></div>`;
+          if(c.phone) contactsList += `<div style="font-size:0.85rem"><strong>Phone:</strong> ${c.phone}</div>`;
+          if(c.address) contactsList += `<div style="font-size:0.85rem"><strong>Address:</strong> ${c.address}</div>`;
+        });
+        contactsList += `</div>`;
+      }
+    });
+    if(contactsList) contactsHtml = `<div class="contacts" style="margin-top:16px"><div class="sources-label">Contacts</div>${contactsList}</div>`;
+  }
 
   body.innerHTML = `
     <div class="pnl-iso">${e.kind==="nonun"?"non-UN polity":selected}</div>
@@ -535,12 +576,14 @@ function renderPanel(){
     <div class="sources">
       <div class="sources-label">Source · dig deeper</div>
       ${links}
-    </div>`;
+    </div>
+    ${contactsHtml}`;
 }
 
 /* ============================================================
    INIT
    ============================================================ */
+loadAssets();
 drawMap();
 renderMeter();
 renderRoster();
