@@ -1,0 +1,90 @@
+{
+  "iso": "MOZ",
+  "country_name": "Mozambique",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Cooperation (MINEC) - Main",
+      "value": "minec@minec.gov.mz",
+      "source": "www.minec.gov.mz & mozambiqueexpert.com"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Information Services",
+      "value": "info.deti@minec.gov.mz",
+      "source": "mozambiqueexpert.com government contact list"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Press",
+      "value": "gabimprensa@teldata.mz",
+      "source": "mozambiqueexpert.com"
+    },
+    {
+      "type": "email",
+      "label": "APIEX - Investment Promotion Agency",
+      "value": "info.apiex@apiex.gov.mz",
+      "source": "invest.apiex.gov.mz"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+258 21 491 121",
+      "source": "mozambiqueexpert.com"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+258 21 327 000",
+      "source": "mozambiqueexpert.com"
+    },
+    {
+      "type": "website",
+      "label": "President's Office - Official",
+      "url": "https://www.presidencia.gov.mz/",
+      "source": "presidencia.gov.mz"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs & Cooperation",
+      "url": "https://www.minec.gov.mz/",
+      "source": "minec.gov.mz"
+    },
+    {
+      "type": "website",
+      "label": "APIEX - Investment & Export Promotion",
+      "url": "https://apiex.gov.mz/",
+      "source": "apiex.gov.mz"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "https://portaldogoverno.gov.mz/",
+      "source": "portaldogoverno.gov.mz"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidência da República de Moçambique - Official",
+      "url": "https://x.com/PresidenciaMoz",
+      "source": "x.com"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidência da República de Moçambique",
+      "url": "https://www.facebook.com/p/Presid%C3%AAncia-da-Rep%C3%BAblica-de-Mo%C3%A7ambique-61585327457899/",
+      "source": "facebook.com"
+    },
+    {
+      "type": "address",
+      "label": "President's Office",
+      "value": "Av. 24 de Julho Nº 1780, Maputo, Mozambique",
+      "source": "mozambiqueexpert.com"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs & Cooperation",
+      "value": "Av. 10 de Novembro Nº 620, Maputo, Mozambique",
+      "source": "mozambiqueexpert.com & minec.gov.mz"
+    }
+  ]
+}

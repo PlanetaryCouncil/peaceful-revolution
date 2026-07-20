@@ -1,0 +1,96 @@
+{
+  "iso": "BDI",
+  "country_name": "Burundi",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mae.gov.bi",
+      "source": "mae.gov.bi - official website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+257 22250678",
+      "source": "mae.gov.bi - official website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Secondary)",
+      "value": "+257 22229312",
+      "source": "mae.gov.bi - official website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Commerce, Industry, Post & Tourism",
+      "value": "mincommerce@mctit.gov.bi",
+      "source": "mctit.gov.bi - official website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Commerce, Industry, Post & Tourism",
+      "value": "+257 22226317",
+      "source": "mctit.gov.bi - official website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Commerce, Industry, Post & Tourism",
+      "value": "B.P 492 Bujumbura, Burundi",
+      "source": "mctit.gov.bi - official website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mae.gov.bi/en/",
+      "source": "Official government"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://presidence.gov.bi/",
+      "source": "Official government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Commerce",
+      "url": "https://mctit.gov.bi/",
+      "source": "Official government"
+    },
+    {
+      "type": "email",
+      "label": "Burundi Embassy - Washington DC",
+      "value": "burundiembusadc@gmail.com",
+      "source": "burundiembassy.us - official embassy website"
+    },
+    {
+      "type": "email",
+      "label": "Burundi Embassy - Washington DC (Diplomatic)",
+      "value": "Washington@ambabuwashington.mae.gov.bi",
+      "source": "burundiembassy.us - official embassy website"
+    },
+    {
+      "type": "phone",
+      "label": "Burundi Embassy - Washington DC",
+      "value": "+1 (202) 342-2574",
+      "source": "burundiembassy.us - official embassy website"
+    },
+    {
+      "type": "address",
+      "label": "Burundi Embassy - Washington DC",
+      "value": "2233 Wisconsin Ave NW #408, Washington, DC 20007, USA",
+      "source": "burundiembassy.us - official embassy website"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office",
+      "url": "https://x.com/burundigov",
+      "source": "Official government social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office",
+      "url": "https://www.facebook.com/PresidenceBurundi/",
+      "source": "Official government social media"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "iso": "MUS",
+  "country_name": "Mauritius",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs, Regional Integration and International Trade",
+      "value": "mfa@govmu.org",
+      "source": "https://foreign.govmu.org/Pages/Contact-Us.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+230 405 2500",
+      "source": "https://foreign.govmu.org/Pages/Contact-Us.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "8th-11th and 14th Floor, Newton Tower, Sir William Newton Street, Port Louis",
+      "source": "https://foreign.govmu.org/Pages/Contact-Us.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pmo@govmu.org",
+      "source": "https://pmo.govmu.org/SitePages/Index.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+230 201 2409",
+      "source": "https://pmo.govmu.org/SitePages/Index.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "New Government Centre, Port Louis",
+      "source": "https://pmo.govmu.org/SitePages/Index.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President (Head of State)",
+      "value": "presidentsecretariat@govmu.org",
+      "source": "https://president.govmu.org/president/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+230 454-3021",
+      "source": "https://president.govmu.org/president/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "State House, Le Reduit",
+      "source": "https://president.govmu.org/president/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Government Information Service (GIS)",
+      "value": "gis@govmu.org",
+      "source": "https://gis.govmu.org/?page_id=12"
+    },
+    {
+      "type": "facebook",
+      "label": "Government Information Service (GIS)",
+      "url": "https://www.facebook.com/GIS.Mauritius/",
+      "source": "https://gis.govmu.org/"
+    },
+    {
+      "type": "email",
+      "label": "Economic Development Board (Investment & Business)",
+      "value": "Contact via online form at edbmauritius.org/contact",
+      "source": "https://edbmauritius.org/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Economic Development Board",
+      "value": "+230 203 3800",
+      "source": "https://edbmauritius.org/contact"
+    },
+    {
+      "type": "address",
+      "label": "Economic Development Board",
+      "value": "Ground Floor, 7 Exchange Square, Wall Street, Ebene 72201",
+      "source": "https://edbmauritius.org/contact"
+    },
+    {
+      "type": "twitter",
+      "label": "Economic Development Board",
+      "url": "https://x.com/EDBMauritius",
+      "source": "https://edbmauritius.org"
+    },
+    {
+      "type": "facebook",
+      "label": "Economic Development Board",
+      "url": "https://www.facebook.com/edbmauritius/",
+      "source": "https://edbmauritius.org"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://govmu.org/",
+      "source": "https://govmu.org/"
+    },
+    {
+      "type": "email",
+      "label": "General Government Support (GOC Helpdesk)",
+      "value": "support@goc.govmu.org",
+      "source": "https://helpdesk.govmu.org"
+    },
+    {
+      "type": "website",
+      "label": "Citizen Support Unit",
+      "url": "https://csu.mu/",
+      "source": "https://govmu.org/"
+    }
+  ]
+}

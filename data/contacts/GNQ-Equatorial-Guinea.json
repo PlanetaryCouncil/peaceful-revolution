@@ -1,0 +1,114 @@
+{
+  "iso": "GNQ",
+  "country_name": "Equatorial Guinea",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Embassy of Equatorial Guinea - General",
+      "value": "info@egembassydc.com",
+      "source": "https://www.egembassydc.com/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy - Consular & Cultural Section",
+      "value": "consular@egembassydc.com",
+      "source": "https://www.egembassydc.com/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy - Ambassador's Office",
+      "value": "secretary@egembassydc.com",
+      "source": "https://www.egembassydc.com/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy - Political Section",
+      "value": "eleela@egembassydc.com",
+      "source": "https://www.egembassydc.com/contact"
+    },
+    {
+      "type": "email",
+      "label": "U.S. Embassy in Malabo - Consular",
+      "value": "MalaboConsular@state.gov",
+      "source": "https://gq.usembassy.gov/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Equatorial Guinea (Washington DC)",
+      "value": "+1-202-518-5700",
+      "source": "https://www.egembassydc.com/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Malabo)",
+      "value": "+240-222-27-59-19",
+      "source": "WebSearch results"
+    },
+    {
+      "type": "phone",
+      "label": "U.S. Embassy in Malabo",
+      "value": "+240-333-095-741",
+      "source": "https://gq.usembassy.gov/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Chamber of Deputies (Cámara de los Diputados)",
+      "value": "+240-333092539",
+      "source": "IPU Parline database"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "url": "https://minexteriores.gob.gq/",
+      "source": "WebSearch results"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.guineaecuatorialpress.com/",
+      "source": "WebSearch results"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Equatorial Guinea (USA)",
+      "url": "https://www.egembassydc.com/",
+      "source": "Official embassy website"
+    },
+    {
+      "type": "website",
+      "label": "U.S. Embassy in Equatorial Guinea",
+      "url": "https://gq.usembassy.gov/",
+      "source": "U.S. State Department"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Government Account",
+      "url": "https://twitter.com/egindc",
+      "source": "WebSearch results"
+    },
+    {
+      "type": "facebook",
+      "label": "Official Government Press",
+      "url": "https://www.facebook.com/p/guineaecuatorialpresscom-100064673322131/",
+      "source": "WebSearch results"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Equatorial Guinea (Washington DC)",
+      "value": "2020 16th Street NW, Washington, DC 20009, USA",
+      "source": "https://www.egembassydc.com/contact"
+    },
+    {
+      "type": "address",
+      "label": "U.S. Embassy in Equatorial Guinea",
+      "value": "Carretera Malabo II, Malabo, Guinea Ecuatorial",
+      "source": "https://gq.usembassy.gov/"
+    },
+    {
+      "type": "address",
+      "label": "Chamber of Deputies (Cámara de los Diputados)",
+      "value": "B.P. 51, Malabo, Equatorial Guinea",
+      "source": "IPU Parline database"
+    }
+  ]
+}

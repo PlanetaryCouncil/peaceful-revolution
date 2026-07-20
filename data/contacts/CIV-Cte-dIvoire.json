@@ -1,0 +1,84 @@
+{
+  "iso": "CIV",
+  "country_name": "Côte d'Ivoire",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Main)",
+      "value": "diplomatie@gouv.ci",
+      "source": "https://web.diplomatie.gouv.ci/accueil"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Directorate of Communication and Public Relations)",
+      "value": "dcrp@diplomatie.gouv.ci",
+      "source": "https://web.diplomatie.gouv.ci/accueil"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+225 27 20 32 08 88 / +225 27 20 32 15 58",
+      "source": "https://web.diplomatie.gouv.ci/accueil"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://web.diplomatie.gouv.ci/accueil",
+      "source": "Official Ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gouv.ci/",
+      "source": "Official Government website"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic",
+      "url": "https://www.presidence.ci/en/",
+      "source": "Official Presidential website"
+    },
+    {
+      "type": "website",
+      "label": "Public Services Directory (Annuaire)",
+      "url": "https://annuaire.gouv.ci/accueil/english",
+      "source": "Official Government Directory"
+    },
+    {
+      "type": "website",
+      "label": "Secrétariat Général du Gouvernement",
+      "url": "https://www.sgg.gouv.ci/",
+      "source": "Official SGG website"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Côte d'Ivoire Official",
+      "url": "https://www.facebook.com/gouvciofficiel/",
+      "source": "Official Government Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Côte d'Ivoire (@Gouvci)",
+      "url": "https://twitter.com/Gouvci",
+      "source": "Official Government X/Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of the Republic (@Presidenceci)",
+      "url": "https://x.com/presidenceci",
+      "source": "Official Presidential X/Twitter account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Abidjan, Plateau, Cité Administrative, Tour C, 22ème étage, BP V 109 Abidjan, Côte d'Ivoire",
+      "source": "https://web.diplomatie.gouv.ci/accueil"
+    },
+    {
+      "type": "address",
+      "label": "Presidency and Government Secretariat",
+      "value": "01 BP 12243 Abidjan 01, Côte d'Ivoire",
+      "source": "https://www.presidence.ci/en/contact/ and https://www.sgg.gouv.ci/"
+    }
+  ]
+}

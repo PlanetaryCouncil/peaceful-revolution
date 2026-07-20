@@ -1,0 +1,66 @@
+{
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "contacto@mne.gw",
+      "source": "https://mne.gw/contactos/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+245 96 911 02 01",
+      "source": "https://mne.gw/contactos/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Avenida Combatentes da Liberdade da Pátria, Palácio do Governo, Bissau, Guinea-Bissau",
+      "source": "https://mne.gw/"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission to the United Nations",
+      "value": "guinea-bissau@un.int",
+      "source": "https://www.un.int/guineabissau/content/permanent-mission-republic-guinea-bissau-united-nations"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to the United Nations",
+      "value": "+1 212-896-8311",
+      "source": "https://www.un.int/guineabissau/content/permanent-mission-republic-guinea-bissau-united-nations"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission to the United Nations",
+      "value": "336 East 45th Street, 13th Floor, New York, N.Y. 10017, USA",
+      "source": "https://www.un.int/guineabissau/content/permanent-mission-republic-guinea-bissau-united-nations"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mne.gw/",
+      "source": "Official Ministry Website"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://www.presidencia.gw/",
+      "source": "Official Presidential Website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mne.gw",
+      "source": "https://www.facebook.com/mne.gw"
+    },
+    {
+      "type": "twitter",
+      "label": "Guinea-Bissau Government",
+      "url": "https://x.com/Guinea-Bissau",
+      "source": "Twitter/X Platform"
+    }
+  ],
+  "iso": "GNB",
+  "country_name": "Guinea-Bissau"
+}

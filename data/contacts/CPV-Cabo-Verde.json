@@ -1,0 +1,126 @@
+{
+  "iso": "CPV",
+  "country_name": "Cabo Verde",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Cabo Verde TradeInvest (Investment & Business Development)",
+      "value": "info.cvti@gov.cv",
+      "source": "cvtradeinvest.cv and caboverdeexpert.com"
+    },
+    {
+      "type": "email",
+      "label": "Cabo Verde Investment Forum",
+      "value": "cvif.info@gov.cv",
+      "source": "caboverdeexpert.com"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Office",
+      "value": "presidencia.cv@gmail.com",
+      "source": "presidenciadarepublica.blogs.sapo.cv"
+    },
+    {
+      "type": "email",
+      "label": "Consular Portal Support",
+      "value": "portalconsular@mnec.gov.cv",
+      "source": "portalconsular.mnec.gov.cv/en/contactos"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+238 261 66 37",
+      "source": "caboverdeexpert.com"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Palace",
+      "value": "+238 261 2445/2829",
+      "source": "presidenciadarepublica.blogs.sapo.cv"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+238 260 90 90",
+      "source": "caboverdeexpert.com"
+    },
+    {
+      "type": "phone",
+      "label": "Cabo Verde TradeInvest",
+      "value": "+238 260 4110/11",
+      "source": "cvtradeinvest.cv"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.cv/en/",
+      "source": "governo.cv"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://www.presidencia.cv/",
+      "source": "presidenciadarepublica.blogs.sapo.cv"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mne.gov.cv/",
+      "source": "caboverdeexpert.com"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.governo.cv/",
+      "source": "caboverdeexpert.com"
+    },
+    {
+      "type": "website",
+      "label": "Cabo Verde TradeInvest",
+      "url": "https://www.cvtradeinvest.cv/",
+      "source": "cvtradeinvest.cv"
+    },
+    {
+      "type": "facebook",
+      "label": "Governo de Cabo Verde (Official Government)",
+      "url": "https://www.facebook.com/GovernodeCaboVerde/",
+      "source": "Facebook search"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidência da República (Presidential Office)",
+      "url": "https://www.facebook.com/presidencia.cv/",
+      "source": "presidenciadarepublica.blogs.sapo.cv"
+    },
+    {
+      "type": "twitter",
+      "label": "Governo Cabo Verde Official",
+      "url": "https://x.com/caboverde_gov",
+      "source": "Twitter/X search"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Palace",
+      "value": "CP 100 - Plateau, PRAIA - Ilha de Santiago - Cabo Verde",
+      "source": "presidenciadarepublica.blogs.sapo.cv"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Palácio do Governo, Praia, Cabo Verde",
+      "source": "caboverdeexpert.com"
+    },
+    {
+      "type": "address",
+      "label": "Cabo Verde TradeInvest Headquarters",
+      "value": "Rotunda da Cruz de Papa, 5, C.P. 89-C, Achada Santo Antonio, Praia, Cabo Verde",
+      "source": "cvtradeinvest.cv"
+    },
+    {
+      "type": "other",
+      "label": "Fax - Presidential Palace",
+      "value": "+238 261 4356",
+      "source": "presidenciadarepublica.blogs.sapo.cv"
+    }
+  ]
+}

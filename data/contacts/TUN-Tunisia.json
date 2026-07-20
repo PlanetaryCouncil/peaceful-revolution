@@ -1,0 +1,132 @@
+{
+  "iso": "TUN",
+  "country_name": "Tunisia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "value": "email.dct@diplomatie.gov.tn",
+      "source": "https://www.diplomatie.gov.tn"
+    },
+    {
+      "type": "email",
+      "label": "Presidency of the Republic",
+      "value": "contact@carthage.tn",
+      "source": "https://www.carthage.tn"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "boc@pm.gov.tn",
+      "source": "https://pm.gov.tn/en/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Tunisia Investment Authority (Business Development)",
+      "value": "contact@tia.gov.tn",
+      "source": "https://www.tia.gov.tn/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+216 71 847 500",
+      "source": "https://www.diplomatie.gov.tn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Fax",
+      "value": "+216 71 785 025",
+      "source": "https://www.diplomatie.gov.tn"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+216 71 565 400",
+      "source": "https://pm.gov.tn/en/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Tunisia Investment Authority",
+      "value": "+216 70 248 148",
+      "source": "https://www.tia.gov.tn/en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Avenue de la Ligue des Etats arabes, Nord Hilton 1030 Tunis",
+      "source": "https://www.diplomatie.gov.tn"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Government Square The Kasbah, 1020 Tunis, Tunisia",
+      "source": "https://pm.gov.tn/en/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.diplomatie.gov.tn",
+      "source": "https://www.diplomatie.gov.tn"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic",
+      "url": "https://www.carthage.tn",
+      "source": "https://www.carthage.tn"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://pm.gov.tn/en",
+      "source": "https://pm.gov.tn"
+    },
+    {
+      "type": "website",
+      "label": "Tunisia Investment Authority",
+      "url": "https://www.tia.gov.tn/en",
+      "source": "https://www.tia.gov.tn"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of the Republic - Présidence Tunisie",
+      "url": "https://www.facebook.com/Presidence.tn",
+      "source": "https://www.facebook.com/Presidence.tn"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office - Présidence du Gouvernement",
+      "url": "https://www.facebook.com/Presidencedugouvernementtunisien",
+      "source": "https://www.facebook.com/Presidencedugouvernementtunisien"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Tunisie Diplomatie",
+      "url": "https://www.facebook.com/TunisieDiplo",
+      "source": "https://www.facebook.com/TunisieDiplo"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Tunisia",
+      "url": "https://twitter.com/tunisia",
+      "source": "https://twitter.com/tunisia"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency - TnPresidency",
+      "url": "https://twitter.com/tnpresidency",
+      "source": "https://twitter.com/tnpresidency"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - Tunisie Diplomatie",
+      "url": "https://twitter.com/tunisiediplo",
+      "source": "https://twitter.com/tunisiediplo"
+    },
+    {
+      "type": "twitter",
+      "label": "Tunisia Investment Authority",
+      "url": "https://twitter.com/TIA_Tunisia",
+      "source": "https://x.com/TIA_Tunisia"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "iso": "BWA",
+  "country_name": "Botswana",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "gpitso@gov.bw",
+      "source": "https://www.gov.bw/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of International Affairs and Cooperation",
+      "value": "miacprotocol@gov.bw",
+      "source": "https://www.gov.bw/taxonomy/term/80"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Investment, Trade and Industry",
+      "value": "mtihq@gov.bw",
+      "source": "https://www.gov.bw/ministries/ministry-investment-trade-and-industry"
+    },
+    {
+      "type": "email",
+      "label": "Government Communications and Information Systems",
+      "value": "bgcis@gov.bw",
+      "source": "https://www.gov.bw/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+267 365 0837",
+      "source": "https://www.gov.bw/ministries/office-president"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of International Affairs and Cooperation",
+      "value": "+267 3600700",
+      "source": "https://www.gov.bw/taxonomy/term/80"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of International Affairs and Cooperation - Alternative",
+      "value": "+267 3600744",
+      "source": "https://www.gov.bw/taxonomy/term/80"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.bw/",
+      "source": "https://www.gov.bw/"
+    },
+    {
+      "type": "facebook",
+      "label": "Botswana Government",
+      "url": "https://www.facebook.com/BotswanaGovernment/",
+      "source": "https://www.facebook.com/BotswanaGovernment/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President, Republic of Botswana",
+      "url": "https://www.facebook.com/p/Office-of-the-President-Republic-of-Botswana-100064891562642/",
+      "source": "https://www.facebook.com/p/Office-of-the-President-Republic-of-Botswana-100064891562642/"
+    },
+    {
+      "type": "twitter",
+      "label": "Botswana Government",
+      "url": "https://x.com/bwgovernment",
+      "source": "https://x.com/bwgovernment"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://x.com/BWPresidency",
+      "source": "https://x.com/BWPresidency"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "Private Bag 001, Gaborone, Botswana",
+      "source": "https://www.gov.bw/ministries/office-president"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of International Affairs and Cooperation",
+      "value": "Private Bag 00368, Gaborone, Botswana Government Enclave",
+      "source": "https://www.gov.bw/taxonomy/term/80"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Investment, Trade and Industry",
+      "value": "Private Bag 004, Gaborone, Plot 54380, Central Business District, Botswana",
+      "source": "https://www.gov.bw/ministries/ministry-investment-trade-and-industry"
+    }
+  ]
+}

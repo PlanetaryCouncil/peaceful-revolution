@@ -1,0 +1,114 @@
+{
+  "iso": "RWA",
+  "country_name": "Rwanda",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "info@minaffet.gov.rw",
+      "source": "https://www.minaffet.gov.rw"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "+250788125043",
+      "source": "https://www.minaffet.gov.rw"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "info@primature.gov.rw",
+      "source": "https://www.primature.gov.rw"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+250788388499",
+      "source": "https://www.primature.gov.rw"
+    },
+    {
+      "type": "email",
+      "label": "General Government Inquiries",
+      "value": "info@gov.rw",
+      "source": "https://www.gov.rw/contact"
+    },
+    {
+      "type": "email",
+      "label": "Rwanda Development Board - Business & Investment",
+      "value": "info@rdb.rw",
+      "source": "https://www.rdb.rw"
+    },
+    {
+      "type": "phone",
+      "label": "Rwanda Development Board - Business & Investment",
+      "value": "1415",
+      "source": "https://www.rdb.rw"
+    },
+    {
+      "type": "address",
+      "label": "Rwanda Development Board",
+      "value": "RDB Building 1 KG 9 Ave, Kigali, Rwanda",
+      "source": "https://www.rdb.rw"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance and Economic Planning",
+      "value": "info@minecofin.gov.rw",
+      "source": "https://www.minecofin.gov.rw"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance and Economic Planning",
+      "value": "+250 252 577 581",
+      "source": "https://www.minecofin.gov.rw"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice/Attorney General",
+      "value": "info@minijust.gov.rw",
+      "source": "https://www.minijust.gov.rw"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Justice",
+      "value": "P.O. Box 160, Kigali, Rwanda",
+      "source": "https://www.minijust.gov.rw"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.rw",
+      "source": "https://www.gov.rw"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.minaffet.gov.rw",
+      "source": "https://www.minaffet.gov.rw"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.primature.gov.rw",
+      "source": "https://www.primature.gov.rw"
+    },
+    {
+      "type": "website",
+      "label": "Rwanda Development Board",
+      "url": "https://www.rdb.rw",
+      "source": "https://www.rdb.rw"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Government Account",
+      "url": "https://x.com/RwandaGov",
+      "source": "https://www.gov.rw"
+    },
+    {
+      "type": "facebook",
+      "label": "Official Government Account",
+      "url": "https://www.facebook.com/RwandaGov",
+      "source": "https://www.gov.rw"
+    }
+  ]
+}

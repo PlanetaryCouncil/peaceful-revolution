@@ -1,0 +1,96 @@
+{
+  "iso": "MWI",
+  "country_name": "Malawi",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Malawi Investment and Trade Centre (Business Development)",
+      "value": "info@mitc.mw",
+      "source": "https://mitc.mw/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Industrialization, Business, Trade and Tourism",
+      "value": "trademin@trade.gov.mw",
+      "source": "https://trade.gov.mw/index.php/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+265 1 789 088",
+      "source": "https://www.foreignaffairs.gov.mw/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President and Cabinet",
+      "value": "+265 1 773 702",
+      "source": "https://www.malawi.gov.mw/index.php/parliament/presidency"
+    },
+    {
+      "type": "phone",
+      "label": "Malawi Investment and Trade Centre",
+      "value": "+265 1 770 800",
+      "source": "https://mitc.mw/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.malawi.gov.mw/",
+      "source": "Government of Malawi official site"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.foreignaffairs.gov.mw/",
+      "source": "Ministry of Foreign Affairs official site"
+    },
+    {
+      "type": "website",
+      "label": "Malawi Investment and Trade Centre",
+      "url": "https://mitc.mw/",
+      "source": "MITC official site"
+    },
+    {
+      "type": "facebook",
+      "label": "Malawi Government Official",
+      "url": "https://www.facebook.com/malawigovernment/",
+      "source": "Official Malawi Government Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-Malawi-100068911191908/",
+      "source": "Ministry of Foreign Affairs Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Malawi Government (@MalawiGovt)",
+      "url": "https://x.com/MalawiGovt",
+      "source": "Official Malawi Government Twitter/X"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (@ForeignMalawi)",
+      "url": "https://x.com/foreignmalawi",
+      "source": "Ministry of Foreign Affairs Twitter/X"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "P.O. Box 30315, Capital City, Lilongwe 3, Malawi",
+      "source": "https://www.foreignaffairs.gov.mw/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President and Cabinet",
+      "value": "Private Bag 301, Capital City, Lilongwe 3, Malawi",
+      "source": "https://www.malawi.gov.mw/index.php/parliament/presidency"
+    },
+    {
+      "type": "address",
+      "label": "Malawi Investment and Trade Centre",
+      "value": "Private Bag 302, Aquarius House, City Centre, Lilongwe, Malawi",
+      "source": "https://mitc.mw/"
+    }
+  ]
+}

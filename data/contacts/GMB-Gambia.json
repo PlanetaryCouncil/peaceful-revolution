@@ -1,0 +1,102 @@
+{
+  "iso": "GMB",
+  "country_name": "Gambia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mofa.gov.gm",
+      "source": "https://mofa.gov.gm"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "info@op.gov.gm",
+      "source": "https://op.gov.gm"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Operations",
+      "value": "opgambia@op.gov.gm",
+      "source": "https://op.gov.gm"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Media & Communications",
+      "value": "mcu@op.gov.gm",
+      "source": "https://op.gov.gm"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance & Economic Affairs",
+      "value": "info@mofea.gov.gm",
+      "source": "https://mofea.gov.gm"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+220 995 75 92",
+      "source": "https://op.gov.gm"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President / State House",
+      "value": "State House, Banjul, The Gambia",
+      "source": "https://op.gov.gm"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "No. 28 Marina Parade, Banjul, The Gambia",
+      "source": "https://mofa.gov.gm"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance & Economic Affairs",
+      "value": "The Quadrangle, New Administrative, Banjul, The Gambia",
+      "source": "https://mofea.gov.gm"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "facebook.com/mofa.gov.gm",
+      "source": "https://mofa.gov.gm"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "facebook.com/PresidencyGambia",
+      "source": "https://op.gov.gm"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "x.com/gambiamofa",
+      "source": "https://mofa.gov.gm"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "x.com/BarrowPresident",
+      "source": "https://op.gov.gm"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://op.gov.gm",
+      "source": "Verified official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mofa.gov.gm",
+      "source": "Verified official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance & Economic Affairs",
+      "url": "https://mofea.gov.gm",
+      "source": "Verified official government domain"
+    }
+  ]
+}

@@ -500,11 +500,28 @@ function addChip(el,key,cls,html,title){
 const PLACEHOLDER = `<p class="ph-empty">Select a country — on the <b>map</b> or from the <b>roster</b> — to see its status and a source.<br><br>The board is curated by hand. Blue marks any country with a situation. Only peaceful revolutions are counted toward the 51% threshold. Wars are shown in red for context, deliberately not counted.</p>`;
 
 let FACTBOOK_SLUGS = {};
-let CONTACTS = {};
+let ALL_CONTACTS = {};  // keyed by ISO3, each value is the country's contact JSON
 
 async function loadAssets(){
   try { FACTBOOK_SLUGS = await(await fetch("data/factbook-slugs.json")).json(); } catch(e){ console.warn("factbook-slugs not loaded:", e); }
-  try { CONTACTS = await(await fetch("data/contacts.json")).json(); } catch(e){ console.warn("contacts not loaded:", e); }
+
+  // Eager load all country contacts in parallel. ORDER includes UN members + non-UN polities.
+  // Each file is named data/contacts/{ISO3}-{CountryName}.json
+  if(ORDER && ORDER.length > 0){
+    const contactFetches = ORDER.map(iso => {
+      const e = LOOKUP[iso];
+      const filename = `data/contacts/${iso}-${e.name.replace(/\s+/g, "-").replace(/[^\w-]/g, "")}.json`;
+      return fetch(filename)
+        .then(r => r.ok ? r.json().then(data => [iso, data]) : [iso, null])
+        .catch(() => [iso, null]);
+    });
+    const results = await Promise.all(contactFetches);
+    results.forEach(([iso, data]) => {
+      if(data && data.contacts) ALL_CONTACTS[iso] = data.contacts;
+    });
+    const loaded = Object.keys(ALL_CONTACTS).length;
+    console.log(`Loaded contacts for ${loaded}/${ORDER.length} countries`);
+  }
 }
 
 function renderPanel(){
@@ -537,9 +554,9 @@ function renderPanel(){
   if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
   if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
 
-  // contacts section — render from data/contacts.json if available
+  // contacts section — render from ALL_CONTACTS (individual country JSONs)
   let contactsHtml = "";
-  const countryContacts = CONTACTS[selected];
+  const countryContacts = ALL_CONTACTS[selected];
   if(countryContacts && Array.isArray(countryContacts) && countryContacts.length > 0){
     const contactsByType = {};
     countryContacts.forEach(c=>{
@@ -547,25 +564,36 @@ function renderPanel(){
       contactsByType[c.type].push(c);
     });
     const typeLabels = {
-      gov: "Government Portal", mfa: "Foreign Ministry", un_mission: "UN Mission",
-      head_of_state: "Head of State", parliament: "Parliament", nhri: "Human Rights",
-      embassy_directory: "Embassies", social: "Official Social"
+      email: "Email",
+      website: "Official Website",
+      facebook: "Facebook",
+      twitter: "Twitter / X",
+      phone: "Phone",
+      address: "Address",
+      gov: "Government Portal",
+      mfa: "Foreign Ministry",
+      un_mission: "UN Mission",
+      head_of_state: "Head of State",
+      parliament: "Parliament",
+      nhri: "Human Rights Institution",
+      embassy_directory: "Embassies Directory",
+      other: "Other"
     };
-    const typeOrder = ["gov","mfa","un_mission","head_of_state","parliament","nhri","embassy_directory","social"];
+    const typeOrder = ["email","website","facebook","twitter","phone","address","gov","mfa","un_mission","head_of_state","parliament","nhri","embassy_directory","other"];
     let contactsList = "";
     typeOrder.forEach(type=>{
       if(contactsByType[type]){
-        contactsList += `<div style="margin-bottom:10px"><strong>${typeLabels[type]||type}</strong><br>`;
+        contactsList += `<div style="margin-bottom:12px"><strong>${typeLabels[type]||type}</strong>`;
         contactsByType[type].forEach(c=>{
-          if(c.url) contactsList += `<a class="source-link" href="${c.url}" target="_blank" rel="noopener">${c.label} <span class="arr">↗</span></a><br>`;
-          if(c.email) contactsList += `<div style="font-size:0.85rem"><strong>Email:</strong> <a href="mailto:${c.email}">${c.email}</a></div>`;
-          if(c.phone) contactsList += `<div style="font-size:0.85rem"><strong>Phone:</strong> ${c.phone}</div>`;
-          if(c.address) contactsList += `<div style="font-size:0.85rem"><strong>Address:</strong> ${c.address}</div>`;
+          const val = c.value || c.url;
+          const href = type === "email" ? `mailto:${val}` : val;
+          if(href && (type === "email" || c.url)) contactsList += `<br><a class="source-link" href="${href}" target="_blank" rel="noopener">${c.label} <span class="arr">↗</span></a>`;
+          else if(val) contactsList += `<br><span style="font-size:0.9rem">${c.label}: <code>${val}</code></span>`;
         });
         contactsList += `</div>`;
       }
     });
-    if(contactsList) contactsHtml = `<div class="contacts" style="margin-top:16px"><div class="sources-label">Contacts</div>${contactsList}</div>`;
+    if(contactsList) contactsHtml = `<div class="contacts" style="margin-top:16px"><div class="sources-label">Official Contacts</div>${contactsList}</div>`;
   }
 
   body.innerHTML = `

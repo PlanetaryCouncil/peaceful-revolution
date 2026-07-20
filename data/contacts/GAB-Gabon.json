@@ -1,0 +1,102 @@
+{
+  "iso": "GAB",
+  "country_name": "Gabon",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "mae@diplomatie.gouv.ga",
+      "source": "https://www.diplomatie.gouv.ga/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Communications Directorate)",
+      "value": "dccom.diplomatie@gouv.ga",
+      "source": "https://www.diplomatie.gouv.ga/"
+    },
+    {
+      "type": "email",
+      "label": "APIEX - Investment & Export Promotion",
+      "value": "contact@apiex.ga",
+      "source": "Official Gabon investment agency"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+241 01 74 23 70",
+      "source": "https://www.diplomatie.gouv.ga/contact"
+    },
+    {
+      "type": "phone",
+      "label": "APIEX - Investment & Export Promotion",
+      "value": "+241 72 7600",
+      "source": "Official Gabon investment agency"
+    },
+    {
+      "type": "phone",
+      "label": "Direction de la Poste (Postal Service)",
+      "value": "+241 78 73 86",
+      "source": "Gabon postal service official contact"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.diplomatie.gouv.ga/",
+      "source": "Official Gabon government ministry"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://presidence.ga/",
+      "source": "Official Gabon presidential website"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office - Contact",
+      "url": "https://presidence.ga/contact/",
+      "source": "Official Gabon presidential contact page"
+    },
+    {
+      "type": "website",
+      "label": "APIEX - Investment & Export Promotion",
+      "url": "https://www.gaboninvest.org/",
+      "source": "Official Gabon investment agency"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/diplomatieGOUVGA/",
+      "source": "Official Gabon government ministry"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of the Gabonese Republic",
+      "url": "https://www.facebook.com/presidencedelarepubliquegabonaise/",
+      "source": "Official Gabon presidential office"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of the Gabonese Republic (@PresidenceGA)",
+      "url": "https://x.com/PresidenceGA",
+      "source": "Official Gabon presidential X/Twitter account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "102, Rue Jean Rémy AYOUNE, Batterie IV, B.P 2245, Libreville, Gabon",
+      "source": "https://www.diplomatie.gouv.ga/contact"
+    },
+    {
+      "type": "address",
+      "label": "APIEX - Investment & Export Promotion",
+      "value": "BP 3403, Libreville, Gabon",
+      "source": "Official Gabon investment agency"
+    },
+    {
+      "type": "address",
+      "label": "Direction de la Poste (Postal Service)",
+      "value": "BP 20000, Libreville, Gabon",
+      "source": "Gabon postal service official address"
+    }
+  ]
+}

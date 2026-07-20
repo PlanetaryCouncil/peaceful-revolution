@@ -1,0 +1,144 @@
+{
+  "iso": "ZAF",
+  "country_name": "South Africa",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of International Relations and Cooperation (DIRCO) - General",
+      "value": "info@dirco.gov.za",
+      "source": "https://dirco.gov.za/contact-us-2/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of International Relations and Cooperation (DIRCO) - Consular Information Coordination Centre",
+      "value": "CICC@dirco.gov.za",
+      "source": "https://dirco.gov.za/contact-us-2/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of International Relations and Cooperation (DIRCO) - Rose Help",
+      "value": "rosahelp@dirco.gov.za",
+      "source": "https://dirco.gov.za/contact-us-2/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "president@presidency.gov.za",
+      "source": "https://www.thepresidency.gov.za/contact"
+    },
+    {
+      "type": "email",
+      "label": "Department of Small Business Development - General",
+      "value": "info@dsbd.gov.za",
+      "source": "https://www.gov.za/about-government/contact-directory/departments/small-business-development-department"
+    },
+    {
+      "type": "email",
+      "label": "Department of Small Business Development - Media Enquiries",
+      "value": "Media@dsbd.gov.za",
+      "source": "https://www.gov.za/about-government/contact-directory/departments/small-business-development-department"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of International Relations and Cooperation (DIRCO)",
+      "value": "+27 12 351 1000",
+      "source": "https://dirco.gov.za/contact-details/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President - Union Buildings (Pretoria)",
+      "value": "+27 (0)12 300 5200",
+      "source": "https://www.thepresidency.gov.za/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Small Business Development - Toll Free",
+      "value": "0861 843 384",
+      "source": "https://www.gov.za/about-government/contact-directory/departments/small-business-development-department"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Small Business Development - Main Line",
+      "value": "012 394 5535",
+      "source": "https://www.gov.za/about-government/contact-directory/departments/small-business-development-department"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of International Relations and Cooperation (DIRCO)",
+      "url": "https://dirco.gov.za/",
+      "source": "https://dirco.gov.za/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.thepresidency.gov.za/",
+      "source": "https://www.thepresidency.gov.za/"
+    },
+    {
+      "type": "website",
+      "label": "Department of Small Business Development",
+      "url": "https://www.dsbd.gov.za/",
+      "source": "https://www.dsbd.gov.za/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of International Relations and Cooperation (DIRCO)",
+      "url": "https://www.facebook.com/DIRCOza/",
+      "source": "https://dirco.gov.za/social-media/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "https://www.facebook.com/PresidencyZA/",
+      "source": "https://www.gov.za/links/government-social-media-accounts"
+    },
+    {
+      "type": "facebook",
+      "label": "Department of Small Business Development",
+      "url": "https://www.facebook.com/DepartmentOfSmallBusinessDevelopment/",
+      "source": "https://www.gov.za/links/government-social-media-accounts"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of International Relations and Cooperation (DIRCO)",
+      "url": "https://twitter.com/DIRCO_ZA",
+      "source": "https://dirco.gov.za/social-media/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://twitter.com/PresidencyZA",
+      "source": "https://www.gov.za/links/government-social-media-accounts"
+    },
+    {
+      "type": "twitter",
+      "label": "Department of Small Business Development",
+      "url": "https://twitter.com/DSBD_SA",
+      "source": "https://www.gov.za/links/government-social-media-accounts"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of International Relations and Cooperation (DIRCO) - Postal",
+      "value": "Private Bag X152, Pretoria 0001, South Africa",
+      "source": "https://dirco.gov.za/contact-details/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of International Relations and Cooperation (DIRCO) - Head Office",
+      "value": "OR Tambo Building, 460 Soutpansberg Road, Rietondale, Pretoria 0084, South Africa",
+      "source": "https://dirco.gov.za/contact-details/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of International Relations and Cooperation (DIRCO) - Cape Town Office",
+      "value": "120 Plein Street, Parliamentary Precinct, Cape Town 8001, South Africa",
+      "source": "https://dirco.gov.za/contact-details/"
+    },
+    {
+      "type": "address",
+      "label": "Department of Small Business Development",
+      "value": "77 Meintjies Street, Sunnyside, Pretoria, South Africa",
+      "source": "https://www.gov.za/about-government/contact-directory/departments/small-business-development-department"
+    }
+  ]
+}

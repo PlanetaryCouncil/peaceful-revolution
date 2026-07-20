@@ -1,0 +1,150 @@
+{
+  "iso": "COM",
+  "country_name": "Comoros",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Presidential Office (Beit-Salam)",
+      "value": "contact@beit-salam.km",
+      "source": "Official Beit-Salam Presidential Website (beit-salam.km)"
+    },
+    {
+      "type": "email",
+      "label": "UN Permanent Mission to the United Nations",
+      "value": "comoros@un.int",
+      "source": "UN Permanent Mission Official Website (un.int/comoros)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy in Paris, France",
+      "value": "ambacomoresparis@gmail.com",
+      "source": "Official Embassy Contact Information"
+    },
+    {
+      "type": "email",
+      "label": "Embassy in Madagascar",
+      "value": "amba.comores_tana@yahoo.fr",
+      "source": "Official Embassy Contact Information"
+    },
+    {
+      "type": "email",
+      "label": "National Investment Promotion Agency (ANPI)",
+      "value": "contact@invest-comoros.com",
+      "source": "ANPI Official Website (investcomoros.net)"
+    },
+    {
+      "type": "email",
+      "label": "Comoros Chamber of Commerce and Industry",
+      "value": "info@ccic.km",
+      "source": "Official Chamber Website"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office (Beit-Salam)",
+      "value": "+269 773 49 96",
+      "source": "Official Government Sources"
+    },
+    {
+      "type": "phone",
+      "label": "UN Permanent Mission (New York)",
+      "value": "(212) 750-1637",
+      "source": "UN Permanent Mission Official Website (un.int/comoros)"
+    },
+    {
+      "type": "phone",
+      "label": "UN Permanent Mission (Geneva)",
+      "value": "+41 22 733 68 66",
+      "source": "UN Permanent Mission Official Website"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy Paris",
+      "value": "+33 1 40 67 90 54",
+      "source": "Embassy Official Information"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy Madagascar",
+      "value": "+261 20 22 249 82",
+      "source": "Embassy Official Information"
+    },
+    {
+      "type": "phone",
+      "label": "Chamber of Commerce",
+      "value": "+269 773 45 45",
+      "source": "Official Chamber Contact"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://beit-salam.km",
+      "source": "Official Presidency Website"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "https://gouvernement.km",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice",
+      "url": "https://justice.gouv.km",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Investment Promotion Agency",
+      "url": "https://investcomoros.net",
+      "source": "Official ANPI Website"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Government Account",
+      "url": "https://x.com/comorosofficial",
+      "source": "Official Twitter/X Account"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/p/Ministère-des-Affaires-Étrangères-de-lUnion-des-Comores-100064519133618",
+      "source": "Official Facebook Page"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Beit-Salam)",
+      "value": "Itsandra, Comoros",
+      "source": "Official Presidential Website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "B.P. 567, Moroni, Comoros",
+      "source": "Official Government Source"
+    },
+    {
+      "type": "address",
+      "label": "UN Permanent Mission (New York)",
+      "value": "866 UN Plaza Suite 418, New York, NY 10017, USA",
+      "source": "UN Permanent Mission Official Website"
+    },
+    {
+      "type": "address",
+      "label": "UN Permanent Mission (Geneva)",
+      "value": "Avenue de France 23, 1202 Geneva, Switzerland",
+      "source": "UN Permanent Mission Official Website"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Comoros (Paris)",
+      "value": "20 rue Marbeau, Paris, France",
+      "source": "Official Embassy Information"
+    },
+    {
+      "type": "address",
+      "label": "Chamber of Commerce and Industry",
+      "value": "Place de l'Indépendance, Moroni, Comoros",
+      "source": "Official Chamber Contact"
+    }
+  ]
+}

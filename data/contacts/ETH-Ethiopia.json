@@ -1,0 +1,114 @@
+{
+  "iso": "ETH",
+  "country_name": "Ethiopia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Main Contact",
+      "value": "mfa.community@ethionet.et",
+      "source": "MFA official contact page (mfa.gov.et)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Alternative",
+      "value": "public@mfa.gov.et",
+      "source": "MFA official contact page (mfa.gov.et)"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister",
+      "value": "info@pmo.gov.et",
+      "source": "Office of Prime Minister official contact (pmo.gov.et)"
+    },
+    {
+      "type": "email",
+      "label": "Ethiopian Investment Commission (Business Development)",
+      "value": "info@eic.gov.et",
+      "source": "Ethiopian Investment Commission official contact (investethiopia.gov.et)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+251 11 551 7345",
+      "source": "MFA official contact page (mfa.gov.et)"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister",
+      "value": "+251 111 226 767",
+      "source": "Office of Prime Minister official contact (pmo.gov.et)"
+    },
+    {
+      "type": "phone",
+      "label": "Ethiopian Investment Commission",
+      "value": "+251 11 551 0033",
+      "source": "Ethiopian Investment Commission (investethiopia.gov.et)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.et/",
+      "source": "Official MFA website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://www.pmo.gov.et/",
+      "source": "Official PMO website"
+    },
+    {
+      "type": "website",
+      "label": "Ethiopian Investment Commission",
+      "url": "https://investethiopia.gov.et/",
+      "source": "Official EIC website"
+    },
+    {
+      "type": "website",
+      "label": "Official Ethiopian Government Portal",
+      "url": "http://www.ethiopia.gov.et/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MFAEthiopia/",
+      "source": "Official MFA Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the Prime Minister",
+      "url": "https://www.facebook.com/PMOEthiopia",
+      "source": "Official PMO Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/mfaethiopia",
+      "source": "Official MFA Twitter/X account"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the Prime Minister",
+      "url": "https://x.com/pmethiopia",
+      "source": "Official PMO Twitter/X account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Arada Subcity, Kebele 05, Addis Ababa, Ethiopia. P.O. Box 393",
+      "source": "MFA official contact page (mfa.gov.et)"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "Addis Ababa, Ethiopia. P.O. Box 1031",
+      "source": "Office of Prime Minister official contact (pmo.gov.et)"
+    },
+    {
+      "type": "address",
+      "label": "Ethiopian Investment Commission",
+      "value": "Addis Ababa, Ethiopia. P.O. Box 2313",
+      "source": "Ethiopian Investment Commission (investethiopia.gov.et)"
+    }
+  ]
+}

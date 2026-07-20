@@ -1,0 +1,78 @@
+{
+  "iso": "MRT",
+  "country_name": "Mauritania",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs, Cooperation and Mauritanians Abroad",
+      "value": "rimmaec@diplomatie.gov.mr",
+      "source": "Official Ministry Website - https://www.diplomatie.gov.mr"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+222 45 29 63 01",
+      "source": "Official Ministry Contact Directory"
+    },
+    {
+      "type": "email",
+      "label": "Investment Promotion Agency (APIM) - Business Development",
+      "value": "info-apim@apim.gov.mr",
+      "source": "APIM Official Website - https://apim.gov.mr/"
+    },
+    {
+      "type": "phone",
+      "label": "Investment Promotion Agency (APIM)",
+      "value": "+222 38819051",
+      "source": "APIM Official Website"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.mauritania.mr",
+      "source": "Mauritania Government Official Site"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.diplomatie.gov.mr",
+      "source": "Official Ministry Website"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic",
+      "url": "https://www.presidence.mr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.primature.gov.mr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/pages/Ministry-of-Foreign-Affairs-Mauritania/149395671791987",
+      "source": "Official Ministry Facebook Page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (@RIMMAECME)",
+      "url": "https://twitter.com/RIMMAECME",
+      "source": "Official Ministry Twitter Account"
+    },
+    {
+      "type": "address",
+      "label": "Investment Promotion Agency (APIM)",
+      "value": "Avenue Mokhtar Ould Daddah, Tevragh Zeina, Nouakchott, Mauritania",
+      "source": "APIM Official Website"
+    },
+    {
+      "type": "address",
+      "label": "Mauritania Embassy - United States",
+      "value": "2129 Leroy Pl NW, Washington, DC 20008, USA",
+      "source": "Mauritania Embassy Official Directory"
+    }
+  ]
+}

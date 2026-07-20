@@ -1,0 +1,108 @@
+{
+  "iso": "AGO",
+  "country_name": "Angola",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of External Relations (MIREX)",
+      "value": "mirex.gov.1@gmail.com",
+      "source": "Official MIREX Facebook page and multiple government sources"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Angola - Washington DC (General)",
+      "value": "info@angola.org",
+      "source": "Official Embassy of Angola website (angola.org)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Angola - Washington DC (Consular)",
+      "value": "visa.consular@angola.org",
+      "source": "Official Embassy of Angola website (angola.org)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of External Relations (MIREX)",
+      "value": "+244 940 165 245",
+      "source": "MIREX official contact information (Facebook and government sources)"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Angola - Washington DC",
+      "value": "(202) 785-1156",
+      "source": "Official Embassy of Angola website (angola.org)"
+    },
+    {
+      "type": "phone",
+      "label": "National Assembly of Angola",
+      "value": "+244-222390686",
+      "source": "UN Member States Angola Parliament Contact Details"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of External Relations (MIREX)",
+      "url": "https://mirex.gov.ao",
+      "source": "Official government ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://governo.gov.ao",
+      "source": "Angola official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic",
+      "url": "https://presidencia.gov.ao",
+      "source": "Official presidency website"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Angola - Washington DC",
+      "url": "https://angola.org",
+      "source": "Official embassy website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of External Relations (MIREX)",
+      "url": "https://www.facebook.com/MirexAngola/",
+      "source": "Official MIREX Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of External Relations (MIREX)",
+      "url": "https://x.com/angola_Mirex",
+      "source": "Official MIREX Twitter/X account"
+    },
+    {
+      "type": "twitter",
+      "label": "President João Lourenço",
+      "url": "https://x.com/jlprdeangola",
+      "source": "Official presidential Twitter/X account"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of the Republic",
+      "url": "https://www.facebook.com/PresidedaRepublica",
+      "source": "Official presidency Facebook page"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of External Relations (MIREX) Headquarters",
+      "value": "Palácio do Comércio, Rua Major Kanyangulo, Luanda, Angola",
+      "source": "Official government ministry contact information"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Angola - Washington DC",
+      "value": "2100-2108 16th Street NW, Washington, DC 20009, USA",
+      "source": "Official Embassy of Angola website (angola.org)"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly of Angola",
+      "value": "Caixa Postal 1204, Luanda, Angola",
+      "source": "UN Member States Angola Parliament Contact Details"
+    }
+  ]
+}

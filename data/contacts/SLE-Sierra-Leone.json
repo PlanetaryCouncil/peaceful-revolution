@@ -1,0 +1,168 @@
+{
+  "iso": "SLE",
+  "country_name": "Sierra Leone",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "info@statehouse.gov.sl",
+      "source": "https://statehouse.gov.sl/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Media",
+      "value": "statehousemedia.sl@gmail.com",
+      "source": "https://statehouse.gov.sl/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "info@foreignaffairs.gov.sl",
+      "source": "https://www.sierraleoneembassy.brussels/about-sierra-leone/ministry-of-foreign-affairs/"
+    },
+    {
+      "type": "email",
+      "label": "National Investment Board (Business Development)",
+      "value": "info@nib.gov.sl",
+      "source": "https://nib.gov.sl/"
+    },
+    {
+      "type": "email",
+      "label": "National Investment Board - Business Registration",
+      "value": "businessregistration@nib.gov.sl",
+      "source": "https://nib.gov.sl/"
+    },
+    {
+      "type": "email",
+      "label": "Sierra Leone Investment & Export Promotion Agency (SLIEPA)",
+      "value": "info@sliepa.gov.sl",
+      "source": "https://www.sliepa.gov.sl/"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Sierra Leone",
+      "value": "parliament.sl@yahoo.com",
+      "source": "https://data.ipu.org/parliament/SL/SL-LC01/basic/contact-details/"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Sierra Leone - Secretary",
+      "value": "psec@parliament.gov.sl",
+      "source": "https://data.ipu.org/parliament/SL/SL-LC01/basic/contact-details/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - 24-Hour Emergency",
+      "value": "+232 79 242 276",
+      "source": "https://www.sierraleoneembassy.brussels/about-sierra-leone/ministry-of-foreign-affairs/"
+    },
+    {
+      "type": "phone",
+      "label": "National Investment Board",
+      "value": "+232-73-952-144",
+      "source": "https://nib.gov.sl/"
+    },
+    {
+      "type": "phone",
+      "label": "Sierra Leone Investment & Export Promotion Agency (SLIEPA)",
+      "value": "+232-75-550-211",
+      "source": "https://www.sliepa.gov.sl/"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Sierra Leone",
+      "value": "+232-22223140",
+      "source": "https://data.ipu.org/parliament/SL/SL-LC01/basic/contact-details/"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Sierra Leone - Alternative",
+      "value": "+232-22222483",
+      "source": "https://data.ipu.org/parliament/SL/SL-LC01/basic/contact-details/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://statehouse.gov.sl/",
+      "source": "https://statehouse.gov.sl/"
+    },
+    {
+      "type": "website",
+      "label": "National Investment Board",
+      "url": "https://nib.gov.sl/",
+      "source": "https://nib.gov.sl/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://mofaic.gov.sl/",
+      "source": "https://mofaic.gov.sl/"
+    },
+    {
+      "type": "website",
+      "label": "Sierra Leone Investment & Export Promotion Agency",
+      "url": "https://www.sliepa.gov.sl/",
+      "source": "https://www.sliepa.gov.sl/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President (State House)",
+      "url": "https://www.facebook.com/TheBioPresidency/",
+      "source": "https://www.facebook.com/TheBioPresidency/"
+    },
+    {
+      "type": "facebook",
+      "label": "Parliament of Sierra Leone",
+      "url": "https://www.facebook.com/ParliamentSierraLeone/",
+      "source": "https://www.facebook.com/ParliamentSierraLeone/"
+    },
+    {
+      "type": "facebook",
+      "label": "Sierra Leone Investment & Export Promotion Agency",
+      "url": "https://www.facebook.com/sliepa",
+      "source": "https://www.sliepa.gov.sl/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-and-International-Cooperation-Sierra-Leone-100070251079204/",
+      "source": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-and-International-Cooperation-Sierra-Leone-100070251079204/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President (State House)",
+      "url": "https://x.com/statehousesl",
+      "source": "https://x.com/statehousesl"
+    },
+    {
+      "type": "twitter",
+      "label": "Sierra Leone Investment & Export Promotion Agency",
+      "url": "https://twitter.com/sliepa1",
+      "source": "https://www.sliepa.gov.sl/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "Statehouse, Freetown, Sierra Leone",
+      "source": "https://statehouse.gov.sl/contact/"
+    },
+    {
+      "type": "address",
+      "label": "National Investment Board",
+      "value": "3 Jomo Kenyatta Road, Freetown, Sierra Leone",
+      "source": "https://nib.gov.sl/"
+    },
+    {
+      "type": "address",
+      "label": "Sierra Leone Investment & Export Promotion Agency",
+      "value": "O.A.U Drive, Tower Hill, Freetown, Sierra Leone",
+      "source": "https://www.sliepa.gov.sl/"
+    },
+    {
+      "type": "address",
+      "label": "Parliament of Sierra Leone",
+      "value": "Parliament Building, OUA Drive, Tower Hill, Freetown, Sierra Leone",
+      "source": "https://data.ipu.org/parliament/SL/SL-LC01/basic/contact-details/"
+    }
+  ]
+}

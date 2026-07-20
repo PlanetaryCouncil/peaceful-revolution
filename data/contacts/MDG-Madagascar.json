@@ -1,0 +1,96 @@
+{
+  "iso": "MDG",
+  "country_name": "Madagascar",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info-web@diplomatie.gov.mg",
+      "source": "https://www.diplomatie.gov.mg/index.php/nous-contacter"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Alternate)",
+      "value": "maeactu1@gmail.com",
+      "source": "https://www.facebook.com/diplomatie.gov.mg/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+261 20 22 344 84",
+      "source": "Search results for Madagascar government ministries"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "B.P 836, Rue Andriamifidy, Anosy 101, Antananarivo, Madagascar",
+      "source": "https://www.diplomatie.gov.mg/index.php/nous-contacter"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.diplomatie.gov.mg/",
+      "source": "Official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/diplomatie.gov.mg/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "email",
+      "label": "Economic Development Board of Madagascar (EDBM)",
+      "value": "communication@edbm.mg",
+      "source": "https://edbm.mg/"
+    },
+    {
+      "type": "phone",
+      "label": "Economic Development Board of Madagascar (EDBM)",
+      "value": "+261 20 22 670 40",
+      "source": "Search results for EDBM contact"
+    },
+    {
+      "type": "address",
+      "label": "Economic Development Board of Madagascar (EDBM)",
+      "value": "Immeuble EDBM, Avenue Général Gabriel Ramanantsoa, Antaninarenina, Antananarivo, Madagascar",
+      "source": "https://edbm.mg/"
+    },
+    {
+      "type": "website",
+      "label": "Economic Development Board of Madagascar (EDBM)",
+      "url": "https://edbm.mg/",
+      "source": "Official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Economic Development Board of Madagascar (EDBM)",
+      "url": "https://www.facebook.com/edbmadagascar/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "primaturecomm@gmail.com",
+      "source": "https://www.primature.gov.mg/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "+261 34 05 135 06",
+      "source": "https://www.primature.gov.mg/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office (Primature)",
+      "url": "https://www.primature.gov.mg/",
+      "source": "Official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office",
+      "url": "https://www.facebook.com/compresidencemadagascar/",
+      "source": "Official Facebook page"
+    }
+  ]
+}

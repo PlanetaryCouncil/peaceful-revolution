@@ -1,0 +1,108 @@
+{
+  "iso": "SOM",
+  "country_name": "Somalia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs & International Cooperation - Communications",
+      "value": "comms@mfa.gov.so",
+      "source": "https://web.mfa.gov.so/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs & International Cooperation - General",
+      "value": "info@mfa.gov.so",
+      "source": "https://web.mfa.gov.so/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Villa Somalia (Presidential Office) - Media",
+      "value": "media@presidency.gov.so",
+      "source": "https://villasomalia.gov.so/home/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "value": "+252 619 000000",
+      "source": "https://web.mfa.gov.so/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs & International Cooperation (Alternative)",
+      "value": "+252 771 000111",
+      "source": "https://web.mfa.gov.so/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Villa Somalia (Presidential Office)",
+      "value": "+252 1 861000",
+      "source": "https://villasomalia.gov.so/home/"
+    },
+    {
+      "type": "phone",
+      "label": "Villa Somalia (Presidential Office - Alternative)",
+      "value": "+252 1 261000",
+      "source": "https://villasomalia.gov.so/home/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "url": "https://web.mfa.gov.so/",
+      "source": "Official MFA website"
+    },
+    {
+      "type": "website",
+      "label": "Villa Somalia - Presidency of Federal Republic of Somalia",
+      "url": "https://villasomalia.gov.so/",
+      "source": "Official Presidential website"
+    },
+    {
+      "type": "website",
+      "label": "Federal Republic of Somalia - Government Portal",
+      "url": "https://www.somalia.gov.so/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "url": "https://www.facebook.com/MOFASomalia/",
+      "source": "Official MFA Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Federal Republic of Somalia",
+      "url": "https://www.facebook.com/Somalia/",
+      "source": "Official government Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "url": "https://x.com/MOFASomalia",
+      "source": "Official MFA Twitter/X account"
+    },
+    {
+      "type": "twitter",
+      "label": "Federal Republic of Somalia",
+      "url": "https://x.com/somalia",
+      "source": "Official government Twitter/X account"
+    },
+    {
+      "type": "twitter",
+      "label": "Villa Somalia (Presidential Office)",
+      "url": "https://x.com/TheVillaSomalia",
+      "source": "Official Presidential Twitter/X account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "value": "Wadajir, Maka almukarama road, Mogadishu, Somalia",
+      "source": "https://web.mfa.gov.so/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Villa Somalia (Presidential Office)",
+      "value": "Wartnabadda, Mogadishu, Somalia",
+      "source": "https://villasomalia.gov.so/home/"
+    }
+  ]
+}

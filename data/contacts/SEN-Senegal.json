@@ -1,0 +1,126 @@
+{
+  "iso": "SEN",
+  "country_name": "Senegal",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of African Integration and Foreign Affairs (Ministère de l'Intégration Africaine et des Affaires Étrangères)",
+      "value": "contact@diplomatie.gouv.sn",
+      "source": "https://www.diplomatie.gouv.sn/contact"
+    },
+    {
+      "type": "email",
+      "label": "APIX - National Agency for Investment Promotion (Business Development)",
+      "value": "infos@apix.sn",
+      "source": "https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/341"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "(+221) 33 889 13 00",
+      "source": "https://www.diplomatie.gouv.sn/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency of Senegal",
+      "value": "(+221) 33 880 80 80",
+      "source": "https://www.presidence.sn/en/presidence/le-secretariat-general/"
+    },
+    {
+      "type": "phone",
+      "label": "Primature (Prime Minister's Office)",
+      "value": "(+221) 33 849 18 00",
+      "source": "https://primature.sn/en/form/contact"
+    },
+    {
+      "type": "phone",
+      "label": "APIX - Investment Agency",
+      "value": "(+221) 33 849 05 55",
+      "source": "https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/341"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of Senegal - Official Government",
+      "url": "https://www.presidence.sn",
+      "source": "Official Senegal government portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.diplomatie.gouv.sn",
+      "source": "Official Ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Primature (Prime Minister's Office)",
+      "url": "https://www.primature.sn",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "APIX - Investment Promotion Agency",
+      "url": "https://www.apix.sn",
+      "source": "Official investment agency"
+    },
+    {
+      "type": "website",
+      "label": "Invest in Senegal (APIX Business Portal)",
+      "url": "https://www.investinsenegal.com",
+      "source": "APIX official investment portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of Senegal",
+      "url": "https://www.facebook.com/PresidenceSenegal",
+      "source": "Official presidential Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/miaaesenegal",
+      "source": "https://www.diplomatie.gouv.sn/contact"
+    },
+    {
+      "type": "facebook",
+      "label": "Primature (Government)",
+      "url": "https://www.facebook.com/gouvernementsn",
+      "source": "Government portal"
+    },
+    {
+      "type": "facebook",
+      "label": "APIX (Investment Agency)",
+      "url": "https://www.facebook.com/apixsaofficiel",
+      "source": "APIX official page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/miaae_senegal",
+      "source": "Official ministry Twitter/X account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "2, Place de l'indépendance, Dakar, Senegal (BP: 4044)",
+      "source": "https://www.diplomatie.gouv.sn/contact"
+    },
+    {
+      "type": "address",
+      "label": "Presidency of Senegal",
+      "value": "Avenue Léopold Sédar Senghor, Dakar, Senegal",
+      "source": "https://www.presidence.sn/en/presidence/le-secretariat-general/"
+    },
+    {
+      "type": "address",
+      "label": "Primature (Prime Minister's Office)",
+      "value": "Building administratif Président Mamadou Dia, avenue Léopol Sédar Senghor, BP 4029, Dakar, Senegal",
+      "source": "https://primature.sn/en/form/contact"
+    },
+    {
+      "type": "address",
+      "label": "APIX - Investment Agency",
+      "value": "52-54 Rue Mohamed V, BP 430, Dakar, Senegal",
+      "source": "https://www.senegel.org/en/administration/executive-power/national-agencies/orgdetails/341"
+    }
+  ]
+}

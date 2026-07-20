@@ -1,0 +1,126 @@
+{
+  "iso": "BFA",
+  "country_name": "Burkina Faso",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "mae@diplomatie.gov.bf",
+      "source": "https://www.mae.gov.bf/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+226 25 32 47 33",
+      "source": "https://www.mae.gov.bf/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "Contact@primature.gov.bf",
+      "source": "https://primature.gov.bf/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+226 25 00 00 00 00",
+      "source": "https://primature.gov.bf/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency (Présidence du Faso)",
+      "value": "+226 25 49 83 00",
+      "source": "https://www.presidencedufaso.bf/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Commerce, Industry and Crafts",
+      "value": "infos@commerce.gov.bf",
+      "source": "https://www.commerce.gov.bf/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Commerce, Industry and Crafts",
+      "value": "+226 25 31 44 93",
+      "source": "https://www.commerce.gov.bf/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mae.gov.bf/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Presidency",
+      "url": "https://www.presidencedufaso.bf/",
+      "source": "Official presidential website"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://primature.gov.bf/",
+      "source": "Official Prime Minister's website"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "http://www.gouvernement.gov.bf/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency (Présidence du Faso)",
+      "url": "https://www.facebook.com/Presidence.bf/",
+      "source": "Official presidential Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office (Primature)",
+      "url": "https://www.facebook.com/Primature.Faso/",
+      "source": "Official Prime Minister's Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency (@presidencebf)",
+      "url": "https://twitter.com/presidencebf",
+      "source": "Official presidential Twitter/X account"
+    },
+    {
+      "type": "twitter",
+      "label": "Government (@gouvernementbf)",
+      "url": "https://x.com/gouvernementbf",
+      "source": "Official government Twitter/X account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Avenue du Burkina, BP 03 BP 7038, Ouagadougou 03, Burkina Faso",
+      "source": "https://www.mae.gov.bf/"
+    },
+    {
+      "type": "address",
+      "label": "Presidency",
+      "value": "Palais présidential de Koulouba, Avenue de l'Indépendance, Koulouba, Ouagadougou 03 BP 7030, Burkina Faso",
+      "source": "https://www.presidencedufaso.bf/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "BP 03 BP 7027, Ouagadougou 03, Burkina Faso",
+      "source": "https://primature.gov.bf/contact/"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly (Transitional Legislative Assembly)",
+      "value": "01 BP 6482, Ouagadougou 01, Burkina Faso",
+      "source": "https://data.ipu.org/parliament/BF/BF-LC01/basic/contact-details/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Commerce, Industry and Crafts",
+      "value": "Independence Avenue, District of Baskuy, Municipality of Ouagadougou, Burkina Faso",
+      "source": "https://www.commerce.gov.bf/"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Citizens Complaints",
+      "value": "Contact.Us@mfa.gov.eg",
+      "source": "Official MFA website (mfa.gov.eg)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Legalization Affairs",
+      "value": "foreign.legalization@mfa.gov.eg",
+      "source": "Official MFA website (mfa.gov.eg)"
+    },
+    {
+      "type": "email",
+      "label": "State Information Service",
+      "value": "feedback@sis.gov.eg",
+      "source": "Official SIS website (sis.gov.eg)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "+202 25796334",
+      "source": "Official MFA website (mfa.gov.eg)"
+    },
+    {
+      "type": "phone",
+      "label": "State Information Service",
+      "value": "+2 0100100100",
+      "source": "Official SIS website (sis.gov.eg)"
+    },
+    {
+      "type": "phone",
+      "label": "Cabinet/Prime Minister Office",
+      "value": "(+20-2) 3333-6900",
+      "source": "Egypt's Government Services Portal"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Investment and Foreign Trade",
+      "value": "0225750692",
+      "source": "Official GOEIC website (goeic.gov.eg)"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "https://www.egypt.gov.eg/english/home.aspx",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.eg/English/Pages/default.aspx",
+      "source": "Official MFA website"
+    },
+    {
+      "type": "website",
+      "label": "State Information Service",
+      "url": "https://sis.gov.eg/en/",
+      "source": "Official SIS website"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of Egypt",
+      "url": "https://www.presidency.eg/en/",
+      "source": "Official Presidency website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Investment and Foreign Trade",
+      "url": "https://www.goeic.gov.eg/en/",
+      "source": "Official GOEIC website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MFAEgyptEnglish/",
+      "source": "Official Facebook - Ministry of Foreign Affairs"
+    },
+    {
+      "type": "facebook",
+      "label": "State Information Service",
+      "url": "https://www.facebook.com/EgyptStateInformation/",
+      "source": "Official Facebook - State Information Service"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of Egypt",
+      "url": "https://twitter.com/egypresidency",
+      "source": "Official Twitter - Presidency"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (Spokesperson)",
+      "url": "https://twitter.com/mfaegypt",
+      "source": "Official Twitter - MFA"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (MOFA)",
+      "url": "https://twitter.com/mofaegypt",
+      "source": "Official Twitter - MOFA Egypt"
+    },
+    {
+      "type": "twitter",
+      "label": "Egyptian Government Portal",
+      "url": "https://twitter.com/EgyptGovPortal",
+      "source": "Official Twitter - Government Portal"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Maspero, Cairo, Arab Republic of Egypt",
+      "source": "Official MFA Blog (mfaegypt.org)"
+    },
+    {
+      "type": "address",
+      "label": "State Information Service",
+      "value": "3 Al Estad Al Bahary St., Nasr City, Cairo, Egypt",
+      "source": "Official SIS website (sis.gov.eg)"
+    },
+    {
+      "type": "address",
+      "label": "Cabinet/Prime Minister Office",
+      "value": "33 Soliman Abaza Street, Dokki - Giza, P.O. Box 12311, Egypt",
+      "source": "Egypt's Government Services Portal"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Investment and Foreign Trade",
+      "value": "1 Sheikh Maarouf St., intersection of Ramsis Street, Cairo, Egypt",
+      "source": "Official GOEIC website (goeic.gov.eg)"
+    }
+  ],
+  "country_name": "Egypt",
+  "iso": "EGY"
+}

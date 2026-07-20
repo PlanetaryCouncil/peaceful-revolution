@@ -1,0 +1,138 @@
+{
+  "iso": "GIN",
+  "country_name": "Guinea",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Primary)",
+      "value": "contact@mae.gov.gn",
+      "source": "mae.gov.gn/contact/ - Official Ministry website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Alternative)",
+      "value": "diplomatie.gov@gmail.com",
+      "source": "mae.gov.gn/contact/ - Official Ministry website"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office / Head of Government",
+      "value": "contact@gouvernement.gov.gn",
+      "source": "gouvernement.gov.gn - Official Government website"
+    },
+    {
+      "type": "email",
+      "label": "Secretary General of Government (SGG)",
+      "value": "contact@sgg.gov.gn",
+      "source": "sgg.gov.gn - Official SGG website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+224 656 28 12 35",
+      "source": "mae.gov.gn/contact/ - Official Ministry website"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+224 628 43 01 02",
+      "source": "gouvernement.gov.gn - Official Government website"
+    },
+    {
+      "type": "phone",
+      "label": "Secretary General of Government",
+      "value": "+224 625 252 898",
+      "source": "sgg.gov.gn - Official website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs, African Integration & Diaspora",
+      "url": "https://mae.gov.gn/",
+      "source": "Official government ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister / Government",
+      "url": "https://gouvernement.gov.gn/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://presidence.gov.gn/",
+      "source": "Official presidential website"
+    },
+    {
+      "type": "website",
+      "label": "Public Service & Ministries Directory",
+      "url": "https://service-public.gov.gn/ministeres/",
+      "source": "Official government service portal"
+    },
+    {
+      "type": "website",
+      "label": "Guinea Investment & Facilitation (GUIF 3)",
+      "url": "https://guif.gov.gn/",
+      "source": "Official investment promotion website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MAECIAGEGN",
+      "source": "mae.gov.gn - Official ministry social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office",
+      "url": "https://www.facebook.com/PresidenceRepubliqueGuinee/",
+      "source": "presidence.gov.gn - Official presidential social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Government",
+      "url": "https://www.facebook.com/GouvGn/",
+      "source": "gouvernement.gov.gn - Official government social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Investment Office (APIP/GUIF)",
+      "url": "https://www.facebook.com/APIPGN",
+      "source": "guif.gov.gn - Official investment office social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/MAEIAGE_Guinee",
+      "source": "mae.gov.gn - Official ministry social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office",
+      "url": "https://twitter.com/Presidence_gn",
+      "source": "presidence.gov.gn - Official presidential social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Investment Office (APIP)",
+      "url": "https://twitter.com/APIP_Guinee",
+      "source": "guif.gov.gn - Official investment office social media"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Centre Directionnel de Koloma, Ratoma Commune, Conakry, Republic of Guinea",
+      "source": "mae.gov.gn/contact/ - Official ministry website"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Boulbinet, Kaloum Commune, Conakry, Republic of Guinea",
+      "source": "gouvernement.gov.gn - Official government website"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office",
+      "value": "Palais Mohammed V, Conakry, Republic of Guinea",
+      "source": "presidence.gov.gn - Official presidential website"
+    }
+  ]
+}

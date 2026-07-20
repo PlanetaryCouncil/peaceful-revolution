@@ -1,0 +1,96 @@
+{
+  "iso": "KEN",
+  "country_name": "Kenya",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mfa.go.ke",
+      "source": "https://www.mfa.go.ke/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "State House (President's Office)",
+      "value": "president@statehouse.go.ke",
+      "source": "https://www.president.go.ke/"
+    },
+    {
+      "type": "email",
+      "label": "Kenya Investment Authority (KenInvest)",
+      "value": "info@investkenya.go.ke",
+      "source": "https://www.investkenya.go.ke/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+254 20 3318888",
+      "source": "https://www.mfa.go.ke/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "State House (President's Office)",
+      "value": "+254 20 2227436",
+      "source": "https://www.president.go.ke/"
+    },
+    {
+      "type": "phone",
+      "label": "Kenya Investment Authority (KenInvest)",
+      "value": "+254 730 104-200",
+      "source": "https://www.investkenya.go.ke/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.go.ke",
+      "source": "https://www.mfa.go.ke"
+    },
+    {
+      "type": "website",
+      "label": "State House (President's Office)",
+      "url": "https://www.president.go.ke/",
+      "source": "https://www.president.go.ke/"
+    },
+    {
+      "type": "website",
+      "label": "Government of Kenya Portal",
+      "url": "https://gok.kenya.go.ke/",
+      "source": "https://gok.kenya.go.ke/"
+    },
+    {
+      "type": "website",
+      "label": "Kenya Investment Authority (KenInvest)",
+      "url": "https://www.investkenya.go.ke",
+      "source": "https://www.investkenya.go.ke/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "State House Kenya",
+      "url": "https://twitter.com/StateHouseKenya",
+      "source": "https://twitter.com/StateHouseKenya"
+    },
+    {
+      "type": "facebook",
+      "label": "State House Kenya",
+      "url": "https://www.facebook.com/StateHouseKenya/",
+      "source": "https://www.facebook.com/StateHouseKenya/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Old Treasury Building, Harambee Avenue, Nairobi, Kenya",
+      "source": "https://www.mfa.go.ke/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "State House (President's Office)",
+      "value": "State House, P.O. Box 40530 – 00100, Nairobi, Kenya",
+      "source": "https://www.president.go.ke/"
+    },
+    {
+      "type": "address",
+      "label": "Kenya Investment Authority (KenInvest)",
+      "value": "Old Mutual Tower, 15th Floor, Upper Hill Road, P.O. Box 55704 – 00200, Nairobi, Kenya",
+      "source": "https://www.investkenya.go.ke/contact-us/"
+    }
+  ]
+}

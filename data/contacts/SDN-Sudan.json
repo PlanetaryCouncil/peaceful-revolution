@@ -1,0 +1,114 @@
+{
+  "iso": "SDN",
+  "country_name": "Sudan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government Main Contact",
+      "value": "info@sudan.gov.sd",
+      "source": "Official Sudan Government Website (sudan.gov.sd)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mofa.com",
+      "source": "Sudan Ministry of Foreign Affairs Official Website (mfa.gov.sd)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press",
+      "value": "press.mfasudan@gmail.com",
+      "source": "Sudan Ministry of Foreign Affairs Facebook (mfa.gov.sd)"
+    },
+    {
+      "type": "email",
+      "label": "Sudan Embassy - Washington DC",
+      "value": "info@sudanembassy.org",
+      "source": "Embassy of Sudan Official Website (sudanembassy.org)"
+    },
+    {
+      "type": "email",
+      "label": "Sudan Embassy - Consular Affairs",
+      "value": "consular@sudanembassy.org",
+      "source": "Embassy of Sudan Official Website (sudanembassy.org)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Investment",
+      "value": "investment@sudanmail.net",
+      "source": "Sudan Investment Board Official Website (sudaninvest.org)"
+    },
+    {
+      "type": "phone",
+      "label": "Sudan Embassy - Washington DC",
+      "value": "+1-202-338-8565",
+      "source": "Embassy of Sudan Official Website (sudanembassy.org)"
+    },
+    {
+      "type": "phone",
+      "label": "Sudan Embassy - Fax",
+      "value": "+1-202-745-2615",
+      "source": "Embassy of Sudan Official Website (sudanembassy.org)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+249-18-378-7193",
+      "source": "Sudan Ministry of Foreign Affairs"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Investment",
+      "value": "+249-18-378-7193",
+      "source": "Sudan Investment Board (sudaninvest.org)"
+    },
+    {
+      "type": "website",
+      "label": "Official Government",
+      "url": "https://sudan.gov.sd/en/",
+      "source": "Republic of Sudan Official Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.sd/",
+      "source": "Sudan Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Investment",
+      "url": "https://www.sudaninvest.org/",
+      "source": "Sudan Investment Board"
+    },
+    {
+      "type": "website",
+      "label": "Sudan Embassy - Washington DC",
+      "url": "https://sudanembassy.org/",
+      "source": "Embassy of Sudan Official Website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/SudanMoFA/",
+      "source": "Sudan Ministry of Foreign Affairs Official Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MofaSudan",
+      "source": "Sudan Ministry of Foreign Affairs Official X/Twitter Account"
+    },
+    {
+      "type": "address",
+      "label": "Sudan Embassy - Washington DC",
+      "value": "2210 Massachusetts Avenue, NW, Washington, DC 20008, United States",
+      "source": "Embassy of Sudan Official Website (sudanembassy.org)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Investment",
+      "value": "P.O. Box 6286, Khartoum, Sudan",
+      "source": "Sudan Investment Board (sudaninvest.org)"
+    }
+  ]
+}

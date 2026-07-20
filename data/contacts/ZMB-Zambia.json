@@ -1,0 +1,108 @@
+{
+  "iso": "ZMB",
+  "country_name": "Zambia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "mofaic@grz.gov.zm",
+      "source": "Official Ministry website (mofaic.gov.zm)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "+260-211-252666",
+      "source": "Official Ministry website (mofaic.gov.zm)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "Charter House, Independence Avenue, P.O. Box 50069, Lusaka, Zambia",
+      "source": "Official Ministry website (mofaic.gov.zm)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.mofaic.gov.zm/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://twitter.com/ZambiaMFAIC",
+      "source": "Verified official account (@ZambiaMFAIC)"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-and-International-Cooperation-Zambia-100067821382504/",
+      "source": "Official ministry Facebook page"
+    },
+    {
+      "type": "email",
+      "label": "Cabinet Office",
+      "value": "info@cabinet.gov.zm",
+      "source": "Official Cabinet Office website (cabinet.gov.zm)"
+    },
+    {
+      "type": "phone",
+      "label": "Cabinet Office",
+      "value": "+260 211 251 388",
+      "source": "Official Cabinet Office website (cabinet.gov.zm)"
+    },
+    {
+      "type": "address",
+      "label": "Cabinet Office",
+      "value": "P.O. Box 30208, Independence Avenue, Lusaka, Zambia",
+      "source": "Official Cabinet Office website"
+    },
+    {
+      "type": "address",
+      "label": "State House (Office of the President)",
+      "value": "Independence Avenue, P.O. Box 30135, Lusaka 10101, Zambia",
+      "source": "Official State House website (sh.gov.zm)"
+    },
+    {
+      "type": "website",
+      "label": "State House (Office of the President)",
+      "url": "https://www.sh.gov.zm/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "facebook",
+      "label": "State House",
+      "url": "https://www.facebook.com/OnlyStateHouseZambia/",
+      "source": "Official State House Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "State House Press Office",
+      "url": "https://twitter.com/statehousepress",
+      "source": "Official State House social media"
+    },
+    {
+      "type": "email",
+      "label": "Zambia Development Agency (Business/Investment)",
+      "value": "info@zda.org.zm",
+      "source": "Official ZDA website (zda.org.zm)"
+    },
+    {
+      "type": "phone",
+      "label": "Zambia Development Agency",
+      "value": "+260 211 220177",
+      "source": "Official ZDA website (zda.org.zm)"
+    },
+    {
+      "type": "address",
+      "label": "Zambia Development Agency",
+      "value": "Privatisation House, Nasser Road, Lusaka, Zambia",
+      "source": "Official ZDA website"
+    },
+    {
+      "type": "website",
+      "label": "Zambia Development Agency",
+      "url": "https://zda.org.zm/",
+      "source": "Official government agency domain"
+    }
+  ]
+}

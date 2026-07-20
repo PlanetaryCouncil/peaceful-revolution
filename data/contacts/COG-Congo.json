@@ -1,0 +1,168 @@
+{
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "sg_maef@hotmail.fr",
+      "source": "Official ministry contact list, verified via multiple sources"
+    },
+    {
+      "type": "email",
+      "label": "General Government Contact",
+      "value": "contact@gouvernement.cg",
+      "source": "Official government website (gouvernement.cg)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Republic of Congo (USA)",
+      "value": "info@ambacongo-us.org",
+      "source": "Official embassy website (ambacongo-us.org)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finances, Budget and Public Portfolio",
+      "value": "contact@finances.gouv.cg",
+      "source": "Official ministry website (finances.gouv.cg)"
+    },
+    {
+      "type": "email",
+      "label": "Investment Promotion Agency (API-Congo)",
+      "value": "contact@apicongo.cg",
+      "source": "Official API website (apicongo.cg)"
+    },
+    {
+      "type": "email",
+      "label": "National Assembly",
+      "value": "contact@assembleenationale.cg",
+      "source": "Official National Assembly contact information"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+242 06 444 2848",
+      "source": "Official Présidence de la République website (presidence.cg)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+242 22 281 41 60",
+      "source": "Official ministry contact list"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Fax",
+      "value": "+242 22 282 38 16",
+      "source": "Official ministry contact list"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finances",
+      "value": "+242 06 999 9999",
+      "source": "Official ministry website (finances.gouv.cg)"
+    },
+    {
+      "type": "phone",
+      "label": "Investment Promotion Agency (API-Congo)",
+      "value": "+242 06 666 81 62",
+      "source": "Official API website (apicongo.cg)"
+    },
+    {
+      "type": "phone",
+      "label": "National Assembly",
+      "value": "+242 22 281 17 27",
+      "source": "Official National Assembly contact"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Republic of Congo (USA)",
+      "value": "+1-202-726-5500",
+      "source": "Official embassy website (ambacongo-us.org)"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://presidence.cg/",
+      "source": "Official presidential website"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "https://gouvernement.cg/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finances",
+      "url": "https://www.finances.gouv.cg/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Investment Promotion Agency",
+      "url": "https://apicongo.cg/",
+      "source": "Official API website"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Republic of Congo (USA)",
+      "url": "https://www.ambacongo-us.org/",
+      "source": "Official embassy website"
+    },
+    {
+      "type": "twitter",
+      "label": "President's Office Official",
+      "url": "https://x.com/PR_Congo",
+      "source": "Official presidential Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Government Official",
+      "url": "https://x.com/GouvernementCG",
+      "source": "Official government Twitter account"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office",
+      "url": "https://www.facebook.com/PresidenceCG/",
+      "source": "Official presidential Facebook page"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Palais du Peuple)",
+      "value": "B.P. 2087 RP, Brazzaville, Republic of Congo",
+      "source": "Official Présidence de la République website (presidence.cg)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "BP 2070, Boulevard du Général Raoul (opposite Palais de Congrès), Brazzaville, Republic of Congo",
+      "source": "Official ministry contact information"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finances",
+      "value": "23 Boulevard Denis Sassou N'Guesso, BP 90, Brazzaville, Republic of Congo",
+      "source": "Official ministry website (finances.gouv.cg)"
+    },
+    {
+      "type": "address",
+      "label": "Investment Promotion Agency (API-Congo)",
+      "value": "152, Avenue Charles de Gaulle, Plateau ville, Brazzaville, Republic of Congo",
+      "source": "Official API website (apicongo.cg)"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Republic of Congo (Washington D.C., USA)",
+      "value": "1720 16th Street, NW, Washington, DC 20009, USA",
+      "source": "Official embassy website (ambacongo-us.org)"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly",
+      "value": "B.P. 2106, Brazzaville, Republic of Congo",
+      "source": "Official National Assembly contact information"
+    }
+  ],
+  "country_name": "Congo",
+  "iso": "COG"
+}

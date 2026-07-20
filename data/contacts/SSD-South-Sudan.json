@@ -1,0 +1,60 @@
+{
+  "iso": "SSD",
+  "country_name": "South Sudan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "info@mofaic.gov.ss",
+      "source": "https://mofaic.gov.ss/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://mofaic.gov.ss/",
+      "source": "https://mofaic.gov.ss/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "Ministries Complex, Juba, South Sudan",
+      "source": "https://mofaic.gov.ss/contact-us/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-and-International-Cooperation-of-South-Sudan-100075949121921/",
+      "source": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-and-International-Cooperation-of-South-Sudan-100075949121921/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://op.gov.ss/",
+      "source": "https://op.gov.ss/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "https://www.facebook.com/StateHouseJ1/",
+      "source": "https://www.facebook.com/StateHouseJ1/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://x.com/statehouse_j1",
+      "source": "https://x.com/statehouse_j1?lang=en"
+    },
+    {
+      "type": "twitter",
+      "label": "South Sudan Government Official",
+      "url": "https://x.com/SouthSudanGov",
+      "source": "https://x.com/SouthSudanGov?lang=en"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "State House J1, Juba, South Sudan",
+      "source": "https://www.facebook.com/StateHouseJ1/"
+    }
+  ]
+}

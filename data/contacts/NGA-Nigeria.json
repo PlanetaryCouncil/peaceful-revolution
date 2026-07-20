@@ -1,0 +1,120 @@
+{
+  "iso": "NGA",
+  "country_name": "Nigeria",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@foreignaffairs.gov.ng",
+      "source": "https://www.foreignaffairs.gov.ng/"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Office (The State House)",
+      "value": "info@statehouse.gov.ng",
+      "source": "https://statehouse.gov.ng/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Secretary to the Government of the Federation (OSGF)",
+      "value": "info@osgf.gov.ng",
+      "source": "https://www.osgf.gov.ng/contact_us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+234 952365223",
+      "source": "https://www.foreignaffairs.gov.ng/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office (The State House)",
+      "value": "+234 2096 252 000",
+      "source": "https://statehouse.gov.ng/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Secretary to the Government of the Federation",
+      "value": "09055227151",
+      "source": "https://www.osgf.gov.ng/contact_us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.foreignaffairs.gov.ng/",
+      "source": "https://www.foreignaffairs.gov.ng/"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office (The State House)",
+      "url": "https://statehouse.gov.ng/",
+      "source": "https://statehouse.gov.ng/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Secretary to the Government of the Federation",
+      "url": "https://www.osgf.gov.ng/",
+      "source": "https://www.osgf.gov.ng/"
+    },
+    {
+      "type": "website",
+      "label": "Nigeria E-Government Portal",
+      "url": "https://services.gov.ng/",
+      "source": "https://services.gov.ng/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs, Nigeria",
+      "url": "https://twitter.com/NigeriaMFA",
+      "source": "https://twitter.com/NigeriaMFA"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency Nigeria",
+      "url": "https://twitter.com/NGRPresident",
+      "source": "https://twitter.com/NGRPresident"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Nigeria",
+      "url": "https://twitter.com/NigeriaGov",
+      "source": "https://twitter.com/NigeriaGov"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs, Nigeria",
+      "url": "https://www.facebook.com/foreignaffairsnigeria/",
+      "source": "https://www.facebook.com/foreignaffairsnigeria/"
+    },
+    {
+      "type": "facebook",
+      "label": "Federal Government of Nigeria",
+      "url": "https://www.facebook.com/FGNigeria",
+      "source": "https://www.facebook.com/FGNigeria"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the Secretary to the Government of the Federation",
+      "url": "https://www.facebook.com/OfficeoftheSGF/",
+      "source": "https://www.facebook.com/OfficeoftheSGF/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Tafewa Balewa House, Central Business District, Abuja",
+      "source": "https://www.foreignaffairs.gov.ng/"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (The State House)",
+      "value": "Aso Rock Villa, Asokoro, Abuja",
+      "source": "https://statehouse.gov.ng/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Secretary to the Government of the Federation",
+      "value": "Shehu Shagari Complex, Three Arms Zone, Abuja",
+      "source": "https://www.osgf.gov.ng/contact_us/"
+    }
+  ]
+}

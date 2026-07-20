@@ -1,0 +1,108 @@
+{
+  "iso": "TZA",
+  "country_name": "Tanzania",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (General)",
+      "value": "nje@nje.go.tz",
+      "source": "https://www.foreign.go.tz/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Dodoma Office)",
+      "value": "dodoma@nje.go.tz",
+      "source": "https://www.foreign.go.tz/contacts"
+    },
+    {
+      "type": "email",
+      "label": "President's Office (Ikulu) - Press/Communications",
+      "value": "press@ikulu.go.tz",
+      "source": "https://www.ikulu.go.tz/contactus"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+255-26-2323201-7",
+      "source": "https://www.foreign.go.tz/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Fax",
+      "value": "+255-26-2323208",
+      "source": "https://www.foreign.go.tz/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office (Ikulu)",
+      "value": "+255-26-2961500",
+      "source": "https://www.ikulu.go.tz/contactus"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office (Ikulu) - Secondary",
+      "value": "+255-26-2961502",
+      "source": "https://www.ikulu.go.tz/contactus"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and East African Cooperation",
+      "url": "https://www.foreign.go.tz/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "President's Office (Ikulu)",
+      "url": "https://www.ikulu.go.tz/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Main Government Portal - United Republic of Tanzania",
+      "url": "https://www.tanzania.go.tz/",
+      "source": "Official government website"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/mfa_tanzania",
+      "source": "https://x.com/mfa_tanzania"
+    },
+    {
+      "type": "twitter",
+      "label": "President's Office (Ikulu) - Official Communications",
+      "url": "https://x.com/ikulumawasliano",
+      "source": "https://www.ikulu.go.tz/contactus"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and East African Cooperation",
+      "url": "https://www.facebook.com/MFATanzania/",
+      "source": "https://www.facebook.com/MFATanzania/"
+    },
+    {
+      "type": "facebook",
+      "label": "President's Office (Ikulu) - Official Communications",
+      "url": "https://www.facebook.com/ikulu.mawasiliano/",
+      "source": "https://www.ikulu.go.tz/contactus"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Physical Address",
+      "value": "LAPF Building 6th Floor, Makole Road, 40466 Dodoma, Tanzania",
+      "source": "https://www.foreign.go.tz/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Postal Address",
+      "value": "P.O. Box 2933, Dodoma, Tanzania",
+      "source": "https://www.foreign.go.tz/contacts"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Ikulu) - Address",
+      "value": "1 Julius Nyerere Street, Chamwino, P.O. Box 1102, 40400 Dodoma, Tanzania",
+      "source": "https://www.ikulu.go.tz/contactus"
+    }
+  ]
+}

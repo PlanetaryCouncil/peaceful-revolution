@@ -1,0 +1,108 @@
+{
+  "iso": "LSO",
+  "country_name": "Lesotho",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Relations",
+      "value": "Ps.Foreign@gov.ls",
+      "source": "https://foreignaffairs.gov.ls/Home/Contact"
+    },
+    {
+      "type": "email",
+      "label": "Government Contact Centre",
+      "value": "contact.centre@gov.ls",
+      "source": "https://www.gov.ls/contact-us-2/"
+    },
+    {
+      "type": "email",
+      "label": "Public Relations Office",
+      "value": "pr.office@gov.ls",
+      "source": "https://www.gov.ls/contact-us-2/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the King",
+      "value": "[email protected]",
+      "source": "Government of Lesotho Official Directory"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+266 2231 1150",
+      "source": "https://foreignaffairs.gov.ls/Home/Contact"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Line",
+      "value": "+266 8001 0100",
+      "source": "https://www.gov.ls/contact-us-2/"
+    },
+    {
+      "type": "phone",
+      "label": "Public Relations Office",
+      "value": "+266 2231 3761",
+      "source": "https://www.gov.ls/contact-us-2/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the King",
+      "value": "+266 22 322170",
+      "source": "Government of Lesotho Official Directory"
+    },
+    {
+      "type": "website",
+      "label": "Government of Lesotho",
+      "url": "https://www.gov.ls/",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://foreignaffairs.gov.ls/",
+      "source": "Ministry Official Website"
+    },
+    {
+      "type": "website",
+      "label": "Lesotho National Development Corporation",
+      "url": "https://lndc.org.ls/",
+      "source": "LNDC Official Website"
+    },
+    {
+      "type": "facebook",
+      "label": "Lesotho Government",
+      "url": "https://www.facebook.com/LesothoSpokesperson/",
+      "source": "Official Government Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mofairlesotho/",
+      "source": "Ministry Official Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Lesotho Government Public Relations",
+      "url": "https://x.com/LesothoPR",
+      "source": "Official Government X Account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Qhobosheaneng Government Complex, Griffith Hill Road, P.O. Box 1387, Maseru 100, Lesotho",
+      "source": "Ministry Official Website"
+    },
+    {
+      "type": "address",
+      "label": "Office of the King - Royal Palace Secretariat",
+      "value": "P.O. Box 527, Maseru, Lesotho",
+      "source": "Government of Lesotho Official Directory"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Trade and Industry (Business Development)",
+      "value": "+266 22321559 / +266 22326130",
+      "source": "Government of Lesotho"
+    }
+  ]
+}

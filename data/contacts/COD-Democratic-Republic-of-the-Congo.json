@@ -1,0 +1,108 @@
+{
+  "iso": "COD",
+  "country_name": "Democratic Republic of the Congo",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Cabinet)",
+      "value": "cabinet@primature.cd",
+      "source": "https://www.primature.gouv.cd/contact"
+    },
+    {
+      "type": "email",
+      "label": "President's Cabinet",
+      "value": "cabinet.president@presidentrdc.cd",
+      "source": "https://www.presidentrdc.cd"
+    },
+    {
+      "type": "email",
+      "label": "Constitutional Court",
+      "value": "info@cour-constitutionnelle.cd",
+      "source": "https://www.cour-constitutionnelle.cd"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office - Main",
+      "value": "+243 81 555 56 67",
+      "source": "https://www.primature.gouv.cd"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office - Fax",
+      "value": "+243 81 555 55 81",
+      "source": "https://www.primature.gouv.cd"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.presidence.cd",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office (Primature)",
+      "url": "https://www.primature.gouv.cd",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Constitutional Court",
+      "url": "https://www.cour-constitutionnelle.cd",
+      "source": "Official government website"
+    },
+    {
+      "type": "facebook",
+      "label": "Primature RDC",
+      "url": "https://www.facebook.com/PrimatureRDCongo",
+      "source": "https://www.primature.gouv.cd"
+    },
+    {
+      "type": "facebook",
+      "label": "Présidence RDC - Press Service",
+      "url": "https://www.facebook.com/pressepresidentielle.rdc",
+      "source": "https://www.presidentrdc.cd"
+    },
+    {
+      "type": "facebook",
+      "label": "Constitutional Court",
+      "url": "https://www.facebook.com/CourconstitutionnelleRDCongo",
+      "source": "https://www.cour-constitutionnelle.cd"
+    },
+    {
+      "type": "twitter",
+      "label": "Primature RDC",
+      "url": "https://twitter.com/PrimatureRDC",
+      "source": "https://www.primature.gouv.cd"
+    },
+    {
+      "type": "twitter",
+      "label": "Présidence RDC",
+      "url": "https://twitter.com/Presidence_RDC",
+      "source": "https://www.presidentrdc.cd"
+    },
+    {
+      "type": "twitter",
+      "label": "Constitutional Court",
+      "url": "https://twitter.com/Cour_constRdc",
+      "source": "https://www.cour-constitutionnelle.cd"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "05 Avenue Roi Baudouin, Kinshasa/Gombe, DR Congo",
+      "source": "https://www.primature.gouv.cd"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Palais de la Nation)",
+      "value": "Avenue Roi Baudouin, Kinshasa-Gombe, BP 201 Kin 1, DR Congo",
+      "source": "https://www.presidence.cd"
+    },
+    {
+      "type": "address",
+      "label": "Constitutional Court",
+      "value": "Croisement des avenues Kalume et Kauka, Immeuble Kwango, Kinshasa/Gombe, DR Congo",
+      "source": "https://www.cour-constitutionnelle.cd"
+    }
+  ]
+}

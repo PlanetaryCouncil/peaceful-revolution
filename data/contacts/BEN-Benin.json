@@ -1,0 +1,108 @@
+{
+  "iso": "BEN",
+  "country_name": "Benin",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Cooperation",
+      "value": "maec.contact@gouv.bj",
+      "source": "diplomatie.gouv.bj / Facebook official Ministry of Foreign Affairs page"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs Secretariat",
+      "value": "secretariat-maec@gouv.bj",
+      "source": "maec-new.olasoft.net official ministry contact page"
+    },
+    {
+      "type": "email",
+      "label": "Presidency Office",
+      "value": "Inf.contact@presidence.bj",
+      "source": "presidence.bj official website"
+    },
+    {
+      "type": "email",
+      "label": "Benin Permanent Mission to United Nations",
+      "value": "beninewyork@gmail.com",
+      "source": "un.int official UN Permanent Mission page"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Cooperation",
+      "value": "+229 21 30 91 44",
+      "source": "maec-new.olasoft.net official ministry contact page"
+    },
+    {
+      "type": "phone",
+      "label": "Benin Permanent Mission to United Nations - Main",
+      "value": "+1 212-684-1339",
+      "source": "un.int official UN Permanent Mission page"
+    },
+    {
+      "type": "phone",
+      "label": "Benin Permanent Mission to United Nations - Secondary",
+      "value": "+1 212-684-2058",
+      "source": "un.int official UN Permanent Mission page"
+    },
+    {
+      "type": "website",
+      "label": "Official Government",
+      "url": "https://www.gouv.bj",
+      "source": "Verified official website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://diplomatie.gouv.bj",
+      "source": "Verified official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Presidency",
+      "url": "https://presidence.bj",
+      "source": "Verified official presidency website"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Benin Official",
+      "url": "https://www.facebook.com/gouvbenin/",
+      "source": "Official government Facebook verified"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/benindiplomatie/",
+      "source": "Official ministry Facebook verified"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of the Republic",
+      "url": "https://www.facebook.com/presidencebenin/",
+      "source": "Official presidency Facebook verified"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Benin",
+      "url": "https://twitter.com/gouvbenin",
+      "source": "Official government Twitter verified"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/BeninDiplomatie",
+      "source": "Official ministry X (Twitter) verified"
+    },
+    {
+      "type": "address",
+      "label": "Benin Permanent Mission to United Nations",
+      "value": "125 East 38th Street, New York, N.Y. 10016, USA",
+      "source": "un.int official UN Permanent Mission page"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly",
+      "value": "Assemblée nationale 01 B.P. 371 PORTO-NOVO, Benin",
+      "source": "IPU Parline official database"
+    }
+  ]
+}

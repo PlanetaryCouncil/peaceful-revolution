@@ -1,0 +1,114 @@
+{
+  "iso": "CMR",
+  "country_name": "Cameroon",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "value": "e.diplomacy@diplocam.cm",
+      "source": "Official MINREX website and verified government contacts"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "contact@spm.gov.cm",
+      "source": "Official Prime Minister's Office website (spm.gov.cm)"
+    },
+    {
+      "type": "email",
+      "label": "Investment Promotion Agency (CIPA)",
+      "value": "info@investincameroon.net",
+      "source": "Official Investment Promotion Agency (investincameroon.net)"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency of the Republic",
+      "value": "(237) 22 23 40 25, Extension 4382",
+      "source": "Official Presidency website (prc.cm/en/contact)"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "(+237) 222 238 005",
+      "source": "Official Prime Minister's Office website (spm.gov.cm)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "value": "+237 2 22 20 79 14",
+      "source": "Official government contacts and MINREX verified information"
+    },
+    {
+      "type": "phone",
+      "label": "Investment Promotion Agency (CIPA)",
+      "value": "(+237) 222 21 87 12",
+      "source": "Official Investment Promotion Agency (prc.cm/en/invest-in-cameroon/api)"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic",
+      "url": "https://www.prc.cm/en/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.spm.gov.cm/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Investment Promotion Agency",
+      "url": "https://www.investincameroon.net",
+      "source": "Official business development agency"
+    },
+    {
+      "type": "facebook",
+      "label": "President Paul Biya Official Page",
+      "url": "https://www.facebook.com/PaulBiya.PageOfficielle/",
+      "source": "Verified official presidency account"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "url": "https://www.facebook.com/minrex.cm/",
+      "source": "Official MINREX social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Investment Promotion Agency",
+      "url": "https://www.facebook.com/API.Cameroun/",
+      "source": "Official business development agency"
+    },
+    {
+      "type": "twitter",
+      "label": "President of Cameroon Official Account",
+      "url": "https://x.com/PR_Paul_BIYA",
+      "source": "Verified official presidency account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Diplomacy",
+      "url": "https://x.com/diplocam_minrex",
+      "source": "Official MINREX diplomatic relations account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "value": "703, Rue de l'Hippodrome, Yaoundé 1, BP 018, Cameroon",
+      "source": "Official MINREX contact information"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Down Town Yaounde, May 20 Boulevard, Cameroon",
+      "source": "Official Prime Minister's Office website (spm.gov.cm)"
+    },
+    {
+      "type": "address",
+      "label": "Investment Promotion Agency (CIPA)",
+      "value": "Nouvelle route Bastos, opposite Bethesda hospital, P.O BOX 20771, Yaoundé, Cameroon",
+      "source": "Official Investment Promotion Agency verified address"
+    }
+  ]
+}

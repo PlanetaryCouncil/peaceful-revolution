@@ -1,0 +1,168 @@
+{
+  "iso": "DJI",
+  "country_name": "Djibouti",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission to the United Nations",
+      "value": "djibouti@nyct.net",
+      "source": "https://www.un.int/djibouti/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy in Washington, DC",
+      "value": "info@djiboutiembassyus.org",
+      "source": "https://djiboutiembassyus.org/"
+    },
+    {
+      "type": "email",
+      "label": "Chamber of Commerce",
+      "value": "ccd@ccd.dj",
+      "source": "https://ccd.dj/"
+    },
+    {
+      "type": "email",
+      "label": "National Tourism Office",
+      "value": "infotourisme@visitdjibouti.dj",
+      "source": "https://guide.visitdjibouti.dj/contact/"
+    },
+    {
+      "type": "email",
+      "label": "National Investment Promotion Agency",
+      "value": "contact@djiboutinvest.com",
+      "source": "https://www.djiboutinvest.com/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy in Paris, France",
+      "value": "webmaster@ambassadedjibouti.org",
+      "source": "https://www.embassypages.com/djibouti-embassy-paris-france"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to the United Nations",
+      "value": "+1 (212) 753-3163",
+      "source": "https://www.un.int/djibouti/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Palace Office",
+      "value": "+253 21 35 02 01",
+      "source": "https://dji.soopage.com/company/PRESIDENCE-DE-LA-REPUBLIQUE_at.html"
+    },
+    {
+      "type": "phone",
+      "label": "National Tourism Office",
+      "value": "+253 21 35 28 00",
+      "source": "https://guide.visitdjibouti.dj/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Chamber of Commerce",
+      "value": "+253 21 35 10 70",
+      "source": "https://ccd.dj/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy in Washington, DC",
+      "value": "+1 (202) 331-0270",
+      "source": "https://djiboutiembassyus.org/"
+    },
+    {
+      "type": "phone",
+      "label": "National Investment Promotion Agency",
+      "value": "+253 21 32 73 52",
+      "source": "https://www.djiboutinvest.com/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy in Paris, France",
+      "value": "+33 1 47 04 03 36",
+      "source": "https://www.embassypages.com/djibouti-embassy-paris-france"
+    },
+    {
+      "type": "website",
+      "label": "Official Government - Presidential Office",
+      "url": "https://www.presidence.dj/",
+      "source": "https://www.djiboutiembassyus.org/page/djibouti-government-links"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://diplomatie.gouv.dj/",
+      "source": "https://www.djiboutiembassyus.org/page/djibouti-government-links"
+    },
+    {
+      "type": "website",
+      "label": "Chamber of Commerce",
+      "url": "https://ccd.dj/",
+      "source": "https://ccd.dj/"
+    },
+    {
+      "type": "website",
+      "label": "National Investment Promotion Agency",
+      "url": "https://www.djiboutinvest.com/",
+      "source": "https://www.djiboutinvest.com/"
+    },
+    {
+      "type": "website",
+      "label": "National Tourism Office",
+      "url": "https://guide.visitdjibouti.dj/",
+      "source": "https://guide.visitdjibouti.dj/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy in Washington, DC",
+      "url": "https://www.djiboutiembassyus.org/",
+      "source": "https://djiboutiembassyus.org/"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office - Présidence de la République de Djibouti",
+      "url": "https://www.facebook.com/PresidenceDjibouti/",
+      "source": "https://www.facebook.com/PresidenceDjibouti/"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Palace",
+      "value": "BP 6, Djibouti Ville, Djibouti",
+      "source": "https://dji.soopage.com/company/PRESIDENCE-DE-LA-REPUBLIQUE_at.html"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission to the United Nations",
+      "value": "866 United Nations Plaza, Suite 4011, New York, N.Y. 10017, USA",
+      "source": "https://www.un.int/djibouti/"
+    },
+    {
+      "type": "address",
+      "label": "Chamber of Commerce",
+      "value": "Place Lagarde, Djibouti",
+      "source": "https://ccd.dj/"
+    },
+    {
+      "type": "address",
+      "label": "National Tourism Office",
+      "value": "Place du 27 Juin, Djibouti Ville, B.P 1938, Djibouti",
+      "source": "https://guide.visitdjibouti.dj/contact/"
+    },
+    {
+      "type": "address",
+      "label": "National Investment Promotion Agency",
+      "value": "BP 1884, Djibouti (Marseille-Djibouti Street)",
+      "source": "https://www.djiboutinvest.com/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy in Washington, DC",
+      "value": "1156 15th Street NW, Suite 515, Washington, DC 20005, USA",
+      "source": "https://djiboutiembassyus.org/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy in Paris, France",
+      "value": "26 Rue Emile Menier, 75116 Paris, France",
+      "source": "https://www.embassypages.com/djibouti-embassy-paris-france"
+    }
+  ]
+}

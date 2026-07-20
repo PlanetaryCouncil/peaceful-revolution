@@ -1,0 +1,120 @@
+{
+  "iso": "MLI",
+  "country_name": "Mali",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "value": "contact.mdc@diplomatie.gouv.ml",
+      "source": "Official Ministry website (diplomatiemdc.gouv.ml)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "value": "+223 20 22 50 92",
+      "source": "Official Ministry website (diplomatiemdc.gouv.ml)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "value": "Koulouba, BP 11, Bamako, Mali",
+      "source": "Official Ministry website (diplomatiemdc.gouv.ml)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "url": "https://diplomatiemdc.gouv.ml/",
+      "source": "Official government website"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "url": "https://x.com/MaliMaeci",
+      "source": "Official Twitter account @MaliMaeci"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs & International Cooperation",
+      "url": "https://www.facebook.com/maeciia1960",
+      "source": "Official Ministry website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Economy and Finance",
+      "value": "contact@finances.ml",
+      "source": "Official Ministry website (finances.ml)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Economy and Finance",
+      "value": "+223 20 22 58 58",
+      "source": "Official Ministry website (finances.ml)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Economy and Finance",
+      "value": "Hamdallaye ACI 2000, Bamako, Mali",
+      "source": "Official Ministry website (finances.ml)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Economy and Finance",
+      "url": "https://www.finances.ml/",
+      "source": "Official government website"
+    },
+    {
+      "type": "email",
+      "label": "Investment Promotion Agency (API Mali)",
+      "value": "info@apimali.gov.ml",
+      "source": "Official API website (apimali.gov.ml)"
+    },
+    {
+      "type": "phone",
+      "label": "Investment Promotion Agency (API Mali)",
+      "value": "+223 20 22 95 25",
+      "source": "WIPO directory / API official contact"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office (Koulouba Palace)",
+      "url": "https://www.koulouba.ml/",
+      "source": "Official Presidential website"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office (Koulouba Palace)",
+      "url": "https://x.com/PresidenceMali",
+      "source": "Official Presidential Twitter account"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office (Koulouba Palace)",
+      "url": "https://www.facebook.com/Presidence.Mali/",
+      "source": "Official Presidential Facebook"
+    },
+    {
+      "type": "email",
+      "label": "Mali Embassy in United States",
+      "value": "administration@maliembassy.us",
+      "source": "Official Embassy website (maliembassy.us)"
+    },
+    {
+      "type": "phone",
+      "label": "Mali Embassy in United States",
+      "value": "+1 202-332-2249",
+      "source": "Official Embassy website (maliembassy.us)"
+    },
+    {
+      "type": "address",
+      "label": "Mali Embassy in United States",
+      "value": "2130 R Street NW, Washington, D.C. 20008, USA",
+      "source": "Official Embassy website (maliembassy.us)"
+    },
+    {
+      "type": "website",
+      "label": "Mali Embassy in United States",
+      "url": "https://maliembassy.us/",
+      "source": "Official Embassy website"
+    }
+  ]
+}

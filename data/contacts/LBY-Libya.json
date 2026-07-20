@@ -1,0 +1,102 @@
+{
+  "iso": "LBY",
+  "country_name": "Libya",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "info@mofaicly.com",
+      "source": "https://www.mofaicly.com/HomeEng.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "+218 61 4741427",
+      "source": "https://www.mofaicly.com/HomeEng.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation (alternate)",
+      "value": "+218 61 4741436",
+      "source": "https://www.mofaicly.com/HomeEng.html"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "Kairouan Street, behind Youssef Booker School, Benghazi, Libya",
+      "source": "https://www.mofaicly.com/HomeEng.html"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.mofaicly.com/",
+      "source": "https://www.mofaicly.com/HomeEng.html"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.facebook.com/mofaicly.ly/",
+      "source": "https://www.facebook.com/mofaicly.ly/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://x.com/Mofa_Libya",
+      "source": "https://x.com/Mofa_Libya"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Government of National Unity, Tripoli)",
+      "value": "[email protected]",
+      "source": "https://www.libyamonitor.com/directory/government-institutions/ministries-and-councils/prime-ministers-office-tripoli-govt"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Government of National Unity, Tripoli)",
+      "value": "+218 21 3342445",
+      "source": "https://www.libyamonitor.com/directory/government-institutions/ministries-and-councils/prime-ministers-office-tripoli-govt"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance",
+      "value": "info@mof.gov.ly",
+      "source": "https://mof.gov.ly/en/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance",
+      "value": "+218 21 362 0145-49",
+      "source": "https://mof.gov.ly/en/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance",
+      "value": "Sikka Road, Tripoli, Libya",
+      "source": "https://mof.gov.ly/en/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Libya in Washington, D.C.",
+      "value": "info@embassyoflibyadc.com",
+      "source": "https://www.embassyoflibyadc.org/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Libya in Washington, D.C. - Consular Services",
+      "value": "Consular.sec@embassyoflibyadc.com",
+      "source": "https://www.embassyoflibyadc.org/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Libya in Washington, D.C.",
+      "value": "(202) 944-9601",
+      "source": "https://www.embassyoflibyadc.org/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Libya in Washington, D.C.",
+      "value": "1460 Dahlia Street NW, Washington, DC 20012, USA",
+      "source": "https://www.embassyoflibyadc.org/contact-us"
+    }
+  ]
+}

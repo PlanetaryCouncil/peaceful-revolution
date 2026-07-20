@@ -1,0 +1,126 @@
+{
+  "iso": "ERI",
+  "country_name": "Eritrea",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Eritrean Embassy Washington DC - General Inquiries",
+      "value": "embassyeritrea@embassyeritrea.org",
+      "source": "https://us.embassyeritrea.org/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Eritrean Embassy Washington DC - Consular Services",
+      "value": "consular_washington@embassyeritrea.org",
+      "source": "https://us.embassyeritrea.org/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Eritrean Mission to African Union (Addis Ababa)",
+      "value": "Eritreanaumission@gmail.com",
+      "source": "https://www.embassyeritrea.org/"
+    },
+    {
+      "type": "email",
+      "label": "Eritrean Embassy Ethiopia (Addis Ababa) - Consulate",
+      "value": "ericonsulateaddisabeba@gmail.com",
+      "source": "https://www.embassyeritrea.org/"
+    },
+    {
+      "type": "email",
+      "label": "Eritrean UN Representation (New York)",
+      "value": "general@eritreaun.org",
+      "source": "https://www.embassyeritrea.org/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Asmara)",
+      "value": "+291-1-11-3811",
+      "source": "https://www.ecoi.net/en/file/local/1232903/1002_1264712883_eritrea.PDF"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Information (Asmara)",
+      "value": "+291-1-128-058",
+      "source": "https://shabait.com/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Eritrean Embassy Washington DC",
+      "value": "+1-202-319-1991",
+      "source": "https://us.embassyeritrea.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office (Asmara)",
+      "value": "+291-1-125-123",
+      "source": "http://www.eritreanbusinesses.com/places/united-states/attractions/eritrea-government-offices/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Information - Official Government Portal",
+      "url": "https://shabait.com/",
+      "source": "https://shabait.com/"
+    },
+    {
+      "type": "website",
+      "label": "Eritrean Embassies Global Directory",
+      "url": "https://www.embassyeritrea.org/",
+      "source": "https://www.embassyeritrea.org/"
+    },
+    {
+      "type": "website",
+      "label": "Eritrean Embassy Washington DC",
+      "url": "https://us.embassyeritrea.org/",
+      "source": "https://us.embassyeritrea.org/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Information Eritrea",
+      "url": "https://www.facebook.com/moieritrea/",
+      "source": "https://www.facebook.com/moieritrea/"
+    },
+    {
+      "type": "facebook",
+      "label": "Eritrean Embassy Washington DC",
+      "url": "https://www.facebook.com/usembassyasmara/",
+      "source": "https://www.facebook.com/usembassyasmara/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Information (@shabait)",
+      "url": "https://x.com/shabait",
+      "source": "https://x.com/shabait"
+    },
+    {
+      "type": "twitter",
+      "label": "President's Office (@PAfwerki)",
+      "url": "https://x.com/pafwerki",
+      "source": "https://x.com/pafwerki"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Asmara)",
+      "value": "P.O. Box 190, Asmara, Eritrea",
+      "source": "https://www.ecoi.net/en/file/local/1232903/1002_1264712883_eritrea.PDF"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Information (Asmara)",
+      "value": "P.O. Box 242, Asmara, Eritrea",
+      "source": "https://shabait.com/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Asmara)",
+      "value": "P.O. Box 257, Asmara, Eritrea",
+      "source": "http://www.eritreanbusinesses.com/places/united-states/attractions/eritrea-government-offices/"
+    },
+    {
+      "type": "address",
+      "label": "Eritrean Embassy Washington DC",
+      "value": "1708 New Hampshire Ave NW, Washington, DC 20009, USA",
+      "source": "https://us.embassyeritrea.org/contact-us/"
+    }
+  ]
+}

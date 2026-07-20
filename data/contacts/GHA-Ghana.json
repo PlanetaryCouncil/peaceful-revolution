@@ -1,0 +1,108 @@
+{
+  "iso": "GHA",
+  "country_name": "Ghana",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General Inquiries",
+      "value": "info@mfa.gov.gh",
+      "source": "https://mfa.gov.gh/index.php/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - International Programs & Humanitarian Affairs",
+      "value": "ipab@mfa.gov.gh",
+      "source": "https://mfa.gov.gh/index.php/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Candidatures Unit",
+      "value": "candidatures@mfa.gov.gh",
+      "source": "https://mfa.gov.gh/index.php/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "The Presidency - Office of the President",
+      "value": "office@presidency.gov.gh",
+      "source": "https://presidency.gov.gh/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Client Service",
+      "value": "+233 240793072",
+      "source": "https://mfa.gov.gh/index.php/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "+233 204552750",
+      "source": "https://mfa.gov.gh/index.php/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "The Presidency - Office of the President",
+      "value": "+233 30 266 5000",
+      "source": "https://www.ghanayello.com/company/33877/Office_of_the_President"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Postal",
+      "value": "Post Office Box M53, Accra, Ghana",
+      "source": "https://mfa.gov.gh/index.php/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Physical",
+      "value": "No. 5 Agostinho Neto Road, Liberation Avenue, Airport Residential Area, Accra, Ghana",
+      "source": "https://mfa.gov.gh/index.php/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "The Presidency - Office of the President",
+      "value": "Jubilee House, Liberation Road, Accra, Greater Accra, Ghana",
+      "source": "https://www.ghanayello.com/company/33877/Office_of_the_President"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.gh",
+      "source": "https://mfa.gov.gh/"
+    },
+    {
+      "type": "website",
+      "label": "The Presidency",
+      "url": "https://presidency.gov.gh/",
+      "source": "https://presidency.gov.gh/"
+    },
+    {
+      "type": "website",
+      "label": "Ghana Government Portal",
+      "url": "https://www.ghana.gov.gh/",
+      "source": "https://www.ghana.gov.gh/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs Ghana",
+      "url": "https://www.facebook.com/mfarighana/",
+      "source": "https://www.facebook.com/mfarighana/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ghana Government Official",
+      "url": "https://x.com/ghanagov",
+      "source": "https://x.com/ghanagov"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Ghana",
+      "url": "https://x.com/GhanaMFA",
+      "source": "https://x.com/GhanaMFA"
+    },
+    {
+      "type": "twitter",
+      "label": "Ghana Presidency",
+      "url": "https://x.com/GhanaPresidency",
+      "source": "https://x.com/GhanaPresidency"
+    }
+  ]
+}

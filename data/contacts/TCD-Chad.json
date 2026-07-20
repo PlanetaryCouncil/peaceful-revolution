@@ -1,0 +1,114 @@
+{
+  "iso": "TCD",
+  "country_name": "Chad",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "The Presidency of Chad",
+      "value": "contact@presidence.td",
+      "source": "Official Presidency website - presidence-tchad.org"
+    },
+    {
+      "type": "email",
+      "label": "Chad Embassy in the United States",
+      "value": "info@chadembassy.us",
+      "source": "Official Embassy website - chadembassy.us"
+    },
+    {
+      "type": "email",
+      "label": "Chad Embassy in India (New Delhi)",
+      "value": "ambatchad.delhi@gmail.com",
+      "source": "Chad Embassy in India official information"
+    },
+    {
+      "type": "phone",
+      "label": "The Presidency of Chad",
+      "value": "+235 22 514 437",
+      "source": "Official Presidency contact information"
+    },
+    {
+      "type": "phone",
+      "label": "Chad Embassy in the United States",
+      "value": "+1 202 652 1312",
+      "source": "Official Embassy website - chadembassy.us"
+    },
+    {
+      "type": "phone",
+      "label": "Chad Embassy in India",
+      "value": "+91 11 4164 5584",
+      "source": "Chad Embassy in India official information"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance and Budget",
+      "value": "+235 22 520 451",
+      "source": "Government contact directory"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Agriculture",
+      "value": "+235 66 000 000",
+      "source": "Government contact directory"
+    },
+    {
+      "type": "website",
+      "label": "Official Government - The Presidency",
+      "url": "https://www.presidence-tchad.org/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance and Budget",
+      "url": "https://finances.gouv.td/",
+      "source": "Official government ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Agriculture",
+      "url": "https://agriculture.gouv.td/",
+      "source": "Official government ministry website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Tchad Diplomatie",
+      "url": "https://www.facebook.com/chadianmfa/",
+      "source": "Official Ministry of Foreign Affairs Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-of-republic-of-chad-100067702132163/",
+      "source": "Official Ministry of Foreign Affairs Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - Tchad Diplomatie",
+      "url": "https://x.com/chadianmfa",
+      "source": "Official Ministry of Foreign Affairs Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/mfachadian",
+      "source": "Official Ministry of Foreign Affairs Twitter account"
+    },
+    {
+      "type": "address",
+      "label": "Chad Embassy in the United States",
+      "value": "2401 Massachusetts Ave NW, Washington, DC 20008, USA",
+      "source": "Official Embassy website - chadembassy.us"
+    },
+    {
+      "type": "address",
+      "label": "Government Palace (Palais du Gouvernement) - N'Djamena",
+      "value": "P.O. Box 4546 N'Djamena, Chad",
+      "source": "Official government contact directory"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance and Budget - N'Djamena",
+      "value": "Route de Farcha BP 144, N'Djamena, Chad",
+      "source": "Government contact directory"
+    }
+  ]
+}

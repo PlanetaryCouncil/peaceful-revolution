@@ -1,0 +1,96 @@
+{
+  "iso": "LBR",
+  "country_name": "Liberia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mofa.gov.lr",
+      "source": "Government of Liberia Directory (micat.gov.lr/directory)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+231 77 523 1241",
+      "source": "Government of Liberia Directory (micat.gov.lr/directory)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Alternative)",
+      "value": "+231 88 681 8942",
+      "source": "Government of Liberia Directory (micat.gov.lr/directory)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.gov.lr/",
+      "source": "Official website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Capitol Hill, Tubman Boulevard, Yekpi Town, Monrovia, Montserrado County, Liberia",
+      "source": "mofa.gov.lr/contact"
+    },
+    {
+      "type": "email",
+      "label": "Executive Mansion (President's Office)",
+      "value": "info@emansion.gov.lr",
+      "source": "emansion.gov.lr/contact"
+    },
+    {
+      "type": "website",
+      "label": "Executive Mansion (President's Office)",
+      "url": "https://www.emansion.gov.lr/",
+      "source": "Official website"
+    },
+    {
+      "type": "address",
+      "label": "Executive Mansion (President's Office)",
+      "value": "P.O. Box 9001, Capitol Hill, Monrovia, Republic of Liberia",
+      "source": "emansion.gov.lr/contact"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mofaliberia/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/Mofa_Liberia",
+      "source": "Official X (Twitter) account @Mofa_Liberia"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs (Instagram)",
+      "url": "https://www.instagram.com/mofaliberia/",
+      "source": "Official Instagram account"
+    },
+    {
+      "type": "facebook",
+      "label": "Executive Mansion (President's Office)",
+      "url": "https://www.facebook.com/executivemansionliberia/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "email",
+      "label": "Liberia Permanent Mission to the United Nations",
+      "value": "liberiamission@pmun.gov.lr",
+      "source": "pmun.gov.lr"
+    },
+    {
+      "type": "phone",
+      "label": "Liberia Permanent Mission to the United Nations",
+      "value": "(917) 261-6056",
+      "source": "pmun.gov.lr"
+    },
+    {
+      "type": "address",
+      "label": "Liberia Permanent Mission to the United Nations",
+      "value": "228 East 45th Street, Suite 600A, Manhattan, NY 10017, USA",
+      "source": "pmun.gov.lr"
+    }
+  ]
+}

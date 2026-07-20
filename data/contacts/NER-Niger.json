@@ -1,0 +1,78 @@
+{
+  "iso": "NER",
+  "country_name": "Niger",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs, Cooperation and African Integration",
+      "value": "secretariat.general@diplomatie.gouv.ne",
+      "source": "https://diplomatie.gouv.ne/index.php/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Niger to the United States",
+      "value": "communication@embassyofniger-usa.org",
+      "source": "https://embassyofniger-usa.org/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs, Cooperation and African Integration",
+      "value": "+227 20 72 21 49",
+      "source": "https://diplomatie.gouv.ne/index.php/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Niger to the United States - Reception",
+      "value": "+202 483-4224",
+      "source": "https://embassyofniger-usa.org/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Niger to the United States - Consular Services",
+      "value": "+202 483-4225",
+      "source": "https://embassyofniger-usa.org/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gouv.ne/",
+      "source": "Official Niger government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs, Cooperation and African Integration",
+      "url": "https://diplomatie.gouv.ne/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Niger Official Account",
+      "url": "https://x.com/GouvNiger",
+      "source": "https://x.com/GouvNiger"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Cooperation",
+      "url": "https://www.facebook.com/p/Ministère-des-Affaires-Étrangères-Coopération-NE-100069042915761/",
+      "source": "Official ministry Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of the Republic of Niger",
+      "url": "https://www.facebook.com/Presidence.du.Niger",
+      "source": "Official presidency Facebook page"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs, Cooperation and African Integration",
+      "value": "BP 396, Boulevard de la République du Niger, Niamey, Niger",
+      "source": "https://diplomatie.gouv.ne/index.php/contact"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Niger to the United States",
+      "value": "2204 R Street, NW, Washington DC 20008, USA",
+      "source": "https://embassyofniger-usa.org/contact/"
+    }
+  ]
+}

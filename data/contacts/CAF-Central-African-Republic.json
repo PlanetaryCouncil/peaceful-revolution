@@ -1,0 +1,114 @@
+{
+  "iso": "CAF",
+  "country_name": "Central African Republic",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Embassy of Central African Republic - Washington DC",
+      "value": "centrafricwashington@yahoo.com",
+      "source": "Official Embassy of CAR in Washington DC (usrcaembassy.org)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Arts, Culture and Tourism",
+      "value": "geotouckia@gmail.com",
+      "source": "Government ministry contact directory"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Central African Republic - Washington DC",
+      "value": "(202) 483-7800",
+      "source": "Official Embassy contact information"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Communication and Media - Government Spokesperson",
+      "value": "(236) 21.61.05.27",
+      "source": "Government portal (gouv.cf)"
+    },
+    {
+      "type": "phone",
+      "label": "U.S. Embassy in Bangui (liaison for business)",
+      "value": "(236) 2161-0200",
+      "source": "U.S. State Department"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gouv.cf/",
+      "source": "Central African Republic government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://diplomatie.gouv.cf/",
+      "source": "Central African Republic government"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "http://www.presidencecentrafrique.cf/",
+      "source": "Central African Republic government"
+    },
+    {
+      "type": "website",
+      "label": "National Assembly",
+      "url": "http://www.assembleenationale-rca.cf/",
+      "source": "Central African Republic government"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Central African Republic (Gouvernement de la Centrafrique)",
+      "url": "https://www.facebook.com/gouv.cf/",
+      "source": "Official government Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office (Primature RCA Officiel)",
+      "url": "https://www.facebook.com/primaturercaofficiel/",
+      "source": "Official Prime Minister's Office Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office (Présidence Centrafrique Officiel)",
+      "url": "https://www.facebook.com/PresidenceCentrafriqueOfficiel/",
+      "source": "Official Presidential Office Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Central African Republic",
+      "url": "https://twitter.com/GouvCF",
+      "source": "Official government X/Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Health and Population",
+      "url": "https://twitter.com/MSPCentrafrique",
+      "source": "Official ministry X/Twitter account"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Central African Republic - Washington DC",
+      "value": "1618 22nd Street, NW, Washington DC 20008, USA",
+      "source": "Official embassy information"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly",
+      "value": "P.O. Box 1003, Avenue de l'indépendance, Bangui, Central African Republic",
+      "source": "IPU Parline - Central African Republic Parliament"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Communication and Media - Government Spokesperson",
+      "value": "BP 940, Bangui, Central African Republic",
+      "source": "Government portal (gouv.cf)"
+    },
+    {
+      "type": "other",
+      "label": "Government Contact Information Note",
+      "value": "Central African Republic does not use postal codes. Use 'B.P.' (Boîte Postale) followed by box number for mailing addresses.",
+      "source": "International postal address standards"
+    }
+  ]
+}

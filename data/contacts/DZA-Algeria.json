@@ -1,0 +1,84 @@
+{
+  "iso": "DZA",
+  "country_name": "Algeria",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Presidency of the Republic (El-Mouradia)",
+      "value": "contact@el-mouradia.dz",
+      "source": "https://x.com/AlgPresidency"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency of the Republic (El-Mouradia)",
+      "value": "+213 (0) 21 69 15 15",
+      "source": "https://www.el-mouradia.dz/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency of the Republic (El-Mouradia) - Secondary",
+      "value": "+213 (0) 21 69 15 95",
+      "source": "https://www.el-mouradia.dz/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+213 21 50 45 45",
+      "source": "https://www.mfa.gov.dz/"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic Official",
+      "url": "https://www.el-mouradia.dz/",
+      "source": "https://www.el-mouradia.dz/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official",
+      "url": "https://www.mfa.gov.dz/",
+      "source": "https://www.mfa.gov.dz/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Commerce Official",
+      "url": "https://www.commerce.gov.dz/",
+      "source": "https://www.commerce.gov.dz/"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of the Republic",
+      "url": "https://www.facebook.com/AlgerianPresidency/",
+      "source": "https://www.facebook.com/AlgerianPresidency/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MFAAlgeria/",
+      "source": "https://www.facebook.com/MFAAlgeria/"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of the Republic",
+      "url": "https://x.com/AlgPresidency",
+      "source": "https://x.com/AlgPresidency"
+    },
+    {
+      "type": "address",
+      "label": "Presidency of the Republic",
+      "value": "El Mouradia, 16000 Algiers, Algeria",
+      "source": "https://www.el-mouradia.dz/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "1 Rue Yahia Ibn Batran, El Mouradia, 16000 Algiers, Algeria",
+      "source": "https://www.mfa.gov.dz/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Commerce",
+      "value": "46 Boulevard Mohamed 5, Algiers Center, Algeria",
+      "source": "https://www.commerce.gov.dz/"
+    }
+  ]
+}

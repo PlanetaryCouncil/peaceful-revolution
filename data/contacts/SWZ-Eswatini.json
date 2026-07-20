@@ -1,0 +1,174 @@
+{
+  "iso": "SWZ",
+  "country_name": "Eswatini",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Eswatini Investment Promotion Authority (EIPA)",
+      "value": "info@sipa.org.sz",
+      "source": "https://investeswatini.org.sz/contact/"
+    },
+    {
+      "type": "email",
+      "label": "High Commission of Eswatini, London",
+      "value": "eswatinilondonhc@gmail.com",
+      "source": "https://embassies.info/HighCommissionofSwazilandinLondonUnitedKingdom"
+    },
+    {
+      "type": "email",
+      "label": "High Commission of Eswatini, Pretoria",
+      "value": "pretoria@swazihighcom.co.za",
+      "source": "https://www.embassypages.com/eswatini-highcommission-pretoria-southafrica"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission to the United Nations",
+      "value": "swaziland@un.int",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Commerce",
+      "value": "nhlabatsic@gov.sz",
+      "source": "https://www.gov.sz/index.php/ministries-departments/minnistry-of-commerce"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Eswatini, Washington D.C.",
+      "value": "swaziland@compuserve.com",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    },
+    {
+      "type": "email",
+      "label": "Consulate of Eswatini, Johannesburg",
+      "value": "swaziconsul@swaziconsulatejhb.co.za",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Eswatini, Kuwait",
+      "value": "swazikuwait@gmail.com",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    },
+    {
+      "type": "phone",
+      "label": "Cabinet Offices",
+      "value": "+268 2411 7900",
+      "source": "https://www.gov.sz/index.php/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "+268 2404 2661/4",
+      "source": "https://www.gov.sz/index.php/ministries-departments/ministry-of-foreign-affairs-a-international-affairs"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Office",
+      "value": "+26824162407/8/9",
+      "source": "https://www.gov.sz/index.php/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Eswatini Investment Promotion Authority (EIPA)",
+      "value": "+268 2404 0470/2/3/4",
+      "source": "https://investeswatini.org.sz/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "High Commission, London",
+      "value": "+44 20 7630 6611",
+      "source": "https://embassies.info/HighCommissionofSwazilandinLondonUnitedKingdom"
+    },
+    {
+      "type": "phone",
+      "label": "High Commission, Pretoria",
+      "value": "+2712 344-1910",
+      "source": "https://www.embassypages.com/eswatini-highcommission-pretoria-southafrica"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy, Washington D.C.",
+      "value": "+202 234-5002",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    },
+    {
+      "type": "phone",
+      "label": "Consulate, Johannesburg",
+      "value": "+2711 403-7472",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.sz/",
+      "source": "https://www.gov.sz/"
+    },
+    {
+      "type": "facebook",
+      "label": "Eswatini Government Official",
+      "url": "https://www.facebook.com/EswatiniGov/",
+      "source": "https://www.facebook.com/EswatiniGov/"
+    },
+    {
+      "type": "twitter",
+      "label": "Eswatini Government",
+      "url": "https://twitter.com/EswatiniGovern1",
+      "source": "https://twitter.com/EswatiniGovern1"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://twitter.com/mfaicsd",
+      "source": "https://twitter.com/mfaicsd"
+    },
+    {
+      "type": "address",
+      "label": "Cabinet Offices (Government Centre)",
+      "value": "Hospital Hill, Mbabane, Swaziland; P.O. Box 395, Mbabane",
+      "source": "https://www.gov.sz/index.php/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Government Main Office",
+      "value": "Parliament Road, Lobamba; P.O. Box 37, Lobamba, H107",
+      "source": "https://www.gov.sz/index.php/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "Mhlambanyatsi Road, Mbabane; P.O. Box 518, Mbabane",
+      "source": "https://www.gov.sz/index.php/ministries-departments/ministry-of-foreign-affairs-a-international-affairs"
+    },
+    {
+      "type": "address",
+      "label": "Eswatini Investment Promotion Authority (EIPA)",
+      "value": "Sibekelo Building, Mhlambanyatsi Road, Mbabane; P.O. Box 4194, Mbabane, H100",
+      "source": "https://investeswatini.org.sz/contact/"
+    },
+    {
+      "type": "address",
+      "label": "High Commission, London",
+      "value": "20 Buckingham Gate, London SW1E 6LB, United Kingdom",
+      "source": "https://embassies.info/HighCommissionofSwazilandinLondonUnitedKingdom"
+    },
+    {
+      "type": "address",
+      "label": "High Commission, Pretoria",
+      "value": "715 Government Avenue, Arcadia 0083 Pretoria; P.O. Box 14294, Hatfield, 0028",
+      "source": "https://www.embassypages.com/eswatini-highcommission-pretoria-southafrica"
+    },
+    {
+      "type": "address",
+      "label": "Embassy, Washington D.C.",
+      "value": "1712 New Hampshire Avenue, N.W., Washington, D.C. 20009, USA",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission to the United Nations, New York",
+      "value": "408 East 50th Street, New York, N.Y. 10022, USA",
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+    }
+  ]
+}

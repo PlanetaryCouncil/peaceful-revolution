@@ -1,0 +1,138 @@
+{
+  "iso": "MAR",
+  "country_name": "Morocco",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Communications",
+      "value": "dicom@maec.gov.ma",
+      "source": "diplomatie.ma official search results"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "mail@maec.gov.ma",
+      "source": "Official Moroccan government sources"
+    },
+    {
+      "type": "email",
+      "label": "AMDIE (Investment & Export Development Agency)",
+      "value": "morocconow@amdie.gov.ma",
+      "source": "amdie.gov.ma official website"
+    },
+    {
+      "type": "email",
+      "label": "Moroccan National Tourist Office",
+      "value": "infos@tourism.gov.ma",
+      "source": "visitmorocco.com official contact page"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+212 (0) 5 37 67 61 83",
+      "source": "diplomatie.ma official"
+    },
+    {
+      "type": "phone",
+      "label": "Royal Cabinet (Cabinet Royal)",
+      "value": "+212 5 37 76 01 22",
+      "source": "Official royal office contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Head of Government",
+      "value": "+212 5 37 21 94 00",
+      "source": "cg.gov.ma official"
+    },
+    {
+      "type": "phone",
+      "label": "AMDIE (Investment Agency)",
+      "value": "+212 537 673 417",
+      "source": "amdie.gov.ma official"
+    },
+    {
+      "type": "phone",
+      "label": "Moroccan National Tourist Office",
+      "value": "+212 5 37 27 83 00",
+      "source": "visitmorocco.com"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://maroc.ma/en",
+      "source": "Kingdom of Morocco official website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://diplomatie.ma/en",
+      "source": "Official diplomatic ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Head of Government",
+      "url": "https://www.cg.gov.ma/en",
+      "source": "Official government office website"
+    },
+    {
+      "type": "website",
+      "label": "AMDIE (Investment & Exports)",
+      "url": "https://www.amdie.gov.ma/",
+      "source": "Official investment agency"
+    },
+    {
+      "type": "website",
+      "label": "Moroccan National Tourist Office",
+      "url": "https://www.visitmorocco.com/en",
+      "source": "Official tourism website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MarocDiplomatie/",
+      "source": "Official ministry Facebook account"
+    },
+    {
+      "type": "facebook",
+      "label": "Moroccan Government",
+      "url": "https://www.facebook.com/MoroccanGov/",
+      "source": "Official government Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/Marocdiplo_EN",
+      "source": "Official ministry Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Moroccan Government",
+      "url": "https://x.com/MoroccanGov",
+      "source": "Official government Twitter/X account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs Headquarters",
+      "value": "7, Rue Franklin Roosevelt, Rabat 10000, Morocco",
+      "source": "Official ministry location"
+    },
+    {
+      "type": "address",
+      "label": "Royal Cabinet (Cabinet Royal)",
+      "value": "El Michwar El Saïd, 1000 Rabat, Morocco",
+      "source": "Official royal office address"
+    },
+    {
+      "type": "address",
+      "label": "AMDIE (Investment Agency)",
+      "value": "Attine Avenue, Mahaj Riad Center, Building N°5 & N°7, Hay Riad, Rabat, Morocco",
+      "source": "Official AMDIE headquarters"
+    },
+    {
+      "type": "address",
+      "label": "Moroccan National Tourist Office",
+      "value": "Bâtiment 7, Avenue Omar Ibn Al Khatab, Arribat Center Agdal, Rabat, Morocco",
+      "source": "Official MNTO headquarters"
+    }
+  ]
+}

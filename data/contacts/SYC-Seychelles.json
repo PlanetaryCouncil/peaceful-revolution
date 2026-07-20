@@ -1,0 +1,126 @@
+{
+  "iso": "SYC",
+  "country_name": "Seychelles",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Diaspora - Principal Secretary",
+      "value": "ps@mfa.gov.sc",
+      "source": "https://mfa.gov.sc/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Diaspora - Staff",
+      "value": "sradegonde@mfa.gov.sc",
+      "source": "https://mfa.gov.sc/wp-content/uploads/2025/08/NOP-directory-Last-update-on-7th-August-2025.pdf"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "fourthpresident@egov.sc",
+      "source": "https://mfa.gov.sc/wp-content/uploads/2025/08/NOP-directory-Last-update-on-7th-August-2025.pdf"
+    },
+    {
+      "type": "email",
+      "label": "Attorney General's Office",
+      "value": "attorneygeneral@gov.sc",
+      "source": "https://mfa.gov.sc/wp-content/uploads/2025/08/NOP-directory-Last-update-on-7th-August-2025.pdf"
+    },
+    {
+      "type": "email",
+      "label": "Seychelles Investment Board",
+      "value": "info@sib.gov.sc",
+      "source": "https://investinseychelles.com/"
+    },
+    {
+      "type": "email",
+      "label": "Seychelles Investment Board - Business",
+      "value": "investinseychelles@sib.gov.sc",
+      "source": "https://investinseychelles.com/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Diaspora",
+      "value": "+248 4 283 500",
+      "source": "https://mfa.gov.sc/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President (State House)",
+      "value": "+248 429 5656",
+      "source": "https://www.statehouse.gov.sc/"
+    },
+    {
+      "type": "phone",
+      "label": "Seychelles Investment Board",
+      "value": "+248 429 5500",
+      "source": "https://investinseychelles.com/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.egov.sc/",
+      "source": "https://www.egov.sc/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and the Diaspora",
+      "url": "https://mfa.gov.sc/",
+      "source": "https://mfa.gov.sc/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President - State House",
+      "url": "https://www.statehouse.gov.sc/",
+      "source": "https://www.statehouse.gov.sc/"
+    },
+    {
+      "type": "website",
+      "label": "Seychelles Investment Board",
+      "url": "https://investinseychelles.com/",
+      "source": "https://investinseychelles.com/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Diaspora",
+      "url": "https://www.facebook.com/fadseychelles/",
+      "source": "https://mfa.gov.sc/"
+    },
+    {
+      "type": "facebook",
+      "label": "State House - Office of the President",
+      "url": "https://www.facebook.com/StateHouseSey/",
+      "source": "https://www.statehouse.gov.sc/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and Diaspora",
+      "url": "https://x.com/SeychellesFAD",
+      "source": "https://mfa.gov.sc/"
+    },
+    {
+      "type": "twitter",
+      "label": "State House - Office of the President",
+      "url": "https://x.com/StateHouseSey",
+      "source": "https://www.statehouse.gov.sc/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President - State House",
+      "value": "State House, P.O. Box 55, Victoria, Mahe, Seychelles",
+      "source": "https://www.statehouse.gov.sc/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Diaspora",
+      "value": "2nd Floor, Maison Quéau de Quinssy, Mont Fleuri, P.O. Box 1049, Mahé, Seychelles",
+      "source": "https://mfa.gov.sc/"
+    },
+    {
+      "type": "address",
+      "label": "Seychelles Investment Board",
+      "value": "2nd Floor, Independence House Annex, Victoria, Mahe, Seychelles",
+      "source": "https://investinseychelles.com/"
+    }
+  ]
+}
