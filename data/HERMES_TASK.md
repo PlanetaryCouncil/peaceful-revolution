@@ -10,7 +10,7 @@ report that — do not answer from memory. Every URL/email/phone you record must
 actually opened and confirmed belongs to the country in question.
 
 ## Output
-Edit `data/contacts.json` in place. It is keyed by **ISO3 code**. The full list of codes and
+Write one file per country: `data/contacts/{ISO3}-{CountryName}.json` (e.g. `POL-Poland.json`). The full list of codes and
 country names is the `UN_MEMBERS` object (plus `NON_UN`) in `../index.html` — use those exact
 keys. Read `_schema` at the top of `contacts.json` for the entry format, field list, and rules.
 Two worked examples are already there (`USA`, `FRA`) — match that shape exactly.
