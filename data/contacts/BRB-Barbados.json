@@ -199,6 +199,84 @@
       "label": "Barbados Government Information Service",
       "url": "https://gisbarbados.gov.bb",
       "source": "https://gisbarbados.gov.bb"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "value": "info@foreign.gov.bb",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "value": "+1-246-535-6620",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "info@pmo.gov.bb",
+      "source": "https://pmo.gov.bb/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+1-246-535-5300",
+      "source": "https://pmo.gov.bb/"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+1-246-431-2200",
+      "source": "https://www.gov.bb/Visit-Barbados/president"
+    },
+    {
+      "type": "email",
+      "label": "Barbados Government Information Service",
+      "value": "webbgis@barbados.gov.bb",
+      "source": "https://gisbarbados.gov.bb/"
+    },
+    {
+      "type": "phone",
+      "label": "Barbados Government Information Service",
+      "value": "+1-246-535-1900",
+      "source": "https://gisbarbados.gov.bb/"
+    },
+    {
+      "type": "twitter",
+      "label": "Barbados Government Information Service",
+      "url": "https://twitter.com/gisbarbados",
+      "source": "https://gisbarbados.gov.bb/"
+    },
+    {
+      "type": "email",
+      "label": "Invest Barbados (Business Development)",
+      "value": "info@investbarbados.org",
+      "source": "https://www.investbarbados.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Invest Barbados (Business Development)",
+      "value": "+1-246-626-2000",
+      "source": "https://www.investbarbados.org/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Invest Barbados",
+      "value": "Trident Insurance Financial Centre, Hastings, Christ Church, BB15156, Barbados",
+      "source": "https://www.investbarbados.org/contact-us/"
+    },
+    {
+      "type": "facebook",
+      "label": "Invest Barbados",
+      "url": "https://www.facebook.com/investbarbados",
+      "source": "https://www.investbarbados.org/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "Invest Barbados",
+      "url": "https://twitter.com/BarbadosInvest",
+      "source": "https://www.investbarbados.org/contact-us/"
     }
   ]
 }

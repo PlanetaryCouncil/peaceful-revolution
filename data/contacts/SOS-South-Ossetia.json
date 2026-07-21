@@ -1,5 +1,138 @@
 {
-  "iso": "SOS",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — general",
+      "value": "mfa-rso@mail.ru",
+      "source": "https://mfa.rsogov.org/ru/node/1401"
+    },
+    {
+      "type": "email",
+      "label": "MFA — Consular Department",
+      "value": "consul.mfa-rso@yandex.com",
+      "source": "https://mfa.rsogov.org/ru/node/1401"
+    },
+    {
+      "type": "email",
+      "label": "MFA — Information and Analysis Department",
+      "value": "infomid@mail.ru",
+      "source": "https://mfa.rsogov.org/ru/node/1401"
+    },
+    {
+      "type": "email",
+      "label": "Government Apparatus — document desk",
+      "value": "doc@alania-gov.su",
+      "source": "https://rsogov.org/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Government Press Service",
+      "value": "press-prav@mail.ru",
+      "source": "https://rsogov.org/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Government — Department for Citizens' Appeals",
+      "value": "pr@alania-gov.su",
+      "source": "https://rsogov.org/index.php/citizens/contacts"
+    },
+    {
+      "type": "website",
+      "label": "Government of the Republic of South Ossetia — official portal",
+      "url": "https://rsogov.org/",
+      "source": "https://rsogov.org/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of the Republic of South Ossetia",
+      "url": "https://mfa.rsogov.org/en",
+      "source": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(South_Ossetia)"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of the Republic of South Ossetia",
+      "url": "http://presidentruo.org/",
+      "source": "http://presidentruo.org/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (tel/fax)",
+      "value": "+7 8502 45-22-43; +7 8502 45-12-17",
+      "source": "https://mfa.rsogov.org/ru/node/1401"
+    },
+    {
+      "type": "phone",
+      "label": "Government Apparatus",
+      "value": "+7 8502 45-65-55",
+      "source": "https://rsogov.org/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Government Press Service",
+      "value": "+7 8502 45-18-93",
+      "source": "https://rsogov.org/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Government — Department for Citizens' Appeals",
+      "value": "+7 8502 45-18-50",
+      "source": "https://rsogov.org/index.php/citizens/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "100001, Republic of South Ossetia, Tskhinvali, ul. Khetagurova 1",
+      "source": "https://mfa.rsogov.org/ru/node/1401"
+    },
+    {
+      "type": "address",
+      "label": "Government of the Republic of South Ossetia",
+      "value": "100001, Tskhinvali, prospekt A. Dzhioeva 12",
+      "source": "https://rsogov.org/contacts"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs on X/Twitter",
+      "url": "https://twitter.com/mid_rso",
+      "source": "https://mfa.rsogov.org/en"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs on Facebook",
+      "url": "https://www.facebook.com/466075206787160",
+      "source": "https://mfa.rsogov.org/en"
+    },
+    {
+      "type": "other",
+      "label": "MFA Telegram channel",
+      "url": "https://t.me/mid_rso",
+      "source": "https://mfa.rsogov.org/en"
+    },
+    {
+      "type": "other",
+      "label": "MFA Instagram",
+      "url": "https://www.instagram.com/mfa_rso/",
+      "source": "https://mfa.rsogov.org/en"
+    },
+    {
+      "type": "other",
+      "label": "MFA YouTube channel",
+      "url": "https://www.youtube.com/channel/UCBByL_a1zv-VB25YTv1Ae9Q",
+      "source": "https://mfa.rsogov.org/en"
+    },
+    {
+      "type": "other",
+      "label": "Government electronic reception (online appeal form)",
+      "url": "https://rsogov.org/index.php/contact/letters",
+      "source": "https://rsogov.org/index.php/contact/letters"
+    },
+    {
+      "type": "other",
+      "label": "Appeal to the President (contact form)",
+      "url": "http://presidentruo.org/",
+      "source": "http://presidentruo.org/"
+    }
+  ],
   "country_name": "South Ossetia",
-  "contacts": []
+  "iso": "SOS"
 }

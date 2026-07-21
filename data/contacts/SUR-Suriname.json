@@ -109,6 +109,18 @@
       "label": "Ministry of Finance",
       "value": "S.M. Jamaludinstraat 26, Paramaribo, Suriname",
       "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.suriname.gov.sr",
+      "source": "Knowledge base - unable to verify current status due to web search budget exhaustion"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.minbuza.gov.sr",
+      "source": "Knowledge base - unable to verify current status due to web search budget exhaustion"
     }
   ]
 }

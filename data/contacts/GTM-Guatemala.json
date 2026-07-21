@@ -115,6 +115,36 @@
       "label": "Mercantile Registry",
       "value": "7a. Avenida 7-61, Zona 4, 01004 Guatemala City, Guatemala",
       "source": "registromercantil.gob.gt"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office Official Website",
+      "url": "https://bernardoarevalo.presidencia.gob.gt/",
+      "source": "Direct website access verification"
+    },
+    {
+      "type": "twitter",
+      "label": "President Bernardo Arévalo de León - Official",
+      "url": "https://www.x.com/BArevalodeLeon",
+      "source": "Verified from presidential website"
+    },
+    {
+      "type": "instagram",
+      "label": "President Bernardo Arévalo de León - Official",
+      "url": "https://www.instagram.com/bernardoarevalogt/",
+      "source": "Verified from presidential website"
+    },
+    {
+      "type": "tiktok",
+      "label": "President Bernardo Arévalo de León - Official",
+      "url": "https://www.tiktok.com/@bernardoarevalogt",
+      "source": "Verified from presidential website"
+    },
+    {
+      "type": "facebook",
+      "label": "President Bernardo Arévalo de León - Official",
+      "url": "https://www.facebook.com/BernardoArevaloDeleon",
+      "source": "Verified from presidential website"
     }
   ]
 }

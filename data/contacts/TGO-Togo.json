@@ -235,6 +235,78 @@
       "label": "Contact Form - Prime Minister's Office",
       "url": "https://primature.gouv.tg/contact/",
       "source": "https://primature.gouv.tg/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "communication@primature.gouv.tg",
+      "source": "https://primature.gouv.tg/contact/ and https://service-public.gouv.tg/"
+    },
+    {
+      "type": "email",
+      "label": "Investment Promotion Agency (API-ZF)",
+      "value": "contact@apizf.org",
+      "source": "https://apizf.org/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "+228 22 61 06 05",
+      "source": "https://service-public.gouv.tg/single-administration/61bb073666dc3337885b8dbb"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office Fax",
+      "value": "+228 22 61 06 87",
+      "source": "https://service-public.gouv.tg/single-administration/61bb073666dc3337885b8dbb"
+    },
+    {
+      "type": "phone",
+      "label": "Investment Promotion Agency (API-ZF)",
+      "value": "+228 22 53 53 53",
+      "source": "https://apizf.org/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "Cité OUA B.P. 1161, Lomé, Togo",
+      "source": "https://service-public.gouv.tg/single-administration/61bb073666dc3337885b8dbb"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Place du Monument aux Morts, B.P. 900, Lomé, Togo",
+      "source": "https://service-public.gouv.tg/single-administration/6282a1ac2f86119c1bc31a02"
+    },
+    {
+      "type": "address",
+      "label": "Investment Promotion Agency (API-ZF)",
+      "value": "2564, Avenue de la Chance, 3250 Lomé, Togo",
+      "source": "https://apizf.org/"
+    },
+    {
+      "type": "website",
+      "label": "Investment Promotion Agency (API-ZF)",
+      "url": "https://apizf.org/",
+      "source": "Official Investment Agency"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MaeiacteTogo/",
+      "source": "Official Togolese Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of the Republic",
+      "url": "https://twitter.com/presidencetg",
+      "source": "Official Togolese Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office (Primature)",
+      "url": "https://twitter.com/PrimatureTogo",
+      "source": "Official Togolese Government"
     }
   ]
 }

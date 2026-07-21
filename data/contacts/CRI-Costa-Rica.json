@@ -163,6 +163,54 @@
       "label": "Costa Rica Embassy in Washington DC",
       "value": "2114 S Street, NW, Washington, D.C., United States",
       "source": "costarica-embassy.org"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Ministerio de Relaciones Exteriores)",
+      "value": "direccion@rree.go.cr",
+      "source": "rree.go.cr official website contacts page"
+    },
+    {
+      "type": "email",
+      "label": "Investment Promotion Agency (CINDE)",
+      "value": "invest@cinde.org",
+      "source": "cinde.org contact page"
+    },
+    {
+      "type": "phone",
+      "label": "CINDE Investment Promotion",
+      "value": "+506 2201-2800",
+      "source": "cinde.org"
+    },
+    {
+      "type": "website",
+      "label": "CINDE - Investment Promotion Agency",
+      "url": "https://www.cinde.org",
+      "source": "Costa Rican Investment Promotion Agency"
+    },
+    {
+      "type": "twitter",
+      "label": "Cancillería Costa Rica (Ministry of Foreign Affairs)",
+      "url": "https://twitter.com/CRcancilleria",
+      "source": "Official Ministry Twitter/X"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Casa Presidencial)",
+      "value": "Apartado Postal 520-2010 Zapote, San José, Costa Rica",
+      "source": "presidencia.go.cr"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Avenida 7-9, Calle 11-13, El Carmen, San José, Costa Rica. Apartado 10027-1000 San José, Costa Rica",
+      "source": "rree.go.cr"
+    },
+    {
+      "type": "address",
+      "label": "CINDE - Investment Promotion Agency",
+      "value": "Torre Universal, 22nd Floor, Mata Redonda, Sabana Sur, San José, Costa Rica",
+      "source": "cinde.org contact page"
     }
   ]
 }

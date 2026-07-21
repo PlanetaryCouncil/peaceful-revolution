@@ -3,6 +3,174 @@
   "country_name": "South Korea",
   "contacts": [
     {
+      "type": "email",
+      "label": "Permanent Mission of the Republic of Korea to the UN (New York)",
+      "value": "korea.un@mofa.go.kr",
+      "source": "https://overseas.mofa.go.kr/un-en/wpge/m_4969/contents.do (Location/Contact page of the Permanent Mission)"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of the Republic of Korea to the UN Office at Geneva",
+      "value": "geneva.korea@mofa.go.kr",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/republic-korea (UN Geneva Blue Book)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Republic of Korea in the USA (Washington DC) - General Affairs",
+      "value": "generalusa@mofa.go.kr",
+      "source": "https://overseas.mofa.go.kr/us-en/wpge/m_4499/contents.do (Embassy Location/Contact page)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Republic of Korea in the USA - Consular Section",
+      "value": "consular_usa@mofa.go.kr",
+      "source": "https://overseas.mofa.go.kr/us-en/wpge/m_4499/contents.do"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Republic of Korea in the USA - Public Diplomacy",
+      "value": "hellokorea@mofa.go.kr",
+      "source": "https://overseas.mofa.go.kr/us-en/wpge/m_4499/contents.do"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Republic of Korea in the United Kingdom (London)",
+      "value": "koreanembinuk@mofa.go.kr",
+      "source": "https://overseas.mofa.go.kr/gb-en/wpge/m_8342/contents.do (Embassy Location/Contact page)"
+    },
+    {
+      "type": "email",
+      "label": "Invest KOREA / KOTRA - foreign investment inquiries",
+      "value": "contactkorea@kotra.or.kr",
+      "source": "https://www.investkorea.org/ (Invest KOREA, national investment promotion agency within KOTRA)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (English)",
+      "url": "https://www.mofa.go.kr/eng/index.do",
+      "source": "https://www.mofa.go.kr/eng/index.do"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of the Republic of Korea (English)",
+      "url": "https://eng.president.go.kr/",
+      "source": "https://eng.president.go.kr/"
+    },
+    {
+      "type": "website",
+      "label": "Korea.net - official government web portal",
+      "url": "https://www.korea.net/",
+      "source": "https://en.wikipedia.org/wiki/Korea.net"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of the Republic of Korea to the United Nations",
+      "url": "https://overseas.mofa.go.kr/un-en/index.do",
+      "source": "https://overseas.mofa.go.kr/un-en/index.do"
+    },
+    {
+      "type": "website",
+      "label": "Invest KOREA (investment promotion agency)",
+      "url": "https://www.investkorea.org/",
+      "source": "https://www.investkorea.org/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs, Republic of Korea (English)",
+      "url": "https://www.facebook.com/mofakr.eng/",
+      "source": "https://www.facebook.com/mofakr.eng/"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of the Republic of Korea to the United Nations",
+      "url": "https://www.facebook.com/unkoreamission/",
+      "source": "https://www.facebook.com/unkoreamission/"
+    },
+    {
+      "type": "twitter",
+      "label": "MOFA Republic of Korea (English) - @MOFAkr_eng",
+      "url": "https://x.com/MOFAkr_eng",
+      "source": "https://x.com/MOFAkr_eng"
+    },
+    {
+      "type": "twitter",
+      "label": "대한민국 외교부 MOFA_KR (Korean) - @mofa_kr",
+      "url": "https://x.com/mofa_kr",
+      "source": "https://x.com/mofa_kr"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs switchboard, Seoul",
+      "value": "+82-2-2100-2114",
+      "source": "https://www.mofa.go.kr/eng/wpge/m_5746/contents.do (MOFA Telephone Numbers page)"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the Republic of Korea to the UN, New York",
+      "value": "+1-212-439-4000",
+      "source": "https://overseas.mofa.go.kr/un-en/wpge/m_4969/contents.do"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Republic of Korea, Washington DC",
+      "value": "+1-202-939-5600",
+      "source": "https://overseas.mofa.go.kr/us-en/wpge/m_4499/contents.do"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Republic of Korea, London",
+      "value": "+44-20-7227-5500",
+      "source": "https://overseas.mofa.go.kr/gb-en/wpge/m_8342/contents.do"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs headquarters",
+      "value": "60 Sajik-ro 8-gil, Jongno-gu, Seoul 03172, Republic of Korea",
+      "source": "https://www.mofa.go.kr/eng/wpge/m_5732/contents.do (MOFA Location page)"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Republic of Korea to the UN",
+      "value": "335 E. 45th St., New York, NY 10017, USA",
+      "source": "https://overseas.mofa.go.kr/un-en/wpge/m_4969/contents.do"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Republic of Korea to the UN Office at Geneva",
+      "value": "Avenue de l'Ariana 1, 1211 Geneva 20, Switzerland (P.O. Box 42)",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/republic-korea"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Republic of Korea, Washington DC",
+      "value": "2450 Massachusetts Avenue NW, Washington, DC 20008, USA",
+      "source": "https://overseas.mofa.go.kr/us-en/wpge/m_4499/contents.do"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Republic of Korea, London",
+      "value": "60 Buckingham Gate, London SW1E 6AJ, United Kingdom",
+      "source": "https://overseas.mofa.go.kr/gb-en/wpge/m_8342/contents.do"
+    },
+    {
+      "type": "other",
+      "label": "Korea.net Contact Us / suggestion form",
+      "url": "https://www.korea.net/Others/Suggestion",
+      "source": "https://www.korea.net/Others/Suggestion"
+    },
+    {
+      "type": "other",
+      "label": "MOFA overseas missions contact directory",
+      "url": "https://www.mofa.go.kr/eng/pgm/m_5789/uss/cnsrshp/inKoEmblgbdAdres.do",
+      "source": "https://www.mofa.go.kr/eng/pgm/m_5789/uss/cnsrshp/inKoEmblgbdAdres.do"
+    },
+    {
+      "type": "other",
+      "label": "Invest KOREA online consulting (investor inquiry form)",
+      "url": "https://www.investkorea.org/ik-en/pgm/i-5051/cnslt/front/onln-list.do",
+      "source": "https://www.investkorea.org/ik-en/index.do"
+    },
+    {
       "type": "website",
       "label": "Presidential Office Official Website",
       "url": "https://www.president.go.kr",

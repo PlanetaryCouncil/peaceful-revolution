@@ -1,5 +1,102 @@
 {
   "iso": "ESH",
   "country_name": "Western Sahara",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Frente POLISARIO / SADR Permanent Representation to the United Nations, New York",
+      "value": "polisarioun@polisarioun.org",
+      "source": "https://mfa.gov.bz/in_belize/sahrawi-arab-democratic-republic/ (Belize Ministry of Foreign Affairs official diplomatic directory); corroborated by UN mission listings"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Sahrawi Arab Democratic Republic in Pretoria, South Africa",
+      "value": "sadr.pretoria@sadr.ws",
+      "source": "https://dirco.gov.za/foreign-representation-in-south-africa-s/ (South African Dept. of International Relations and Cooperation, foreign representation directory, updated March 2026)"
+    },
+    {
+      "type": "phone",
+      "label": "SADR Permanent Representation to the UN, New York",
+      "value": "+1 646 678 4087",
+      "source": "https://mfa.gov.bz/in_belize/sahrawi-arab-democratic-republic/"
+    },
+    {
+      "type": "phone",
+      "label": "SADR Embassy Pretoria (tel)",
+      "value": "+27 12 342 5532",
+      "source": "https://dirco.gov.za/foreign-representation-in-south-africa-s/"
+    },
+    {
+      "type": "phone",
+      "label": "SADR Embassy Pretoria (fax)",
+      "value": "+27 12 430 7428",
+      "source": "https://dirco.gov.za/foreign-representation-in-south-africa-s/"
+    },
+    {
+      "type": "phone",
+      "label": "Frente POLISARIO Representation for Europe and the EU, Brussels (tel/fax)",
+      "value": "+32 2 511 55 91",
+      "source": "https://wsrw.org/files/dated/2020-04-02/letter_polisario_conti_english.pdf (official letterhead of the POLISARIO Representation for Europe and the EU)"
+    },
+    {
+      "type": "address",
+      "label": "SADR Permanent Representation to the United Nations, New York",
+      "value": "330 E 39th Street, Unit 15L, New York, NY 10016, USA",
+      "source": "https://mfa.gov.bz/in_belize/sahrawi-arab-democratic-republic/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the SADR, Pretoria, South Africa",
+      "value": "801 Merton Avenue, Arcadia 0083, Pretoria (postal: P.O. Box 11352, Hatfield 0028)",
+      "source": "https://dirco.gov.za/foreign-representation-in-south-africa-s/"
+    },
+    {
+      "type": "address",
+      "label": "Frente POLISARIO Representation for Europe and the European Union, Brussels",
+      "value": "14 rue Mercelis, 1050 Brussels, Belgium",
+      "source": "https://wsrw.org/files/dated/2020-04-02/letter_polisario_conti_english.pdf"
+    },
+    {
+      "type": "website",
+      "label": "SADR Embassy to Ethiopia and Permanent Mission to the African Union (official)",
+      "url": "https://www.sahrawi-emb-au.com/",
+      "source": "https://www.sahrawi-emb-au.com/ ; listed in searches of SADR diplomatic missions"
+    },
+    {
+      "type": "website",
+      "label": "Sahara Press Service (SPS) — official SADR state news agency",
+      "url": "https://www.spsrasd.info/en/",
+      "source": "https://www.spsrasd.info/en/ ; identified as the official press agency of the SADR"
+    },
+    {
+      "type": "website",
+      "label": "African Union country profile — Saharawi Arab Democratic Republic (AU member state)",
+      "url": "https://au.int/en/countryprofiles/saharawi-arab-democratic-republic",
+      "source": "https://au.int/en/countryprofiles/saharawi-arab-democratic-republic"
+    },
+    {
+      "type": "twitter",
+      "label": "Sahara Press Service (SPS), official SADR state news agency",
+      "url": "https://twitter.com/sps_press",
+      "source": "Social links published on the official SPS site https://www.spsrasd.info/en/"
+    },
+    {
+      "type": "facebook",
+      "label": "RASD Press / Sahara Press Service — official SADR state news agency",
+      "url": "https://www.facebook.com/p/Rasd-Press-100092373007368/",
+      "source": "Social links published on the official SPS site https://www.spsrasd.info/en/"
+    },
+    {
+      "type": "other",
+      "label": "RASD TV — official SADR state broadcaster (YouTube)",
+      "url": "https://www.youtube.com/@rasdtv-Elaaiun",
+      "source": "Media links published on the official SPS site https://www.spsrasd.info/en/"
+    },
+    {
+      "type": "other",
+      "label": "UN Mission for the Referendum in Western Sahara (MINURSO) — UN body administering the territory's status process",
+      "url": "https://minurso.unmissions.org/",
+      "source": "United Nations peacekeeping mission official site"
+    }
+  ]
 }

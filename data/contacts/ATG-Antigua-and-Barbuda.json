@@ -142,12 +142,6 @@
     },
     {
       "type": "phone",
-      "label": "UN Permanent Mission New York",
-      "value": "+1 (212) 541-4117",
-      "source": "https://www.abconsulate.nyc/"
-    },
-    {
-      "type": "phone",
       "label": "Embassy Washington DC",
       "value": "+1 (202) 362-5122",
       "source": "https://www.embassypages.com/antiguaandbarbuda-embassy-washingtondc-unitedstates"
@@ -199,6 +193,66 @@
       "label": "High Commission London",
       "value": "2nd floor, 45 Crawford Place, London W1H 4LP, England, UK",
       "source": "https://embassies.info/PermanentMissionofAntiguaandBarbudatoUNinNewYork"
+    },
+    {
+      "type": "email",
+      "label": "Governor General Office",
+      "value": "govgen@ab.gov.ag",
+      "source": "https://gg.gov.ag/"
+    },
+    {
+      "type": "email",
+      "label": "Antigua & Barbuda Investment Authority",
+      "value": "info-abia@ab.gov.ag",
+      "source": "https://investantiguabarbuda.org/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+1 (268) 462-1052",
+      "source": "https://foreignaffairs.gov.ag/"
+    },
+    {
+      "type": "phone",
+      "label": "Antigua & Barbuda Investment Authority",
+      "value": "+1 (268) 481-1000",
+      "source": "https://investantiguabarbuda.org/"
+    },
+    {
+      "type": "website",
+      "label": "Antigua & Barbuda Investment Authority",
+      "url": "https://investantiguabarbuda.org/",
+      "source": "https://investantiguabarbuda.org/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/ABforeignaffairs/",
+      "source": "https://foreignaffairs.gov.ag/"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Antigua and Barbuda",
+      "url": "https://twitter.com/antiguagov",
+      "source": "https://ab.gov.ag/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/ABMinistryFA",
+      "source": "https://foreignaffairs.gov.ag/"
+    },
+    {
+      "type": "address",
+      "label": "Governor General Office",
+      "value": "Government House, St. John's, Antigua and Barbuda",
+      "source": "https://gg.gov.ag/"
+    },
+    {
+      "type": "address",
+      "label": "Antigua & Barbuda Investment Authority",
+      "value": "9 Factory Road, P.O. Box 80 (Sagicor Financial Centre), St. John's, Antigua and Barbuda",
+      "source": "https://investantiguabarbuda.org/"
     }
   ]
 }

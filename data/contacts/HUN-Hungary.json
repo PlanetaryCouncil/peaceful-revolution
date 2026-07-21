@@ -3,6 +3,234 @@
   "country_name": "Hungary",
   "contacts": [
     {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Trade — Public Relations",
+      "value": "kozkapcsolat@mfa.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Trade — Press Office",
+      "value": "sajto@mfa.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Trade — Consular Department",
+      "value": "konz@mfa.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Consular information for private individuals",
+      "value": "taj.konz@mfa.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Hungary to the United Nations, New York",
+      "value": "new.missions@mfa.gov.hu",
+      "source": "https://konzinfo.mfa.gov.hu/en/embassies/usa-permanent-mission-hungary-united-nations-new-york"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Hungary in Washington DC — general/mission office",
+      "value": "mission.was@mfa.gov.hu",
+      "source": "https://washington.mfa.gov.hu/en/embassy-of-hungary-staff-contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Hungary in Washington DC — consular appointments",
+      "value": "appointment.was@mfa.gov.hu",
+      "source": "https://washington.mfa.gov.hu/en/embassy-of-hungary-staff-contact"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office — Press Department",
+      "value": "sajto@me.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office — Central registry / incoming mail",
+      "value": "erkeztetok@me.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior — Press Office",
+      "value": "sajto@bm.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Defence — Press Office",
+      "value": "sajto@hm.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance — Press Office",
+      "value": "sajto@pm.gov.hu",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "HIPA — Hungarian Investment Promotion Agency (general enquiries)",
+      "value": "info@hipa.hu",
+      "source": "https://hipa.hu/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Official Hungarian Government portal",
+      "url": "https://kormany.hu/en",
+      "source": "https://kormany.hu/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Trade",
+      "url": "https://kormany.hu/en/ministry-of-foreign-affairs-and-trade",
+      "source": "https://kormany.hu/en"
+    },
+    {
+      "type": "website",
+      "label": "About Hungary — official government communications site",
+      "url": "https://abouthungary.hu/",
+      "source": "https://abouthungary.hu/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Hungary to the UN, New York",
+      "url": "https://un-newyork.mfa.gov.hu/",
+      "source": "https://un-newyork.mfa.gov.hu/page/hungary-in-the-un"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Hungary in Washington DC",
+      "url": "https://washington.mfa.gov.hu/en",
+      "source": "https://washington.mfa.gov.hu/en"
+    },
+    {
+      "type": "website",
+      "label": "Konzinfo — official MFA consular information and embassy directory",
+      "url": "https://konzinfo.mfa.gov.hu/en",
+      "source": "https://konzinfo.mfa.gov.hu/en"
+    },
+    {
+      "type": "website",
+      "label": "HIPA — Hungarian Investment Promotion Agency",
+      "url": "https://hipa.hu/en/",
+      "source": "https://hipa.hu/"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Hungary (official Facebook page)",
+      "url": "https://www.facebook.com/kormanyzat",
+      "source": "https://kormany.hu/en (social links in site footer)"
+    },
+    {
+      "type": "twitter",
+      "label": "About Hungary — official Hungarian Government account",
+      "url": "https://x.com/abouthungary",
+      "source": "https://x.com/abouthungary"
+    },
+    {
+      "type": "twitter",
+      "label": "Viktor Orbán, Prime Minister of Hungary",
+      "url": "https://x.com/PM_ViktorOrban",
+      "source": "https://x.com/PM_ViktorOrban"
+    },
+    {
+      "type": "twitter",
+      "label": "Permanent Mission of Hungary to the UN",
+      "url": "https://x.com/HUNMissionToUN",
+      "source": "https://x.com/HUNMissionToUN"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Trade — switchboard",
+      "value": "+36-1-458-1000",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — consular helpline (toll-free in Hungary)",
+      "value": "+36 80 36 80 36",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+36-1-795-5000",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Hungary to the UN, New York",
+      "value": "+1 212 752 0209",
+      "source": "https://konzinfo.mfa.gov.hu/en/embassies/usa-permanent-mission-hungary-united-nations-new-york"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Hungary to the UN, New York — emergency hotline",
+      "value": "+1 212 755 5348",
+      "source": "https://konzinfo.mfa.gov.hu/en/embassies/usa-permanent-mission-hungary-united-nations-new-york"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Hungary in Washington DC",
+      "value": "+1 202 362 6730",
+      "source": "https://washington.mfa.gov.hu/en/embassy-of-hungary-staff-contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Trade",
+      "value": "1027 Budapest, Bem rakpart 47, Hungary (postal: 1525 Budapest, Pf. 28)",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "1054 Budapest, Alkotmány utca 5, Hungary (postal: 1357 Budapest, Pf. 6)",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Hungary to the United Nations",
+      "value": "227 East 52nd Street, New York, NY 10022, USA",
+      "source": "https://konzinfo.mfa.gov.hu/en/embassies/usa-permanent-mission-hungary-united-nations-new-york"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Hungary in Washington DC",
+      "value": "3910 Shoemaker Street NW, Washington, DC 20008, USA",
+      "source": "https://washington.mfa.gov.hu/en"
+    },
+    {
+      "type": "address",
+      "label": "HIPA — Hungarian Investment Promotion Agency",
+      "value": "H-1055 Budapest, Honvéd utca 20, Hungary",
+      "source": "https://hipa.hu/contact/"
+    },
+    {
+      "type": "other",
+      "label": "Official government contact directory (all ministries, press desks, customer service)",
+      "url": "https://kormany.hu/en/contact",
+      "source": "https://kormany.hu/en/contact"
+    },
+    {
+      "type": "other",
+      "label": "Embassy of Hungary Washington DC — full staff contact directory",
+      "url": "https://washington.mfa.gov.hu/en/embassy-of-hungary-staff-contact",
+      "source": "https://washington.mfa.gov.hu/en/embassy-of-hungary-staff-contact"
+    },
+    {
+      "type": "other",
+      "label": "Directory of Hungarian embassies and consulates worldwide",
+      "url": "https://konzinfo.mfa.gov.hu/en/embassies",
+      "source": "https://konzinfo.mfa.gov.hu/en/embassies"
+    },
+    {
       "type": "website",
       "label": "Official Government Portal",
       "url": "https://www.kormany.hu",

@@ -175,6 +175,72 @@
       "label": "Guyana International Dialing Code",
       "value": "+592",
       "source": "Wikipedia"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "+592 226-1606, +592 226-1608, +592 225-6467",
+      "source": "https://www.minfor.gov.gy/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "op.guyana.gov@gmail.com",
+      "source": "https://op.gov.gy/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+592 225 1330",
+      "source": "https://op.gov.gy/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "254 South Road & Shiv Chanderpaul Drive, Georgetown, Guyana",
+      "source": "https://www.minfor.gov.gy/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "Shiv Chanderpaul Drive, Bourda, Georgetown, Demerara-Mahaica, Guyana",
+      "source": "https://op.gov.gy/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "http://www.minfor.gov.gy/",
+      "source": "https://www.minfor.gov.gy/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://op.gov.gy/",
+      "source": "https://op.gov.gy/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://x.com/mfaguyana",
+      "source": "https://x.com/mfaguyana"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "https://www.facebook.com/OPGuyana/",
+      "source": "https://www.facebook.com/OPGuyana/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://x.com/otpgy",
+      "source": "https://x.com/otpgy"
+    },
+    {
+      "type": "website",
+      "label": "Department of Public Information",
+      "url": "https://dpi.gov.gy/",
+      "source": "https://dpi.gov.gy/"
     }
   ]
 }

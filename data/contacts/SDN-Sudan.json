@@ -57,12 +57,6 @@
       "source": "Sudan Ministry of Foreign Affairs"
     },
     {
-      "type": "phone",
-      "label": "Ministry of Investment",
-      "value": "+249-18-378-7193",
-      "source": "Sudan Investment Board (sudaninvest.org)"
-    },
-    {
       "type": "website",
       "label": "Official Government",
       "url": "https://sudan.gov.sd/en/",

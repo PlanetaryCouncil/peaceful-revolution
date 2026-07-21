@@ -1,7 +1,203 @@
 {
-  "iso": "LBN",
-  "country_name": "Lebanon",
   "contacts": [
+    {
+      "type": "email",
+      "label": "Embassy of Lebanon, Washington DC — general enquiries",
+      "value": "info@lebanonembassyus.org",
+      "source": "https://www.lebanonembassyus.org/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Lebanon to the UN, New York",
+      "value": "contact@lebanonun.org",
+      "source": "https://www.un.int/lebanon/about"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Lebanon, London — Ambassador's Office",
+      "value": "ambassadorofficeuk@lebanon-embassy.org",
+      "source": "https://www.lebanon-embassy.org/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Lebanon, London — Consular Section",
+      "value": "consulateuk@lebanon-embassy.org",
+      "source": "https://www.lebanon-embassy.org/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "IDAL — Investment Development Authority of Lebanon",
+      "value": "invest@idal.com.lb",
+      "source": "http://investinlebanon.gov.lb/en/about_us/contact_us"
+    },
+    {
+      "type": "email",
+      "label": "Presidency of the Republic of Lebanon — Press Office",
+      "value": "pressoffice@presidency.gov.lb",
+      "source": "https://www.presidency.gov.lb/English/ContactPresidentOffice/Pages/ContactPresidentialPalace.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Presidency of the Council of Ministers — ICT / National Strategy Coordination Unit",
+      "value": "ictwatch@pcm.gov.lb",
+      "source": "http://www.pcm.gov.lb/ict/English/ContactUs.aspx?pageid=216"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Emigrants",
+      "url": "https://mfa.gov.lb/",
+      "source": "https://mfa.gov.lb/"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic of Lebanon",
+      "url": "https://www.presidency.gov.lb/",
+      "source": "https://www.presidency.gov.lb/"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Council of Ministers (Grand Serail)",
+      "url": "http://www.pcm.gov.lb/",
+      "source": "http://www.pcm.gov.lb/ict/English/ContactUs.aspx?pageid=216"
+    },
+    {
+      "type": "website",
+      "label": "IDAL — Invest in Lebanon",
+      "url": "https://investinlebanon.gov.lb/",
+      "source": "https://investinlebanon.gov.lb/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Lebanon to the United Nations",
+      "url": "https://www.un.int/lebanon/",
+      "source": "https://www.un.int/lebanon/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Lebanon in Washington DC",
+      "url": "https://www.lebanonembassyus.org/",
+      "source": "https://www.lebanonembassyus.org/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Lebanon in the United Kingdom",
+      "url": "https://www.lebanon-embassy.org/",
+      "source": "https://www.lebanon-embassy.org/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Lebanese Ministry of Information",
+      "url": "https://www.ministryinfo.gov.lb/en/",
+      "source": "https://www.ministryinfo.gov.lb/en/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Emigrants (official)",
+      "url": "https://www.facebook.com/mfa.lb",
+      "source": "https://mfa.gov.lb/"
+    },
+    {
+      "type": "facebook",
+      "label": "Lebanese Presidency (official)",
+      "url": "https://www.facebook.com/LBpresidency/",
+      "source": "https://www.facebook.com/LBpresidency/about/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and Emigrants (official X)",
+      "url": "https://x.com/mofalebanon1",
+      "source": "https://mfa.gov.lb/"
+    },
+    {
+      "type": "twitter",
+      "label": "Lebanese Presidency (official X)",
+      "url": "https://x.com/LBpresidency",
+      "source": "https://x.com/lbpresidency"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Lebanon, Washington DC",
+      "value": "+1 202 939 6300",
+      "source": "https://www.lebanonembassyus.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Lebanon to the UN, New York",
+      "value": "+1 212 355 5460",
+      "source": "https://www.un.int/lebanon/about"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Lebanon, London — Consular Section",
+      "value": "+44 20 7229 7265",
+      "source": "https://www.lebanon-embassy.org/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Lebanon, London — Ambassador's Office",
+      "value": "+44 20 7727 6696",
+      "source": "http://london.mfa.gov.lb/britain/english/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "IDAL — Investment Development Authority of Lebanon",
+      "value": "+961 1 983306",
+      "source": "http://investinlebanon.gov.lb/en/about_us/contact_us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Emigrants, Beirut",
+      "value": "Bustros Palace, Charles Malik Avenue, Mar Nicolas, Beirut, P.O. Box 11-9180, Lebanon",
+      "source": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_and_Emigrants_(Lebanon)"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Lebanon to the UN, New York",
+      "value": "866 United Nations Plaza, Room 531-533, New York, NY 10017, USA",
+      "source": "https://www.un.int/lebanon/about"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Lebanon, Washington DC",
+      "value": "2560 28th Street NW, Washington, DC 20008, USA",
+      "source": "https://www.lebanonembassyus.org/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Lebanon, London",
+      "value": "15 Palace Garden Mews, London W8 4RB, United Kingdom",
+      "source": "https://www.lebanon-embassy.org/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "IDAL — Investment Development Authority of Lebanon",
+      "value": "Lazarieh Tower, 4th Floor, Emir Bechir Street, Riad El-Solh, Beirut, P.O. Box 113-7251, Lebanon",
+      "source": "http://investinlebanon.gov.lb/en/about_us/contact_us"
+    },
+    {
+      "type": "address",
+      "label": "Presidency of the Council of Ministers (Grand Serail)",
+      "value": "The Grand Serail, Tallet el Serail, Riad el Solh, Downtown Beirut, Lebanon",
+      "source": "http://www.pcm.gov.lb/ict/English/ContactUs.aspx?pageid=216"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs and Emigrants — online contact form",
+      "url": "http://www.mfa.gov.lb/arabic/contact-us",
+      "source": "http://www.mfa.gov.lb/arabic/contact-us"
+    },
+    {
+      "type": "other",
+      "label": "IDAL — contact page",
+      "url": "http://investinlebanon.gov.lb/en/about_us/contact_us",
+      "source": "http://investinlebanon.gov.lb/en/about_us/contact_us"
+    },
+    {
+      "type": "other",
+      "label": "Presidency — Contact the Presidential Palace page",
+      "url": "https://www.presidency.gov.lb/English/ContactPresidentOffice/Pages/ContactPresidentialPalace.aspx",
+      "source": "https://www.presidency.gov.lb/English/ContactPresidentOffice/Pages/ContactPresidentialPalace.aspx"
+    },
     {
       "type": "website",
       "label": "Ministry of Foreign Affairs and Emigrants",
@@ -32,5 +228,7 @@
       "value": "Abdallah Bou Habib",
       "source": "Wikipedia - Government of Lebanon"
     }
-  ]
+  ],
+  "country_name": "Lebanon",
+  "iso": "LBN"
 }

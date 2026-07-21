@@ -1,5 +1,216 @@
 {
   "iso": "TKM",
   "country_name": "Turkmenistan",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs of Turkmenistan — general contact",
+      "value": "ddd@mfa.gov.tm",
+      "source": "https://www.mfa.gov.tm/en/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Turkmenistan in Washington, D.C. (USA)",
+      "value": "turkmenembassyus@verizon.net",
+      "source": "https://usa.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Turkmenistan in London (United Kingdom)",
+      "value": "info@tmembassy.co.uk",
+      "source": "https://uk.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Turkmenistan in Brussels (Belgium)",
+      "value": "turkmenistan@skynet.be",
+      "source": "https://belgium.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Turkmenistan in Brussels (Belgium) — secondary",
+      "value": "turkmenistan1@skynet.be",
+      "source": "https://belgium.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Turkmenistan State News Agency (TDH) — press desk",
+      "value": "tpress@tdh.gov.tm",
+      "source": "https://tdh.gov.tm/en"
+    },
+    {
+      "type": "email",
+      "label": "Government portal 'Altyn Asyr' (Golden Age) editorial desk",
+      "value": "altynasyr.newspaper@sanly.tm",
+      "source": "https://turkmenistan.gov.tm/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of Turkmenistan",
+      "url": "https://www.mfa.gov.tm/en",
+      "source": "https://www.mfa.gov.tm/en"
+    },
+    {
+      "type": "website",
+      "label": "Official government portal of Turkmenistan ('Altyn Asyr')",
+      "url": "https://turkmenistan.gov.tm/en",
+      "source": "https://turkmenistan.gov.tm/en"
+    },
+    {
+      "type": "website",
+      "label": "Turkmenistan State News Agency (TDH)",
+      "url": "https://tdh.gov.tm/en",
+      "source": "https://tdh.gov.tm/en"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Turkmenistan in the USA",
+      "url": "https://usa.tmembassy.gov.tm/en",
+      "source": "https://usa.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Turkmenistan in the United Kingdom",
+      "url": "https://uk.tmembassy.gov.tm/en",
+      "source": "https://uk.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Turkmenistan in Belgium",
+      "url": "https://belgium.tmembassy.gov.tm/en",
+      "source": "https://belgium.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — main line",
+      "value": "+993 12 44-56-92",
+      "source": "https://www.mfa.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — reception",
+      "value": "+993 12 44-56-87",
+      "source": "https://www.mfa.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — press service",
+      "value": "+993 12 44-56-04",
+      "source": "https://www.mfa.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — fax",
+      "value": "+993 12 44-58-12",
+      "source": "https://www.mfa.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Turkmenistan in Washington, D.C.",
+      "value": "+1 202 588 1500",
+      "source": "https://usa.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Turkmenistan in London",
+      "value": "+44 20 7610 5239",
+      "source": "https://uk.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Turkmenistan in Brussels",
+      "value": "+32 2 648 18 74",
+      "source": "https://belgium.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Turkmenistan State News Agency (TDH)",
+      "value": "+993 12 92 12 12",
+      "source": "https://tdh.gov.tm/en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs of Turkmenistan",
+      "value": "Archabil av. 108, 744000 Ashgabat, Turkmenistan",
+      "source": "https://www.mfa.gov.tm/en/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Turkmenistan in Washington, D.C.",
+      "value": "2207 Massachusetts Avenue NW, Washington, DC 20008, USA",
+      "source": "https://usa.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Turkmenistan in London",
+      "value": "53 Victoria Road, London W8 5RH, United Kingdom",
+      "source": "https://uk.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Turkmenistan in Brussels",
+      "value": "Boulevard General Jacques 15, 1050 Bruxelles, Belgium",
+      "source": "https://belgium.tmembassy.gov.tm/en/contacts"
+    },
+    {
+      "type": "twitter",
+      "label": "Permanent Mission of Turkmenistan to the UN, New York",
+      "url": "https://twitter.com/Turkmenistan_UN",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "twitter",
+      "label": "Embassy of Turkmenistan in the USA",
+      "url": "https://twitter.com/TurkmenEmb_USA",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "twitter",
+      "label": "Permanent Mission of Turkmenistan to the UN Office at Geneva",
+      "url": "https://twitter.com/PMOT_UNOG",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "twitter",
+      "label": "Embassy of Turkmenistan in Belgium",
+      "url": "https://twitter.com/TKM_in_Belgium",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of Turkmenistan to the UN, New York",
+      "url": "https://www.facebook.com/turkmenistan.un",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy of Turkmenistan in Belgium",
+      "url": "https://www.facebook.com/profile.php?id=100073936537055",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "other",
+      "label": "MFA official social media directory (all embassies and permanent missions)",
+      "url": "https://www.mfa.gov.tm/en/social-media",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "other",
+      "label": "Instagram — Permanent Mission of Turkmenistan to the UN, New York",
+      "url": "https://www.instagram.com/turkmenistan_un",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "other",
+      "label": "Instagram — Embassy of Turkmenistan in Washington, D.C.",
+      "url": "https://www.instagram.com/turkmen_emb_in_dc",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    },
+    {
+      "type": "other",
+      "label": "Instagram — Embassy of Turkmenistan in the United Kingdom",
+      "url": "https://www.instagram.com/turkmenembassyuk",
+      "source": "https://www.mfa.gov.tm/en/social-media"
+    }
+  ]
 }

@@ -163,6 +163,90 @@
       "label": "Embassy of the Bahamas",
       "url": "https://www.bahamasembdc.org/",
       "source": "bahamasembdc.org"
+    },
+    {
+      "type": "email",
+      "label": "Cabinet Office (Office of Prime Minister)",
+      "value": "cabinetoffice@bahamas.gov.bs",
+      "source": "https://bahamas.gov.bs/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Tourism, Investments and Aviation",
+      "value": "tourism@bahamas.com",
+      "source": "https://www.bahamas.com/contact"
+    },
+    {
+      "type": "email",
+      "label": "Department of Aviation",
+      "value": "info.doa@bahamas.com",
+      "source": "https://bahamas.gov.bs/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Main",
+      "value": "+1 (242) 322-7624",
+      "source": "https://mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of Prime Minister",
+      "value": "+1 (242) 327-5826",
+      "source": "https://opm.gov.bs/"
+    },
+    {
+      "type": "phone",
+      "label": "Cabinet Office",
+      "value": "+1 (242) 322-3220",
+      "source": "https://bahamas.gov.bs/"
+    },
+    {
+      "type": "phone",
+      "label": "Governor-General Office",
+      "value": "+1 (242) 322-1875",
+      "source": "https://www.gg.gov.bs/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Tourism, Investments and Aviation",
+      "value": "+1 (242) 302-2000",
+      "source": "https://www.bahamas.com/contact"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Tourism, Investments and Aviation",
+      "url": "https://www.bahamas.com/",
+      "source": "https://www.bahamas.com/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/pages/Ministry-of-Foreign-Affairs/",
+      "source": "https://mofa.gov.bs/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Goodman's Bay Corporate Centre, 2nd Floor, West Bay Street, Nassau City, New Providence, The Bahamas",
+      "source": "https://mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "2nd Floor, Trade Winds Building, Bay Street, Nassau, New Providence, P.O. Box N-7147, The Bahamas",
+      "source": "https://opm.gov.bs/"
+    },
+    {
+      "type": "address",
+      "label": "Governor-General Office",
+      "value": "Government House, Government Hill, P.O. Box N-8301, Nassau, New Providence, The Bahamas",
+      "source": "https://www.gg.gov.bs/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Tourism, Investments and Aviation",
+      "value": "Centre of Commerce, British Colonial Hotel, Suite 303, P.O. Box N-3701, Nassau, New Providence, The Bahamas",
+      "source": "https://www.bahamas.com/contact"
     }
   ]
 }

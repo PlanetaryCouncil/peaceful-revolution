@@ -3,22 +3,202 @@
   "country_name": "Malta",
   "contacts": [
     {
-      "type": "website",
-      "label": "Government Main Portal",
-      "url": "https://www.gov.mt",
-      "source": "Wikipedia - Government of Malta article"
+      "type": "email",
+      "label": "Permanent Mission of Malta to the United Nations, New York",
+      "value": "malta-un.newyork@gov.mt",
+      "source": "https://www.un.int/malta/content/permanent-mission-malta-united-nations"
+    },
+    {
+      "type": "email",
+      "label": "Ministry for Foreign Affairs (general contact)",
+      "value": "foreignaffairs@gov.mt",
+      "source": "https://www.govdirectory.org/malta/Q119776293/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Malta in Washington, D.C.",
+      "value": "maltaembassy.washington@gov.mt",
+      "source": "https://www.embassy.org/embassies/mt.html"
+    },
+    {
+      "type": "email",
+      "label": "servizz.gov — Government of Malta citizen contact desk",
+      "value": "servizz@gov.mt",
+      "source": "https://www.servizz.gov.mt/en/ContactUs"
+    },
+    {
+      "type": "email",
+      "label": "Department of Information (government press office)",
+      "value": "info.doi@gov.mt",
+      "source": "https://www.gov.mt/en/Government/DOI/Pages/Contacts.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Malta Enterprise — investment and trade promotion agency",
+      "value": "info@maltaenterprise.com",
+      "source": "https://maltaenterprise.com/contact-us"
     },
     {
       "type": "website",
-      "label": "Office of the President",
+      "label": "Government of Malta official portal",
+      "url": "https://www.gov.mt/",
+      "source": "https://www.gov.mt/en/pages/home.aspx"
+    },
+    {
+      "type": "website",
+      "label": "Ministry for Foreign Affairs",
+      "url": "https://foreign.gov.mt/",
+      "source": "https://www.govdirectory.org/malta/Q119776293/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of Malta",
       "url": "https://president.gov.mt/",
-      "source": "Wikipedia - President of Malta article"
+      "source": "https://president.gov.mt/santanton-palace/"
     },
     {
       "type": "website",
       "label": "Office of the Prime Minister",
-      "url": "https://opm.gov.mt",
-      "source": "Wikipedia - Prime Minister of Malta article"
+      "url": "https://opm.gov.mt/",
+      "source": "https://opm.gov.mt/en/public-bodies/department-of-information-doi/"
+    },
+    {
+      "type": "website",
+      "label": "servizz.gov — government services portal",
+      "url": "https://www.servizz.gov.mt/",
+      "source": "https://www.servizz.gov.mt/en/Home"
+    },
+    {
+      "type": "website",
+      "label": "Malta diplomatic missions directory",
+      "url": "https://missions.foreign.gov.mt/",
+      "source": "https://missions.foreign.gov.mt/permanent-missions/new-york/"
+    },
+    {
+      "type": "website",
+      "label": "Malta Enterprise (investment promotion agency)",
+      "url": "https://maltaenterprise.com/",
+      "source": "https://maltaenterprise.com/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry for Foreign Affairs (Affarijiet Barranin)",
+      "url": "https://www.facebook.com/AffarijietBarraningovmt/",
+      "source": "https://www.govdirectory.org/malta/Q119776293/"
+    },
+    {
+      "type": "facebook",
+      "label": "Department of Information (DOI Malta)",
+      "url": "https://www.facebook.com/DOImalta/",
+      "source": "https://www.facebook.com/DOImalta/"
+    },
+    {
+      "type": "facebook",
+      "label": "servizz.gov",
+      "url": "https://www.facebook.com/servizz.gov.mt/",
+      "source": "https://www.facebook.com/servizz.gov.mt/"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of Malta to the UN, New York",
+      "url": "https://www.facebook.com/MaltaUNMission/",
+      "source": "https://www.facebook.com/MaltaUNMission/"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy of Malta in the United States",
+      "url": "https://www.facebook.com/embassymtusa/",
+      "source": "https://www.facebook.com/embassymtusa/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry for Foreign Affairs and Tourism (@MFTMalta)",
+      "url": "https://x.com/MFTMalta",
+      "source": "https://x.com/MFTMalta"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry for Foreign Affairs, Valletta",
+      "value": "+356 2124 2191",
+      "source": "https://www.govdirectory.org/malta/Q119776293/"
+    },
+    {
+      "type": "phone",
+      "label": "servizz.gov call centre (international)",
+      "value": "+356 2125 5153",
+      "source": "https://www.servizz.gov.mt/en/ContactUs"
+    },
+    {
+      "type": "phone",
+      "label": "servizz.gov freephone (within Malta)",
+      "value": "153",
+      "source": "https://www.servizz.gov.mt/en/ContactUs"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Malta to the UN, New York",
+      "value": "+1 212 725 2345",
+      "source": "https://www.un.int/malta/content/permanent-mission-malta-united-nations"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Malta, Washington D.C.",
+      "value": "+1 202 462 3611",
+      "source": "https://www.embassy.org/embassies/mt.html"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Information, Valletta",
+      "value": "+356 2200 1700",
+      "source": "https://www.gov.mt/en/Government/DOI/Pages/Contacts.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Malta Enterprise",
+      "value": "+356 2542 0000",
+      "source": "https://maltaenterprise.com/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry for Foreign Affairs",
+      "value": "Palazzo Parisio, Merchants Street, Valletta VLT 1171, Malta",
+      "source": "https://www.govdirectory.org/malta/Q119776293/"
+    },
+    {
+      "type": "address",
+      "label": "Department of Information",
+      "value": "3, Castille Place, Valletta VLT 1062, Malta",
+      "source": "https://www.gov.mt/en/Government/DOI/Pages/Contacts.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Malta Enterprise head office",
+      "value": "Gwardamangia Hill, Pietà MEC 0001, Malta",
+      "source": "https://maltaenterprise.com/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Malta to the United Nations, New York",
+      "value": "249 East 35th Street, New York, NY 10016, USA",
+      "source": "https://www.un.int/malta/content/permanent-mission-malta-united-nations"
+    },
+    {
+      "type": "other",
+      "label": "Contact page — Permanent Mission of Malta to the UN",
+      "url": "https://missions.foreign.gov.mt/permanent-missions/new-york/contact-the-permanent-mission/",
+      "source": "https://missions.foreign.gov.mt/permanent-missions/new-york/contact-the-permanent-mission/"
+    },
+    {
+      "type": "other",
+      "label": "servizz.gov contact form / live agent",
+      "url": "https://www.servizz.gov.mt/en/ContactUs",
+      "source": "https://www.servizz.gov.mt/en/ContactUs"
+    },
+    {
+      "type": "other",
+      "label": "Freedom of Information portal (FOI requests to ministries)",
+      "url": "https://foi.gov.mt/",
+      "source": "https://foi.gov.mt/wp-content/uploads/2025/02/MFT-Contact-List.pdf"
     },
     {
       "type": "website",

@@ -205,6 +205,66 @@
       "label": "Governor General",
       "value": "613-998-8760",
       "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    },
+    {
+      "type": "phone",
+      "label": "Government of Canada - General Information (1-800-O-Canada)",
+      "value": "1-800-622-6232",
+      "source": "https://www.canada.ca/en/contact.html"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "613-992-4211",
+      "source": "https://www.pm.gc.ca/en/connect/contact"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister of Canada - Official English",
+      "url": "https://x.com/CanadianPM",
+      "source": "https://www.pm.gc.ca/en/connect/social-media"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister of Canada - Official French",
+      "url": "https://x.com/PMcanadien",
+      "source": "https://www.pm.gc.ca/en/connect/social-media"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Canada - Official",
+      "url": "https://x.com/Canada",
+      "source": "https://www.canada.ca/en/social.html"
+    },
+    {
+      "type": "twitter",
+      "label": "Global Affairs Canada - Corporate",
+      "url": "https://x.com/GAC_Corporate",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/social-media"
+    },
+    {
+      "type": "facebook",
+      "label": "Global Affairs Canada - Canada and The World",
+      "url": "https://www.facebook.com/CanadaAndTheWorld",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/social-media"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Office of the Prime Minister, 80 Wellington Street, Ottawa, ON K1A 0A2, Canada",
+      "source": "https://www.pm.gc.ca/en/connect/contact"
+    },
+    {
+      "type": "address",
+      "label": "Global Affairs Canada",
+      "value": "125 Sussex Drive, Ottawa, ON K1A 0G2, Canada",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/contact"
+    },
+    {
+      "type": "other",
+      "label": "Fax - Prime Minister's Office",
+      "value": "613-941-6900",
+      "source": "https://www.pm.gc.ca/en/connect/contact"
     }
   ]
 }

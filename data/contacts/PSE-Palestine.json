@@ -1,5 +1,78 @@
 {
   "iso": "PSE",
   "country_name": "Palestine",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Expatriates — official/archive inbox",
+      "value": "archive@mfae.gov.ps",
+      "source": "https://www.mofa.pna.ps/portals/0/Diplomatic_List_September_2024.pdf (official MOFA Diplomatic List, September 2024, ministry contact block)"
+    },
+    {
+      "type": "email",
+      "label": "Palestinian International Cooperation Agency (PICA) — general inbox",
+      "value": "info@pica.gov.ps",
+      "source": "https://pica.pna.ps/"
+    },
+    {
+      "type": "email",
+      "label": "Chief of Protocol, Ministry of Foreign Affairs and Expatriates (Amb. Abeer Ramahi)",
+      "value": "aramahi@mfae.gov.ps",
+      "source": "https://www.mofa.pna.ps/portals/0/Diplomatic_List_September_2024.pdf (official MOFA Diplomatic List, September 2024)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Expatriates — official website",
+      "url": "https://www.mofa.pna.ps/en-us/home",
+      "source": "https://www.mofa.pna.ps/en-us/home"
+    },
+    {
+      "type": "website",
+      "label": "Palestinian International Cooperation Agency (PICA)",
+      "url": "https://pica.pna.ps/",
+      "source": "https://www.mofa.pna.ps/en-us/home (linked from ministry homepage)"
+    },
+    {
+      "type": "facebook",
+      "label": "State of Palestine — Ministry of Foreign Affairs and Expatriates (official page)",
+      "url": "https://www.facebook.com/mofa.pna",
+      "source": "https://www.mofa.pna.ps/en-us/home (social link on ministry site)"
+    },
+    {
+      "type": "twitter",
+      "label": "Palestinian Ministry of Foreign Affairs (@pmofa)",
+      "url": "https://twitter.com/pmofa",
+      "source": "https://www.mofa.pna.ps/en-us/home (social link on ministry site)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Expatriates — switchboard",
+      "value": "+970 2 294 3140",
+      "source": "https://www.mofa.pna.ps/portals/0/Diplomatic_List_September_2024.pdf (official MOFA Diplomatic List, September 2024)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Expatriates — fax",
+      "value": "+970 2 294 3165",
+      "source": "https://www.mofa.pna.ps/portals/0/Diplomatic_List_September_2024.pdf (official MOFA Diplomatic List, September 2024)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Expatriates — Ramallah headquarters",
+      "value": "Al Masyoun, Al-Ayyam St., Building No. 37 (behind Ramallah Cultural Palace), P.O. Box 1336, Postcode P6028100, Ramallah, Palestine",
+      "source": "https://www.mofa.pna.ps/portals/0/Diplomatic_List_September_2024.pdf (official MOFA Diplomatic List, September 2024)"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs — Media Office (press desk)",
+      "url": "https://www.mofa.pna.ps/en-us/mediaoffice",
+      "source": "https://www.mofa.pna.ps/en-us/home"
+    },
+    {
+      "type": "other",
+      "label": "Official MOFA Diplomatic List 2024 (PDF) — all embassies accredited to the State of Palestine, with their contact emails",
+      "url": "https://www.mofa.pna.ps/portals/0/Diplomatic_List_September_2024.pdf",
+      "source": "https://www.mofa.pna.ps/portals/0/Diplomatic_List_September_2024.pdf"
+    }
+  ]
 }

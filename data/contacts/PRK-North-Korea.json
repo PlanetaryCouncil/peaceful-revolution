@@ -1,5 +1,126 @@
 {
-  "iso": "PRK",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "DPRK Embassy in Berlin, Germany (official contact email)",
+      "value": "info@dprkorea-emb.de",
+      "source": "German Federal Foreign Office (Auswärtiges Amt) official listing of DPRK representations in Germany — https://www.auswaertiges-amt.de/de/service/laender/koreademokratischevolksrepublik-node/vertretungenkoreademokratischevolksrepublik-216112"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of the DPRK to the UN Office at Geneva",
+      "value": "pgva.ts@bluewin.ch",
+      "source": "UN Geneva Blue Book (official directory of permanent missions) — https://www.ungeneva.org/en/blue-book/missions/member-states/democratic-peoples-republic-korea"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of the DPRK to the United Nations, New York",
+      "value": "dprk.un@verizon.net",
+      "source": "EmbassyPages diplomatic directory — https://www.embassypages.com/koreademocraticrepublic-permanentmission-newyork-unitednations"
+    },
+    {
+      "type": "email",
+      "label": "DPRK Embassy in Stockholm, Sweden (also accredited to Denmark, Finland, Iceland, Norway, Latvia, Lithuania)",
+      "value": "koryo@telia.net",
+      "source": "EmbassyPages diplomatic directory — https://www.embassypages.com/koreademocraticrepublic-embassy-stockholm-sweden"
+    },
+    {
+      "type": "email",
+      "label": "DPRK Embassy in London, United Kingdom (directory listing, lower confidence)",
+      "value": "prkinfo@yahoo.com",
+      "source": "EmbassyPages / embassy directory listings — https://www.embassypages.com/koreademocraticrepublic-embassy-london-unitedkingdom"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of the DPRK (official)",
+      "url": "http://www.mfa.gov.kp",
+      "source": "38 North, 'North Korean Foreign Ministry Website: Overview' — https://www.38north.org/2024/03/north-korean-foreign-ministry-website-overview/"
+    },
+    {
+      "type": "website",
+      "label": "Naenara — official DPRK government web portal",
+      "url": "http://www.naenara.com.kp",
+      "source": "Wikipedia 'Naenara' / North Korea Tech government website list — https://www.northkoreatech.org/the-north-korean-website-list/north-korean-government-ngo-websites/"
+    },
+    {
+      "type": "website",
+      "label": "Korean Central News Agency (KCNA) — state news agency",
+      "url": "http://www.kcna.kp",
+      "source": "North Korea Tech official North Korean government/NGO website list — https://www.northkoreatech.org/the-north-korean-website-list/north-korean-government-ngo-websites/"
+    },
+    {
+      "type": "website",
+      "label": "DPRK Portal — index of official DPRK websites",
+      "url": "http://www.dprkportal.kp",
+      "source": "North Korea Tech official North Korean government/NGO website list — https://www.northkoreatech.org/the-north-korean-website-list/north-korean-government-ngo-websites/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the DPRK to the UN, New York",
+      "value": "+1 212 972 3105 / +1 212 972 3106",
+      "source": "EmbassyPages — https://www.embassypages.com/koreademocraticrepublic-permanentmission-newyork-unitednations"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the DPRK to the UN, New York",
+      "value": "820 Second Avenue, Suite 13A, 13th Floor, New York, NY 10017, USA",
+      "source": "EmbassyPages / Wikipedia 'Permanent Mission of North Korea to the United Nations' — https://en.wikipedia.org/wiki/Permanent_Mission_of_North_Korea_to_the_United_Nations"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the DPRK to the UN Office at Geneva",
+      "value": "+41 22 735 43 70",
+      "source": "UN Geneva Blue Book — https://www.ungeneva.org/en/blue-book/missions/member-states/democratic-peoples-republic-korea"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the DPRK to the UN Office at Geneva",
+      "value": "Chemin de Plonjon 1, 1207 Geneva, Switzerland",
+      "source": "UN Geneva Blue Book — https://www.ungeneva.org/en/blue-book/missions/member-states/democratic-peoples-republic-korea"
+    },
+    {
+      "type": "phone",
+      "label": "DPRK Embassy in Berlin, Germany",
+      "value": "+49 30 20 62 59 90",
+      "source": "German Federal Foreign Office — https://www.auswaertiges-amt.de/de/service/laender/koreademokratischevolksrepublik-node/vertretungenkoreademokratischevolksrepublik-216112"
+    },
+    {
+      "type": "address",
+      "label": "DPRK Embassy in Berlin, Germany",
+      "value": "Glinkastraße 5-7, 10117 Berlin, Germany",
+      "source": "German Federal Foreign Office — https://www.auswaertiges-amt.de/de/service/laender/koreademokratischevolksrepublik-node/vertretungenkoreademokratischevolksrepublik-216112"
+    },
+    {
+      "type": "phone",
+      "label": "DPRK Embassy in London, United Kingdom",
+      "value": "+44 20 8992 4965",
+      "source": "Wikipedia 'Embassy of North Korea, London' / embassy directories — https://en.wikipedia.org/wiki/Embassy_of_North_Korea,_London"
+    },
+    {
+      "type": "address",
+      "label": "DPRK Embassy in London, United Kingdom",
+      "value": "73 Gunnersbury Avenue, London W5 4LP, United Kingdom",
+      "source": "Wikipedia 'Embassy of North Korea, London' — https://en.wikipedia.org/wiki/Embassy_of_North_Korea,_London"
+    },
+    {
+      "type": "address",
+      "label": "DPRK Embassy in Stockholm, Sweden",
+      "value": "Norra Kungsvägen 39, Lidingö, Stockholm, Sweden",
+      "source": "EmbassyPages — https://www.embassypages.com/koreademocraticrepublic-embassy-stockholm-sweden"
+    },
+    {
+      "type": "phone",
+      "label": "DPRK Embassy in Stockholm, Sweden",
+      "value": "+46 8 545 894 00",
+      "source": "EmbassyPages — https://www.embassypages.com/koreademocraticrepublic-embassy-stockholm-sweden"
+    },
+    {
+      "type": "other",
+      "label": "UN Country Team in the DPRK — contact desk (intermediary channel for reaching DPRK authorities)",
+      "url": "https://dprk.un.org/en/contact-us",
+      "source": "United Nations in DPRK official site — https://dprk.un.org/en/contact-us"
+    }
+  ],
   "country_name": "North Korea",
-  "contacts": []
+  "iso": "PRK"
 }

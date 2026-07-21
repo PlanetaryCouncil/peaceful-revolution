@@ -103,6 +103,48 @@
       "label": "International Press Center",
       "value": "2 Chaoyangmen South Avenue, Chaoyang District, Beijing, China",
       "source": "https://ipc.fmprc.gov.cn/eng/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "value": "lss@mfa.gov.cn",
+      "source": "https://cs.mfa.gov.cn"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Headquarters",
+      "value": "2 Chaoyangmen South Avenue, Chaoyang District, Beijing 100701, China",
+      "source": "https://www.mfa.gov.cn"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs - Official Portal",
+      "url": "https://www.mfa.gov.cn",
+      "source": "https://www.mfa.gov.cn"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "url": "https://cs.mfa.gov.cn",
+      "source": "https://cs.mfa.gov.cn"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Social Media (WeChat)",
+      "value": "Official Ministry of Foreign Affairs account on WeChat (微信)",
+      "source": "https://www.mfa.gov.cn"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Social Media (Weibo)",
+      "value": "Official Ministry of Foreign Affairs account on Weibo (微博)",
+      "source": "https://www.mfa.gov.cn"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Government Services Portal",
+      "value": "Message submission system available at 我给外交部留言 (Message to Ministry of Foreign Affairs)",
+      "source": "https://www.mfa.gov.cn"
     }
   ]
 }

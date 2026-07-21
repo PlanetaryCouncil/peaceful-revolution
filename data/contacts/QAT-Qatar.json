@@ -3,6 +3,156 @@
   "country_name": "Qatar",
   "contacts": [
     {
+      "type": "email",
+      "label": "Embassy of Qatar, Washington DC — general inquiries",
+      "value": "info.dc@mofa.gov.qa",
+      "source": "https://washington.embassy.qa/en/the-embassy/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Qatar, London — general",
+      "value": "london@mofa.gov.qa",
+      "source": "https://london.embassy.qa/en"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Qatar, Brussels — general",
+      "value": "brussels@mofa.gov.qa",
+      "source": "https://brussels.embassy.qa/en/the-embassy/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Qatar, Washington DC — consular services",
+      "value": "consular.dc@mofa.gov.qa",
+      "source": "https://washington.embassy.qa/en/the-embassy/contact"
+    },
+    {
+      "type": "email",
+      "label": "Government Communications Office — US press inquiries",
+      "value": "usmedia@gco.gov.qa",
+      "source": "https://washington.embassy.qa/en/the-embassy/contact"
+    },
+    {
+      "type": "email",
+      "label": "Invest Qatar (investment promotion agency)",
+      "value": "info@invest.qa",
+      "source": "https://www.invest.qa/en/about-us/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Commerce and Industry",
+      "value": "info@moci.gov.qa",
+      "source": "https://www.moci.gov.qa/en/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.gov.qa/en",
+      "source": "https://www.mofa.gov.qa/en"
+    },
+    {
+      "type": "website",
+      "label": "Hukoomi — Qatar official government portal",
+      "url": "https://hukoomi.gov.qa/en",
+      "source": "https://hukoomi.gov.qa/en"
+    },
+    {
+      "type": "website",
+      "label": "Government Communications Office",
+      "url": "https://www.gco.gov.qa/en/",
+      "source": "https://www.gco.gov.qa/en/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Qatar in Washington DC",
+      "url": "https://washington.embassy.qa/en",
+      "source": "https://washington.embassy.qa/en"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Qatar in London",
+      "url": "https://london.embassy.qa/en",
+      "source": "https://london.embassy.qa/en"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Qatar in Brussels",
+      "url": "https://brussels.embassy.qa/en",
+      "source": "https://brussels.embassy.qa/en"
+    },
+    {
+      "type": "website",
+      "label": "Invest Qatar",
+      "url": "https://www.invest.qa/en",
+      "source": "https://www.invest.qa/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (English)",
+      "url": "https://twitter.com/MofaQatar_EN",
+      "source": "https://www.mofa.gov.qa/en"
+    },
+    {
+      "type": "twitter",
+      "label": "HE Sheikh Mohammed bin Abdulrahman Al-Thani, Prime Minister & Foreign Minister",
+      "url": "https://twitter.com/MBA_AlThani_",
+      "source": "https://www.mofa.gov.qa/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs, Doha",
+      "value": "+974 4011 1111",
+      "source": "https://www.mofa.gov.qa/en"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Qatar, Washington DC",
+      "value": "+1 202-750-7744",
+      "source": "https://washington.embassy.qa/en/the-embassy/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Qatar, London",
+      "value": "+44 20 7493 2200",
+      "source": "https://london.embassy.qa/en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs headquarters",
+      "value": "Almirqab Tower, West Bay, Doha, Qatar",
+      "source": "https://www.mofa.gov.qa/en"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the State of Qatar, Washington DC",
+      "value": "1530 P St NW, Washington, D.C. 20005, USA",
+      "source": "https://washington.embassy.qa/en/the-embassy/contact"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the State of Qatar, London",
+      "value": "South Audley Street, London W1K 1NB, United Kingdom",
+      "source": "https://london.embassy.qa/en"
+    },
+    {
+      "type": "address",
+      "label": "Invest Qatar",
+      "value": "Tornado Tower, 13th Floor, P.O. Box 11381, Doha, Qatar",
+      "source": "https://www.invest.qa/en/about-us/contact-us"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs online contact form",
+      "url": "https://www.mofa.gov.qa/en",
+      "source": "https://www.mofa.gov.qa/en"
+    },
+    {
+      "type": "other",
+      "label": "MOFA Diplomatic Portal",
+      "url": "https://dp.mofa.gov.qa",
+      "source": "https://www.mofa.gov.qa/en"
+    },
+    {
       "type": "phone",
       "label": "Ministry of Foreign Affairs Main Line",
       "value": "+974 4011 11 11",

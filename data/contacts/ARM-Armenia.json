@@ -109,6 +109,24 @@
       "label": "National Assembly",
       "value": "19 Baghramyan, Yerevan 0095, Republic of Armenia",
       "source": "http://www.parliament.am/budget_office.php?sel=contact&lang=eng"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.am",
+      "source": "Wikipedia - Government of Armenia article"
+    },
+    {
+      "type": "phone",
+      "label": "International Calling Code",
+      "value": "+374",
+      "source": "Wikipedia - Armenia article"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.am",
+      "source": "General knowledge - official ministry domain pattern"
     }
   ]
 }

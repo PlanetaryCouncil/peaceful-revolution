@@ -1,5 +1,72 @@
 {
   "iso": "TUV",
   "country_name": "Tuvalu",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission of Tuvalu to the United Nations, New York",
+      "value": "tuvalu.unmission@gov.tv",
+      "source": "https://www.un.int/tuvalu/ (UN Permanent Missions directory, official Tuvalu mission page)"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Tuvalu to the UN — telephone",
+      "value": "+1 212-490-0534",
+      "source": "https://www.un.int/tuvalu/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Tuvalu to the UN — fax",
+      "value": "+1 212-808-4975",
+      "source": "https://www.un.int/tuvalu/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Tuvalu to the UN",
+      "value": "685 Third Avenue, Suite 1104, New York, NY 10017, USA",
+      "source": "https://www.un.int/tuvalu/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Tuvalu to the United Nations",
+      "url": "https://www.un.int/tuvalu/",
+      "source": "https://www.un.int/tuvalu/"
+    },
+    {
+      "type": "website",
+      "label": "Tuvalu — Future Now / First Digital Nation (Government of Tuvalu initiative)",
+      "url": "https://www.tuvalu.tv/",
+      "source": "https://www.tuvalu.tv/"
+    },
+    {
+      "type": "website",
+      "label": "Tuvalu Fisheries Department (Government of Tuvalu, gov domain)",
+      "url": "https://www.tuvalufisheries.tv/",
+      "source": "https://www.tuvalufisheries.tv/"
+    },
+    {
+      "type": "twitter",
+      "label": "Tuvalu Mission to the UN (official)",
+      "url": "https://twitter.com/Tuvalu_UN",
+      "source": "https://www.un.int/tuvalu/about"
+    },
+    {
+      "type": "facebook",
+      "label": "Tuvalu Mission to the UN, New York (official)",
+      "url": "https://www.facebook.com/TuvaluMissionUNNY/",
+      "source": "https://www.un.int/tuvalu/about"
+    },
+    {
+      "type": "other",
+      "label": "Tuvalu Fisheries Department contact form",
+      "url": "https://www.tuvalufisheries.tv/contact/",
+      "source": "https://www.tuvalufisheries.tv/contact/"
+    },
+    {
+      "type": "other",
+      "label": "Head of Mission — H.E. Dr. Tapugao Falefou, Permanent Representative to the UN",
+      "value": "H.E. Dr. Tapugao Falefou",
+      "source": "https://www.un.int/tuvalu/"
+    }
+  ]
 }

@@ -199,6 +199,60 @@
       "label": "Uganda Media Centre (Government Communications Hub)",
       "value": "https://mediacentre.go.ug/",
       "source": "Official government media channel - 'One Government, One Voice'"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "mofa@mofa.go.ug",
+      "source": "https://www.mofa.go.ug/basic-page/contact-us-0"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "secretary@op.go.ug",
+      "source": "https://op.go.ug/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Uganda Investment Authority (Business Development)",
+      "value": "info@ugandainvest.go.ug",
+      "source": "https://ugandainvest.go.ug/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "State House Uganda",
+      "value": "+256 414 231 900",
+      "source": "https://statehouse.go.ug/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Uganda Investment Authority",
+      "value": "+256-800-100-038",
+      "source": "https://ugandainvest.go.ug/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mofa.go.ug/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Uganda Investment Authority",
+      "url": "https://ugandainvest.go.ug/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "P.O. Box 7048, Kampala; 2A/B Apollo Kaggwa Road, Kampala, Uganda",
+      "source": "https://www.mofa.go.ug/basic-page/contact-us-0"
+    },
+    {
+      "type": "address",
+      "label": "Uganda Investment Authority",
+      "value": "P.O. Box 7418, Kampala; Plot 1, Baskerville Avenue, Kololo, Uganda",
+      "source": "https://ugandainvest.go.ug/contact/"
     }
   ]
 }

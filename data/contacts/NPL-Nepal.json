@@ -196,21 +196,9 @@
     },
     {
       "type": "address",
-      "label": "Ministry of Home Affairs",
-      "value": "Singhadurbar, Kathmandu, Nepal",
-      "source": "https://moha.gov.np"
-    },
-    {
-      "type": "address",
       "label": "Ministry of Industry, Commerce and Supplies",
       "value": "Singha Durbar, Kathmandu, Nepal",
       "source": "https://www.moics.gov.np"
-    },
-    {
-      "type": "address",
-      "label": "Ministry of Land Management, Cooperatives, Federal and General Administration",
-      "value": "Singhadurbar, Kathmandu, Nepal",
-      "source": "https://mofaga.gov.np"
     },
     {
       "type": "address",

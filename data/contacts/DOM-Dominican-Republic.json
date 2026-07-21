@@ -103,6 +103,84 @@
       "label": "Ministry of Foreign Affairs Social Media",
       "value": "@MIREXRD on Facebook, Instagram, X (Twitter), YouTube, LinkedIn",
       "source": "https://mirex.gob.do/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Administrative Affairs",
+      "value": "mapre@mapre.gob.do",
+      "source": "https://mapre.gob.do/contacto/"
+    },
+    {
+      "type": "email",
+      "label": "General Directorate of Migration",
+      "value": "migracion@migracion.gob.do",
+      "source": "https://migracion.gob.do/en/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "(809) 987-7001",
+      "source": "https://mirex.gob.do/en/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency",
+      "value": "(809) 695-8000",
+      "source": "https://presidencia.gob.do/"
+    },
+    {
+      "type": "phone",
+      "label": "General Directorate of Migration",
+      "value": "809-508-2555",
+      "source": "https://migracion.gob.do/en/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (MIREX)",
+      "url": "https://mirex.gob.do/en/",
+      "source": "https://mirex.gob.do/en/"
+    },
+    {
+      "type": "website",
+      "label": "Government Services Portal",
+      "url": "https://www.gob.do/",
+      "source": "https://www.gob.do/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Administrative Affairs",
+      "url": "https://minpre.gob.do/",
+      "source": "https://minpre.gob.do/"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency Official Account",
+      "url": "https://x.com/presidenciard",
+      "source": "https://x.com/presidenciard"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MIREXRD",
+      "source": "https://x.com/MIREXRD"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MIREXRDO/",
+      "source": "https://www.facebook.com/MIREXRDO/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs Headquarters",
+      "value": "Avenida Independencia No. 752, Estancia San Gerónimo, Santo Domingo, Dominican Republic",
+      "source": "https://mirex.gob.do/en/"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Palace (Palacio Nacional)",
+      "value": "Av. México esq. Calle Dr. Delgado, Santo Domingo, Dominican Republic",
+      "source": "https://presidencia.gob.do/"
     }
   ]
 }

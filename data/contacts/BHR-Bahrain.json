@@ -45,12 +45,6 @@
       "source": "mol.gov.bh"
     },
     {
-      "type": "phone",
-      "label": "Ministry of Labour",
-      "value": "+973 80008001",
-      "source": "mol.gov.bh"
-    },
-    {
       "type": "twitter",
       "label": "Ministry of Labour",
       "url": "https://x.com/molbahrain1",
@@ -193,6 +187,138 @@
       "label": "National Complaints and Suggestions System",
       "value": "Tawasul Platform at services.bahrain.bh/wps/portal/tawasul/Home_en",
       "source": "services.bahrain.bh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mofa.gov.bh",
+      "source": "mofa.gov.bh"
+    },
+    {
+      "type": "email",
+      "label": "Information & eGovernment Authority (Government Portal)",
+      "value": "info@iga.gov.bh",
+      "source": "iga.gov.bh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Industry and Commerce (Business/Investment)",
+      "value": "info@moic.gov.bh",
+      "source": "moic.gov.bh"
+    },
+    {
+      "type": "email",
+      "label": "Bahrain Economic Development Board (Investment)",
+      "value": "investorenquiries@bahrainedb.com",
+      "source": "bahrainedb.com"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+973 1722 7555",
+      "source": "mofa.gov.bh"
+    },
+    {
+      "type": "phone",
+      "label": "Government Services Contact Center",
+      "value": "80008001",
+      "source": "iga.gov.bh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Industry and Commerce - Commerce Affairs",
+      "value": "+973 1757 4777",
+      "source": "moic.gov.bh"
+    },
+    {
+      "type": "phone",
+      "label": "Bahrain Economic Development Board",
+      "value": "+973 1758 9999",
+      "source": "bahrainedb.com"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.gov.bh/",
+      "source": "mofa.gov.bh"
+    },
+    {
+      "type": "website",
+      "label": "Information & eGovernment Authority (Government Portal)",
+      "url": "https://www.iga.gov.bh/en/",
+      "source": "iga.gov.bh"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.pmo.gov.bh/en/",
+      "source": "pmo.gov.bh"
+    },
+    {
+      "type": "website",
+      "label": "Bahrain Economic Development Board",
+      "url": "https://www.bahrainedb.com/",
+      "source": "bahrainedb.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/bahdiplomatic",
+      "source": "twitter.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Bahrain Government",
+      "url": "https://x.com/GovBahrain",
+      "source": "twitter.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Bahrain News Agency",
+      "url": "https://x.com/bna_en",
+      "source": "twitter.com"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/pages/Ministry-of-Foreign-Affairs-Bahrain/127176260659030",
+      "source": "facebook.com"
+    },
+    {
+      "type": "facebook",
+      "label": "Bahrain News Agency",
+      "url": "https://www.facebook.com/bna.en/",
+      "source": "facebook.com"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "P.O. Box 547, Government Road, Manama, Kingdom of Bahrain",
+      "source": "mofa.gov.bh"
+    },
+    {
+      "type": "address",
+      "label": "Information & eGovernment Authority - Muharraq",
+      "value": "Building 145, Road 2403, Block 224, Muharraq, Kingdom of Bahrain, P.O. Box 75533",
+      "source": "iga.gov.bh"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Industry and Commerce",
+      "value": "Sea Front Financial Harbour Gate, Bahrain Financial Harbour, P.O. Box 60667, Manama",
+      "source": "moic.gov.bh"
+    },
+    {
+      "type": "address",
+      "label": "Crown Prince's Office",
+      "value": "Building 1600, Shaikh Salman Highway, Block 906, Riffa, P.O. Box 29091, Kingdom of Bahrain",
+      "source": "crownprince.bh"
+    },
+    {
+      "type": "other",
+      "label": "Official Government Portal",
+      "value": "bahrain.bh - Tawasul Communication Channel at bahrain.bh/tawasul",
+      "source": "bahrain.bh"
     }
   ]
 }

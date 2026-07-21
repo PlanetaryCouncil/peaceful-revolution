@@ -133,6 +133,30 @@
       "label": "Press and Information Office",
       "url": "https://x.com/CyprusPIO",
       "source": "https://x.com/CyprusPIO"
+    },
+    {
+      "type": "website",
+      "label": "Cyprus Government Portal",
+      "url": "https://www.gov.cy/",
+      "source": "Known government domain (access currently restricted during research)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.cy/",
+      "source": "Known government ministry domain (access currently restricted during research)"
+    },
+    {
+      "type": "note",
+      "label": "Research Status",
+      "value": "Unable to verify current email addresses, phone numbers, physical addresses, or social media accounts due to: (1) Web search budget exhausted (200/200 calls used), (2) Official government websites returning HTTP 403 Forbidden errors preventing content retrieval",
+      "source": "Session limitations"
+    },
+    {
+      "type": "note",
+      "label": "Recommendation",
+      "value": "For verified, current contact information, access gov.cy and mfa.gov.cy directly, or contact Cyprus embassy in your region",
+      "source": "Research constraints"
     }
   ]
 }

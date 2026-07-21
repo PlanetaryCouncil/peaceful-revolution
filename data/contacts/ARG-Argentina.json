@@ -133,6 +133,84 @@
       "label": "Government Information Request Portal (Transparency)",
       "url": "https://www.argentina.gob.ar/secretariageneral/transparencia/pedirinformacion",
       "source": "https://www.argentina.gob.ar/"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Office (Casa Rosada) - Audiences",
+      "value": "audiencias@presidencia.gob.ar",
+      "source": "https://www.casarosada.gob.ar/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Economy - Citizen Services",
+      "value": "ciudadano@mecon.gob.ar",
+      "source": "https://www.economia.gob.ar/en/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+54 (11) 4819-7000",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Economy",
+      "value": "+54 (11) 4349-5000",
+      "source": "https://www.economia.gob.ar/en/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Chief of Staff",
+      "value": "+54-11 6065-2200",
+      "source": "https://www.argentina.gob.ar/jefatura/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Economy",
+      "url": "https://www.economia.gob.ar/en",
+      "source": "https://www.economia.gob.ar/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/cancilleria_ar",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office (Casa Rosada)",
+      "url": "https://twitter.com/CasaRosada",
+      "source": "https://twitter.com/casarosada"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/CancilleriaARG",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Esmeralda 1212, CABA, C1007ABR, Argentina",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Casa Rosada)",
+      "value": "Balcarce 50, Buenos Aires, C1064, Argentina",
+      "source": "https://www.casarosada.gob.ar/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Economy",
+      "value": "Hipólito Yrigoyen 250, Buenos Aires, Argentina",
+      "source": "https://www.economia.gob.ar/en/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Chief of Staff",
+      "value": "Av. Pte. Julio A. Roca 782, Ciudad Autónoma de Buenos Aires, C1067ABP, Argentina",
+      "source": "https://www.argentina.gob.ar/jefatura/en"
     }
   ]
 }

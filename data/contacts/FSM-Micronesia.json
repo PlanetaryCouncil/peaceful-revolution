@@ -1,5 +1,168 @@
 {
   "iso": "FSM",
   "country_name": "Micronesia",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "FSM Department of Foreign Affairs",
+      "value": "foreignaffairs@mail.fm",
+      "source": "https://www.fsmgov.org/ngovt.html"
+    },
+    {
+      "type": "email",
+      "label": "FSM Permanent Mission to the United Nations, New York",
+      "value": "fsmun@fsmgov.org",
+      "source": "https://unmission.fm/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "FSM Embassy Washington DC",
+      "value": "dcmission@fsmembassy.fm",
+      "source": "https://fsmembassy.fm/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "FSM Embassy Washington DC - First Secretary",
+      "value": "firstsecretary@fsmembassydc.org",
+      "source": "https://www.fsmgov.org/ovmis.html"
+    },
+    {
+      "type": "email",
+      "label": "FSM Department of Resource & Development (trade/investment)",
+      "value": "fsmrd@dea.fm",
+      "source": "https://www.fsmgov.org/ngovt.html"
+    },
+    {
+      "type": "email",
+      "label": "FSM Embassy to Japan (Tokyo)",
+      "value": "fsmemb@fsmemb.or.jp",
+      "source": "https://www.fsmgov.org/ovmis.html"
+    },
+    {
+      "type": "email",
+      "label": "FSM Embassy to Fiji (Suva)",
+      "value": "fsmsuva@fsmsuva.org.fj",
+      "source": "https://www.fsmgov.org/ovmis.html"
+    },
+    {
+      "type": "email",
+      "label": "FSM Embassy to China (Beijing)",
+      "value": "embassy@fsmembassy.cn",
+      "source": "https://www.fsmgov.org/ovmis.html"
+    },
+    {
+      "type": "email",
+      "label": "FSM Consulate-General Honolulu",
+      "value": "fsmconsulatehnl@fsmcghnl.com",
+      "source": "https://www.fsmgov.org/ovmis.html"
+    },
+    {
+      "type": "email",
+      "label": "FSM Consulate-General Guam",
+      "value": "fsmguam@ite.net",
+      "source": "https://www.fsmgov.org/ovmis.html"
+    },
+    {
+      "type": "website",
+      "label": "FSM Government official portal",
+      "url": "https://gov.fm/",
+      "source": "https://gov.fm/directory/"
+    },
+    {
+      "type": "website",
+      "label": "FSM National Government (legacy official site)",
+      "url": "https://www.fsmgov.org/",
+      "source": "https://www.fsmgov.org/ngovt.html"
+    },
+    {
+      "type": "website",
+      "label": "FSM Department of Foreign Affairs",
+      "url": "https://dfa.gov.fm/",
+      "source": "https://www.fsmgov.org/ngovt.html"
+    },
+    {
+      "type": "website",
+      "label": "FSM Permanent Mission to the UN",
+      "url": "https://unmission.fm/",
+      "source": "https://unmission.fm/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "FSM Embassy Washington DC",
+      "url": "https://fsmembassy.fm/",
+      "source": "https://fsmembassy.fm/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "FSM Congress",
+      "url": "https://www.cfsm.gov.fm/",
+      "source": "https://www.cfsm.gov.fm/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President, Federated States of Micronesia",
+      "url": "https://www.facebook.com/piofsm/",
+      "source": "https://www.facebook.com/piofsm/"
+    },
+    {
+      "type": "phone",
+      "label": "FSM Department of Foreign Affairs",
+      "value": "+691 320-2641 / +691 320-2613",
+      "source": "https://www.fsmgov.org/ngovt.html"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+691 320-2228",
+      "source": "https://gov.fm/directory/"
+    },
+    {
+      "type": "phone",
+      "label": "FSM Permanent Mission to the UN, New York",
+      "value": "+1 212-697-8370",
+      "source": "https://unmission.fm/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "FSM Embassy Washington DC",
+      "value": "+1 202-223-4383",
+      "source": "https://fsmembassy.fm/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "FSM Department of Foreign Affairs",
+      "value": "PS123, Palikir, Pohnpei State, FM 96941, Federated States of Micronesia",
+      "source": "https://www.fsmgov.org/ngovt.html"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "P.O. Box PS53, Palikir, Pohnpei State, FM 96941, Federated States of Micronesia",
+      "source": "https://gov.fm/directory/"
+    },
+    {
+      "type": "address",
+      "label": "FSM Permanent Mission to the UN",
+      "value": "300 East 42nd Street, Suite 1600, New York, NY 10017, USA",
+      "source": "https://unmission.fm/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "FSM Embassy Washington DC",
+      "value": "1725 N Street NW, Washington, DC 20036, USA",
+      "source": "https://fsmembassy.fm/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "FSM UN Mission contact form",
+      "url": "https://unmission.fm/contact-us/",
+      "source": "https://unmission.fm/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "FSM Government department directory",
+      "url": "https://gov.fm/directory/",
+      "source": "https://gov.fm/directory/"
+    }
+  ]
 }

@@ -3,10 +3,220 @@
   "country_name": "Japan",
   "contacts": [
     {
+      "type": "email",
+      "label": "Permanent Mission of Japan to the United Nations, New York",
+      "value": "japan.mission@dn.mofa.go.jp",
+      "source": "https://www.un.emb-japan.go.jp/aboutus/contact.html"
+    },
+    {
+      "type": "email",
+      "label": "Mission of Japan to the European Union, Brussels - general inquiries",
+      "value": "info@eu.mofa.go.jp",
+      "source": "https://www.eu.emb-japan.go.jp/contact_details.html"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Japan in the UK, London - general inquiries",
+      "value": "info@ld.mofa.go.jp",
+      "source": "https://www.uk.emb-japan.go.jp/en/news/email_changes.html"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Japan in the UK - investment inquiries",
+      "value": "invest-japan@ld.mofa.go.jp",
+      "source": "https://www.uk.emb-japan.go.jp/en/news/email_changes.html"
+    },
+    {
+      "type": "email",
+      "label": "JETRO (Japan External Trade Organization) - London investment desk",
+      "value": "Ldn_invest@jetro.go.jp",
+      "source": "https://www.jetro.go.jp/uk/Contact_US.html"
+    },
+    {
       "type": "website",
-      "label": "Ministry of Foreign Affairs (MOFA)",
-      "url": "https://www.mofa.go.jp",
-      "source": "Japanese government official portal - known public domain"
+      "label": "Ministry of Foreign Affairs of Japan (MOFA)",
+      "url": "https://www.mofa.go.jp/",
+      "source": "https://www.mofa.go.jp/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office of Japan (Kantei) - English",
+      "url": "https://japan.kantei.go.jp/",
+      "source": "https://japan.kantei.go.jp/ongoingtopics/sns/sns_policy_e.html"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Japan to the United Nations",
+      "url": "https://www.un.emb-japan.go.jp/",
+      "source": "https://www.un.emb-japan.go.jp/itpr_en/aboutus.html"
+    },
+    {
+      "type": "website",
+      "label": "Mission of Japan to the European Union",
+      "url": "https://www.eu.emb-japan.go.jp/",
+      "source": "https://www.eu.emb-japan.go.jp/contact_details.html"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Japan in the United States",
+      "url": "https://www.us.emb-japan.go.jp/itprtop_en/index.html",
+      "source": "https://www.us.emb-japan.go.jp/itpr_en/embassy.html"
+    },
+    {
+      "type": "website",
+      "label": "JETRO - Japan External Trade Organization (investment/trade promotion)",
+      "url": "https://www.jetro.go.jp/en/",
+      "source": "https://www.jetro.go.jp/en/jetro/profile/"
+    },
+    {
+      "type": "website",
+      "label": "MOFA directory of Japanese embassies, consulates and permanent missions",
+      "url": "https://www.mofa.go.jp/about/emb_cons/mofaserv.html",
+      "source": "https://www.mofa.go.jp/about/emb_cons/mofaserv.html"
+    },
+    {
+      "type": "twitter",
+      "label": "MOFA of Japan (official English account)",
+      "url": "https://x.com/MofaJapan_en",
+      "source": "https://x.com/MofaJapan_en"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office of Japan (official English account)",
+      "url": "https://x.com/JPN_PMO",
+      "source": "https://japan.kantei.go.jp/ongoingtopics/sns/sns_policy_e.html"
+    },
+    {
+      "type": "twitter",
+      "label": "The Government of Japan (JapanGov)",
+      "url": "https://x.com/japangov",
+      "source": "https://x.com/japangov?lang=en"
+    },
+    {
+      "type": "twitter",
+      "label": "Mission of Japan to the EU",
+      "url": "https://x.com/JapanMissionEU",
+      "source": "https://x.com/JapanMissionEU"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of Japan (English)",
+      "url": "https://www.facebook.com/Mofa.Japan.en/",
+      "source": "https://www.facebook.com/Mofa.Japan.en/"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office of Japan",
+      "url": "https://www.facebook.com/Japan.PMO/",
+      "source": "https://www.facebook.com/Japan.PMO/"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of Japan to the United Nations",
+      "url": "https://www.facebook.com/JapanMissionUN/",
+      "source": "https://www.facebook.com/JapanMissionUN/"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy of Japan in the UK",
+      "url": "https://www.facebook.com/JAPANinUK/",
+      "source": "https://www.facebook.com/JAPANinUK/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs of Japan - main switchboard",
+      "value": "+81-3-3580-3311",
+      "source": "https://www.mofa.go.jp/about/index.html"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Japan to the UN, New York",
+      "value": "+1-212-223-4300",
+      "source": "https://www.un.emb-japan.go.jp/aboutus/contact.html"
+    },
+    {
+      "type": "phone",
+      "label": "Mission of Japan to the European Union, Brussels - switchboard",
+      "value": "+32-2-500-77-11",
+      "source": "https://www.eu.emb-japan.go.jp/contact_details.html"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Japan in the United States, Washington DC",
+      "value": "+1-202-238-6700",
+      "source": "https://www.us.emb-japan.go.jp/itpr_en/embassy.html"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Japan in the UK, London",
+      "value": "+44-20-7465-6500",
+      "source": "https://www.uk.emb-japan.go.jp/itpr_en/embassy.html"
+    },
+    {
+      "type": "phone",
+      "label": "JETRO headquarters, Tokyo",
+      "value": "+81-3-3582-5511",
+      "source": "https://www.jetro.go.jp/en/jetro/profile/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs of Japan",
+      "value": "2-2-1 Kasumigaseki, Chiyoda-ku, Tokyo 100-8919, Japan",
+      "source": "https://www.mofa.go.jp/about/index.html"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Japan to the United Nations",
+      "value": "605 Third Avenue, 28th Floor, New York, NY 10158, USA",
+      "source": "https://www.un.emb-japan.go.jp/aboutus/contact.html"
+    },
+    {
+      "type": "address",
+      "label": "Mission of Japan to the European Union",
+      "value": "Rue Van Maerlant 1, 1040 Brussels, Belgium",
+      "source": "https://www.eu.emb-japan.go.jp/contact_details.html"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Japan in the United States",
+      "value": "2520 Massachusetts Avenue NW, Washington, DC 20008, USA",
+      "source": "https://www.us.emb-japan.go.jp/itpr_en/embassy.html"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Japan in the UK",
+      "value": "101-104 Piccadilly, London W1J 7JT, United Kingdom",
+      "source": "https://www.uk.emb-japan.go.jp/itpr_en/embassy.html"
+    },
+    {
+      "type": "address",
+      "label": "JETRO headquarters",
+      "value": "Ark Mori Building 6F, 12-32 Akasaka 1-Chome, Minato-ku, Tokyo 107-6006, Japan",
+      "source": "https://www.jetro.go.jp/en/jetro/profile/"
+    },
+    {
+      "type": "other",
+      "label": "MOFA feedback / inquiry form (MOFA does not publish staff email addresses; directs public to this form or nearest embassy)",
+      "url": "https://www.mofa.go.jp/feedback/index.html",
+      "source": "https://www.mofa.go.jp/feedback/index.html"
+    },
+    {
+      "type": "other",
+      "label": "MOFA contact information and addresses page",
+      "url": "https://www.mofa.go.jp/ca/cs/page22e_000424.html",
+      "source": "https://www.mofa.go.jp/ca/cs/page22e_000424.html"
+    },
+    {
+      "type": "other",
+      "label": "JETRO general contact form (English)",
+      "url": "https://www.jetro.go.jp/form5/pub/csa/contact-en",
+      "source": "https://www.jetro.go.jp/en/contact.html"
+    },
+    {
+      "type": "other",
+      "label": "JETRO Invest Japan inquiry form / hotline",
+      "url": "https://www.jetro.go.jp/en/invest/form/contact.html",
+      "source": "https://www.jetro.go.jp/en/invest/jetros_support/hotline.html"
     },
     {
       "type": "website",

@@ -1,5 +1,198 @@
 {
   "iso": "BIH",
   "country_name": "Bosnia and Herzegovina",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — general enquiries",
+      "value": "info_mvpbih@mvp.gov.ba",
+      "source": "https://www.mvp.gov.ba/en/kontakt"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of BiH to the UN, New York (official letterhead)",
+      "value": "bihun@mvp.gov.ba",
+      "source": "https://www.un.org/unispal/wp-content/uploads/2025/07/bosnia_nyc_en.pdf"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of BiH to the UN, New York (as listed on mission website)",
+      "value": "bihun@mfa.gov.ba",
+      "source": "https://bhmissionun.org/the-mission-2/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of BiH in Washington D.C. — general",
+      "value": "info@bhembassy.org",
+      "source": "https://www.bhembassy.org/consularinfo.html"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of BiH in Washington D.C. — consular affairs",
+      "value": "consularaffairs@bhembassy.org",
+      "source": "https://www.bhembassy.org/consularinfo.html"
+    },
+    {
+      "type": "email",
+      "label": "Presidency of BiH — Cabinet office",
+      "value": "kabinet@predsjednistvobih.ba",
+      "source": "https://www.predsjednistvobih.ba/kab/?id=60337"
+    },
+    {
+      "type": "email",
+      "label": "Presidency of BiH — Cabinet office (alternate)",
+      "value": "ured@predsjednistvobih.ba",
+      "source": "https://www.predsjednistvobih.ba/kab/?id=60337"
+    },
+    {
+      "type": "email",
+      "label": "Presidency of BiH — Public Relations / press office",
+      "value": "press@predsjednistvobih.ba",
+      "source": "https://www.predsjednistvobih.ba/sekr/default.aspx?id=60333&langTag=en-US"
+    },
+    {
+      "type": "email",
+      "label": "Presidency of BiH — Protocol and Ceremonial Department",
+      "value": "protokol@predsjednistvobih.ba",
+      "source": "https://www.predsjednistvobih.ba/sekr/default.aspx?id=60333&langTag=en-US"
+    },
+    {
+      "type": "email",
+      "label": "FIPA — Foreign Investment Promotion Agency of BiH",
+      "value": "fipa@fipa.gov.ba",
+      "source": "https://www.fipa.gov.ba/"
+    },
+    {
+      "type": "email",
+      "label": "Consulate General of BiH in Chicago",
+      "value": "bih.konzulat.chicago@gmail.com",
+      "source": "https://www.bhembassy.org/consularinfo.html"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of Bosnia and Herzegovina",
+      "url": "https://www.mvp.gov.ba/en",
+      "source": "https://www.mvp.gov.ba/en"
+    },
+    {
+      "type": "website",
+      "label": "Council of Ministers of Bosnia and Herzegovina (government portal)",
+      "url": "https://vijeceministara.gov.ba/en",
+      "source": "https://vijeceministara.gov.ba/en"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of Bosnia and Herzegovina",
+      "url": "https://www.predsjednistvobih.ba/",
+      "source": "https://www.predsjednistvobih.ba/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of BiH to the United Nations, New York",
+      "url": "https://bhmissionun.org/",
+      "source": "https://bhmissionun.org/the-mission-2/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Bosnia and Herzegovina in Washington D.C.",
+      "url": "https://www.bhembassy.org/",
+      "source": "https://www.bhembassy.org/consularinfo.html"
+    },
+    {
+      "type": "website",
+      "label": "FIPA — Foreign Investment Promotion Agency (Invest in BiH)",
+      "url": "https://www.fipa.gov.ba/",
+      "source": "https://www.fipa.gov.ba/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Trade and Economic Relations of BiH",
+      "url": "https://www.mvteo.gov.ba/?lang=en",
+      "source": "https://www.mvteo.gov.ba/?lang=en"
+    },
+    {
+      "type": "twitter",
+      "label": "Council of Ministers of BiH — official X/Twitter account",
+      "url": "https://x.com/Vijeceministara",
+      "source": "https://x.com/Vijeceministara"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of BiH — official Facebook page",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-of-Bosnia-and-Herzegovina-100069179350618/",
+      "source": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-of-Bosnia-and-Herzegovina-100069179350618/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — switchboard",
+      "value": "+387 33 281 100",
+      "source": "https://www.mvp.gov.ba/en/kontakt"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — fax",
+      "value": "+387 33 227 156",
+      "source": "https://www.mvp.gov.ba/en/kontakt"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of BiH to the UN, New York",
+      "value": "+1 212 751 9015",
+      "source": "https://www.un.org/unispal/wp-content/uploads/2025/07/bosnia_nyc_en.pdf"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of BiH in Washington D.C.",
+      "value": "+1 202 337 1500",
+      "source": "https://www.bhembassy.org/consularinfo.html"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency of BiH — Public Relations Office",
+      "value": "+387 33 567 550",
+      "source": "https://www.predsjednistvobih.ba/sekr/default.aspx?id=60333&langTag=en-US"
+    },
+    {
+      "type": "phone",
+      "label": "FIPA — Foreign Investment Promotion Agency",
+      "value": "+387 33 278 080",
+      "source": "https://www.fipa.gov.ba/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs of BiH",
+      "value": "Musala 2, 71000 Sarajevo, Bosnia and Herzegovina",
+      "source": "https://vijeceministara.gov.ba/en/ministry-of-foreign-affairs"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of BiH to the United Nations",
+      "value": "211 East 43rd Street, Suite 1701, New York, NY 10017, USA",
+      "source": "https://www.un.org/unispal/wp-content/uploads/2025/07/bosnia_nyc_en.pdf"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of BiH in Washington D.C.",
+      "value": "2109 E Street NW, Washington, DC 20037, USA",
+      "source": "https://www.bhembassy.org/consularinfo.html"
+    },
+    {
+      "type": "address",
+      "label": "FIPA — Foreign Investment Promotion Agency",
+      "value": "Grbavicka 4, 71000 Sarajevo, Bosnia and Herzegovina",
+      "source": "https://www.fipa.gov.ba/"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs — PR Office page",
+      "url": "https://mvp.gov.ba/en/pr-office",
+      "source": "https://mvp.gov.ba/en/pr-office"
+    },
+    {
+      "type": "other",
+      "label": "Consulate General of BiH in Chicago",
+      "value": "1 E Wacker Drive, Suite 1820, Chicago, IL 60601, USA — tel +1 312 951 1245",
+      "source": "https://www.bhembassy.org/consularinfo.html"
+    }
+  ]
 }

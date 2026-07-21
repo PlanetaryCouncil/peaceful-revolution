@@ -121,6 +121,24 @@
       "label": "Saint Vincent and the Grenadines Official",
       "url": "https://x.com/stvincentgren",
       "source": "Official government X/Twitter account"
+    },
+    {
+      "type": "website",
+      "label": "Government Directory (referenced)",
+      "url": "https://www.gov.vc/index.php/directory",
+      "source": "Referenced on main gov.vc portal - contains ministry contacts"
+    },
+    {
+      "type": "youtube",
+      "label": "Government YouTube Channel",
+      "url": "https://www.youtube.com/user/govvc",
+      "source": "Referenced on gov.vc homepage"
+    },
+    {
+      "type": "other",
+      "label": "IT Help Desk",
+      "value": "ithelp.gov.vc/KB",
+      "source": "Referenced on gov.vc as technical support"
     }
   ]
 }

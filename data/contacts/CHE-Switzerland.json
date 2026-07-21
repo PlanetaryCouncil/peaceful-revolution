@@ -1,0 +1,264 @@
+{
+  "contacts": [
+    {
+      "type": "email",
+      "label": "FDFA Communication Service (Federal Department of Foreign Affairs)",
+      "value": "kommunikation@eda.admin.ch",
+      "source": "https://www.eda.admin.ch/en/contact-fdfa"
+    },
+    {
+      "type": "email",
+      "label": "FDFA State Secretariat",
+      "value": "info.sts@eda.admin.ch",
+      "source": "https://www.eda.admin.ch/en/contact-fdfa"
+    },
+    {
+      "type": "email",
+      "label": "FDFA Helpline (consular services, 24/7)",
+      "value": "helpline@eda.admin.ch",
+      "source": "https://www.eda.admin.ch/en/fdfa-helpline"
+    },
+    {
+      "type": "email",
+      "label": "Federal Chancellery — general enquiries (Federal Council staff office)",
+      "value": "info@bk.admin.ch",
+      "source": "https://www.bk.admin.ch/bk/en/home/service/contact.html"
+    },
+    {
+      "type": "email",
+      "label": "Federal Chancellery — media desk",
+      "value": "media@bk.admin.ch",
+      "source": "https://www.bk.admin.ch/bk/en/home/service/media.html"
+    },
+    {
+      "type": "email",
+      "label": "SECO — State Secretariat for Economic Affairs (trade/economy)",
+      "value": "info@seco.admin.ch",
+      "source": "https://www.seco.admin.ch/en/contact-en"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Switzerland in the United States (Washington DC) — general",
+      "value": "washington@eda.admin.ch",
+      "source": "https://www.eda.admin.ch/countries/usa/en/home/representations/embassy-washington.html/content/contacts/en/EDAVis/W/80"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Switzerland Washington DC — chancery",
+      "value": "washington.chancery@eda.admin.ch",
+      "source": "https://www.eda.admin.ch/countries/usa/en/home/representations/embassy-washington.html/content/contacts/en/EDAVis/W/80"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Switzerland Washington DC — media/press",
+      "value": "washington.media@eda.admin.ch",
+      "source": "https://www.eda.admin.ch/countries/usa/en/home/representations/embassy-washington.html/content/contacts/en/EDAVis/W/80"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Switzerland to the UN, New York — general",
+      "value": "newyork.un@eda.admin.ch",
+      "source": "https://www.mission-newyork.fdfa.admin.ch/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Switzerland to the UN, New York — press",
+      "value": "newyork.un.press@eda.admin.ch",
+      "source": "https://www.mission-newyork.fdfa.admin.ch/en/contact"
+    },
+    {
+      "type": "website",
+      "label": "Official portal of the Swiss government (admin.ch)",
+      "url": "https://www.admin.ch/en",
+      "source": "https://www.admin.ch/en"
+    },
+    {
+      "type": "website",
+      "label": "Federal Department of Foreign Affairs (FDFA/EDA)",
+      "url": "https://www.eda.admin.ch/en",
+      "source": "https://www.eda.admin.ch/en"
+    },
+    {
+      "type": "website",
+      "label": "Federal Chancellery (Federal Council's staff office)",
+      "url": "https://www.bk.admin.ch/bk/en/home.html",
+      "source": "https://www.admin.ch/gov/en/start/bundeskanzlei.html"
+    },
+    {
+      "type": "website",
+      "label": "Members of the Federal Council (head of state — collegial presidency)",
+      "url": "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council.html",
+      "source": "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council.html"
+    },
+    {
+      "type": "website",
+      "label": "SECO — State Secretariat for Economic Affairs",
+      "url": "https://www.seco.admin.ch/seco/en/home.html",
+      "source": "https://www.seco.admin.ch/seco/en/home.html"
+    },
+    {
+      "type": "website",
+      "label": "Switzerland Global Enterprise (official export & investment promotion agency)",
+      "url": "https://www.s-ge.com/export/en",
+      "source": "https://www.s-ge.com/export/en"
+    },
+    {
+      "type": "website",
+      "label": "ch.ch — official information from Swiss authorities (citizen portal)",
+      "url": "https://www.ch.ch/en/",
+      "source": "https://www.ch.ch/en/"
+    },
+    {
+      "type": "website",
+      "label": "Swiss representations abroad (embassies & consulates directory)",
+      "url": "https://www.eda.admin.ch/en/swiss-representations-abroad",
+      "source": "https://www.eda.admin.ch/en/swiss-representations-abroad"
+    },
+    {
+      "type": "other",
+      "label": "General enquiries contact form — Federal Council & Federal Administration",
+      "url": "https://www.admin.ch/en/general-enquiries",
+      "source": "https://www.admin.ch/gov/en/start/contact/contact-form.html"
+    },
+    {
+      "type": "other",
+      "label": "Federal Directory — contact persons for all federal administrative units",
+      "url": "https://www.admin.ch/gov/en/start/contact/contact-form/federal-directory.html",
+      "source": "https://www.admin.ch/gov/en/start/contact/contact-form/federal-directory.html"
+    },
+    {
+      "type": "other",
+      "label": "Press offices of the Swiss federal administration",
+      "url": "https://www.admin.ch/gov/en/start/contact/contact-form/media-offices.html",
+      "source": "https://www.admin.ch/gov/en/start/contact/contact-form/media-offices.html"
+    },
+    {
+      "type": "other",
+      "label": "Official FDFA social media channel directory",
+      "url": "https://www.eda.admin.ch/socialmedia-en",
+      "source": "https://www.eda.admin.ch/socialmedia-en"
+    },
+    {
+      "type": "twitter",
+      "label": "Swiss MFA (FDFA foreign policy, English)",
+      "url": "https://x.com/SwissMFA",
+      "source": "https://www.eda.admin.ch/socialmedia-en"
+    },
+    {
+      "type": "twitter",
+      "label": "EDA - DFAE (FDFA, German/French/Italian)",
+      "url": "https://x.com/EDA_DFAE",
+      "source": "https://www.eda.admin.ch/socialmedia-en"
+    },
+    {
+      "type": "twitter",
+      "label": "Swiss Federal Government (English)",
+      "url": "https://x.com/SwissGov",
+      "source": "https://x.com/SwissGov"
+    },
+    {
+      "type": "twitter",
+      "label": "Federal Council spokesperson (Bundesrat / Conseil fédéral)",
+      "url": "https://x.com/br_sprecher",
+      "source": "https://www.bk.admin.ch/bk/en/home/dokumentation/medienmitteilungen.msg-id-98229.html"
+    },
+    {
+      "type": "facebook",
+      "label": "Federal Department of Foreign Affairs FDFA (EDA/DFAE)",
+      "url": "https://www.facebook.com/eda.dfae.fdfa",
+      "source": "https://www.eda.admin.ch/socialmedia-en"
+    },
+    {
+      "type": "phone",
+      "label": "FDFA Communication Service",
+      "value": "+41 58 462 31 53",
+      "source": "https://www.eda.admin.ch/en/contact-fdfa"
+    },
+    {
+      "type": "phone",
+      "label": "FDFA Helpline (24/7, from abroad)",
+      "value": "+41 58 465 33 33",
+      "source": "https://www.eda.admin.ch/en/fdfa-helpline"
+    },
+    {
+      "type": "phone",
+      "label": "FDFA Helpline (toll-free within Switzerland)",
+      "value": "+41 800 24 7 365",
+      "source": "https://www.eda.admin.ch/en/fdfa-helpline"
+    },
+    {
+      "type": "phone",
+      "label": "Federal Chancellery switchboard",
+      "value": "+41 58 462 21 11",
+      "source": "https://www.bk.admin.ch/bk/en/home/service/contact.html"
+    },
+    {
+      "type": "phone",
+      "label": "Federal Chancellery — communication/media",
+      "value": "+41 58 462 37 91",
+      "source": "https://www.bk.admin.ch/bk/en/home/service/media.html"
+    },
+    {
+      "type": "phone",
+      "label": "SECO — State Secretariat for Economic Affairs",
+      "value": "+41 58 462 56 56",
+      "source": "https://www.seco.admin.ch/en/contact-en"
+    },
+    {
+      "type": "phone",
+      "label": "Switzerland Global Enterprise (Zurich head office)",
+      "value": "+41 44 365 51 51",
+      "source": "https://www.s-ge.com/export/en"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Switzerland, Washington DC",
+      "value": "+1 202 745 7900",
+      "source": "https://www.eda.admin.ch/countries/usa/en/home/representations/embassy-washington.html/content/contacts/en/EDAVis/W/80"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Switzerland to the UN, New York",
+      "value": "+1 212 286 1540",
+      "source": "https://www.mission-newyork.fdfa.admin.ch/en/contact"
+    },
+    {
+      "type": "address",
+      "label": "FDFA State Secretariat, Bern",
+      "value": "State Secretariat, Federal Department of Foreign Affairs FDFA, Federal Palace West, 3003 Bern, Switzerland",
+      "source": "https://www.eda.admin.ch/en/contact-fdfa"
+    },
+    {
+      "type": "address",
+      "label": "Federal Chancellery, Bern",
+      "value": "Swiss Federal Chancellery, Federal Palace West Wing, 3003 Bern, Switzerland",
+      "source": "https://www.bk.admin.ch/bk/en/home/service/contact.html"
+    },
+    {
+      "type": "address",
+      "label": "SECO — State Secretariat for Economic Affairs, Bern",
+      "value": "Holzikofenweg 36, CH-3003 Bern, Switzerland",
+      "source": "https://www.seco.admin.ch/en/contact-en"
+    },
+    {
+      "type": "address",
+      "label": "Switzerland Global Enterprise, Zurich head office",
+      "value": "Stampfenbachstrasse 85, CH-8006 Zürich, Switzerland",
+      "source": "https://www.s-ge.com/export/en"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Switzerland, Washington DC",
+      "value": "2900 Cathedral Avenue NW, Washington, DC 20008, United States",
+      "source": "https://www.eda.admin.ch/countries/usa/en/home/representations/embassy-washington.html/content/contacts/en/EDAVis/W/80"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Switzerland to the UN, New York",
+      "value": "633 Third Avenue, 29th floor, New York, NY 10017, United States",
+      "source": "https://www.mission-newyork.fdfa.admin.ch/en/contact"
+    }
+  ],
+  "country_name": "Switzerland",
+  "iso": "CHE"
+}

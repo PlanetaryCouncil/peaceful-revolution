@@ -109,6 +109,48 @@
       "label": "Global Trinidad and Tobago (Investment)",
       "url": "https://globaltrinidadandtobago.com",
       "source": "Official investment promotion website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign & CARICOM Affairs - Fax",
+      "value": "(868) 627-6859",
+      "source": "foreign.gov.tt official contact page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign & CARICOM Affairs - Twitter/X",
+      "url": "https://x.com/mfcagovtt",
+      "source": "foreign.gov.tt social media links"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign & CARICOM Affairs - Instagram",
+      "url": "https://www.instagram.com/mfcagovtt",
+      "source": "foreign.gov.tt social media links"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign & CARICOM Affairs - YouTube",
+      "url": "https://www.youtube.com/@mfagovtt",
+      "source": "foreign.gov.tt social media links"
+    },
+    {
+      "type": "phone",
+      "label": "TTConnect Government Portal - Hotline",
+      "value": "(868) 800-8826 (Toll-free: 800-TTCN)",
+      "source": "ttconnect.gov.tt official website"
+    },
+    {
+      "type": "website",
+      "label": "TTConnect - Official Government Services Portal",
+      "url": "https://ttconnect.gov.tt",
+      "source": "Official government portal (ttconnect.gov.tt redirects from gov.tt)"
+    },
+    {
+      "type": "email",
+      "label": "Government of Trinidad and Tobago - Webmail Access",
+      "value": "email.gov.tt/owa",
+      "source": "foreign.gov.tt staff directory"
     }
   ]
 }

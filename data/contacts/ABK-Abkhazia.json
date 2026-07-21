@@ -1,5 +1,174 @@
 {
   "iso": "ABK",
   "country_name": "Abkhazia",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Secretariat (primary)",
+      "value": "secretariat@mfaapsny.org",
+      "source": "https://mfaapsny.org/en/ (official MFA site contact block/footer)"
+    },
+    {
+      "type": "email",
+      "label": "MFA — Consular Department",
+      "value": "kd.mid.ra@cyxym.net",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "email",
+      "label": "MFA — Visa applications (consular)",
+      "value": "visa@mfaapsny.org",
+      "source": "https://www.discoverabkhazia.org/visa"
+    },
+    {
+      "type": "email",
+      "label": "MFA — Finance department",
+      "value": "midra.finu@mail.ru",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "email",
+      "label": "Administration of the President of Abkhazia",
+      "value": "info@presidentofabkhazia.org",
+      "source": "https://index.abkhazia.su/ (official presidential site)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Abkhazia in Russia (Moscow)",
+      "value": "info@emb-abkhazia.ru",
+      "source": "http://www.emb-abkhazia.ru/posolstvo/kontakty ; https://apsadgil.info/republic-of-abkhazia/diplomaticheskie-predstavitelstva/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Abkhazia in Moscow — Consular section",
+      "value": "konsulstvo_ra@mail.ru",
+      "source": "http://emb-abkhazia.ru/konsulskie_voprosy"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Abkhazia in Venezuela (Caracas)",
+      "value": "embabjasia@gmail.com",
+      "source": "https://apsadgil.info/republic-of-abkhazia/diplomaticheskie-predstavitelstva/"
+    },
+    {
+      "type": "email",
+      "label": "MFA Special Envoy (Vito Grittani)",
+      "value": "vitogrittani@mfaapsny.org",
+      "source": "https://apsadgil.info/republic-of-abkhazia/diplomaticheskie-predstavitelstva/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of the Republic of Abkhazia",
+      "url": "https://mfaapsny.org/en/",
+      "source": "https://mfaapsny.org/en/"
+    },
+    {
+      "type": "website",
+      "label": "President of the Republic of Abkhazia — official site",
+      "url": "https://index.abkhazia.su/",
+      "source": "https://president.apsny.land/en/contacts redirects (301) to https://index.abkhazia.su/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Republic of Abkhazia in the Russian Federation",
+      "url": "https://emb-abkhazia.ru/",
+      "source": "https://emb-abkhazia.ru/"
+    },
+    {
+      "type": "facebook",
+      "label": "Abkhazian Foreign Ministry (official MFA page)",
+      "url": "https://www.facebook.com/MFAbkhazia/",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/ (footer social links)"
+    },
+    {
+      "type": "twitter",
+      "label": "MFA Abkhazia (linked from official MFA site)",
+      "url": "https://twitter.com/mid_abkhazia",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/ (footer social links)"
+    },
+    {
+      "type": "twitter",
+      "label": "MFA Abkhazia (English-language account, active since 2012)",
+      "url": "https://x.com/MFA_Abkhazia",
+      "source": "https://x.com/MFA_Abkhazia"
+    },
+    {
+      "type": "other",
+      "label": "MFA Instagram",
+      "url": "https://www.instagram.com/mfaapsny/",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "other",
+      "label": "MFA YouTube channel",
+      "url": "https://www.youtube.com/user/MfaAbkhazia",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "other",
+      "label": "MFA VKontakte",
+      "url": "https://vk.com/midabhazii",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — reception",
+      "value": "+7 840 229 75 86",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "phone",
+      "label": "MFA Consular Department",
+      "value": "+7 840 226 39 48",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "phone",
+      "label": "Administration of the President (tel/fax)",
+      "value": "+7 840 226 46 31",
+      "source": "https://index.abkhazia.su/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Abkhazia in Moscow",
+      "value": "+7 495 637 38 68 (fax +7 495 637 37 56; consular +7 495 637 35 72)",
+      "source": "http://www.emb-abkhazia.ru/posolstvo/kontakty"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Lakoba Street 21, Sukhum, Republic of Abkhazia",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "address",
+      "label": "MFA Consular Department",
+      "value": "Zvanba Street 9, Sukhum, Republic of Abkhazia",
+      "source": "https://mfaapsny.org/en/helpful-information/general_information/"
+    },
+    {
+      "type": "address",
+      "label": "Administration of the President of Abkhazia",
+      "value": "Makhadzhirov Embankment 32, Sukhum, Republic of Abkhazia",
+      "source": "https://index.abkhazia.su/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Republic of Abkhazia in Russia",
+      "value": "Gagarinsky pereulok 11, 119034 Moscow, Russia",
+      "source": "http://www.emb-abkhazia.ru/posolstvo/kontakty"
+    },
+    {
+      "type": "other",
+      "label": "MFA online feedback / contact form",
+      "url": "https://mfaapsny.org/en/",
+      "source": "https://mfaapsny.org/en/ (site features a feedback form for inquiries)"
+    },
+    {
+      "type": "other",
+      "label": "State news agency 'Apsnypress' (government communications)",
+      "url": "https://aps-abkhazia.su/",
+      "source": "https://index.abkhazia.su/ (listed with tel. 8840-229-79-42, 229-75-78)"
+    }
+  ]
 }

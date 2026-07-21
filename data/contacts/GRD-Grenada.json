@@ -21,12 +21,6 @@
       "source": "grenadaparliament.gd - Official Parliament Website"
     },
     {
-      "type": "email",
-      "label": "Electoral Commission",
-      "value": "[email protected]",
-      "source": "peogrenada.org - Parliamentary Elections Office"
-    },
-    {
       "type": "phone",
       "label": "Main Government Office",
       "value": "+1 (473) 440-2255",
@@ -139,6 +133,132 @@
       "label": "Government Directory 2026 PDF",
       "value": "Updated Directory 2026.pdf - Available at /pdf/Updated Directory 2026.pdf",
       "source": "gov.gd - Comprehensive government directory document"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "foreignaffairs@gov.gd",
+      "source": "gov.gd/mofa"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Registry",
+      "value": "registry@mofa.gov.gd",
+      "source": "gov.gd/mofa"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Minister Joseph Andall",
+      "value": "minister@mofa.gov.gd",
+      "source": "gov.gd/mofa"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister",
+      "value": "pm@grenada.gd",
+      "source": "gov.gd/opm"
+    },
+    {
+      "type": "email",
+      "label": "Cabinet Office",
+      "value": "cabinetoffice@grenada.gd",
+      "source": "gov.gd/opm"
+    },
+    {
+      "type": "email",
+      "label": "Office of Governor General",
+      "value": "patogg@spiceisle.com",
+      "source": "gg.weboffice.gd"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+1 (473) 440-2640, (473) 440-2712, (473) 440-3036",
+      "source": "gov.gd/mofa"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister Office",
+      "value": "+1 (473) 440-2255, (473) 440-2265",
+      "source": "gov.gd/opm"
+    },
+    {
+      "type": "phone",
+      "label": "Office of Governor General",
+      "value": "+1 (473) 440-6639, (473) 440-2401",
+      "source": "gg.weboffice.gd"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Ministerial Complex, 4th Floor, Sir Eric M. Gairy Botanical Gardens, Tanteen, St. George's, Grenada W.I.",
+      "source": "gov.gd/mofa"
+    },
+    {
+      "type": "address",
+      "label": "Office of Prime Minister",
+      "value": "Ministerial Complex, 6th Floor, Sir Eric M. Gairy Botanical Gardens, Tanteen, St. George's, Grenada W.I.",
+      "source": "gov.gd/opm"
+    },
+    {
+      "type": "address",
+      "label": "Office of Governor General",
+      "value": "Office of the Governor-General, Pt. Saline, P.O. Box 369, St. George's, Grenada W.I.",
+      "source": "gg.weboffice.gd"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.gd/",
+      "source": "gov.gd"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.gov.gd/mofa",
+      "source": "gov.gd/mofa"
+    },
+    {
+      "type": "website",
+      "label": "Office of Prime Minister",
+      "url": "https://www.gov.gd/opm",
+      "source": "gov.gd"
+    },
+    {
+      "type": "website",
+      "label": "Office of Governor General",
+      "url": "https://www.gg.weboffice.gd/",
+      "source": "gg.weboffice.gd"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of Prime Minister",
+      "url": "https://www.facebook.com/pmogrenada/",
+      "source": "facebook.com"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs, Trade and Export Development",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-Trade-and-Export-Development-Grenada-100094261262861/",
+      "source": "facebook.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Grenada",
+      "url": "https://x.com/govgd",
+      "source": "x.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of Prime Minister",
+      "url": "https://x.com/pmogrenada",
+      "source": "x.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Government Information Service (GIS)",
+      "url": "https://x.com/gisgrenada",
+      "source": "x.com"
     }
   ]
 }

@@ -1,5 +1,138 @@
 {
   "iso": "RUS",
   "country_name": "Russia",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission of the Russian Federation to the UN (New York) — press/general",
+      "value": "press@russiaun.ru",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Russian Direct Investment Fund (RDIF) — sovereign investment fund, general enquiries",
+      "value": "info@rdif.ru",
+      "source": "https://rdif.ru/Eng_Contacts/"
+    },
+    {
+      "type": "website",
+      "label": "President of Russia (Kremlin) — official site (EN)",
+      "url": "http://en.kremlin.ru/",
+      "source": "http://en.kremlin.ru/contacts"
+    },
+    {
+      "type": "website",
+      "label": "Government of Russia — official portal (EN)",
+      "url": "http://government.ru/en/",
+      "source": "http://government.ru/en/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of the Russian Federation",
+      "url": "https://mid.ru/en/",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of the Russian Federation to the United Nations",
+      "url": "https://russiaun.ru/en",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "website",
+      "label": "Russian Direct Investment Fund (RDIF)",
+      "url": "https://rdif.ru/Eng_Index/",
+      "source": "https://rdif.ru/Eng_Contacts/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs of Russia (X/Twitter)",
+      "url": "https://x.com/MFA_Russia",
+      "source": "https://russiaun.ru/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Russian Permanent Mission to the UN (X/Twitter)",
+      "url": "https://twitter.com/RussiaUN",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "facebook",
+      "label": "Russian Permanent Mission to the UN (Facebook)",
+      "url": "https://www.facebook.com/RussiaUN/",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the Russian Federation to the UN, New York",
+      "value": "+1 212 249-0131",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the Russian Federation to the UN, New York (alt.)",
+      "value": "+1 212 249-0462",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Executive Office Information Service, Moscow",
+      "value": "+7 495 606 36 02",
+      "source": "http://en.kremlin.ru/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Executive Office — toll-free within Russia",
+      "value": "8 800 200 23 16",
+      "source": "http://en.kremlin.ru/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Directorate for Correspondence with Citizens and Organisations",
+      "value": "+7 495 625 35 81",
+      "source": "http://en.kremlin.ru/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Russian Direct Investment Fund (RDIF), Moscow",
+      "value": "+7 495 644 34 14",
+      "source": "https://rdif.ru/Eng_Contacts/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Russian Federation to the United Nations",
+      "value": "136 East 67 Street, New York, N.Y. 10065, USA",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Russian Direct Investment Fund (RDIF)",
+      "value": "Capital City, South Tower, 7th-8th floor, 8 bld. 1 Presnenskaya nab., Moscow, Russia 123112",
+      "source": "https://rdif.ru/Eng_Contacts/"
+    },
+    {
+      "type": "other",
+      "label": "Fax — Permanent Mission of the Russian Federation to the UN",
+      "value": "+1 212 988-1454",
+      "source": "https://russiaun.ru/en/contacts"
+    },
+    {
+      "type": "other",
+      "label": "President of Russia — online contact form / citizens' appeals",
+      "url": "http://en.kremlin.ru/contacts",
+      "source": "http://en.kremlin.ru/contacts"
+    },
+    {
+      "type": "other",
+      "label": "RDIF — general and media enquiry web forms",
+      "url": "https://rdif.ru/Eng_Contacts/",
+      "source": "https://rdif.ru/Eng_Contacts/"
+    },
+    {
+      "type": "other",
+      "label": "Permanent Mission to the UN — Telegram channel",
+      "url": "https://t.me/russiaun",
+      "source": "https://russiaun.ru/en/contacts"
+    }
+  ]
 }

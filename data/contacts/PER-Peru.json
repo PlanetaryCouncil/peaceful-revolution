@@ -157,6 +157,102 @@
       "label": "Congress of Peru",
       "url": "https://www.youtube.com/c/CongresoDeLaRepublicaDelPeru",
       "source": "congreso.gob.pe"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General Contact",
+      "value": "portalwebsupervisor@rree.gob.pe",
+      "source": "gob.pe/rree - Ministerio de Relaciones Exteriores"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Peruvian Nationals Protection",
+      "value": "peruanosprotegidos@rree.gob.pe",
+      "source": "gob.pe/rree - Ministerio de Relaciones Exteriores"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Social Media/Communications",
+      "value": "redessociales@rree.gob.pe",
+      "source": "rree.gob.pe official ministry portal"
+    },
+    {
+      "type": "email",
+      "label": "ProInversion - Foreign Investment",
+      "value": "rmayanga@proinversion.gob.pe",
+      "source": "investinperu.pe - ProInversion official agency"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+51 1 204-2400",
+      "source": "gob.pe/rree - Ministerio de Relaciones Exteriores"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency of the Republic",
+      "value": "+51 630-5600",
+      "source": "gob.pe/presidencia - Presidencia de la República del Perú"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (RREE)",
+      "value": "Jr. Lampa 545, Lima, Peru",
+      "source": "gob.pe/rree - Ministerio de Relaciones Exteriores"
+    },
+    {
+      "type": "address",
+      "label": "Presidency of the Republic - Executive Office",
+      "value": "Jr. De la Unión S/N, cuadra uno, Lima 15001, Peru",
+      "source": "gob.pe/presidencia - Presidencia de la República del Perú"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs - Official Portal",
+      "url": "https://www.gob.pe/rree",
+      "source": "Plataforma del Estado Peruano"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic - Official Portal",
+      "url": "https://www.gob.pe/presidencia/",
+      "source": "Plataforma del Estado Peruano"
+    },
+    {
+      "type": "website",
+      "label": "ProInversion - Investment Promotion",
+      "url": "https://www.investinperu.pe",
+      "source": "Official agency for foreign investment promotion"
+    },
+    {
+      "type": "website",
+      "label": "Peru Government Portal",
+      "url": "https://www.gob.pe/",
+      "source": "Portal del Estado Peruano - main government platform"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidencia de la República del Perú",
+      "url": "https://www.facebook.com/PresidenciaPeru/",
+      "source": "Official presidency Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministerio de Relaciones Exteriores del Perú",
+      "url": "https://www.facebook.com/CancilleriaPeru/",
+      "source": "Official Ministry of Foreign Affairs Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Peru - Official Account",
+      "url": "https://x.com/GobiernoPeru_",
+      "source": "X (formerly Twitter) - official government account"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of the Republic",
+      "url": "https://x.com/presidenciaperu",
+      "source": "X (formerly Twitter) - official presidency account"
     }
   ]
 }

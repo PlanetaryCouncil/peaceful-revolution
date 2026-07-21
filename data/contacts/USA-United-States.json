@@ -1,6 +1,4 @@
 {
-  "iso": "USA",
-  "country_name": "United States",
   "contacts": [
     {
       "type": "website",
@@ -85,6 +83,122 @@
       "label": "Primary Digital Contact Method",
       "value": "Web contact form at whitehouse.gov/contact/ (no direct email address listed on official page)",
       "source": "whitehouse.gov"
+    },
+    {
+      "type": "email",
+      "label": "National Archives FOIA",
+      "value": "inquire@nara.gov",
+      "source": "archives.gov/contact"
+    },
+    {
+      "type": "email",
+      "label": "EEOC (Federal Agency)",
+      "value": "info@eeoc.gov",
+      "source": "eeoc.gov/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "State Department (Ministry of Foreign Affairs)",
+      "value": "(202) 647-1481",
+      "source": "state.gov/foia-request"
+    },
+    {
+      "type": "phone",
+      "label": "White House / Head of State",
+      "value": "(202) 456-1111",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "phone",
+      "label": "USA.gov (Federal Services General)",
+      "value": "1-844-872-4681",
+      "source": "usa.gov/contact"
+    },
+    {
+      "type": "phone",
+      "label": "National Archives",
+      "value": "1-866-272-6272",
+      "source": "archives.gov/contact"
+    },
+    {
+      "type": "address",
+      "label": "White House / Head of State Office",
+      "value": "1600 Pennsylvania Avenue, N.W., Washington, D.C. 20500",
+      "source": "whitehouse.gov/contact"
+    },
+    {
+      "type": "address",
+      "label": "National Archives and Records Administration",
+      "value": "8601 Adelphi Road, College Park, MD 20740-6001",
+      "source": "archives.gov/contact"
+    },
+    {
+      "type": "address",
+      "label": "EEOC Headquarters",
+      "value": "131 M Street NE, Washington, DC 20507",
+      "source": "eeoc.gov/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "SelectUSA — U.S. investment promotion agency (general inquiries)",
+      "value": "selectusa@trade.gov",
+      "source": "https://www.trade.gov/selectusa-contact-us"
+    },
+    {
+      "type": "email",
+      "label": "SelectUSA — press / outreach inquiries",
+      "value": "SUSAOutreach@trade.gov",
+      "source": "https://www.trade.gov/selectusa-contact-us"
+    },
+    {
+      "type": "email",
+      "label": "SelectUSA — events inquiries",
+      "value": "SUSAEvents@trade.gov",
+      "source": "https://www.trade.gov/selectusa-contact-us"
+    },
+    {
+      "type": "website",
+      "label": "International Trade Administration / SelectUSA",
+      "url": "https://www.trade.gov/selectusa",
+      "source": "https://www.trade.gov/selectusa-contact-us"
+    },
+    {
+      "type": "other",
+      "label": "U.S. Department of State — official contact form",
+      "url": "https://register.state.gov/contactus/contactusform",
+      "source": "https://www.usa.gov/agencies/u-s-department-of-state"
+    },
+    {
+      "type": "other",
+      "label": "The White House — official contact form",
+      "url": "https://www.whitehouse.gov/contact/",
+      "source": "https://www.usa.gov/agencies/white-house"
+    },
+    {
+      "type": "phone",
+      "label": "USAGov national contact centre",
+      "value": "+1-844-872-4681 (1-844-USA-GOV1)",
+      "source": "https://www.usa.gov/phone"
+    },
+    {
+      "type": "address",
+      "label": "The White House",
+      "value": "1600 Pennsylvania Ave NW, Washington, DC 20500, USA",
+      "source": "https://www.usa.gov/agencies/white-house"
+    },
+    {
+      "type": "address",
+      "label": "International Trade Administration / SelectUSA, U.S. Department of Commerce",
+      "value": "1401 Constitution Ave NW, Washington, DC 20230, USA",
+      "source": "https://www.trade.gov/selectusa-contact-us"
+    },
+    {
+      "type": "twitter",
+      "label": "SelectUSA (official investment promotion account)",
+      "url": "https://twitter.com/SelectUSA",
+      "source": "https://www.trade.gov/selectusa-contact-us"
     }
-  ]
+  ],
+  "country_name": "United States",
+  "iso": "USA"
 }

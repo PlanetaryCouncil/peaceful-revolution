@@ -157,6 +157,42 @@
       "label": "Bolivian Consulate - Washington DC",
       "value": "1718 Connecticut Ave NW, Washington DC, USA",
       "source": "https://www.boliviawdc.org/en-us/"
+    },
+    {
+      "type": "email",
+      "label": "General Directorate of Migration",
+      "value": "comunicacion@migracion.gob.bo",
+      "source": "migracion.gob.bo"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Government",
+      "url": "https://mingobierno.gob.bo",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office",
+      "url": "https://x.com/Presidencia_Bol",
+      "source": "Official X/Twitter account"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministerio de la Presidencia",
+      "url": "https://www.facebook.com/MinPresidencia",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Vicepresidencia del Estado Plurinacional",
+      "url": "https://www.facebook.com/VicepresidenciaBolivia",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "address",
+      "label": "Casa Grande del Pueblo (Presidential Residence)",
+      "value": "Calle Ayacucho Esq. Potosí S/N, La Paz, Bolivia",
+      "source": "Official government sources"
     }
   ]
 }

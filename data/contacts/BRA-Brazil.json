@@ -181,6 +181,66 @@
       "label": "Contact Form - President's Office",
       "url": "https://www.gov.br/planalto/en/service_channels/contact-info",
       "source": "Official website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Itamaraty)",
+      "value": "portal@itamaraty.gov.br",
+      "source": "https://www.gov.br/mre/en/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Office - Personal Cabinet",
+      "value": "gabinetepessoal@presidencia.gov.br",
+      "source": "https://www.gov.br/planalto/en"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Development, Industry, Trade & Services",
+      "value": "sic.lai@mdic.gov.br",
+      "source": "https://www.gov.br/mdic/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Development, Industry, Trade & Services",
+      "value": "+55 61 2027-9026",
+      "source": "https://www.gov.br/mdic/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Development, Industry, Trade & Services",
+      "url": "https://www.gov.br/mdic/en",
+      "source": "Official Brazilian Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Brazil - Official Account",
+      "url": "https://twitter.com/govbrazil",
+      "source": "Official Government Social Media"
+    },
+    {
+      "type": "twitter",
+      "label": "Brazil Government News",
+      "url": "https://twitter.com/BrazilGovNews",
+      "source": "Official Government Social Media"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (Itamaraty)",
+      "url": "https://twitter.com/Itamaraty_EN",
+      "source": "Official Government Social Media"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Itamaraty)",
+      "value": "Palácio Itamaraty, Esplanada dos Ministérios - Bloco H, Brasília/DF, Brazil, CEP 70.170-900",
+      "source": "https://www.gov.br/mre/en/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Palácio do Planalto)",
+      "value": "Palácio do Planalto, Praça dos 3 Poderes, Brasília - DF, Brazil, CEP 70150-900",
+      "source": "https://www.gov.br/planalto/en"
     }
   ]
 }

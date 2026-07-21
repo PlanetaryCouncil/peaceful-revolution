@@ -217,6 +217,54 @@
       "label": "Ministry of Technology & Communications (MITIC)",
       "value": "Complejo Santos E2 - Gral. Santos 1170 c/ Concordia, Asunción, Paraguay",
       "source": "https://www.mitic.gov.py"
+    },
+    {
+      "type": "email",
+      "label": "Senate (Cámara de Senadores) - General Inquiries",
+      "value": "[email protected]",
+      "source": "https://www.senado.gov.py/"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office (Presidencia de la República)",
+      "url": "https://www.presidencia.gov.py/",
+      "source": "Official Government"
+    },
+    {
+      "type": "address",
+      "label": "Chamber of Deputies (Cámara de Diputados)",
+      "value": "Avda. Republica, Asuncion 1214, Paraguay",
+      "source": "https://www.diputados.gov.py/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/mreparaguay/",
+      "source": "https://www.mre.gov.py/"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mreparaguay/",
+      "source": "https://www.mre.gov.py/"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.youtube.com/@mre_paraguay",
+      "source": "https://www.mre.gov.py/"
+    },
+    {
+      "type": "contact_form",
+      "label": "Ministry of Foreign Affairs Contact Form",
+      "url": "https://www.mre.gov.py/contactenos/",
+      "source": "https://www.mre.gov.py/"
+    },
+    {
+      "type": "hours",
+      "label": "Senate Office Hours",
+      "value": "Monday - Friday, 7:00 AM - 3:00 PM",
+      "source": "https://www.senado.gov.py/"
     }
   ]
 }

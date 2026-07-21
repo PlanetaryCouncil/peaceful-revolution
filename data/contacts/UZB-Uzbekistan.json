@@ -1,5 +1,168 @@
 {
   "iso": "UZB",
   "country_name": "Uzbekistan",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government of Uzbekistan — official contact desk (citizen appeals)",
+      "value": "murojaat@gov.uz",
+      "source": "https://gov.uz/en"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Uzbekistan to the United Nations, New York",
+      "value": "uzbekistan.un@gmail.com",
+      "source": "https://www.un.int/uzbekistan/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Uzbekistan in Washington, D.C.",
+      "value": "info.washington@mfa.uz",
+      "source": "https://www.uzbekistan.org/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Uzbekistan Investment Promotion Agency — investment inquiries",
+      "value": "uzipa@invest.gov.uz",
+      "source": "https://invest.gov.uz/en/contacts/"
+    },
+    {
+      "type": "email",
+      "label": "Uzbekistan Investment Promotion Agency — official correspondence",
+      "value": "info@invest.gov.uz",
+      "source": "https://invest.gov.uz/en/contacts/"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal of the Republic of Uzbekistan",
+      "url": "https://gov.uz/en",
+      "source": "https://gov.uz/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of the Republic of Uzbekistan",
+      "url": "https://gov.uz/mfa/en",
+      "source": "https://www.mfa.uz/en/pages/contacts (301 redirect to gov.uz/mfa)"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of the Republic of Uzbekistan",
+      "url": "https://president.uz/en",
+      "source": "https://president.uz/en"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Uzbekistan to the United Nations",
+      "url": "https://www.un.int/uzbekistan/",
+      "source": "https://www.un.int/uzbekistan/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Uzbekistan in Washington, D.C.",
+      "url": "https://www.uzbekistan.org/",
+      "source": "https://www.uzbekistan.org/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Uzbekistan Investment Promotion Agency",
+      "url": "https://invest.gov.uz/en/",
+      "source": "https://invest.gov.uz/en/contacts/"
+    },
+    {
+      "type": "facebook",
+      "label": "Government Portal of Uzbekistan — official Facebook",
+      "url": "https://facebook.com/govuz",
+      "source": "https://gov.uz/en"
+    },
+    {
+      "type": "facebook",
+      "label": "President Shavkat Mirziyoyev — official Facebook",
+      "url": "https://www.facebook.com/Mirziyoyev/",
+      "source": "https://president.uz/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Government Portal of Uzbekistan — official X/Twitter",
+      "url": "https://x.com/GOVuz",
+      "source": "https://gov.uz/en"
+    },
+    {
+      "type": "twitter",
+      "label": "President of Uzbekistan — official X/Twitter",
+      "url": "https://twitter.com/president_uz",
+      "source": "https://president.uz/en"
+    },
+    {
+      "type": "phone",
+      "label": "Government Portal of Uzbekistan — main line",
+      "value": "+998 71 239 86 76",
+      "source": "https://gov.uz/en"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Uzbekistan to the UN, New York",
+      "value": "+1 917 675 7773",
+      "source": "https://www.un.int/uzbekistan/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Uzbekistan in Washington, D.C.",
+      "value": "+1 202 887 5300",
+      "source": "https://www.uzbekistan.org/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Uzbekistan in Washington, D.C. — emergency line",
+      "value": "+1 202 251 8298",
+      "source": "https://www.uzbekistan.org/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Uzbekistan Investment Promotion Agency",
+      "value": "+998 71 202 02 10",
+      "source": "https://invest.gov.uz/en/contacts/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Uzbekistan to the United Nations",
+      "value": "630 Third Avenue, 5th Floor, New York, NY 10017, USA",
+      "source": "https://www.un.int/uzbekistan/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Uzbekistan in Washington, D.C.",
+      "value": "1746 Massachusetts Avenue N.W., Washington, D.C. 20036, USA",
+      "source": "https://www.uzbekistan.org/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Uzbekistan Investment Promotion Agency",
+      "value": "13 Amir Temur Avenue, Tashkent 100060, Uzbekistan",
+      "source": "https://invest.gov.uz/en/contacts/"
+    },
+    {
+      "type": "other",
+      "label": "Presidential e-appeals portal (submit inquiries to the President online)",
+      "url": "https://pm.gov.uz/",
+      "source": "https://president.uz/en"
+    },
+    {
+      "type": "other",
+      "label": "Government Portal of Uzbekistan — official Telegram channel",
+      "url": "https://t.me/portal_gov_uz",
+      "source": "https://gov.uz/en"
+    },
+    {
+      "type": "other",
+      "label": "President Shavkat Mirziyoyev — official Telegram channel",
+      "url": "https://t.me/shmirziyoyev",
+      "source": "https://president.uz/en"
+    },
+    {
+      "type": "other",
+      "label": "Permanent Mission of Uzbekistan to the UN — fax",
+      "value": "+1 917 675 7774",
+      "source": "https://www.un.int/uzbekistan/"
+    }
+  ]
 }

@@ -1,5 +1,150 @@
 {
   "iso": "TON",
   "country_name": "Tonga",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission of the Kingdom of Tonga to the United Nations, New York",
+      "value": "tongaunmission@aol.com",
+      "source": "https://www.un.int/tonga/about"
+    },
+    {
+      "type": "email",
+      "label": "Tonga Statistics Department (data enquiries)",
+      "value": "data@stats.gov.to",
+      "source": "https://tongastats.gov.to/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Tonga National Government Portal",
+      "url": "https://www.gov.to/",
+      "source": "https://www.gov.to/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (via government portal)",
+      "url": "https://www.gov.to/ministry-of-foreign-affairs/",
+      "source": "https://www.gov.to/ministry-of-foreign-affairs/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://pmo.gov.to/",
+      "source": "https://www.gov.to/prime-ministers-office/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance",
+      "url": "https://finance.gov.to/",
+      "source": "https://finance.gov.to/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Tonga to the UN",
+      "url": "https://www.un.int/tonga/",
+      "source": "https://www.un.int/tonga/"
+    },
+    {
+      "type": "website",
+      "label": "Tonga High Commission, London",
+      "url": "https://www.tongahighcom.co.uk/",
+      "source": "https://www.tongahighcom.co.uk/"
+    },
+    {
+      "type": "website",
+      "label": "Tonga Statistics Department",
+      "url": "https://tongastats.gov.to/",
+      "source": "https://tongastats.gov.to/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+676 740 1847",
+      "source": "https://www.gov.to/ministry-of-foreign-affairs/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Head Office, Nuku'alofa)",
+      "value": "+676 740 1351",
+      "source": "https://www.gov.to/prime-ministers-office/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Vava'u Office)",
+      "value": "+676 70534",
+      "source": "https://www.gov.to/prime-ministers-office/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance",
+      "value": "+676 7400 700",
+      "source": "https://finance.gov.to/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Tonga to the UN, New York",
+      "value": "+1 917-369-1025",
+      "source": "https://www.un.int/tonga/about"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Tonga to the UN, New York (alt)",
+      "value": "+1 917-369-1024",
+      "source": "https://www.un.int/tonga/about"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister / Cabinet Office (seat of government)",
+      "value": "Office of the Prime Minister, Cabinet Office, Level 3 & Level 4, St George Government Building, Taufa'ahau Road, Nuku'alofa, Tonga",
+      "source": "https://www.gov.to/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Tonga to the United Nations",
+      "value": "250 East 51st Street, New York, NY 10022, United States",
+      "source": "https://www.un.int/tonga/about"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance",
+      "value": "St George Government Building, Nuku'alofa, Tonga",
+      "source": "https://finance.gov.to/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Finance and National Planning, Tonga",
+      "url": "https://facebook.com/mofnptonga",
+      "source": "https://finance.gov.to/"
+    },
+    {
+      "type": "facebook",
+      "label": "Tonga Statistics Department",
+      "url": "https://facebook.com/tongastats",
+      "source": "https://tongastats.gov.to/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Government of Tonga official contact form",
+      "url": "https://www.gov.to/contact-us/",
+      "source": "https://www.gov.to/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Government of Tonga feedback form",
+      "url": "https://forms.gle/FdWeNJapZ9H9R14e7",
+      "source": "https://www.gov.to/"
+    },
+    {
+      "type": "other",
+      "label": "Tonga Citizen Portal (government service requests)",
+      "url": "https://citizen.gov.to/login",
+      "source": "https://www.gov.to/prime-ministers-office/"
+    },
+    {
+      "type": "other",
+      "label": "Tonga High Commission London contact form",
+      "url": "https://www.tongahighcom.co.uk/",
+      "source": "https://www.tongahighcom.co.uk/"
+    }
+  ]
 }

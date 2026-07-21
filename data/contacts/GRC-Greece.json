@@ -3,6 +3,264 @@
   "country_name": "Greece",
   "contacts": [
     {
+      "type": "email",
+      "label": "Permanent Mission of Greece to the UN, Geneva",
+      "value": "grdel.gva@mfa.gr",
+      "source": "UN Geneva Blue Book (official UNOG mission directory) https://www.ungeneva.org/en/blue-book/missions/member-states/greece"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Greece to the UN, New York",
+      "value": "grdel.un@mfa.gr",
+      "source": "MFA Permanent Mission contact page https://www.mfa.gr/missionsabroad/en/contact/un/un.html (corroborated by UN estatements/UNODA mission letterhead PDFs)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Minister's Office (Diplomatic Cabinet)",
+      "value": "grypex@mfa.gr",
+      "source": "Secretariat General for Legal and Parliamentary Affairs, official government contact list https://gslegal.gov.gr/en/list-of-members-of-the-government-deputy-ministers-secretaries-contact-information/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Secretary General",
+      "value": "sec.gen@mfa.gr",
+      "source": "Secretariat General for Legal and Parliamentary Affairs, official government contact list https://gslegal.gov.gr/en/list-of-members-of-the-government-deputy-ministers-secretaries-contact-information/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Greece in Washington, D.C.",
+      "value": "gremb.was@mfa.gr",
+      "source": "MFA Embassy of Greece in the USA contact page https://www.mfa.gr/usa/en/the-embassy/contact-washington/"
+    },
+    {
+      "type": "email",
+      "label": "Enterprise Greece - official investment & trade promotion agency (general)",
+      "value": "info@eg.gov.gr",
+      "source": "Enterprise Greece official contact page https://www.enterprisegreece.gov.gr/en/contact-form/"
+    },
+    {
+      "type": "email",
+      "label": "Enterprise Greece - investment enquiries",
+      "value": "investinfo@eg.gov.gr",
+      "source": "Enterprise Greece official contact page https://www.enterprisegreece.gov.gr/en/contact-form/"
+    },
+    {
+      "type": "email",
+      "label": "Enterprise Greece - trade enquiries",
+      "value": "tradeinfo@eg.gov.gr",
+      "source": "Enterprise Greece official contact page https://www.enterprisegreece.gov.gr/en/contact-form/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Economy and Finance - Minister's Office",
+      "value": "ministeroffice@minfin.gr",
+      "source": "Ministry of Economy and Finance official contact page https://minfin.gov.gr/en/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Economy and Finance - Press Office",
+      "value": "press@minfin.gr",
+      "source": "Ministry of Economy and Finance official contact page https://minfin.gov.gr/en/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Maximos Mansion) - as listed in official government directory",
+      "value": "vicepresident@primeminister.gr",
+      "source": "Secretariat General for Legal and Parliamentary Affairs, official government contact list https://gslegal.gov.gr/en/list-of-members-of-the-government-deputy-ministers-secretaries-contact-information/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of the Hellenic Republic",
+      "url": "https://www.mfa.gr/en/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "gov.gr - central Greek government digital services portal",
+      "url": "https://www.gov.gr/en",
+      "source": "Official Greek government portal"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister of Greece - official site",
+      "url": "https://www.primeminister.gr/en/",
+      "source": "Official Prime Minister's website"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Hellenic Republic",
+      "url": "https://www.presidency.gr/en/",
+      "source": "Official Presidency website"
+    },
+    {
+      "type": "website",
+      "label": "Enterprise Greece - investment & trade promotion agency",
+      "url": "https://www.enterprisegreece.gov.gr/en/",
+      "source": "Official agency website"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Greece to the United Nations, New York",
+      "url": "https://www.mfa.gr/un/en/",
+      "source": "Official MFA mission website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Economy and Finance",
+      "url": "https://minfin.gov.gr/en/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (official)",
+      "url": "https://x.com/GreeceMFA",
+      "source": "Linked as official MFA account; verified account, Athens-based, active since 2010"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister of Greece (official)",
+      "url": "https://twitter.com/primeministergr",
+      "source": "Official Prime Minister's account"
+    },
+    {
+      "type": "twitter",
+      "label": "Greece at the United Nations (Permanent Mission, New York)",
+      "url": "https://x.com/GRUN_NY",
+      "source": "Official account of the Permanent Mission of Greece to the UN"
+    },
+    {
+      "type": "facebook",
+      "label": "Greek Ministry of Foreign Affairs (official)",
+      "url": "https://www.facebook.com/GreeceMFA/",
+      "source": "Official MFA Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of Greece to the United Nations",
+      "url": "https://www.facebook.com/GreeceintheUN/",
+      "source": "Official mission Facebook page"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - main switchboard, Athens",
+      "value": "+30 210 368 1000",
+      "source": "MFA contact page https://www.mfa.gr/en/contact/contact-us/ (corroborated by https://www.agora.mfa.gr/en/contact)"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Greece to the UN, New York",
+      "value": "+1 212 888 6900",
+      "source": "MFA mission contact page https://www.mfa.gr/missionsabroad/en/contact/un/un.html"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Greece to the UN, Geneva",
+      "value": "+41 22 909 89 40",
+      "source": "UN Geneva Blue Book https://www.ungeneva.org/en/blue-book/missions/member-states/greece"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Greece in Washington, D.C.",
+      "value": "+1 202 939 1300",
+      "source": "MFA Embassy contact page https://www.mfa.gr/usa/en/the-embassy/contact-washington/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency of the Hellenic Republic",
+      "value": "+30 210 728 3111",
+      "source": "Presidency official contact page https://www.presidency.gr/en/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Maximos Mansion)",
+      "value": "+30 210 338 5241",
+      "source": "Official government contact list https://gslegal.gov.gr/en/list-of-members-of-the-government-deputy-ministers-secretaries-contact-information/"
+    },
+    {
+      "type": "phone",
+      "label": "Enterprise Greece - central office",
+      "value": "+30 210 335 5700",
+      "source": "Enterprise Greece official contact page https://www.enterprisegreece.gov.gr/en/contact-form/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs, Athens",
+      "value": "5 Vasilissis Sofias Avenue, 106 71 Athens, Greece",
+      "source": "MFA contact page https://www.mfa.gr/en/contact/contact-us/ (corroborated by https://gslegal.gov.gr/en/list-of-members-of-the-government-deputy-ministers-secretaries-contact-information/)"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Greece to the UN, New York",
+      "value": "866 Second Avenue, 13th Floor, New York, NY 10017-2905, USA",
+      "source": "MFA mission contact page https://www.mfa.gr/missionsabroad/en/contact/un/un.html"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Greece to the UN, Geneva",
+      "value": "Rue du Leman 4, 1201 Geneva, Switzerland (P.O. Box 1843, 1211 Geneva 1)",
+      "source": "UN Geneva Blue Book https://www.ungeneva.org/en/blue-book/missions/member-states/greece"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Greece in Washington, D.C.",
+      "value": "2217 Massachusetts Avenue NW, Washington, DC 20008, USA",
+      "source": "MFA Embassy contact page https://www.mfa.gr/usa/en/the-embassy/contact-washington/"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office - Maximos Mansion, Athens",
+      "value": "19 Herodou Attikou Street, Maximos Mansion, 106 74 Athens, Greece",
+      "source": "Official government contact list https://gslegal.gov.gr/en/list-of-members-of-the-government-deputy-ministers-secretaries-contact-information/"
+    },
+    {
+      "type": "address",
+      "label": "Presidency of the Hellenic Republic, Athens",
+      "value": "2 Vassileos Georgiou B' Street, 100 28 Athens, Greece",
+      "source": "Presidency official contact page https://www.presidency.gr/en/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Enterprise Greece headquarters, Athens",
+      "value": "109 Vasilissis Sofias Avenue, 115 21 Athens, Greece",
+      "source": "Enterprise Greece official contact page https://www.enterprisegreece.gov.gr/en/contact-form/"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - full internal directory (departments, directorates, emails)",
+      "url": "https://www.mfa.gr/en/contact/directory-at-the-ministry/",
+      "source": "Official MFA ministry directory page"
+    },
+    {
+      "type": "other",
+      "label": "Greek Missions Abroad - directory of all embassies and consulates",
+      "url": "https://www.mfa.gr/en/contact/greek-missions-abroad/",
+      "source": "Official MFA missions directory"
+    },
+    {
+      "type": "other",
+      "label": "MFA Economic Diplomacy (Agora) contact form",
+      "url": "https://www.agora.mfa.gr/en/contact",
+      "source": "Official MFA economic diplomacy portal"
+    },
+    {
+      "type": "other",
+      "label": "Enterprise Greece contact form",
+      "url": "https://www.enterprisegreece.gov.gr/en/contact-form/",
+      "source": "Official Enterprise Greece website"
+    },
+    {
+      "type": "other",
+      "label": "Embassy of Greece in Washington - Press & Communications Office",
+      "url": "https://www.mfa.gr/usa/en/the-embassy/sections/press-and-communications-office.html",
+      "source": "Official MFA embassy website"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs fax",
+      "value": "+30 210 368 1717",
+      "source": "MFA contact page https://www.mfa.gr/en/contact/contact-us/"
+    },
+    {
       "type": "website",
       "label": "Greek Government Portal",
       "url": "https://www.gov.gr",

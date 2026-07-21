@@ -121,6 +121,78 @@
       "label": "Casa de Nariño (Presidential Office)",
       "url": "https://www.instagram.com/casadenarinooficial/",
       "source": "https://www.instagram.com/casadenarinooficial/"
+    },
+    {
+      "type": "email",
+      "label": "House of Representatives (Cámara de Representantes)",
+      "value": "[email protected]",
+      "source": "Colombian Parliament official records"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Corruption Reporting",
+      "value": "denuncias@cancilleria.gov.co",
+      "source": "cancilleria.gov.co official contact page"
+    },
+    {
+      "type": "phone",
+      "label": "Presidencia Citizen Service",
+      "value": "+57-601-3822800",
+      "source": "dapre.presidencia.gov.co"
+    },
+    {
+      "type": "phone",
+      "label": "Presidencia Free Hotline",
+      "value": "01-8000-913666",
+      "source": "dapre.presidencia.gov.co"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "url": "https://www.cancilleria.gov.co",
+      "source": "Official Colombian government"
+    },
+    {
+      "type": "website",
+      "label": "Presidencia de la República de Colombia",
+      "url": "https://www.presidencia.gov.co",
+      "source": "Official Colombian government"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidencia de la República de Colombia",
+      "url": "https://www.facebook.com/PresidenciadeColombia/",
+      "source": "Official Presidencia social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Cancillería Colombia Official Account",
+      "url": "https://x.com/CancilleriaCol",
+      "source": "Official Cancillería X/Twitter"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidencia Colombia Official Account",
+      "url": "https://x.com/infopresidencia",
+      "source": "Official Presidencia X/Twitter"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Correspondence Office",
+      "value": "Carrera 5, No. 9-03, Bogotá D.C., Colombia",
+      "source": "cancilleria.gov.co - Correspondence/Hours of Operation page"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main Office (Palacio de San Carlos)",
+      "value": "Calle 10 # 5-51, Bogotá D.C., Colombia",
+      "source": "cancilleria.gov.co"
+    },
+    {
+      "type": "address",
+      "label": "Presidencia (Head of State Office)",
+      "value": "Calle 7 N° 6-54 Piso 3, Bogotá D.C., Colombia",
+      "source": "dapre.presidencia.gov.co - DAPRE Citizen Service"
     }
   ]
 }

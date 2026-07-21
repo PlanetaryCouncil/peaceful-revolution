@@ -1,5 +1,192 @@
 {
   "iso": "IRN",
   "country_name": "Iran",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission of Iran to the UN Office in Geneva (official)",
+      "value": "iran.unog@mfa.gov.ir",
+      "source": "UN Geneva Blue Book (official UNOG directory of permanent missions) — https://www.ungeneva.org/en/blue-book/missions/member-states/iran-islamic-republic"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Iran to the UN Office in Geneva (alternate)",
+      "value": "missionofiran@gmail.com",
+      "source": "UN Geneva Blue Book — https://www.ungeneva.org/en/blue-book/missions/member-states/iran-islamic-republic"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Iran to the United Nations, New York",
+      "value": "iran@un.int",
+      "source": "UN permanent-mission directory / official mission contact page — https://newyork.mfa.gov.ir/portal/viewpage/13525/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs, Tehran — general enquiries",
+      "value": "info@mfa.gov.ir",
+      "source": "Ministry of Foreign Affairs contact page — https://en.mfa.gov.ir/portal/viewpage/15664/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Iran, London",
+      "value": "iranemb.lon@mfa.gov.ir",
+      "source": "Embassy of the Islamic Republic of Iran, London — https://london.mfa.ir/en"
+    },
+    {
+      "type": "email",
+      "label": "Consular Section, Embassy of Iran, London",
+      "value": "iranconsulate.lon@mfa.gov.ir",
+      "source": "Consular Section of the Embassy of Iran, London — http://iranconsulate-london.org/en/home"
+    },
+    {
+      "type": "email",
+      "label": "Interests Section of Iran in the USA (c/o Embassy of Pakistan, Washington DC)",
+      "value": "info@daftar.org",
+      "source": "Interests Section of the Islamic Republic of Iran — http://www.daftar.org/eng/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (English)",
+      "url": "https://en.mfa.gov.ir/",
+      "source": "Official MFA portal"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of Iran (English)",
+      "url": "https://president.ir/en",
+      "source": "Official presidency website"
+    },
+    {
+      "type": "website",
+      "label": "Government of the Islamic Republic of Iran portal (English)",
+      "url": "https://irangov.ir/en",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Supreme Leader (English)",
+      "url": "https://english.khamenei.ir/",
+      "source": "Official website of the Supreme Leader"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Iran to the UN, New York",
+      "url": "https://newyork.mfa.gov.ir/",
+      "source": "Official mission website"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Iran to the UN Office, Geneva",
+      "url": "https://geneva.mfa.ir/",
+      "source": "Official mission website, listed in UN Geneva Blue Book"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Iran, London",
+      "url": "https://london.mfa.ir/en",
+      "source": "Official embassy website"
+    },
+    {
+      "type": "website",
+      "label": "Interests Section of Iran in the USA, Washington DC",
+      "url": "http://www.daftar.org/eng/",
+      "source": "Official interests-section website"
+    },
+    {
+      "type": "website",
+      "label": "Organization for Investment, Economic and Technical Assistance of Iran (OIETAI) — investment promotion",
+      "url": "https://www.oietai.ir/en/contact",
+      "source": "Official OIETAI website (sole authority for promotion and protection of foreign investment in Iran)"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (English)",
+      "url": "https://x.com/IRIMFA_EN",
+      "source": "Official MFA account, linked from https://en.mfa.ir/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (Persian)",
+      "url": "https://x.com/IRIMFA",
+      "source": "Official MFA Persian-language account"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of the Islamic Republic of Iran",
+      "url": "https://x.com/Iran_GOV",
+      "source": "Official government account"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the Supreme Leader Ali Khamenei (English)",
+      "url": "https://x.com/khamenei_ir",
+      "source": "Official account linked from https://english.khamenei.ir/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs, Tehran — call centre",
+      "value": "+98 21 61151",
+      "source": "https://en.mfa.gov.ir/portal/viewpage/15664/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Iran to the UN, New York",
+      "value": "+1 212 687 2020",
+      "source": "https://newyork.mfa.gov.ir/portal/viewpage/13525/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Iran to the UN Office, Geneva",
+      "value": "+41 22 332 21 00",
+      "source": "UN Geneva Blue Book — https://www.ungeneva.org/en/blue-book/missions/member-states/iran-islamic-republic"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Iran, London",
+      "value": "+44 20 7225 4200",
+      "source": "https://london.mfa.ir/en"
+    },
+    {
+      "type": "phone",
+      "label": "Interests Section of Iran in the USA, Washington DC",
+      "value": "+1 202 965 4990",
+      "source": "http://www.daftar.org/eng/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs, Tehran",
+      "value": "Imam Khomeini St., Imam Khomeini Sq., Tehran, Iran",
+      "source": "https://en.mfa.gov.ir/portal/viewpage/15664/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Iran to the UN, New York",
+      "value": "622 Third Avenue, New York, NY 10017, USA",
+      "source": "https://newyork.mfa.gov.ir/portal/viewpage/13525/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Iran to the UN Office, Geneva",
+      "value": "Chemin du Petit-Saconnex 28, 1209 Geneva, Switzerland",
+      "source": "UN Geneva Blue Book — https://www.ungeneva.org/en/blue-book/missions/member-states/iran-islamic-republic"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Iran, London",
+      "value": "16 Prince's Gate, London SW7 1PT, United Kingdom",
+      "source": "https://london.mfa.ir/en"
+    },
+    {
+      "type": "address",
+      "label": "Interests Section of Iran in the USA (c/o Embassy of Pakistan)",
+      "value": "1250 23rd Street NW, Suite 200, Washington, DC 20037, USA",
+      "source": "http://www.daftar.org/eng/"
+    },
+    {
+      "type": "other",
+      "label": "Fax — Permanent Mission of Iran to the UN, New York",
+      "value": "+1 212 867 7086",
+      "source": "https://newyork.mfa.gov.ir/portal/viewpage/13525/contact-us"
+    }
+  ]
 }

@@ -1,5 +1,294 @@
 {
   "iso": "IDN",
   "country_name": "Indonesia",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Executive Office of the President (KSP) — correspondence to the Chief of Staff",
+      "value": "persuratan@ksp.go.id",
+      "source": "https://ksp.go.id/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Executive Office of the President (KSP) — general/webmaster",
+      "value": "webmaster@ksp.go.id",
+      "source": "https://ksp.go.id/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of State Secretariat — correspondence with the President, Vice President and Minister",
+      "value": "persuratan@setneg.go.id",
+      "source": "https://www.setneg.go.id/baca/index/kontak_kami_2"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of State Secretariat — Public Relations (Humas)",
+      "value": "humas@setneg.go.id",
+      "source": "https://www.setneg.go.id/baca/index/kontak_kami_2"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of State Secretariat — Public Information Officer (PPID)",
+      "value": "ppid@setneg.go.id",
+      "source": "https://www.setneg.go.id/baca/index/kontak_kami_2"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Indonesia to the UN, Geneva",
+      "value": "geneva@mission-indonesia.org",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/indonesia"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Indonesia to the UN, New York",
+      "value": "ptri@indonesiaun.org",
+      "source": "https://kemlu.go.id/newyork-un/en/kontak-kami"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Kemlu) — general contact desk",
+      "value": "kontak-kami@kemlu.go.id",
+      "source": "https://kemlu.go.id/kontak"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Indonesia, Washington D.C.",
+      "value": "komwsh@embassyofindonesia.org",
+      "source": "https://www.embassyofindonesia.org/index.php/contact-us-new-2-2/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Indonesia, Canberra",
+      "value": "canberra.kbri@kemlu.go.id",
+      "source": "https://www.kemlu.go.id/canberra"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Indonesia, London — general enquiries",
+      "value": "contact@indonesianembassy.org.uk",
+      "source": "https://kemlu.go.id/london/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Indonesia, London — consular section",
+      "value": "Consular@indonesianembassy.org.uk",
+      "source": "https://kemlu.go.id/london/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Indonesia, Brussels — consular/protocol section",
+      "value": "protocol.consular@embassyofindonesia.eu",
+      "source": "https://appointment.kbribrussel.id/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Investment and Downstream Industry / BKPM (investment promotion)",
+      "value": "info@bkpm.go.id",
+      "source": "https://www4.investindonesia.go.id/id/kontak"
+    },
+    {
+      "type": "website",
+      "label": "Official government information portal of Indonesia",
+      "url": "https://indonesia.go.id/",
+      "source": "https://indonesia.go.id/profil/presiden"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of the Republic of Indonesia",
+      "url": "https://presidenri.go.id/",
+      "source": "https://presidenri.go.id/"
+    },
+    {
+      "type": "website",
+      "label": "Executive Office of the President (Kantor Staf Presiden)",
+      "url": "https://ksp.go.id/en/",
+      "source": "https://ksp.go.id/en/"
+    },
+    {
+      "type": "website",
+      "label": "Cabinet Secretariat of the Republic of Indonesia",
+      "url": "https://setkab.go.id/en",
+      "source": "https://setkab.go.id/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of State Secretariat",
+      "url": "https://www.setneg.go.id/",
+      "source": "https://www.setneg.go.id/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (Kemlu RI)",
+      "url": "https://kemlu.go.id/",
+      "source": "https://kemlu.go.id/portal/id"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Indonesia to the UN, New York",
+      "url": "https://kemlu.go.id/newyork-un/en",
+      "source": "https://kemlu.go.id/newyork-un/en/kontak-kami"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Indonesia, Washington D.C.",
+      "url": "https://www.embassyofindonesia.org/",
+      "source": "https://www.embassyofindonesia.org/"
+    },
+    {
+      "type": "website",
+      "label": "Invest Indonesia / BKPM investment promotion portal",
+      "url": "https://bkpm.go.id/",
+      "source": "https://bkpm.go.id/"
+    },
+    {
+      "type": "twitter",
+      "label": "President of Indonesia (official)",
+      "url": "https://twitter.com/presidenrigoid",
+      "source": "https://presidenri.go.id/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs of Indonesia (official)",
+      "url": "https://x.com/kemlu_ri",
+      "source": "https://x.com/kemlu_ri?lang=en"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of State Secretariat (official)",
+      "url": "https://x.com/kemensetnegri",
+      "source": "https://x.com/kemensetnegri"
+    },
+    {
+      "type": "twitter",
+      "label": "Executive Office of the President (KSP)",
+      "url": "https://twitter.com/KSPgoid",
+      "source": "https://ksp.go.id/en/"
+    },
+    {
+      "type": "facebook",
+      "label": "President of Indonesia (official web page account)",
+      "url": "https://www.facebook.com/webpresidenri/",
+      "source": "https://www.facebook.com/webpresidenri/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of Indonesia (official)",
+      "url": "https://www.facebook.com/Kemlu.RI/",
+      "source": "https://www.facebook.com/Kemlu.RI/"
+    },
+    {
+      "type": "facebook",
+      "label": "Executive Office of the President (KSP)",
+      "url": "https://www.facebook.com/KantorStafPresidenRI",
+      "source": "https://ksp.go.id/en/"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of Indonesia to the UN, New York",
+      "url": "https://www.facebook.com/indonesiaunny/",
+      "source": "https://www.facebook.com/indonesiaunny/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Kemlu) switchboard",
+      "value": "+62 21 344 1508",
+      "source": "https://kemlu.go.id/kontak"
+    },
+    {
+      "type": "phone",
+      "label": "Executive Office of the President (KSP)",
+      "value": "+62 21 2354 5001",
+      "source": "https://ksp.go.id/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of State Secretariat",
+      "value": "+62 21 3845627",
+      "source": "https://www.setneg.go.id/baca/index/kontak_kami_2"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Indonesia to the UN, New York",
+      "value": "+1 212 972 8333",
+      "source": "https://kemlu.go.id/newyork-un/en/kontak-kami"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Indonesia to the UN, Geneva",
+      "value": "+41 22 338 33 50",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/indonesia"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Indonesia, Washington D.C.",
+      "value": "+1 202 775 5200",
+      "source": "https://www.embassyofindonesia.org/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Investment / BKPM contact centre",
+      "value": "+62 21 5252 008",
+      "source": "https://www4.investindonesia.go.id/id/kontak"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Kemlu RI)",
+      "value": "Jl. Taman Pejambon No. 6, Jakarta Pusat, DKI Jakarta 10110, Indonesia",
+      "source": "https://kemlu.go.id/kontak"
+    },
+    {
+      "type": "address",
+      "label": "Executive Office of the President (KSP)",
+      "value": "Bina Graha Building, Jl. Veteran No. 16, Central Jakarta 10110, Indonesia",
+      "source": "https://ksp.go.id/en/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of State Secretariat",
+      "value": "Jl. Veteran No. 17-18, Jakarta Pusat 10110, Indonesia",
+      "source": "https://www.setneg.go.id/baca/index/kontak_kami_2"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Indonesia to the UN, New York",
+      "value": "325 East 38th Street, New York, NY 10016, USA",
+      "source": "https://kemlu.go.id/newyork-un/en/kontak-kami"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Indonesia to the UN, Geneva",
+      "value": "Rue de Saint-Jean 16, 1203 Geneva, Switzerland",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/indonesia"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Indonesia, Washington D.C.",
+      "value": "2020 Massachusetts Avenue NW, Washington, DC 20036, USA",
+      "source": "https://www.embassyofindonesia.org/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Indonesia, London",
+      "value": "Trevelyan House, 30 Great Peter Street, London SW1P 2BU, United Kingdom",
+      "source": "https://kemlu.go.id/london/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Investment / BKPM",
+      "value": "Jl. Jend. Gatot Subroto No. 44, Jakarta 12190, Indonesia",
+      "source": "https://www4.investindonesia.go.id/id/kontak"
+    },
+    {
+      "type": "other",
+      "label": "LAPOR! — national public complaint and aspiration service (official government contact form)",
+      "url": "https://www.lapor.go.id/",
+      "source": "https://ksp.go.id/en/"
+    },
+    {
+      "type": "other",
+      "label": "Kemlu e-PPID — public information request portal",
+      "url": "https://e-ppid.kemlu.go.id/",
+      "source": "https://e-ppid.kemlu.go.id/detail-informasi-publik/tata-cara-permohonan-informasi-di-kementerian-luar-negeri"
+    }
+  ]
 }

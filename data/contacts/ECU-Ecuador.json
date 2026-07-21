@@ -97,6 +97,66 @@
       "label": "ProEcuador - Guayaquil Office",
       "value": "Malecón Simón Bolivar 100 y 9 de Octubre, Edificio La Previsora, Piso 15, Guayaquil, Ecuador",
       "source": "https://www.proecuador.gob.ec"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - English",
+      "url": "https://x.com/MFAEcuador",
+      "source": "Official X/Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - Spanish",
+      "url": "https://x.com/CancilleriaEc",
+      "source": "Official Spanish X/Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of Ecuador",
+      "url": "https://x.com/Presidencia_Ec",
+      "source": "Official presidency X/Twitter account"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+593-2-299-3200",
+      "source": "Official ministry contact information"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Headquarters",
+      "value": "Ulpiano Páez y Jerónimo Carrión, Edificio Zurita, Quito, Ecuador - Postal Code: 170526",
+      "source": "Official ministry address"
+    },
+    {
+      "type": "address",
+      "label": "Presidency of Ecuador",
+      "value": "García Moreno N10-43 entre Chile y Espejo, Quito, Ecuador - Postal Code: 170401",
+      "source": "Official presidency address"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly (Asamblea Nacional)",
+      "value": "Avenida 6 de Diciembre y Piedrahita, Quito, Ecuador",
+      "source": "Legislative branch headquarters"
+    },
+    {
+      "type": "website",
+      "label": "Citizen Contact Portal",
+      "url": "https://www.contactociudadano.gob.ec",
+      "source": "Official government portal for citizen inquiries"
+    },
+    {
+      "type": "other",
+      "label": "YouTube Channel - Presidency",
+      "url": "https://www.youtube.com/presidenciaec",
+      "source": "Official presidency social media"
+    },
+    {
+      "type": "other",
+      "label": "Flickr - Presidency",
+      "url": "https://www.flickr.com/photos/presidenciaecuador",
+      "source": "Official presidency photo archive"
     }
   ]
 }

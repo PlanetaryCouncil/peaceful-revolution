@@ -181,6 +181,78 @@
       "label": "Embassy of Belize USA",
       "value": "+1-202-332-6888",
       "source": "https://www.belizeembassyusa.mfa.gov.bz/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs, Foreign Trade & Immigration",
+      "value": "+501 880-2167 / 880-2322",
+      "source": "https://mfa.gov.bz/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs, Foreign Trade & Immigration",
+      "value": "The Leigh Richardson Building, PO Box 174 North Ring Road, Belmopan, Belize, CA",
+      "source": "https://mfa.gov.bz/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+501 828-4180 / 828-4182",
+      "source": "https://www.pressoffice.gov.bz/the-prime-minister/"
+    },
+    {
+      "type": "phone",
+      "label": "Government Press Office",
+      "value": "+501 822-0092 / 822-0094 / 822-0759",
+      "source": "https://www.pressoffice.gov.bz/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Governor General",
+      "value": "+501 822-2204",
+      "source": "https://lca.logcluster.org/41-belize-government-contact-list"
+    },
+    {
+      "type": "email",
+      "label": "BELTRAIDE - Investment & Business Development",
+      "value": "info@beltraide.bz",
+      "source": "https://beltraide.bz/contactus/"
+    },
+    {
+      "type": "phone",
+      "label": "BELTRAIDE - Investment & Business Development",
+      "value": "+501 880-3737 / 880-0137",
+      "source": "https://beltraide.bz/contactus/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs, Foreign Trade & Immigration",
+      "url": "https://mfa.gov.bz/",
+      "source": "https://mfa.gov.bz/"
+    },
+    {
+      "type": "website",
+      "label": "BELTRAIDE - Investment & Trade Development",
+      "url": "https://beltraide.bz/",
+      "source": "https://beltraide.bz/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and Foreign Trade (MFAFT)",
+      "url": "https://twitter.com/MFABelize",
+      "source": "https://mfa.gov.bz/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Belize",
+      "url": "https://twitter.com/belizegov",
+      "source": "https://twitter.com/belizegov"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Belize Press Office",
+      "url": "https://twitter.com/gobpressoffice",
+      "source": "https://twitter.com/gobpressoffice"
     }
   ]
 }

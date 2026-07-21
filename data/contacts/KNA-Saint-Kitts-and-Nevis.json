@@ -145,6 +145,60 @@
       "label": "Dr. Denzil L. Douglas (Minister of Foreign Affairs)",
       "url": "https://facebook.com/rthondrdenzildouglas/",
       "source": "gov.kn"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - Secretary",
+      "value": "teresa.edwards@gov.kn",
+      "source": "https://www.gov.kn/contact-list/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - Executive Director",
+      "value": "viera.galloway@gov.kn",
+      "source": "https://www.gov.kn/contact-list/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+1 (869) 467-1207/1043",
+      "source": "https://www.gov.kn/contact-list/"
+    },
+    {
+      "type": "website",
+      "label": "St. Kitts & Nevis Information Service",
+      "url": "https://www.sknis.gov.kn/",
+      "source": "https://www.sknis.gov.kn/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/foreign.govt.skn/",
+      "source": "https://www.facebook.com/foreign.govt.skn/"
+    },
+    {
+      "type": "facebook",
+      "label": "St. Kitts and Nevis Information Service",
+      "url": "https://www.facebook.com/sknismedia/",
+      "source": "https://www.facebook.com/sknismedia/"
+    },
+    {
+      "type": "twitter",
+      "label": "SKN Government Official Account",
+      "url": "https://x.com/skngov",
+      "source": "https://x.com/skngov"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Building 15 Suites 201-202, Port Zante, Basseterre, Saint Kitts and Nevis",
+      "source": "https://www.mofa.gov.kn/contact-2/"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "P.O. Box 199, Government Headquarters, Church Street, Basseterre, St. Kitts",
+      "source": "https://www.gov.kn/contact-list/"
     }
   ]
 }

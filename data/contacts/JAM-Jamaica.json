@@ -289,6 +289,132 @@
       "label": "Ministry of Education, Skills, Youth and Information",
       "url": "https://www.youtube.com/@MOEJamaica",
       "source": "https://www.moey.gov.jm"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister - Direct",
+      "value": "primeminister@opm.gov.jm",
+      "source": "https://opm.gov.jm/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Jamaica Information Service - General",
+      "value": "jis@jis.gov.jm",
+      "source": "https://jis.gov.jm/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs & Foreign Trade",
+      "value": "+1-876-676-4028-30",
+      "source": "https://mfaft.gov.jm/site/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister",
+      "value": "+1-876-927-9941-3 / +1-876-968-8229",
+      "source": "https://opm.gov.jm/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Jamaica Information Service - Head Office",
+      "value": "+1-876-926-3590-4 / +1-876-926-3740-6",
+      "source": "https://jis.gov.jm/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Industry, Investment & Commerce",
+      "value": "(876) 619-8038",
+      "source": "https://www.miic.gov.jm/"
+    },
+    {
+      "type": "phone",
+      "label": "Jamaica Business Development Corporation - Main",
+      "value": "+1-876-928-5161-5 / +1-876-928-0275",
+      "source": "https://www.jbdc.net/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Governor General of Jamaica - King's House",
+      "value": "+1-876-927-6424",
+      "source": "https://kingshouse.gov.jm/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opm.gov.jm",
+      "source": "https://opm.gov.jm/"
+    },
+    {
+      "type": "website",
+      "label": "Jamaica Information Service",
+      "url": "https://jis.gov.jm",
+      "source": "https://jis.gov.jm/"
+    },
+    {
+      "type": "website",
+      "label": "Jamaica Business Development Corporation",
+      "url": "https://www.jbdc.net",
+      "source": "https://www.jbdc.net/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Governor General of Jamaica",
+      "url": "https://kingshouse.gov.jm",
+      "source": "https://kingshouse.gov.jm/contact-us/"
+    },
+    {
+      "type": "facebook",
+      "label": "Jamaica Business Development Corporation",
+      "url": "https://www.facebook.com/JBDCja",
+      "source": "https://www.jbdc.net/contact-us/"
+    },
+    {
+      "type": "facebook",
+      "label": "Governor General of Jamaica",
+      "url": "https://www.facebook.com/Governor.General.Jamaica/",
+      "source": "https://www.facebook.com/Governor.General.Jamaica/"
+    },
+    {
+      "type": "twitter",
+      "label": "Jamaica Business Development Corporation",
+      "url": "https://twitter.com/JBDCJamaica",
+      "source": "https://www.jbdc.net/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the Prime Minister",
+      "url": "https://twitter.com/OPMJamaica",
+      "source": "https://twitter.com/OPMJamaica"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs & Foreign Trade",
+      "value": "The Hugh Lawson Shearer Building, 2 Port Royal Street, Kingston, Jamaica",
+      "source": "https://mfaft.gov.jm/site/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "Jamaica House, 1 Devon Road, Kingston 10, Jamaica",
+      "source": "https://opm.gov.jm/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Jamaica Information Service - Head Office",
+      "value": "58A Half Way Tree Road, Kingston 10, Jamaica, W.I.",
+      "source": "https://jis.gov.jm/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Jamaica Business Development Corporation - Head Office",
+      "value": "14 Camp Road, Kingston, Jamaica",
+      "source": "https://www.jbdc.net/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Governor General of Jamaica - King's House",
+      "value": "Hope Road, Kingston 6, Jamaica",
+      "source": "https://kingshouse.gov.jm/contact-us/"
     }
   ]
 }

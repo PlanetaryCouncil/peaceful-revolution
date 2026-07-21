@@ -3,6 +3,150 @@
   "country_name": "Transnistria",
   "contacts": [
     {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs of Pridnestrovie (PMR) — general office",
+      "value": "office@mid.gospmr.org",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/ (MFA official site footer; identical in 2018/2020/2021 captures)"
+    },
+    {
+      "type": "email",
+      "label": "Supreme Council (parliament) — Chairman's reception office",
+      "value": "priemnaya@vspmr.org",
+      "source": "https://web.archive.org/web/2023/http://vspmr.org/about/contacts/"
+    },
+    {
+      "type": "email",
+      "label": "Supreme Council — press service",
+      "value": "press@vspmr.org",
+      "source": "https://web.archive.org/web/2023/http://vspmr.org/about/contacts/"
+    },
+    {
+      "type": "email",
+      "label": "Supreme Council — document desk",
+      "value": "doc@vspmr.org",
+      "source": "https://web.archive.org/web/2023/http://vspmr.org/about/contacts/"
+    },
+    {
+      "type": "email",
+      "label": "Supreme Council — protocol department",
+      "value": "protocol@vspmr.org",
+      "source": "https://web.archive.org/web/2023/http://vspmr.org/about/contacts/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President of PMR — press service",
+      "value": "press@president.gospmr.org",
+      "source": "https://web.archive.org/web/2021/http://president.gospmr.org/administratsiya/prijomnaya"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of PMR",
+      "url": "http://mid.gospmr.org/",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/ (site self-identifies mid.gospmr.org as MFA domain)"
+    },
+    {
+      "type": "website",
+      "label": "Official portal of the state authorities of PMR",
+      "url": "http://gospmr.org/",
+      "source": "https://web.archive.org/web/2024/http://gospmr.org/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of PMR",
+      "url": "http://president.gospmr.org/",
+      "source": "https://web.archive.org/web/2021/http://president.gospmr.org/"
+    },
+    {
+      "type": "website",
+      "label": "Government of PMR",
+      "url": "http://gov-pmr.org/",
+      "source": "https://web.archive.org/web/2019/http://gov-pmr.org/"
+    },
+    {
+      "type": "website",
+      "label": "Supreme Council of PMR (parliament)",
+      "url": "http://vspmr.org/",
+      "source": "https://web.archive.org/web/2023/http://vspmr.org/about/contacts/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of PMR (official)",
+      "url": "https://www.facebook.com/MIDPMR",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/ (linked from MFA official site)"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of PMR (official)",
+      "url": "https://www.facebook.com/govpmr",
+      "source": "https://web.archive.org/web/2019/http://gov-pmr.org/ (linked from government site)"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs of PMR (official)",
+      "url": "https://twitter.com/MIDPMR",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/ (linked from MFA official site)"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of PMR (official)",
+      "url": "https://twitter.com/govpmr",
+      "source": "https://web.archive.org/web/2019/http://gov-pmr.org/ (linked from government site)"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs of PMR — official Telegram channel",
+      "url": "https://t.me/MIDPMR",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/"
+    },
+    {
+      "type": "other",
+      "label": "Office of the President of PMR — online citizens' reception (contact form)",
+      "url": "http://president.gospmr.org/administratsiya/internet-reception/",
+      "source": "https://web.archive.org/web/2021/http://president.gospmr.org/administratsiya/internet-reception/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs of PMR — phone/fax",
+      "value": "+373 533 74346",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs of PMR — document legalisation / public services",
+      "value": "+373 533 74405",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/"
+    },
+    {
+      "type": "phone",
+      "label": "Supreme Council — citizens' reception and appeals department",
+      "value": "+373 533 94540",
+      "source": "https://web.archive.org/web/2016/http://vspmr.org/about/contacts/"
+    },
+    {
+      "type": "phone",
+      "label": "Government of PMR — Head of Government Apparatus reception",
+      "value": "+373 533 62440",
+      "source": "https://web.archive.org/web/2019/http://gov-pmr.org/apparatus"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs of PMR",
+      "value": "45 Sverdlova str., Tiraspol, MD-3300, Pridnestrovie (PMR)",
+      "source": "https://web.archive.org/web/2022/http://mfa-pmr.org/ru/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President of PMR",
+      "value": "187 Karl Marx str., Tiraspol, 3300, Pridnestrovie (PMR)",
+      "source": "https://web.archive.org/web/2021/http://president.gospmr.org/administratsiya/prijomnaya"
+    },
+    {
+      "type": "address",
+      "label": "Supreme Council / Government of PMR",
+      "value": "45, 25 Oktyabrya str., Tiraspol, MD-3300, Pridnestrovie (PMR)",
+      "source": "https://web.archive.org/web/2016/http://vspmr.org/about/contacts/"
+    },
+    {
       "type": "note",
       "label": "Research Limitations",
       "value": "Unable to verify current official Transnistria government contacts. Web search budget exhausted (200/200 calls). Direct website access to known government domains (mfa.dmr.md, dmr.md) failed with DNS and SSL errors. Transnistria is a de facto independent state not internationally recognized by most countries, which limits publicly available verified contact information.",

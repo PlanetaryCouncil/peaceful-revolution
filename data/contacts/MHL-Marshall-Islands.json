@@ -3,6 +3,186 @@
   "country_name": "Marshall Islands",
   "contacts": [
     {
+      "type": "email",
+      "label": "Permanent Mission of the Marshall Islands to the UN, New York",
+      "value": "marshallislands@un.int",
+      "source": "https://www.un.int/marshallislands/about"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Republic of the Marshall Islands, Washington D.C.",
+      "value": "info@rmiembassyus.org",
+      "source": "https://www.rmiembassyus.org/contact"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of the Marshall Islands to the UN, Geneva",
+      "value": "admin@rmiembassygeneva.org",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/marshall-islands"
+    },
+    {
+      "type": "email",
+      "label": "Consulate General of the Marshall Islands, Honolulu, Hawaii",
+      "value": "genos@rmiconsulatehi.com",
+      "source": "https://www.rmiembassyus.org/contact"
+    },
+    {
+      "type": "email",
+      "label": "Consulate of the Marshall Islands, Springdale, Arkansas",
+      "value": "rmiconsulatearkansas@gmail.com",
+      "source": "https://www.rmiembassyus.org/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Trade, Majuro (administration) - secondary listing, phone/fax corroborated by HCCH",
+      "value": "mofaadm@ntamar.net",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=373 (authority listing; address published in multiple diplomatic directories)"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President and Cabinet, Majuro - published on rmigov.com contact page (page behind bot-check, read via search index)",
+      "value": "officeofthepresidentrmi@gmail.com",
+      "source": "https://rmigov.com/?page_id=27"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Marshall Islands, Tokyo, Japan",
+      "value": "rmito@din.or.jp",
+      "source": "https://www.un.int/marshallislands/marshallislands/embassies"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Marshall Islands, Taipei, Taiwan",
+      "value": "rmiembtp@ms41.hinet.net",
+      "source": "https://www.un.int/marshallislands/marshallislands/embassies"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Marshall Islands, Suva, Fiji",
+      "value": "rmisuva@sopacsun.sopac.org.fj",
+      "source": "https://www.un.int/marshallislands/marshallislands/embassies"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President and Cabinet - official government portal",
+      "url": "https://rmigov.com/",
+      "source": "https://rmigov.com/"
+    },
+    {
+      "type": "website",
+      "label": "Marshall Islands Permanent Mission to the United Nations",
+      "url": "https://www.un.int/marshallislands/",
+      "source": "https://www.un.int/marshallislands/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Republic of the Marshall Islands, Washington D.C.",
+      "url": "https://www.rmiembassyus.org/",
+      "source": "https://www.rmiembassyus.org/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance, Banking and Postal Services",
+      "url": "https://mof.gov.mh/",
+      "source": "https://mof.gov.mh/"
+    },
+    {
+      "type": "website",
+      "label": "Marshall Islands Division of Immigration",
+      "url": "https://rmiimmigration.org/",
+      "source": "https://rmiimmigration.org/contact/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Trade, Republic of the Marshall Islands",
+      "url": "https://www.facebook.com/mofatrmi/",
+      "source": "https://www.facebook.com/mofatrmi/"
+    },
+    {
+      "type": "twitter",
+      "label": "RMI Ministry of Foreign Affairs & Trade (@mofatrmi)",
+      "url": "https://x.com/mofatrmi",
+      "source": "https://x.com/mofatrmi?lang=en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs, Majuro - Minister's office",
+      "value": "+692 625 3012",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=373"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs, Majuro - administration",
+      "value": "+692 625 3181",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=373"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President and Cabinet, Majuro",
+      "value": "+692 625 3445 / +692 625 2233",
+      "source": "https://rmigov.com/?page_id=27"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to the UN, New York",
+      "value": "+1 212 983 3040",
+      "source": "https://www.un.int/marshallislands/about"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Marshall Islands, Washington D.C.",
+      "value": "+1 202 234 5414",
+      "source": "https://www.rmiembassyus.org/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to the UN, Geneva",
+      "value": "+41 22 900 01 13",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/marshall-islands"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Marshall Islands to the UN, New York",
+      "value": "800 Second Avenue, 18th Floor, New York, NY 10017, USA",
+      "source": "https://www.un.int/marshallislands/about"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Republic of the Marshall Islands, Washington D.C.",
+      "value": "2433 Massachusetts Avenue N.W., Washington, D.C. 20008, USA",
+      "source": "https://www.rmiembassyus.org/contact"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Marshall Islands to the UN, Geneva",
+      "value": "Rue de Lausanne 37 A, 1201 Geneva, Switzerland",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/marshall-islands"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President and Cabinet, Majuro",
+      "value": "P.O. Box 2, Majuro, MH 96960, Marshall Islands",
+      "source": "https://rmigov.com/?page_id=27"
+    },
+    {
+      "type": "other",
+      "label": "Fax - Ministry of Foreign Affairs, Majuro",
+      "value": "+692 625 4979",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=373"
+    },
+    {
+      "type": "other",
+      "label": "Fax - Embassy of the Marshall Islands, Washington D.C.",
+      "value": "+1 202 232 3236",
+      "source": "https://www.rmiembassyus.org/contact"
+    },
+    {
+      "type": "other",
+      "label": "Fax - Permanent Mission to the UN, New York",
+      "value": "+1 212 983 3202",
+      "source": "https://www.un.int/marshallislands/about"
+    },
+    {
       "type": "phone",
       "label": "Country Code",
       "value": "+692",

@@ -1,5 +1,162 @@
 {
-  "iso": "SYR",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Expatriates — general contact",
+      "value": "contact@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of the Syrian Arab Republic to the UN, New York",
+      "value": "syrianmission-ny@sar-un.org",
+      "source": "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/missionorganization_emailswphn.xlsx (UN Protocol and Liaison Service, updated 24 April 2026)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Brussels — consular department",
+      "value": "syrianbrussels.consulardep@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Rome",
+      "value": "syrianembassy.roma@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Madrid",
+      "value": "syrianembassy.madrid@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Cairo",
+      "value": "syrianembassy.cairo@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in New Delhi",
+      "value": "newdelhi@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Riyadh",
+      "value": "riyadh@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Abu Dhabi",
+      "value": "syrianembassy.abudhabi@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Amman",
+      "value": "Syrianembassy.amman@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Athens",
+      "value": "syrianembassy.athens@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Syria in Bonn/Germany — information desk",
+      "value": "Info_bonn@mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en (official diplomatic missions directory)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Expatriates (official portal)",
+      "url": "https://mofaex.gov.sy/en",
+      "source": "https://mofaex.gov.sy/en"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of the Syrian Arab Republic to the United Nations",
+      "url": "https://www.un.int/syria/",
+      "source": "https://www.un.int/syria/"
+    },
+    {
+      "type": "website",
+      "label": "SANA — Syrian Arab News Agency (state news agency)",
+      "url": "https://sana.sy/en/",
+      "source": "https://sana.sy/en/"
+    },
+    {
+      "type": "website",
+      "label": "MoFA international organizations platform",
+      "url": "https://platform.mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en"
+    },
+    {
+      "type": "website",
+      "label": "MoFA human resources / job vacancies portal",
+      "url": "https://hr.mofaex.gov.sy",
+      "source": "https://mofaex.gov.sy/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and Expatriates on X",
+      "url": "https://x.com/syrianmofaex",
+      "source": "https://mofaex.gov.sy/en (footer social links)"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Expatriates on Facebook",
+      "url": "https://www.facebook.com/syrianmofaex",
+      "source": "https://mofaex.gov.sy/en (footer social links)"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Syria to the UN, New York — telephone",
+      "value": "+1 212-661-1313",
+      "source": "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/missionorganization_emailswphn.xlsx (UN Protocol and Liaison Service, updated 24 April 2026)"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Syria to the UN, New York — fax",
+      "value": "+1 212-983-4439",
+      "source": "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/missionorganization_emailswphn.xlsx (UN Protocol and Liaison Service, updated 24 April 2026)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Expatriates, Damascus",
+      "value": "Ministry of Foreign Affairs and Expatriates, 17 April Street, Damascus, Syria",
+      "source": "https://mofaex.gov.sy/en/contact"
+    },
+    {
+      "type": "other",
+      "label": "MoFA Telegram channel (official contact channel)",
+      "url": "https://t.me/syrianmofaex1",
+      "source": "https://mofaex.gov.sy/en/contact"
+    },
+    {
+      "type": "other",
+      "label": "MoFA Instagram",
+      "url": "https://instagram.com/syrian_mofaex",
+      "source": "https://mofaex.gov.sy/en (footer social links)"
+    },
+    {
+      "type": "other",
+      "label": "MoFA contact page (official contact desk; directs opinions/requests via the MOFA SY mobile app technical support)",
+      "url": "https://mofaex.gov.sy/en/contact",
+      "source": "https://mofaex.gov.sy/en/contact"
+    },
+    {
+      "type": "other",
+      "label": "MoFA diplomatic missions directory (full list of Syrian embassies/consulates with per-post emails)",
+      "url": "https://mofaex.gov.sy/en",
+      "source": "https://mofaex.gov.sy/en"
+    }
+  ],
   "country_name": "Syria",
-  "contacts": []
+  "iso": "SYR"
 }

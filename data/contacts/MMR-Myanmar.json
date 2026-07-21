@@ -1,5 +1,180 @@
 {
   "iso": "MMR",
   "country_name": "Myanmar",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission of Myanmar to the UN, New York — general",
+      "value": "myanmarmission@verizon.net",
+      "source": "https://www.un.int/myanmar/content/permanent-mission-republic-union-myanmar-united-nations"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Myanmar to the UN, New York — official MOFA address",
+      "value": "newyork-mission@mofa.gov.mm",
+      "source": "https://myanmarmissionnewyork.com/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Myanmar, Washington D.C. — general inquiries",
+      "value": "washington-embassy@mofa.gov.mm",
+      "source": "https://mewashingtondc.org/webform/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Myanmar, Washington D.C. — consular (visa/passport)",
+      "value": "consularservices@mewashingtondc.org",
+      "source": "https://mewashingtondc.org/webform/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Complaint Processing Unit",
+      "value": "cpu@mofa.gov.mm",
+      "source": "https://www.mofa.gov.mm/en/home-english/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Political Department",
+      "value": "pol-dept@mofa.gov.mm",
+      "source": "https://www.mofa.gov.mm/mofa-directory/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — ASEAN Affairs Department",
+      "value": "dgasean@gmail.com",
+      "source": "https://www.mofa.gov.mm/mofa-directory/"
+    },
+    {
+      "type": "email",
+      "label": "DICA — Investment Promotion Division (investment/trade promotion)",
+      "value": "investmentpromotion@dica.gov.mm",
+      "source": "https://www.dica.gov.mm/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "DICA — Investment Promotion (MIFER address)",
+      "value": "ip.dica@mifer.gov.mm",
+      "source": "https://www.dica.gov.mm/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "DICA — Company Registration Division",
+      "value": "company.dica@mifer.gov.mm",
+      "source": "https://www.dica.gov.mm/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of Myanmar",
+      "url": "https://www.mofa.gov.mm/en/home-english/",
+      "source": "https://www.mofa.gov.mm/en/home-english/"
+    },
+    {
+      "type": "website",
+      "label": "Myanmar National Portal (official government portal)",
+      "url": "https://myanmar.gov.mm/en/home",
+      "source": "https://myanmar.gov.mm/en/home"
+    },
+    {
+      "type": "website",
+      "label": "Directorate of Investment and Company Administration (DICA), MIFER",
+      "url": "https://www.dica.gov.mm/",
+      "source": "https://www.dica.gov.mm/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Myanmar to the United Nations (UN listing)",
+      "url": "https://www.un.int/myanmar/",
+      "source": "https://www.un.int/myanmar/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Myanmar to the UN, New York (mission site)",
+      "url": "https://myanmarmissionnewyork.com/",
+      "source": "https://myanmarmissionnewyork.com/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Myanmar, Washington D.C.",
+      "url": "https://mewashingtondc.org/",
+      "source": "https://mewashingtondc.org/webform/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Myanmar eVisa (official government portal)",
+      "url": "https://evisa.moip.gov.mm/",
+      "source": "https://evisa.moip.gov.mm/common-items/embassy"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs Myanmar — official Facebook page",
+      "url": "https://www.facebook.com/mofamyanmar/",
+      "source": "https://www.facebook.com/mofamyanmar/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs, Nay Pyi Taw — main switchboard",
+      "value": "+95 67 412009",
+      "source": "https://www.mofa.gov.mm/mofa-directory/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — fax",
+      "value": "+95 67 412396",
+      "source": "https://www.mofa.gov.mm/mofa-directory/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Myanmar to the UN, New York",
+      "value": "+1 212-744-1271",
+      "source": "https://www.un.int/myanmar/content/permanent-mission-republic-union-myanmar-united-nations"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Myanmar, Washington D.C. — chancery",
+      "value": "+1 202-332-3344",
+      "source": "https://mewashingtondc.org/webform/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "DICA head office, Yangon",
+      "value": "+95 1 658102, +95 1 658103",
+      "source": "https://www.dica.gov.mm/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs headquarters",
+      "value": "Office No. 9, Nay Pyi Taw, Republic of the Union of Myanmar",
+      "source": "https://www.mofa.gov.mm/mofa-directory/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Myanmar to the United Nations",
+      "value": "10 East 77th Street, New York, NY 10075, USA",
+      "source": "https://www.un.int/myanmar/content/permanent-mission-republic-union-myanmar-united-nations"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Myanmar, Washington D.C.",
+      "value": "2300 S Street NW, Washington, D.C. 20008, USA",
+      "source": "https://mewashingtondc.org/webform/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "DICA head office",
+      "value": "No. 1, Thitsar Road, Yankin Township, Yangon, Myanmar",
+      "source": "https://www.dica.gov.mm/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Embassy of Myanmar, Washington D.C. — online contact form",
+      "url": "https://mewashingtondc.org/webform/contact-us/",
+      "source": "https://mewashingtondc.org/webform/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Embassy of Myanmar, Washington D.C. — complaints/suggestions desk",
+      "value": "cpumewdc@gmail.com",
+      "source": "https://mewashingtondc.org/webform/contact-us/"
+    }
+  ]
 }

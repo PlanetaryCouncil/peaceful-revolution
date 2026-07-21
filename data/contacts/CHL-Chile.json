@@ -145,6 +145,78 @@
       "label": "Embassy of Chile - Washington DC",
       "value": "1732 Massachusetts Avenue NW, Washington DC 20036, USA",
       "source": "Official Embassy location"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Office",
+      "value": "+56-2-2827-4200",
+      "source": "https://www.minrel.gob.cl/minrel/en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main Office",
+      "value": "Teatinos 180, primer piso, Santiago, Chile",
+      "source": "https://minrel.gob.cl/contactos/minrel/2012-08-29/113400.html"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Citizen Services",
+      "value": "Agustinas 1320, primer piso, Santiago, Chile",
+      "source": "https://www.minrel.gob.cl/minrel/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.minrel.gob.cl/minrel/en",
+      "source": "Official government website"
+    },
+    {
+      "type": "email",
+      "label": "ProChile - Press Contact",
+      "value": "prensa.prochile@prochile.gob.cl",
+      "source": "https://www.prochile.gob.cl/"
+    },
+    {
+      "type": "phone",
+      "label": "ProChile - Business Development",
+      "value": "+56 2 33220000",
+      "source": "https://www.prochile.gob.cl/"
+    },
+    {
+      "type": "website",
+      "label": "ProChile - Export & Business Development",
+      "url": "https://www.prochile.gob.cl/",
+      "source": "Official government business development agency"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office - La Moneda Palace",
+      "value": "+56 2 26904000",
+      "source": "https://www.interior.gob.cl/"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office - La Moneda Palace",
+      "value": "Palacio de La Moneda, Calle Moneda 1202-1298, Santiago, Chile",
+      "source": "Official government palace seat"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gob.cl/en/",
+      "source": "Central government digital platform"
+    },
+    {
+      "type": "website",
+      "label": "ChileAtiende - Government Services",
+      "url": "https://www.chileatiende.gob.cl/",
+      "source": "Official government citizen services portal"
+    },
+    {
+      "type": "phone",
+      "label": "ChileAtiende - Citizen Services Call Center",
+      "value": "101",
+      "source": "https://www.chileatiende.gob.cl/"
     }
   ]
 }

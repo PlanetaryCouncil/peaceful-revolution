@@ -1,5 +1,180 @@
 {
   "iso": "TLS",
   "country_name": "Timor-Leste",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission of Timor-Leste to the United Nations, New York",
+      "value": "timor-leste@un.int",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=2"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President of Timor-Leste — Press Office",
+      "value": "pressoffice@presidenciarepublica.tl",
+      "source": "https://presidenciarepublica.tl/"
+    },
+    {
+      "type": "email",
+      "label": "Minister of Foreign Affairs and Cooperation (Bendito dos Santos Freitas)",
+      "value": "bendito.freitas@timor-leste.gov.tl",
+      "source": "https://mnec.gov.tl/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Timor-Leste to the European Union and Belgium, Brussels",
+      "value": "info@timor-leste.be",
+      "source": "https://mnec.gov.tl/tl-overseas-missions"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Timor-Leste in London, United Kingdom",
+      "value": "info@tlembassy.co.uk",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=4"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Timor-Leste in Geneva, Switzerland",
+      "value": "info@timor-lestemission.ch",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=2"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Timor-Leste in Canberra, Australia",
+      "value": "timor.embassy@bigpond.com",
+      "source": "https://mnec.gov.tl/tl-overseas-missions"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Timor-Leste in Lisbon, Portugal",
+      "value": "embaixada.rdtl@mail.telepac.pt",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=3"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Timor-Leste in Tokyo, Japan",
+      "value": "diplomat01@embtltokyo.jp",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=2"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Timor-Leste in Beijing, China",
+      "value": "embassy@embtimorleste-beijing.com",
+      "source": "https://mnec.gov.tl/tl-overseas-missions"
+    },
+    {
+      "type": "email",
+      "label": "TradeInvest Timor-Leste (investment and export promotion agency)",
+      "value": "drem@invest.tl",
+      "source": "https://www.tradeinvest.tl/"
+    },
+    {
+      "type": "website",
+      "label": "Government of Timor-Leste — official portal",
+      "url": "https://timor-leste.gov.tl/",
+      "source": "https://timor-leste.gov.tl/?lang=en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Cooperation (MNEC/MFAC)",
+      "url": "https://mnec.gov.tl/",
+      "source": "https://mnec.gov.tl/"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of the Republic of Timor-Leste",
+      "url": "https://presidenciarepublica.tl/",
+      "source": "https://presidenciarepublica.tl/"
+    },
+    {
+      "type": "website",
+      "label": "TradeInvest Timor-Leste — investment and export promotion agency",
+      "url": "https://www.tradeinvest.tl/",
+      "source": "https://www.tradeinvest.tl/"
+    },
+    {
+      "type": "website",
+      "label": "Timor-Leste overseas missions directory (all embassies and consulates)",
+      "url": "https://mnec.gov.tl/tl-overseas-missions",
+      "source": "https://mnec.gov.tl/tl-overseas-missions"
+    },
+    {
+      "type": "facebook",
+      "label": "President José Ramos-Horta — official Facebook page",
+      "url": "https://www.facebook.com/officialramoshorta",
+      "source": "https://presidenciarepublica.tl/"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidência da República Democrática de Timor-Leste — official Facebook page",
+      "url": "https://www.facebook.com/OPRTL/",
+      "source": "https://presidenciarepublica.tl/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Timor-Leste to the United Nations, New York",
+      "value": "+1 212 759 3675",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=2"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Timor-Leste in Washington DC, USA",
+      "value": "+1 202 966 3202",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=4"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Timor-Leste to the European Union, Brussels",
+      "value": "+32 2 273 59 671",
+      "source": "https://mnec.gov.tl/tl-overseas-missions"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Timor-Leste in London, United Kingdom",
+      "value": "+44 (0)20 3440 9025",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=4"
+    },
+    {
+      "type": "phone",
+      "label": "TradeInvest Timor-Leste, Dili",
+      "value": "+670 3311105",
+      "source": "https://www.tradeinvest.tl/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Democratic Republic of Timor-Leste to the United Nations",
+      "value": "866 United Nations Plaza, Suite 441, New York, NY 10017, USA",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=2"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Timor-Leste in Washington DC, USA",
+      "value": "4201 Connecticut Avenue NW, Suite 504, Washington DC 20008-1168, USA",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=4"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Timor-Leste in London, United Kingdom",
+      "value": "Portland House (2nd Floor), Bressenden Place, London SW1E 5RS, UK",
+      "source": "https://mnec.gov.tl/tl-overseas-missions?page=4"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Timor-Leste to the European Union, Brussels",
+      "value": "Avenue de Tervueren 102, Etterbeek, 1040 Brussels, Belgium",
+      "source": "https://mnec.gov.tl/tl-overseas-missions"
+    },
+    {
+      "type": "address",
+      "label": "TradeInvest Timor-Leste, Dili",
+      "value": "Rua 25 de Abril, n.º 8, Colmera, Vera Cruz, Dili, Timor-Leste",
+      "source": "https://www.tradeinvest.tl/"
+    },
+    {
+      "type": "other",
+      "label": "Government of Timor-Leste — Comments and Suggestions contact form",
+      "url": "https://timor-leste.gov.tl/?lang=en",
+      "source": "https://timor-leste.gov.tl/?lang=en"
+    }
+  ]
 }

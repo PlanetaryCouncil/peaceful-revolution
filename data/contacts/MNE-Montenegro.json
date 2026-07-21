@@ -1,7 +1,263 @@
 {
-  "iso": "MNE",
-  "country_name": "Montenegro",
   "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Cabinet of the Minister (general contact)",
+      "value": "kabinet@mfa.gov.me",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Public Relations / press desk",
+      "value": "pr@mfa.gov.me",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Consular Affairs and Diaspora",
+      "value": "arhiva.konzularno@mfa.gov.me",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Diplomatic Protocol",
+      "value": "diplomatic.protocol@mfa.gov.me",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — Diplomatic Academy",
+      "value": "diplomatic.academy@mfa.gov.me",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Montenegro to the UN, New York",
+      "value": "un.newyork@mfa.gov.me",
+      "source": "https://www.gov.me/en/mission-un-new-york"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Montenegro in Washington, DC (general)",
+      "value": "usa@mfa.gov.me",
+      "source": "https://www.gov.me/en/embassy-washington"
+    },
+    {
+      "type": "email",
+      "label": "Government of Montenegro — Citizens' Office (public contact desk)",
+      "value": "kancelarijazagradjane@gsv.gov.me",
+      "source": "https://www.gov.me/en/"
+    },
+    {
+      "type": "email",
+      "label": "Government of Montenegro — General Secretariat",
+      "value": "gsv@gsv.gov.me",
+      "source": "https://www.gov.me/en/article/contact-information-for-government-and-ministry-pr-departments"
+    },
+    {
+      "type": "email",
+      "label": "Government of Montenegro — Public Information Department (press)",
+      "value": "pr@gov.me",
+      "source": "https://www.gov.me/en/article/contact-information-for-government-and-ministry-pr-departments"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office — Cabinet",
+      "value": "kabinet@gov.me",
+      "source": "https://www.gov.me/en/article/contact-information-for-government-and-ministry-pr-departments"
+    },
+    {
+      "type": "email",
+      "label": "President of Montenegro — Cabinet",
+      "value": "kabinet@predsjednik.me",
+      "source": "https://predsjednik.me/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "President of Montenegro — Public Relations",
+      "value": "pr@predsjednik.me",
+      "source": "https://predsjednik.me/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "President of Montenegro — Office for Protocol, Pardons and Decorations",
+      "value": "protokol@predsjednik.me",
+      "source": "https://predsjednik.me/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Montenegrin Investment Agency (MIA)",
+      "value": "mia@mia.gov.me",
+      "source": "https://mia.gov.me/en/about-agency/about-us/"
+    },
+    {
+      "type": "website",
+      "label": "Government of Montenegro — official portal",
+      "url": "https://www.gov.me/en/",
+      "source": "https://www.gov.me/en/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.gov.me/en/mvp",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "website",
+      "label": "President of Montenegro",
+      "url": "https://predsjednik.me/en",
+      "source": "https://predsjednik.me/en/contact"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Montenegro (Skupština)",
+      "url": "https://www.skupstina.me/en",
+      "source": "https://www.skupstina.me/en/parliament/president/cabinet-of-the-president"
+    },
+    {
+      "type": "website",
+      "label": "Montenegrin Investment Agency (MIA)",
+      "url": "https://mia.gov.me/en/",
+      "source": "https://mia.gov.me/en/about-agency/about-us/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Montenegro to the UN, New York",
+      "url": "https://www.gov.me/en/mission-un-new-york",
+      "source": "https://www.gov.me/en/mission-un-new-york"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Montenegro in Washington, DC",
+      "url": "https://www.gov.me/en/embassy-washington",
+      "source": "https://www.gov.me/en/embassy-washington"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Montenegro — official Facebook",
+      "url": "https://www.facebook.com/VladaCrneGore",
+      "source": "https://www.gov.me/en/ (site footer)"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Montenegro — official X/Twitter (Montenegrin)",
+      "url": "https://twitter.com/VladaCG",
+      "source": "https://www.gov.me/en/ (site footer)"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Montenegro — official X/Twitter (English)",
+      "url": "https://x.com/MeGovernment",
+      "source": "https://www.gov.me/en/article/106303--government-of-montenegro-launches-twitter-page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs — official X/Twitter",
+      "url": "https://x.com/MFA_MNE",
+      "source": "https://x.com/MFA_MNE"
+    },
+    {
+      "type": "other",
+      "label": "Government of Montenegro — official Instagram",
+      "url": "https://www.instagram.com/vlada_cg/",
+      "source": "https://www.gov.me/en/ (site footer)"
+    },
+    {
+      "type": "other",
+      "label": "Government of Montenegro — official YouTube",
+      "url": "https://www.youtube.com/c/VladaCrneGoreGOVME",
+      "source": "https://www.gov.me/en/ (site footer)"
+    },
+    {
+      "type": "other",
+      "label": "\"Ask the Government\" online contact form",
+      "url": "https://www.gov.me/en/",
+      "source": "https://www.gov.me/en/"
+    },
+    {
+      "type": "phone",
+      "label": "Government of Montenegro — Citizens' Office",
+      "value": "+382 20 482 876",
+      "source": "https://www.gov.me/en/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — Cabinet of the Minister",
+      "value": "+382 20 416 303",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — Public Relations",
+      "value": "+382 20 416 310",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "phone",
+      "label": "President of Montenegro — Cabinet",
+      "value": "+382 20 242 388",
+      "source": "https://predsjednik.me/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+382 20 242 530",
+      "source": "https://www.gov.me/en/article/contact-information-for-government-and-ministry-pr-departments"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Montenegro to the UN, New York",
+      "value": "+1 212 661 3700",
+      "source": "https://www.gov.me/en/mission-un-new-york"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Montenegro in Washington, DC",
+      "value": "+1 202 234 6108",
+      "source": "https://www.gov.me/en/embassy-washington"
+    },
+    {
+      "type": "phone",
+      "label": "Montenegrin Investment Agency (MIA)",
+      "value": "+382 20 220 030",
+      "source": "https://mia.gov.me/en/about-agency/about-us/"
+    },
+    {
+      "type": "address",
+      "label": "Government of Montenegro — General Secretariat",
+      "value": "Karađorđeva bb, 81000 Podgorica, Montenegro",
+      "source": "https://www.gov.me/en/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Stanka Dragojevića 2, 81000 Podgorica, Montenegro",
+      "source": "https://www.gov.me/en/mvp"
+    },
+    {
+      "type": "address",
+      "label": "President of Montenegro — President's Palace",
+      "value": "Bulevar Svetog Petra Cetinjskog 12, 81000 Podgorica, Montenegro",
+      "source": "https://predsjednik.me/en/contact"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Montenegro to the UN, New York",
+      "value": "801 Second Avenue, 7th Floor, New York, NY 10017, USA",
+      "source": "https://www.gov.me/en/mission-un-new-york"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Montenegro in Washington, DC",
+      "value": "1610 New Hampshire Avenue NW, Washington, DC, USA",
+      "source": "https://www.gov.me/en/embassy-washington"
+    },
+    {
+      "type": "address",
+      "label": "Montenegrin Investment Agency (MIA)",
+      "value": "Kralja Nikole 27, Podgorica, Montenegro",
+      "source": "https://mia.gov.me/en/about-agency/about-us/"
+    },
     {
       "type": "website",
       "label": "Government of Montenegro - Official Portal",
@@ -62,5 +318,7 @@
       "url": "https://www.mod.gov.me",
       "source": "Official Montenegro Ministry of Defence domain"
     }
-  ]
+  ],
+  "country_name": "Montenegro",
+  "iso": "MNE"
 }

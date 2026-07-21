@@ -1,7 +1,107 @@
 {
-  "iso": "UKR",
-  "country_name": "Ukraine",
   "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission of Ukraine to the UN (New York) — general",
+      "value": "uno_us@mfa.gov.ua",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Ukraine to the UN (New York) — media/press",
+      "value": "media.pmofukraine@gmail.com",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "UkraineInvest — national investment promotion office",
+      "value": "info@ukraineinvest.gov.ua",
+      "source": "https://ukraineinvest.gov.ua/"
+    },
+    {
+      "type": "email",
+      "label": "Verkhovna Rada of Ukraine — public information enquiries",
+      "value": "infzapyt@rada.gov.ua",
+      "source": "https://www.rada.gov.ua/en"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Ukraine to the UN (New York)",
+      "value": "+1 212 759 70 03",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Ukraine to the UN (New York) — fax",
+      "value": "+1 212 355 94 55",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Ukraine to the UN (New York)",
+      "value": "220 East 51st Street, New York, NY 10022, USA",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Ukraine to the United Nations",
+      "url": "https://ukraineun.org/en/",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of Ukraine",
+      "url": "https://mfa.gov.ua/en",
+      "source": "https://ukraineun.org/en/ (outbound link to mfa.gov.ua)"
+    },
+    {
+      "type": "website",
+      "label": "UkraineInvest — investment promotion agency",
+      "url": "https://ukraineinvest.gov.ua/",
+      "source": "https://ukraineinvest.gov.ua/"
+    },
+    {
+      "type": "website",
+      "label": "Verkhovna Rada (Parliament) of Ukraine",
+      "url": "https://www.rada.gov.ua/en",
+      "source": "https://www.rada.gov.ua/en"
+    },
+    {
+      "type": "website",
+      "label": "Official website of Ukraine (Ukraine.ua)",
+      "url": "https://ukraine.ua/",
+      "source": "https://ukraineun.org/en/contact-us/ (linked as \"Official web-site of Ukraine\")"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of Ukraine to the UN",
+      "url": "https://www.facebook.com/UKRinUN",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "Permanent Mission of Ukraine to the UN",
+      "url": "https://twitter.com/UKRinUN",
+      "source": "https://ukraineun.org/en/contact-us/"
+    },
+    {
+      "type": "facebook",
+      "label": "UkraineInvest",
+      "url": "https://www.facebook.com/UkraineInvest/",
+      "source": "https://ukraineinvest.gov.ua/"
+    },
+    {
+      "type": "twitter",
+      "label": "UkraineInvest",
+      "url": "https://twitter.com/UAInvestTeam",
+      "source": "https://ukraineinvest.gov.ua/"
+    },
+    {
+      "type": "other",
+      "label": "Verkhovna Rada electronic public-information enquiry form",
+      "url": "https://www.rada.gov.ua/en",
+      "source": "https://www.rada.gov.ua/en"
+    },
     {
       "type": "website",
       "label": "Ministry of Foreign Affairs",
@@ -32,5 +132,7 @@
       "url": "https://www.kmu.gov.ua/en",
       "source": "Known official government domain - unable to verify current content due to access restrictions"
     }
-  ]
+  ],
+  "country_name": "Ukraine",
+  "iso": "UKR"
 }

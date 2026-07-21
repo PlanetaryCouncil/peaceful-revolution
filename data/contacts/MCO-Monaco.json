@@ -3,6 +3,174 @@
   "country_name": "Monaco",
   "contacts": [
     {
+      "type": "email",
+      "label": "Embassy of the Principality of Monaco, Washington D.C. (general contact)",
+      "value": "contact@monacodc.org",
+      "source": "https://monacodc.org/contactus.html"
+    },
+    {
+      "type": "email",
+      "label": "Consulate General of Monaco in New York (co-located with the Permanent Mission to the UN)",
+      "value": "info@monaco-consulate.com",
+      "source": "https://monaco-consulate.com/permanent-mission-to-the-un/"
+    },
+    {
+      "type": "website",
+      "label": "Monaco Government Official Portal",
+      "url": "https://www.gouv.mc/en/",
+      "source": "https://www.gouv.mc/en/"
+    },
+    {
+      "type": "website",
+      "label": "Portail du Gouvernement - Government & Institutions (English)",
+      "url": "https://en.gouv.mc/",
+      "source": "https://en.gouv.mc/Government-Institutions/The-Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Cooperation",
+      "url": "https://en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Foreign-Affairs-and-Cooperation",
+      "source": "https://en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Foreign-Affairs-and-Cooperation"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Monaco to the United Nations, New York",
+      "url": "https://mission-onu-ny.gouv.mc/en",
+      "source": "https://mission-onu-ny.gouv.mc/en/the-permanent-mission"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Monaco to the United Kingdom",
+      "url": "https://embassy-to-uk.gouv.mc/en",
+      "source": "https://embassy-to-uk.gouv.mc/en/contact"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Principality of Monaco to the USA and Canada",
+      "url": "https://monacodc.org/",
+      "source": "https://monacodc.org/"
+    },
+    {
+      "type": "website",
+      "label": "Mon Service Public - government departments directory",
+      "url": "https://monservicepublic.gouv.mc/en",
+      "source": "https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-foreign-affairs-and-cooperation"
+    },
+    {
+      "type": "twitter",
+      "label": "Gouvernement Monaco (official government account)",
+      "url": "https://twitter.com/gvtmonaco",
+      "source": "https://twitter.com/gvtmonaco"
+    },
+    {
+      "type": "twitter",
+      "label": "Embassy of Monaco in Washington D.C.",
+      "url": "https://twitter.com/MonacoEmbassyDC",
+      "source": "https://monacodc.org/contactus.html"
+    },
+    {
+      "type": "facebook",
+      "label": "Gouvernement Monaco (official government page)",
+      "url": "https://www.facebook.com/GvtMonaco/",
+      "source": "https://www.facebook.com/GvtMonaco/"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy of the Principality of Monaco in Washington D.C.",
+      "url": "https://www.facebook.com/EmbassyofMonacoDC/",
+      "source": "https://monacodc.org/contactus.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Cooperation",
+      "value": "+377 98 98 89 04",
+      "source": "https://en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Foreign-Affairs-and-Cooperation"
+    },
+    {
+      "type": "phone",
+      "label": "Government Communication Department (press desk)",
+      "value": "+377 98 98 22 22",
+      "source": "https://monservicepublic.gouv.mc/en/directory-of-government-services/the-ministry-of-state/general-secretariat-of-the-government/government-communication-department"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Diplomatic and Consular Relations",
+      "value": "+377 98 98 19 63",
+      "source": "https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-foreign-affairs-and-cooperation/department-of-diplomatic-and-consular-relations"
+    },
+    {
+      "type": "phone",
+      "label": "Department of International Cooperation",
+      "value": "+377 98 98 44 88",
+      "source": "https://monservicepublic.gouv.mc/en/directory-of-government-services/ministry-of-foreign-affairs-and-cooperation/department-of-international-cooperation"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Monaco, Washington D.C.",
+      "value": "+1 202 234 1530",
+      "source": "https://monacodc.org/contactus.html"
+    },
+    {
+      "type": "phone",
+      "label": "Consulate General of Monaco / Permanent Mission, New York",
+      "value": "+1 212 286 0500",
+      "source": "https://monaco-consulate.com/permanent-mission-to-the-un/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Cooperation / Ministere d'Etat",
+      "value": "Ministere d'Etat, Place de la Visitation, MC 98000 Monaco",
+      "source": "https://en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Foreign-Affairs-and-Cooperation"
+    },
+    {
+      "type": "address",
+      "label": "Department of Diplomatic and Consular Relations",
+      "value": "9 rue Marie de Lorraine, 2eme etage, BP 522, MC 98015 Monaco Cedex",
+      "source": "https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-foreign-affairs-and-cooperation/department-of-diplomatic-and-consular-relations"
+    },
+    {
+      "type": "address",
+      "label": "Government Communication Department",
+      "value": "10 Quai Antoine 1er, MC 98000 Monaco",
+      "source": "https://en.gouv.mc/Government-Institutions/The-Government/The-Ministry-of-State/General-Secretariat-of-the-Government/Government-Communication-Department"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Monaco, Washington D.C.",
+      "value": "888 17th Street NW, Suite 500, Washington, DC 20006, USA",
+      "source": "https://monacodc.org/contactus.html"
+    },
+    {
+      "type": "address",
+      "label": "Consulate General of Monaco, New York",
+      "value": "565 Fifth Avenue, 23rd Floor, New York, NY 10017, USA",
+      "source": "https://monaco-consulate.com/permanent-mission-to-the-un/"
+    },
+    {
+      "type": "other",
+      "label": "Government of Monaco central contact portal (contact forms for all departments)",
+      "url": "https://contacts.gouv.mc/en",
+      "source": "https://monservicepublic.gouv.mc/en/directory-of-government-departments/ministry-of-foreign-affairs-and-cooperation/department-of-diplomatic-and-consular-relations"
+    },
+    {
+      "type": "other",
+      "label": "Contact form - Permanent Mission of Monaco to the UN, New York",
+      "url": "https://mission-onu-ny.gouv.mc/en/contact",
+      "source": "https://mission-onu-ny.gouv.mc/en/contact"
+    },
+    {
+      "type": "other",
+      "label": "Contact form - Embassy of Monaco to the United Kingdom",
+      "url": "https://embassy-to-uk.gouv.mc/en/contact",
+      "source": "https://embassy-to-uk.gouv.mc/en/contact"
+    },
+    {
+      "type": "other",
+      "label": "Government of Monaco general contact page",
+      "url": "https://en.gouv.mc/Contact-us",
+      "source": "https://en.gouv.mc/Contact-us"
+    },
+    {
       "type": "website",
       "label": "Official Government Portal",
       "url": "https://www.gouv.mc",
@@ -34,21 +202,9 @@
     },
     {
       "type": "facebook",
-      "label": "Government Official Account",
-      "url": "https://www.facebook.com/GvtMonaco",
-      "source": "https://www.gouv.mc/contact"
-    },
-    {
-      "type": "facebook",
       "label": "Prince's Palace Official Account",
       "url": "https://fr-fr.facebook.com/palaismonaco",
       "source": "https://www.palais.mc"
-    },
-    {
-      "type": "twitter",
-      "label": "Government Official X/Twitter Account",
-      "url": "https://twitter.com/GvtMonaco",
-      "source": "https://www.gouv.mc/contact"
     },
     {
       "type": "instagram",

@@ -28,12 +28,6 @@
     },
     {
       "type": "phone",
-      "label": "Government Centralized Feedback Service (171 Tawasul)",
-      "value": "171",
-      "source": "Official 171.ae portal"
-    },
-    {
-      "type": "phone",
       "label": "Government Centralized Feedback - WhatsApp",
       "value": "+971 4 777 1777",
       "source": "Official 171.ae portal"

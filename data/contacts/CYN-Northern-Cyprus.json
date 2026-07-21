@@ -1,5 +1,240 @@
 {
   "iso": "CYN",
   "country_name": "Northern Cyprus",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs — general enquiries",
+      "value": "info@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President (Cumhurbaşkanlığı)",
+      "value": "info@cb.gov.ct.tr",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "email",
+      "label": "Public Information Office (Enformasyon Dairesi) — press desk",
+      "value": "pio@mfa.gov.ct.tr",
+      "source": "https://pio.mfa.gov.ct.tr/en/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "YAGA — Cyprus Turkish Investment Development Agency",
+      "value": "info@yaga.gov.ct.tr",
+      "source": "https://investnorthcyprus.gov.ct.tr/"
+    },
+    {
+      "type": "email",
+      "label": "State Planning Organization (Prime Ministry)",
+      "value": "info.dpo@gov.ct.tr",
+      "source": "https://dpo.gov.ct.tr/contact-en.html"
+    },
+    {
+      "type": "email",
+      "label": "Representative Office in New York (UN Plaza)",
+      "value": "newyork@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "email",
+      "label": "Representative Office in Washington, D.C.",
+      "value": "washington@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "email",
+      "label": "Representative Office in London",
+      "value": "london@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "email",
+      "label": "Representative Office in Brussels",
+      "value": "brussels@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "email",
+      "label": "Representative Office in Geneva",
+      "value": "geneva@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "email",
+      "label": "Representative Office in Berlin",
+      "value": "berlin@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "email",
+      "label": "Representative Office in Strasbourg",
+      "value": "strasbourg@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "email",
+      "label": "Embassy in Ankara, Türkiye",
+      "value": "ankara@mfa.gov.ct.tr",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.ct.tr/",
+      "source": "https://mfa.gov.ct.tr/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President (Cumhurbaşkanlığı)",
+      "url": "https://cb.gov.ct.tr/",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "website",
+      "label": "Public Information Office",
+      "url": "https://pio.mfa.gov.ct.tr/en/",
+      "source": "https://pio.mfa.gov.ct.tr/en/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "YAGA — Invest North Cyprus",
+      "url": "https://investnorthcyprus.gov.ct.tr/",
+      "source": "https://investnorthcyprus.gov.ct.tr/"
+    },
+    {
+      "type": "website",
+      "label": "State Planning Organization",
+      "url": "https://dpo.gov.ct.tr/",
+      "source": "https://dpo.gov.ct.tr/contact-en.html"
+    },
+    {
+      "type": "website",
+      "label": "Directory of missions abroad",
+      "url": "https://mfa.gov.ct.tr/foreign-missions",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (official, linked from ministry site)",
+      "url": "https://x.com/mfatrnc",
+      "source": "https://mfa.gov.ct.tr/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President (official, linked from presidency site)",
+      "url": "https://x.com/kktccb",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President (official, linked from presidency site)",
+      "url": "https://www.facebook.com/kktccb",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "other",
+      "label": "Office of the President — YouTube (linked from presidency site)",
+      "url": "https://www.youtube.com/c/kktccumhurbaskanligi",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "other",
+      "label": "Office of the President — Instagram (linked from presidency site)",
+      "url": "https://www.instagram.com/kktccb",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs switchboard",
+      "value": "+90 392 601 1800",
+      "source": "https://mfa.gov.ct.tr/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+90 392 612 7000",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "phone",
+      "label": "Public Information Office",
+      "value": "+90 392 601 1870",
+      "source": "https://pio.mfa.gov.ct.tr/en/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "YAGA investment agency",
+      "value": "+90 392 228 2317",
+      "source": "https://investnorthcyprus.gov.ct.tr/"
+    },
+    {
+      "type": "phone",
+      "label": "Representative Office in New York",
+      "value": "+1 212 687 2350",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "phone",
+      "label": "Representative Office in Washington, D.C.",
+      "value": "+1 202 887 6198",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "phone",
+      "label": "Representative Office in London",
+      "value": "+44 207 631 1920",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "phone",
+      "label": "Representative Office in Brussels",
+      "value": "+32 2 648 4756",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Selçuklu Caddesi, Lefkoşa 99010, Turkish Republic of Northern Cyprus (via Mersin 10, Türkiye)",
+      "source": "https://mfa.gov.ct.tr/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "Cumhurbaşkanlığı Binası, Metehan, Lefkoşa, Northern Cyprus",
+      "source": "https://cb.gov.ct.tr/"
+    },
+    {
+      "type": "address",
+      "label": "Representative Office in New York (UN)",
+      "value": "821 United Nations Plaza, Floor 13, New York, NY 10017, USA",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "address",
+      "label": "Representative Office in Washington, D.C.",
+      "value": "1667 K Street NW, Suite 690, Washington, D.C. 20006, USA",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "address",
+      "label": "Representative Office in London",
+      "value": "29 Bedford Square, London WC1B 3ED, United Kingdom",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "address",
+      "label": "Representative Office in Brussels",
+      "value": "Avenue Louise 207, BTE 8 B, 1050 Brussels, Belgium",
+      "source": "https://mfa.gov.ct.tr/foreign-missions"
+    },
+    {
+      "type": "address",
+      "label": "YAGA investment agency",
+      "value": "Tabak Derviş Efendi Street No. 5, Köşklüçiftlik, Lefkoşa, Northern Cyprus (via Mersin 10, Türkiye)",
+      "source": "https://investnorthcyprus.gov.ct.tr/"
+    }
+  ]
 }

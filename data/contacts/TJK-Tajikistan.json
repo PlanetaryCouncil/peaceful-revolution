@@ -1,5 +1,204 @@
 {
   "iso": "TJK",
   "country_name": "Tajikistan",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs of Tajikistan (general)",
+      "value": "info@mfa.tj",
+      "source": "https://mfa.tj/en/main/vazorat/tamos"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Tajikistan to the UN, New York",
+      "value": "tajikistanun@mfa.tj",
+      "source": "https://mfa.tj/en/newyork/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Tajikistan in Washington, DC",
+      "value": "tajemus@mfa.tj",
+      "source": "https://mfa.tj/en/washington/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Tajikistan in Washington, DC (alternate)",
+      "value": "tajikistan@verizon.net",
+      "source": "https://mfa.tj/en/washington/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Tajikistan in Washington, DC — consular section",
+      "value": "tjusconsulate@mfa.tj",
+      "source": "https://mfa.tj/en/washington/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Tajikistan in Brussels (Mission to the EU)",
+      "value": "tajembbrussels@mfa.tj",
+      "source": "https://mfa.tj/en/brussels/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Tajikistan in London",
+      "value": "tajemblondon@mfa.tj",
+      "source": "https://mfa.tj/en/london"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Tajikistan in London (general)",
+      "value": "info@tajembassy.uk",
+      "source": "https://mfa.tj/en/london"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Tajikistan in London — consular section",
+      "value": "consular@tajembassy.uk",
+      "source": "https://mfa.tj/en/london"
+    },
+    {
+      "type": "email",
+      "label": "State Committee on Investment and State Property Management",
+      "value": "info@investcom.tj",
+      "source": "http://investcom.tj/langeng.html"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of Tajikistan",
+      "url": "https://mfa.tj/en",
+      "source": "https://mfa.tj/en"
+    },
+    {
+      "type": "website",
+      "label": "President of the Republic of Tajikistan",
+      "url": "http://president.tj",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "Majlisi Namoyandagon (Parliament)",
+      "url": "http://parlament.tj/",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "Majlisi Milli (Upper chamber)",
+      "url": "http://mmk.tj/",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "State Committee on Investment and State Property Management",
+      "url": "http://investcom.tj/langeng.html",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "Tajinvest — investment promotion",
+      "url": "http://tajinvest.tj/en/",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "Khovar — National Information Agency of Tajikistan",
+      "url": "http://khovar.tj",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "Jumhuriyat — official government newspaper",
+      "url": "http://jumhuriyat.tj",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "State Committee on Land Management and Geodesy",
+      "url": "http://gki.tj",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "website",
+      "label": "Dushanbe city administration",
+      "url": "http://dushanbe.tj",
+      "source": "https://mfa.tj/en (official links)"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of Tajikistan",
+      "url": "https://www.facebook.com/mfa.tj",
+      "source": "https://mfa.tj/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs of Tajikistan",
+      "url": "https://twitter.com/MID_Tajikistan",
+      "source": "https://mfa.tj/en"
+    },
+    {
+      "type": "other",
+      "label": "Instagram — Ministry of Foreign Affairs of Tajikistan",
+      "url": "http://instagram.com/mfa_tjk",
+      "source": "https://mfa.tj/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — Dushanbe (fax)",
+      "value": "+992 37 221 0259",
+      "source": "https://mfa.tj/en/main/vazorat/tamos"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Tajikistan in Washington, DC",
+      "value": "+1 202 223 6090",
+      "source": "https://mfa.tj/en/washington/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Tajikistan in Washington, DC — consular",
+      "value": "+1 202 223 2666",
+      "source": "https://mfa.tj/en/washington/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Tajikistan in Brussels",
+      "value": "+32 2 640 69 33",
+      "source": "https://mfa.tj/en/brussels/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Tajikistan to the UN, New York (fax)",
+      "value": "+1 212 207 3855",
+      "source": "https://mfa.tj/en/newyork/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs of Tajikistan",
+      "value": "33 Sheroz str., Dushanbe 734001, Republic of Tajikistan",
+      "source": "https://mfa.tj/en/main/vazorat/tamos"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Tajikistan to the UN",
+      "value": "228 East 45th Street, 17th Floor, New York, NY 10017, USA",
+      "source": "https://mfa.tj/en/newyork/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Tajikistan in Washington, DC",
+      "value": "1005 New Hampshire Avenue NW, Washington, DC 20037, USA",
+      "source": "https://mfa.tj/en/washington/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Tajikistan in Brussels",
+      "value": "Boulevard General Jacques 16, 1050 Ixelles, Brussels, Belgium",
+      "source": "https://mfa.tj/en/brussels/contacts"
+    },
+    {
+      "type": "other",
+      "label": "MFA citizens' appeals / contact-us form",
+      "url": "https://mfa.tj/en/main/contacts",
+      "source": "https://mfa.tj/en"
+    }
+  ]
 }

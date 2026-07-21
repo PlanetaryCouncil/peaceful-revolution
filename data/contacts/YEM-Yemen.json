@@ -1,5 +1,168 @@
 {
   "iso": "YEM",
   "country_name": "Yemen",
-  "contacts": []
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, Washington DC — General Information",
+      "value": "information@yemenembassy.org",
+      "source": "https://www.yemenembassy.org/contact-us/ (Cloudflare-obfuscated mailto decoded from page source)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, Washington DC — Consular Affairs",
+      "value": "consul@yemenembassy.org",
+      "source": "https://www.yemenembassy.org/contact-us/ (Cloudflare-obfuscated mailto decoded from page source)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, Washington DC — Cultural heritage / stolen antiquities desk",
+      "value": "Adonis@yemenembassy.org",
+      "source": "https://www.yemenembassy.org/contact-us/ (Cloudflare-obfuscated mailto decoded from page source)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, London — Embassy administration",
+      "value": "admin@yemenembassy.co.uk",
+      "source": "https://www.yemenembassy.co.uk (footer contact block)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, London — Consular Section",
+      "value": "consularsection@yemenembassy.co.uk",
+      "source": "https://www.yemenembassy.co.uk (footer contact block)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, London — Ambassador's Office",
+      "value": "ambassadoroffice@yemenembassy.co.uk",
+      "source": "https://www.yemenembassy.co.uk (footer contact block)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, Berlin — Embassy (Botschaft)",
+      "value": "info@botschaft-jemen.de",
+      "source": "https://www.yemenembassy.de (Kontakt block: 'إيميل السفارة / Botschaft')"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Yemen, Berlin — Consular Section (Konsulat)",
+      "value": "konsulat@botschaft-jemen.de",
+      "source": "https://www.yemenembassy.de (Kontakt block: 'إيميل القسم القنصلي / Konsulat')"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Expatriates, Republic of Yemen — official site",
+      "url": "https://mofa-ye.org",
+      "source": "https://mofa-ye.org (site title: وزارة الخارجية وشؤون المغتربين – الجمهورية اليمنية – الموقع الرسمي)"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Republic of Yemen, Washington DC",
+      "url": "https://www.yemenembassy.org",
+      "source": "https://www.yemenembassy.org"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Republic of Yemen, London",
+      "url": "https://www.yemenembassy.co.uk",
+      "source": "https://www.yemenembassy.co.uk"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Republic of Yemen, Berlin",
+      "url": "https://www.yemenembassy.de",
+      "source": "https://www.yemenembassy.de"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of the Republic of Yemen to the United Nations, New York",
+      "url": "https://www.un.int/yemen/",
+      "source": "https://www.un.int/yemen/ (UN permanent missions directory; page lists PR Abdullah Ali Fadhel Al-Saadi, no contact details published)"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of Yemen (official)",
+      "url": "https://www.facebook.com/YemMOFA",
+      "source": "https://mofa-ye.org (social links in site header/footer)"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy of Yemen, Washington DC",
+      "url": "https://www.facebook.com/Yemenembassy.DC",
+      "source": "https://www.yemenembassy.org/contact-us/"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy of Yemen, London",
+      "url": "https://www.facebook.com/yemenembassylondon",
+      "source": "https://www.yemenembassy.co.uk"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs of Yemen (official)",
+      "url": "https://twitter.com/yemen_mofa",
+      "source": "https://mofa-ye.org (social links in site header/footer)"
+    },
+    {
+      "type": "twitter",
+      "label": "Embassy of Yemen, Washington DC",
+      "url": "https://twitter.com/Yemenembassy_DC",
+      "source": "https://www.yemenembassy.org/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "Embassy of Yemen, London",
+      "url": "https://x.com/YemenEmbassyuk",
+      "source": "https://www.yemenembassy.co.uk"
+    },
+    {
+      "type": "twitter",
+      "label": "Embassy of Yemen, Berlin",
+      "url": "https://twitter.com/EmbassyYemen",
+      "source": "https://www.yemenembassy.de"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Yemen, Washington DC — main switchboard",
+      "value": "+1 202 965 4760",
+      "source": "https://www.yemenembassy.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Yemen, Washington DC — emergency line",
+      "value": "+1 202 717 1066",
+      "source": "https://www.yemenembassy.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Yemen, Washington DC — fax",
+      "value": "+1 202 337 2017",
+      "source": "https://www.yemenembassy.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Yemen, Berlin — telephone",
+      "value": "+49 30 8973050",
+      "source": "https://www.yemenembassy.de (Telefonnummer: 0308973050)"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Yemen, Berlin — fax",
+      "value": "+49 30 89730562",
+      "source": "https://www.yemenembassy.de (Fax: 03089730562)"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Republic of Yemen, Washington DC",
+      "value": "2319 Wyoming Ave NW, Washington, DC 20008, USA",
+      "source": "https://www.yemenembassy.org/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Republic of Yemen, Berlin",
+      "value": "Schmidt-Ott-Straße 7, 12165 Berlin, Germany",
+      "source": "https://www.yemenembassy.de (Adresse)"
+    }
+  ]
 }

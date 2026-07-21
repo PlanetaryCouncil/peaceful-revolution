@@ -67,6 +67,42 @@
       "label": "Permanent Mission to United Nations",
       "value": "335 East 46th Street, New York, N.Y. 10017, United States",
       "source": "https://embassies.info/PermanentMissionofVenezuelatoUNinNewYork"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (MPPRE)",
+      "url": "https://mppre.gob.ve",
+      "source": "Official government website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs Headquarters",
+      "value": "Avenida Urdaneta, esquina de Carmelitas, Caracas 1012, Venezuela",
+      "source": "mppre.gob.ve official website"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Official Account",
+      "url": "https://twitter.com/CancilleriaVE",
+      "source": "mppre.gob.ve official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://facebook.com/CancilleriaVE",
+      "source": "mppre.gob.ve official website"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://instagram.com/CancilleriaVE",
+      "source": "mppre.gob.ve official website"
+    },
+    {
+      "type": "telegram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://t.me/CancilleriaVE",
+      "source": "mppre.gob.ve official website"
     }
   ]
 }

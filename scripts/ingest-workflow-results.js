@@ -55,24 +55,46 @@ for (const journal of journals) {
       .readdirSync(DIR)
       .filter((f) => f.startsWith(`${r.iso}-`) && f.endsWith(".json") && f !== basename);
 
-    // Don't let a thinner re-run clobber a richer existing record.
-    const existing = [basename, ...stale]
-      .map((f) => path.join(DIR, f))
-      .filter((p) => fs.existsSync(p));
-    let richest = 0;
-    for (const p of existing) {
+    // Union rather than pick-a-winner. Passes find different things — an early
+    // pass may have websites and socials while a later email-focused pass finds
+    // the addresses that actually matter. Choosing by contact count discards
+    // real data (it once kept a 14-entry US record with no email over a
+    // 13-entry one with three).
+    const merged = [];
+    const seen = new Set();
+    // Agents that exhaust their search budget report it as a pseudo-contact
+    // rather than fabricating (good), but it is not a contact and would render
+    // as a bogus "error" section in the panel.
+    const NON_CONTACT = new Set(["error", "status", "research_status"]);
+
+    const add = (c) => {
+      if (!c || !c.type) return;
+      if (NON_CONTACT.has(String(c.type).toLowerCase())) return;
+      const val = (c.value || c.url || "").trim();
+      if (!val) return;
+      const key = `${c.type}|${val.toLowerCase().replace(/\/+$/, "")}`;
+      if (seen.has(key)) return;
+      seen.add(key);
+      merged.push(c);
+    };
+
+    for (const f of [basename, ...stale]) {
+      const p = path.join(DIR, f);
+      if (!fs.existsSync(p)) continue;
       try {
         const prev = JSON.parse(fs.readFileSync(p, "utf8"));
-        if (Array.isArray(prev.contacts)) richest = Math.max(richest, prev.contacts.length);
-      } catch { /* unreadable — treat as empty */ }
+        if (Array.isArray(prev.contacts)) prev.contacts.forEach(add);
+      } catch { /* unreadable — ignore, the new record still lands */ }
     }
-    if (richest > r.contacts.length) { skipped++; continue; }
+    const before = merged.length;
+    r.contacts.forEach(add);
+    if (before && merged.length === before) skipped++;
 
     stale.forEach((f) => fs.unlinkSync(path.join(DIR, f)));
-    fs.writeFileSync(file, JSON.stringify(r, null, 2));
+    fs.writeFileSync(file, JSON.stringify({ ...r, contacts: merged }, null, 2));
     written++;
   }
 }
 
-console.log(`ingested: ${written} written, ${skipped} kept (existing richer), ${malformed} malformed`);
+console.log(`ingested: ${written} written, ${skipped} added nothing new, ${malformed} malformed`);
 console.log(`next: node scripts/build-contacts-index.js`);

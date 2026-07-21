@@ -151,6 +151,48 @@
       "label": "Bangladesh Investment Development Authority (BIDA)",
       "value": "E-6/B Agargaon, Sher-e-Bangla Nagar, Dhaka-1207, Bangladesh",
       "source": "https://bida.gov.bd/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Bangladesh National Information Portal",
+      "url": "https://www.bangladesh.gov.bd",
+      "source": "Verified via WebFetch - official government services hub"
+    },
+    {
+      "type": "website",
+      "label": "Cabinet Division",
+      "url": "https://cabinet.gov.bd",
+      "source": "Referenced on bangladesh.gov.bd - not directly verified due to SSL issues"
+    },
+    {
+      "type": "phone",
+      "label": "Government Information & Services Hotline",
+      "value": "333",
+      "source": "Verified via bangladesh.gov.bd and pmo.gov.bd"
+    },
+    {
+      "type": "phone",
+      "label": "Emergency Services",
+      "value": "999",
+      "source": "Verified via bangladesh.gov.bd and pmo.gov.bd"
+    },
+    {
+      "type": "phone",
+      "label": "Fire Service Hotline",
+      "value": "102",
+      "source": "Verified via bangladesh.gov.bd"
+    },
+    {
+      "type": "phone",
+      "label": "Women & Child Abuse Prevention Helpline",
+      "value": "109",
+      "source": "Verified via bangladesh.gov.bd"
+    },
+    {
+      "type": "phone",
+      "label": "Anti-Corruption Commission Hotline",
+      "value": "106",
+      "source": "Verified via bangladesh.gov.bd"
     }
   ]
 }

@@ -181,6 +181,144 @@
       "label": "Ministry of Rural Development",
       "url": "https://www.tiktok.com/@mrd.gov",
       "source": "mrd.gov.kh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "mfaic@mfaic.gov.kh",
+      "source": "https://www.mfaic.gov.kh/en"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Council of Ministers (Prime Minister)",
+      "value": "ocm@cambodia.gov.kh",
+      "source": "https://www.ccc-cambodia.org/en/ngodb/ngo-information/4002"
+    },
+    {
+      "type": "email",
+      "label": "Business Development & Investment (Cambodian Investment Board)",
+      "value": "helpdesk@cdc.gov.kh",
+      "source": "https://cdc.gov.kh/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Business Development & Investment - Info Desk",
+      "value": "info@cdc.gov.kh",
+      "source": "https://cdc.gov.kh/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Press and Communications (Office of Council of Ministers)",
+      "value": "info@pressocm.gov.kh",
+      "source": "https://pressocm.gov.kh/en/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "+855 23 214 441",
+      "source": "https://www.mfaic.gov.kh/en"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Council of Ministers",
+      "value": "+855 23 724 321",
+      "source": "https://www.ccc-cambodia.org/en/ngodb/ngo-information/4002"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior",
+      "value": "+855 23 721 905",
+      "source": "https://www.interior.gov.kh/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Cambodian Investment Board (CIB)",
+      "value": "+855 99 799 579",
+      "source": "https://cib-cdc.gov.kh/en/welcome-message"
+    },
+    {
+      "type": "phone",
+      "label": "Royal Palace",
+      "value": "+855 23 426 801",
+      "source": "https://www.norodomsihamoni.org/en/about"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.mfaic.gov.kh/en",
+      "source": "https://www.mfaic.gov.kh/en"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Council of Ministers (Press)",
+      "url": "https://pressocm.gov.kh/en/",
+      "source": "https://pressocm.gov.kh/en/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior",
+      "url": "https://www.interior.gov.kh/en",
+      "source": "https://www.interior.gov.kh/en"
+    },
+    {
+      "type": "website",
+      "label": "Cambodian Investment Board (CIB)",
+      "url": "https://cib-cdc.gov.kh/en/welcome-message",
+      "source": "https://cib-cdc.gov.kh/en/welcome-message"
+    },
+    {
+      "type": "website",
+      "label": "Council for the Development of Cambodia (CDC)",
+      "url": "https://cdc.gov.kh/",
+      "source": "https://cdc.gov.kh/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.facebook.com/mfaic.gov.kh/",
+      "source": "https://www.facebook.com/mfaic.gov.kh/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Commerce",
+      "url": "https://x.com/MoCCambodia",
+      "source": "https://x.com/MoCCambodia"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office",
+      "url": "https://x.com/peacepalace_kh",
+      "source": "https://x.com/peacepalace_kh?lang=en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "No. 3, Samdech Hun Sen Street, Sangkat Tonle Bassac, Khan Chamkamom, Phnom Penh, Kingdom of Cambodia",
+      "source": "https://www.mfaic.gov.kh/en"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Council of Ministers",
+      "value": "Friendship Building, 41 Russian Federation Boulevard, Phnom Penh, Cambodia",
+      "source": "https://www.ccc-cambodia.org/en/ngodb/ngo-information/4002"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Interior",
+      "value": "275 Preah Norodom Street, Phnom Penh, Cambodia",
+      "source": "https://www.interior.gov.kh/en/contact"
+    },
+    {
+      "type": "address",
+      "label": "Cambodian Investment Board (CIB)",
+      "value": "Government Palace, Sisowath Quay, Wat Phnom, Phnom Penh, Cambodia",
+      "source": "https://cib-cdc.gov.kh/en/welcome-message"
+    },
+    {
+      "type": "address",
+      "label": "Royal Palace",
+      "value": "Phnom Penh, Cambodia",
+      "source": "https://www.norodomsihamoni.org/en/about"
     }
   ]
 }

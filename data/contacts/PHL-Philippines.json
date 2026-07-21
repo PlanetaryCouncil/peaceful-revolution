@@ -1,0 +1,372 @@
+{
+  "iso": "PHL",
+  "country_name": "Philippines",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Philippine Embassy Washington DC — consular inquiries",
+      "value": "consular@phembassy-us.org",
+      "source": "https://philippineembassy-dc.org/contact-information-for-consular-services/"
+    },
+    {
+      "type": "email",
+      "label": "Philippine Embassy Washington DC — DFA post address",
+      "value": "washington.pe@dfa.gov.ph",
+      "source": "https://dfa.gov.ph/about/dfa-directory/index.php?option=com_content&view=article&id=12136&Itemid=974"
+    },
+    {
+      "type": "email",
+      "label": "Philippine Embassy Washington DC — general information",
+      "value": "info@phembassy-us.org",
+      "source": "https://philippineembassy-dc.org/embassy-directory/"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of the Philippines to the UN, New York",
+      "value": "newyork.pm@nypm.org",
+      "source": "https://www.un.int/philippines/content/permanent-mission-republic-philippines-united-nations"
+    },
+    {
+      "type": "email",
+      "label": "DFA Office of Consular Affairs — general concerns",
+      "value": "oca.concerns@dfa.gov.ph",
+      "source": "https://consular.dfa.gov.ph/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "DFA Office of Consular Affairs — passport concerns",
+      "value": "passportconcerns@dfa.gov.ph",
+      "source": "https://consular.dfa.gov.ph/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "DFA — apostille / authentication concerns",
+      "value": "oca.apostilleconcerns@dfa.gov.ph",
+      "source": "https://www.apostille.gov.ph/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "DFA — visas for foreign missions and international organizations",
+      "value": "oca.visa@dfa.gov.ph",
+      "source": "https://consular.dfa.gov.ph/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President — Presidential Complaint Center",
+      "value": "pcc@malacanang.gov.ph",
+      "source": "https://op-proper.gov.ph/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President — 8888 Citizens' Complaint Center",
+      "value": "8888complaint@op.gov.ph",
+      "source": "https://8888.gov.ph/page/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Communications Office — Office of the Secretary",
+      "value": "osec.pco@gmail.com",
+      "source": "https://pco.gov.ph/about/"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Communications Office — ICT Division",
+      "value": "itdivision@pco.gov.ph",
+      "source": "https://pco.gov.ph/about/"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Communications Office — General Services Division",
+      "value": "generalservices@pco.gov.ph",
+      "source": "https://pco.gov.ph/about/"
+    },
+    {
+      "type": "email",
+      "label": "Department of Trade and Industry — Office of the Secretary",
+      "value": "secretary@dti.gov.ph",
+      "source": "https://boi.gov.ph/boardandmancom/"
+    },
+    {
+      "type": "email",
+      "label": "Board of Investments — one-stop action center (investment promotion)",
+      "value": "bossac@boi.gov.ph",
+      "source": "https://boi.gov.ph/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Board of Investments — Project Evaluation and Registration Dept.",
+      "value": "perd@boi.gov.ph",
+      "source": "https://boi.gov.ph/resources/faqs/"
+    },
+    {
+      "type": "website",
+      "label": "Department of Foreign Affairs (official)",
+      "url": "https://dfa.gov.ph/",
+      "source": "https://dfa.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "GOV.PH — National Government Portal",
+      "url": "https://www.gov.ph/",
+      "source": "https://www.gov.ph/the-govph/"
+    },
+    {
+      "type": "website",
+      "label": "GOV.PH portal (services entry point)",
+      "url": "https://portal.gov.ph/",
+      "source": "https://portal.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of the Philippines",
+      "url": "https://op-proper.gov.ph/",
+      "source": "https://op-proper.gov.ph/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Communications Office",
+      "url": "https://pco.gov.ph/",
+      "source": "https://pco.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "Board of Investments (investment promotion agency)",
+      "url": "https://boi.gov.ph/",
+      "source": "https://boi.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "Department of Trade and Industry",
+      "url": "https://www.dti.gov.ph/",
+      "source": "https://www.dti.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "Philippine Embassy, Washington DC",
+      "url": "https://philippineembassy-dc.org/",
+      "source": "https://philippineembassy-dc.org/embassy-directory/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of the Philippines to the UN, New York",
+      "url": "https://newyorkpm.dfa.gov.ph/",
+      "source": "https://newyorkpm.dfa.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "Philippine Mission to the UN and other international organizations, Geneva",
+      "url": "https://genevapm.dfa.gov.ph/",
+      "source": "https://genevapm.dfa.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "Electronic Freedom of Information (eFOI) portal",
+      "url": "https://www.foi.gov.ph/",
+      "source": "https://www.foi.gov.ph/"
+    },
+    {
+      "type": "website",
+      "label": "Official Gazette of the Republic of the Philippines",
+      "url": "https://www.officialgazette.gov.ph/",
+      "source": "https://www.officialgazette.gov.ph/2013/05/28/dfa-launches-official-facebook-page/"
+    },
+    {
+      "type": "facebook",
+      "label": "Department of Foreign Affairs (official page)",
+      "url": "https://www.facebook.com/dfaphl/",
+      "source": "https://www.officialgazette.gov.ph/2013/05/28/dfa-launches-official-facebook-page/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President of the Philippines",
+      "url": "https://www.facebook.com/officeofthepresidentofthephils/",
+      "source": "https://www.facebook.com/officeofthepresidentofthephils/"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Communications Office",
+      "url": "https://www.facebook.com/pcogovph/",
+      "source": "https://www.facebook.com/pcogovph/"
+    },
+    {
+      "type": "facebook",
+      "label": "DFA Office of Consular Affairs",
+      "url": "https://www.facebook.com/DFAOCAPH/",
+      "source": "https://www.facebook.com/DFAOCAPH/"
+    },
+    {
+      "type": "facebook",
+      "label": "Philippine Embassy in Washington DC",
+      "url": "https://www.facebook.com/PHinUSA/",
+      "source": "https://www.facebook.com/PHinUSA/"
+    },
+    {
+      "type": "facebook",
+      "label": "Philippine Mission to the UN, New York",
+      "url": "https://www.facebook.com/PHMissionNY",
+      "source": "https://www.facebook.com/PHMissionNY"
+    },
+    {
+      "type": "facebook",
+      "label": "Board of Investments",
+      "url": "https://www.facebook.com/boiphilippines/",
+      "source": "https://www.facebook.com/boiphilippines/"
+    },
+    {
+      "type": "facebook",
+      "label": "8888 Citizens' Complaint Center",
+      "url": "https://www.facebook.com/8888OP/",
+      "source": "https://www.facebook.com/8888OP/"
+    },
+    {
+      "type": "twitter",
+      "label": "DFA Philippines (foreign ministry)",
+      "url": "https://x.com/DFAPHL",
+      "source": "https://x.com/DFAPHL"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President (@opgovph)",
+      "url": "https://x.com/opgovph",
+      "source": "https://x.com/opgovph"
+    },
+    {
+      "type": "twitter",
+      "label": "President Ferdinand 'Bongbong' Marcos Jr. (@bongbongmarcos)",
+      "url": "https://x.com/bongbongmarcos",
+      "source": "https://x.com/bongbongmarcos"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Foreign Affairs — main trunkline (Manila)",
+      "value": "+63 2 8834 3000",
+      "source": "https://en.wikipedia.org/wiki/Department_of_Foreign_Affairs_(Philippines)"
+    },
+    {
+      "type": "phone",
+      "label": "Philippine Embassy Washington DC — general trunkline",
+      "value": "+1 202 467 9300",
+      "source": "https://philippineembassy-dc.org/contact-information-for-consular-services/"
+    },
+    {
+      "type": "phone",
+      "label": "Philippine Embassy Washington DC — emergency duty officer hotline",
+      "value": "+1 202 368 2767",
+      "source": "https://philippineembassy-dc.org/contact-information-for-consular-services/"
+    },
+    {
+      "type": "phone",
+      "label": "Philippine Embassy Washington DC — assistance to nationals / VAW desk",
+      "value": "+1 202 769 8049",
+      "source": "https://philippineembassy-dc.org/contact-information-for-consular-services/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the Philippines to the UN, New York",
+      "value": "+1 212 764 1300",
+      "source": "https://www.un.int/philippines/content/permanent-mission-republic-philippines-united-nations"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Complaint Center (Malacañang)",
+      "value": "+63 2 8736 8645",
+      "source": "https://op-proper.gov.ph/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Communications Office — trunkline",
+      "value": "+63 2 8734 7420",
+      "source": "https://pco.gov.ph/about/"
+    },
+    {
+      "type": "phone",
+      "label": "Board of Investments — PERD",
+      "value": "+63 2 895 3997",
+      "source": "https://boi.gov.ph/resources/faqs/"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Trade and Industry — Office of the Secretary",
+      "value": "+63 2 7791 3400",
+      "source": "https://boi.gov.ph/boardandmancom/"
+    },
+    {
+      "type": "address",
+      "label": "Department of Foreign Affairs headquarters",
+      "value": "2330 Roxas Boulevard, Pasay City 1300, Metro Manila, Philippines",
+      "source": "https://www.dbm.gov.ph/wp-content/uploads/DBM%20Publications/Directory2013/DFA.pdf"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President — Malacañang",
+      "value": "Malacañang Complex, J.P. Laurel Street, San Miguel, Manila 1005, Philippines",
+      "source": "https://op-proper.gov.ph/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Communications Office",
+      "value": "7th Floor Times Plaza Building, United Nations Ave., Ermita, Manila, Philippines",
+      "source": "https://pco.gov.ph/about/"
+    },
+    {
+      "type": "address",
+      "label": "Philippine Embassy, Washington DC (chancery)",
+      "value": "1600 Massachusetts Avenue NW, Washington, DC 20036, USA",
+      "source": "https://philippineembassy-dc.org/contact-information-for-consular-services/"
+    },
+    {
+      "type": "address",
+      "label": "Philippine Embassy, Washington DC (consular section / chancery annex)",
+      "value": "1617 Massachusetts Avenue NW, Washington, DC 20036, USA",
+      "source": "https://philippineembassy-dc.org/contact-information-for-consular-services/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Philippines to the UN, New York",
+      "value": "556 5th Avenue, New York, NY 10036, USA",
+      "source": "https://www.un.int/philippines/content/permanent-mission-republic-philippines-united-nations"
+    },
+    {
+      "type": "address",
+      "label": "Board of Investments",
+      "value": "Industry and Investments Building, 385 Sen. Gil J. Puyat Avenue, Makati City, Philippines",
+      "source": "https://boi.gov.ph/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "DFA Office of Consular Affairs contact page",
+      "url": "https://consular.dfa.gov.ph/contact-us/",
+      "source": "https://consular.dfa.gov.ph/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Office of the President contact form / page",
+      "url": "https://op-proper.gov.ph/contact-us/",
+      "source": "https://op-proper.gov.ph/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "8888 Citizens' Complaint Center contact page",
+      "url": "https://8888.gov.ph/page/contact-us",
+      "source": "https://8888.gov.ph/page/contact-us"
+    },
+    {
+      "type": "other",
+      "label": "Board of Investments contact page",
+      "url": "https://boi.gov.ph/contact-us/",
+      "source": "https://boi.gov.ph/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Philippine Embassy DC — full staff/office directory",
+      "url": "https://philippineembassy-dc.org/embassy-directory/",
+      "source": "https://philippineembassy-dc.org/embassy-directory/"
+    },
+    {
+      "type": "other",
+      "label": "DFA worldwide post directory (embassies and consulates)",
+      "url": "https://dfa.gov.ph/about/dfa-directory",
+      "source": "https://dfa.gov.ph/about/dfa-directory"
+    }
+  ]
+}

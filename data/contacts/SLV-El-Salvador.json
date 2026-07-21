@@ -109,6 +109,84 @@
       "label": "U.S. Embassy in El Salvador",
       "url": "https://sv.usembassy.gov/",
       "source": "Official U.S. Embassy portal"
+    },
+    {
+      "type": "email",
+      "label": "President's Office",
+      "value": "contacto@presidencia.gob.sv",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "email",
+      "label": "Invest in El Salvador (Business Development)",
+      "value": "info@investelsalvador.com",
+      "source": "https://investinelsalvador.gob.sv/"
+    },
+    {
+      "type": "email",
+      "label": "Invest in El Salvador - Direct Contact",
+      "value": "karen.portillo@investelsalvador.com",
+      "source": "WebSearch results for investment agency"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+503 2231-1000",
+      "source": "WebSearch and official contact information"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+503 2248-9000",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "phone",
+      "label": "Invest in El Salvador",
+      "value": "+503 7071-7031",
+      "source": "WebSearch for investment agency contact"
+    },
+    {
+      "type": "website",
+      "label": "Invest in El Salvador (Business Development)",
+      "url": "https://investinelsalvador.gob.sv/",
+      "source": "Official investment promotion agency"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Cancillería de El Salvador",
+      "url": "https://www.facebook.com/CancilleriaSV/",
+      "source": "Official government social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Invest in El Salvador",
+      "url": "https://www.facebook.com/lnvestinElSalvador/",
+      "source": "Official investment agency social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - @cancilleriasv",
+      "url": "https://twitter.com/cancilleriasv",
+      "source": "Official government X/Twitter account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "value": "Calle El Pedregal, Blvd. Cancillería, Ciudad Merliot, Antiguo Cuscatlán, La Libertad, El Salvador",
+      "source": "WebSearch and official contact information"
+    },
+    {
+      "type": "address",
+      "label": "President's Office",
+      "value": "Alameda Doctor Manuel Enrique Araujo No. 5500, San Salvador, El Salvador",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "address",
+      "label": "Invest in El Salvador",
+      "value": "Avenida De La Revolución & Alameda Manuel Enrique Araujo, San Salvador, El Salvador",
+      "source": "WebSearch for investment agency contact"
     }
   ]
 }

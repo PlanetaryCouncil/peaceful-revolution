@@ -265,6 +265,96 @@
       "label": "President's Official YouTube",
       "url": "https://www.youtube.com/user/presidentaz",
       "source": "president.az"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Chancellery (Katiblik)",
+      "value": "katiblik@mfa.gov.az",
+      "source": "https://www.mfa.gov.az/en/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Administration",
+      "value": "office@pa.gov.az",
+      "source": "https://president.az/en/pages/view/administration/contacts"
+    },
+    {
+      "type": "email",
+      "label": "Azerbaijan Investment Company (Business Development)",
+      "value": "info@aic.az",
+      "source": "https://www.aic.az/en/page/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+994 12 596 90 00",
+      "source": "https://www.mfa.gov.az/en/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Administration - Citizens' Reception",
+      "value": "+99412 535 36 55",
+      "source": "https://president.az/en/pages/view/administration/contacts"
+    },
+    {
+      "type": "phone",
+      "label": "Azerbaijan Investment Company",
+      "value": "+994 12 488 80 10",
+      "source": "https://www.aic.az/en/page/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Şıxəli Qurbanov 50, Baku, Azerbaijan",
+      "source": "https://www.mfa.gov.az/en/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Palace",
+      "value": "19 Istiqlaliyyat street, Baku, AZ1066, Azerbaijan",
+      "source": "https://president.az/en/pages/view/administration/contacts"
+    },
+    {
+      "type": "address",
+      "label": "Azerbaijan Investment Company",
+      "value": "Baku White City, 25E 8 November avenue, Baku, AZ1025, Azerbaijan",
+      "source": "https://www.aic.az/en/page/contact"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.az/en",
+      "source": "Official MFA website"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Administration",
+      "url": "https://president.az/en",
+      "source": "Official President website"
+    },
+    {
+      "type": "website",
+      "label": "Azerbaijan Investment Company",
+      "url": "https://www.aic.az/en",
+      "source": "Official AIC website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MFAAzerbaijan/",
+      "source": "Official MFA Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Azerbaijan Investment Company",
+      "url": "https://www.facebook.com/AzerbaijanInvestmentCompany/",
+      "source": "Official AIC Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (X/Twitter)",
+      "url": "https://twitter.com/azerbaijanmfa",
+      "source": "Official MFA X/Twitter account"
     }
   ]
 }

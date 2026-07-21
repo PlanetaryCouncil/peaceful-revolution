@@ -3,6 +3,216 @@
   "country_name": "Laos",
   "contacts": [
     {
+      "type": "email",
+      "label": "Permanent Mission of the Lao PDR to the United Nations, New York",
+      "value": "lao.pr.ny@gmail.com",
+      "source": "https://www.un.int/lao/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Lao PDR in Washington, D.C. (general/administrative)",
+      "value": "embasslao@gmail.com",
+      "source": "https://laoembassy.com/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of the Lao PDR to the UN Office at Geneva",
+      "value": "swissgeneva@laomission.ch",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/lao-peoples-democratic-republic"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Lao PDR in Paris (Secretariat)",
+      "value": "ambalaoparis@orange.fr",
+      "source": "https://www.ambalaos-france.com/home/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Lao PDR in Paris (general contact)",
+      "value": "contact@ambalaos-france.com",
+      "source": "https://www.ambalaos-france.com/home/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Lao PDR in Paris (Consular Section)",
+      "value": "consullaosparis@gmail.com",
+      "source": "https://www.ambalaos-france.com/home/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Lao PDR in Brussels (EU accreditation)",
+      "value": "laoembassy.brussels@gmail.com",
+      "source": "https://www.embassypages.com/laos-embassy-brussels-belgium"
+    },
+    {
+      "type": "email",
+      "label": "Lao representative office in Japan (listed by Investment Promotion and Management Committee)",
+      "value": "bounthanomjp@gmail.com",
+      "source": "https://investlaos.gov.la/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Lao representative office in China (listed by Investment Promotion and Management Committee)",
+      "value": "laoemcn@public.east.cn.net",
+      "source": "https://investlaos.gov.la/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of the Lao PDR",
+      "url": "http://www.mofa.gov.la/",
+      "source": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Laos)"
+    },
+    {
+      "type": "website",
+      "label": "Investment Promotion and Management Committee (national investment promotion agency)",
+      "url": "https://investlaos.gov.la/",
+      "source": "https://investlaos.gov.la/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Planning and Investment",
+      "url": "https://mpi.gov.la/en/",
+      "source": "https://mpi.gov.la/en/"
+    },
+    {
+      "type": "website",
+      "label": "Lao Permanent Mission to the United Nations, New York",
+      "url": "https://www.un.int/lao/",
+      "source": "https://www.un.int/lao/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Lao PDR in Washington, D.C.",
+      "url": "https://laoembassy.com/",
+      "source": "https://laoembassy.com/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Lao PDR in France",
+      "url": "https://www.ambalaos-france.com/home/",
+      "source": "https://www.diplomatie.gouv.fr/fr/services/annuaire-et-contacts/representations-etrangeres/paris-ambassade-du-laos"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of the Lao PDR in Geneva",
+      "url": "http://www.laomission.ch",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/lao-peoples-democratic-republic"
+    },
+    {
+      "type": "website",
+      "label": "Bank of the Lao PDR — official Lao government links directory",
+      "url": "https://www.bol.gov.la/en/goverment_link",
+      "source": "https://www.bol.gov.la/en/goverment_link"
+    },
+    {
+      "type": "twitter",
+      "label": "Lao Permanent Mission to the UN (New York)",
+      "url": "https://twitter.com/LaosAtUN",
+      "source": "https://www.un.int/lao/"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of the Lao PDR to the UN",
+      "url": "https://www.facebook.com/Permanent.Mission.of.the.Lao.PDR.to.the.UN/",
+      "source": "https://www.un.int/lao/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of Lao PDR",
+      "url": "https://www.facebook.com/MOFALPDR",
+      "source": "https://www.facebook.com/MOFALPDR"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the Lao PDR to the UN, New York",
+      "value": "+1 646 678 3609",
+      "source": "https://www.un.int/lao/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Lao PDR in Washington, D.C. (secretary/administrative, mobile & WhatsApp)",
+      "value": "+1 202 209 3450",
+      "source": "https://laoembassy.com/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Lao PDR in Washington, D.C. (consular)",
+      "value": "+1 202 285 5395",
+      "source": "https://laoembassy.com/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of the Lao PDR in Geneva",
+      "value": "+41 22 798 24 41",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/lao-peoples-democratic-republic"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Lao PDR in Paris",
+      "value": "+33 1 45 53 02 98",
+      "source": "https://www.diplomatie.gouv.fr/fr/services/annuaire-et-contacts/representations-etrangeres/paris-ambassade-du-laos"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Lao PDR in Brussels",
+      "value": "+32 2 740 09 50",
+      "source": "https://www.embassypages.com/laos-embassy-brussels-belgium"
+    },
+    {
+      "type": "phone",
+      "label": "Investment Promotion and Management Committee head office, Vientiane",
+      "value": "+856 21 419337",
+      "source": "https://investlaos.gov.la/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Lao PDR to the UN, New York",
+      "value": "317 East 51st Street (between 1st & 2nd Aves), New York, NY 10022, USA",
+      "source": "https://www.un.int/lao/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Lao PDR in Washington, D.C.",
+      "value": "2222 S Street NW, Washington, DC 20008, USA",
+      "source": "https://laoembassy.com/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of the Lao PDR in Geneva",
+      "value": "Route de Colovrex 14bis, 1218 Grand-Saconnex, Switzerland",
+      "source": "https://www.ungeneva.org/en/blue-book/missions/member-states/lao-peoples-democratic-republic"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Lao PDR in Paris",
+      "value": "74 Avenue Raymond Poincare, 75116 Paris, France",
+      "source": "https://www.ambalaos-france.com/home/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Lao PDR in Brussels",
+      "value": "Avenue de la Brabanconne 19-21, 1000 Brussels, Belgium",
+      "source": "https://www.embassypages.com/laos-embassy-brussels-belgium"
+    },
+    {
+      "type": "address",
+      "label": "Investment Promotion and Management Committee, Vientiane",
+      "value": "Phonthan Village, Saysettha District, Vientiane Capital, Lao PDR",
+      "source": "https://investlaos.gov.la/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs contact page (contact form / details)",
+      "url": "http://www.mofa.gov.la/index.php/contact",
+      "source": "http://www.mofa.gov.la/index.php/contact"
+    },
+    {
+      "type": "other",
+      "label": "Investment Promotion and Management Committee contact directory (provincial and overseas representative offices)",
+      "url": "https://investlaos.gov.la/contact-us/",
+      "source": "https://investlaos.gov.la/contact-us/"
+    },
+    {
       "type": "other",
       "label": "Country Code",
       "value": "+856",

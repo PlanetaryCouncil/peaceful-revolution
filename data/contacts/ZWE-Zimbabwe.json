@@ -271,6 +271,114 @@
       "label": "President Emmerson Mnangagwa",
       "url": "https://www.instagram.com/presidentmnangagwa/",
       "source": "https://www.instagram.com/presidentmnangagwa/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "value": "+263-242-794681-6",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "value": "+263-242-793372-5",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "value": "P.O. Box 4240, Munhumutapa Building, Samora Machel Avenue/Sam Nujoma Street, Harare, Zimbabwe",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President and Cabinet",
+      "value": "+263 242 2707091/7",
+      "source": "https://www.theopc.gov.zw/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President and Cabinet",
+      "value": "Munhumutapa Building, Corner Sam Nujoma/Samora Machel Avenue, Harare, Zimbabwe",
+      "source": "https://www.theopc.gov.zw/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Industry and Commerce",
+      "value": "info@mic.gov.zw",
+      "source": "https://www.mic.gov.zw/?page_id=24"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Industry and Commerce",
+      "value": "+263 242-791823, 702737, 702733, 700472",
+      "source": "https://www.mic.gov.zw/?page_id=24"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Industry and Commerce",
+      "value": "13th Floor, Mukwati Building, Corner 5th Street & Livingstone Avenue, Harare, Zimbabwe",
+      "source": "https://www.mic.gov.zw/?page_id=24"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Industry and Commerce",
+      "url": "https://www.mic.gov.zw/",
+      "source": "https://www.mic.gov.zw/"
+    },
+    {
+      "type": "email",
+      "label": "Zimbabwe Investment Development Agency (ZIDA)",
+      "value": "info@zidainvest.com",
+      "source": "https://zidainvest.com/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Zimbabwe Investment Development Agency (ZIDA) - Harare",
+      "value": "+263 242 780142-3",
+      "source": "https://zidainvest.com/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Zimbabwe Investment Development Agency (ZIDA) - General",
+      "value": "+263 868 800 2639-42",
+      "source": "https://zidainvest.com/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Zimbabwe Investment Development Agency (ZIDA) - Harare",
+      "value": "Cnr Jason Moyo & Sam Nujoma Street, ZB Life Towers, 1st Floor, Harare, Zimbabwe",
+      "source": "https://zidainvest.com/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Zimbabwe Investment Development Agency (ZIDA)",
+      "url": "https://zidainvest.com/",
+      "source": "https://zidainvest.com/"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Zimbabwe",
+      "url": "https://x.com/zimbabwe_of",
+      "source": "https://x.com/zimbabwe_of"
+    },
+    {
+      "type": "twitter",
+      "label": "Zimbabwe Investment Development Agency (ZIDA)",
+      "url": "https://x.com/zidainvest",
+      "source": "https://x.com/zidainvest"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and International Trade Zimbabwe",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-and-International-Trade-Zimbabwe-100083899645651/",
+      "source": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-and-International-Trade-Zimbabwe-100083899645651/"
+    },
+    {
+      "type": "facebook",
+      "label": "Parliament of Zimbabwe",
+      "url": "https://www.facebook.com/parliamentofzim/",
+      "source": "https://www.facebook.com/parliamentofzim/"
     }
   ]
 }

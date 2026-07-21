@@ -3,16 +3,184 @@
   "country_name": "Andorra",
   "contacts": [
     {
-      "type": "website",
-      "label": "Official Government Portal",
-      "url": "https://www.govern.ad",
-      "source": "WebFetch from govern.ad"
+      "type": "email",
+      "label": "Permanent Mission of Andorra to the United Nations, New York",
+      "value": "contact@andorraun.org",
+      "source": "UN Protocol and Liaison Service Blue Book (Permanent Missions to the United Nations, bb311.pdf), Andorra entry p.17 — https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/bb311.pdf"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Andorra to the UN Office at Geneva",
+      "value": "missio_onu_gva@govern.ad",
+      "source": "UN Geneva Blue Book, Andorra — https://www.ungeneva.org/en/blue-book/missions/member-states/andorra"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Andorra in Spain (Madrid) — Chancellery",
+      "value": "ambaixada_espanya@govern.ad",
+      "source": "Spanish MFA official Diplomatic Corps List, updated 30 June 2026 — https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Andorra in Spain (Madrid) — alternate",
+      "value": "embajada@embajadaandorra.es",
+      "source": "Spanish MFA official Diplomatic Corps List, updated 30 June 2026 — https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf"
+    },
+    {
+      "type": "email",
+      "label": "Government of Andorra — Servei de Tràmits (citizen procedures desk)",
+      "value": "info.tramits@govern.ad",
+      "source": "Official Govern d'Andorra X/Twitter account — https://x.com/GovernAndorra/status/1239926897280245760"
+    },
+    {
+      "type": "email",
+      "label": "Andorra Business — national economic development / investment promotion agency",
+      "value": "info@andorrabusiness.com",
+      "source": "ITC Benchmarking for Trade institutional profile (ANDORRA BUSINESS) — https://www.itcbenchmarking.org/institutions/507"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission to UN Geneva — Alba Noya (mission staff)",
+      "value": "alba_noya@govern.ad",
+      "source": "UN Geneva Blue Book, Andorra — https://www.ungeneva.org/en/blue-book/missions/member-states/andorra"
     },
     {
       "type": "website",
-      "label": "Electronic Services Portal (Seu Electrònica)",
-      "url": "https://www.e-tramits.ad",
-      "source": "WebFetch from e-tramits.ad"
+      "label": "Government of Andorra — official portal",
+      "url": "https://www.govern.ad/",
+      "source": "Official government domain, linked from UN and ministry pages"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of Andorra",
+      "url": "https://www.govern.ad/en/ministries-and-secretaries-of-state/ministry-of-foreign-affairs",
+      "source": "Govern d'Andorra official site (exteriors.ad redirects here)"
+    },
+    {
+      "type": "website",
+      "label": "Seu Electrònica / e-Tràmits (official e-government services)",
+      "url": "https://www.e-tramits.ad/",
+      "source": "Govern d'Andorra official portal"
+    },
+    {
+      "type": "website",
+      "label": "Transparency portal — Govern d'Andorra",
+      "url": "https://www.transparencia.ad/",
+      "source": "Govern d'Andorra official transparency site"
+    },
+    {
+      "type": "website",
+      "label": "Andorra Business — economic development agency",
+      "url": "https://www.andorrabusiness.com/en/",
+      "source": "Agency official website; profile at https://www.itcbenchmarking.org/institutions/507"
+    },
+    {
+      "type": "twitter",
+      "label": "Govern d'Andorra — official X/Twitter account",
+      "url": "https://x.com/GovernAndorra",
+      "source": "Official government account, linked from govern.ad"
+    },
+    {
+      "type": "facebook",
+      "label": "Govern d'Andorra — official Facebook page",
+      "url": "https://www.facebook.com/govern.ad/",
+      "source": "Official government page (vanity handle govern.ad)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs — switchboard",
+      "value": "+376 875 704",
+      "source": "Ministeri d'Afers Exteriors listing, Pàgines Grogues d'Andorra Telecom — https://paginesgrogues.ad/ministeri-dafers-exteriors"
+    },
+    {
+      "type": "phone",
+      "label": "Government of Andorra — general line",
+      "value": "+376 875 700",
+      "source": "Govern d'Andorra, Horaris i contactes — https://www.govern.ad/ca/horaris-i-contactes"
+    },
+    {
+      "type": "phone",
+      "label": "MFA consular emergency line",
+      "value": "+376 324 292",
+      "source": "Ministeri d'Afers Exteriors consular information, govern.ad"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Andorra to the UN, New York",
+      "value": "+1 212-750-8064",
+      "source": "UN Protocol Blue Book bb311.pdf, Andorra entry p.17 — https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/bb311.pdf"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Andorra to the UN Office at Geneva",
+      "value": "+41 22 732 60 60",
+      "source": "UN Geneva Blue Book — https://www.ungeneva.org/en/blue-book/missions/member-states/andorra"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Andorra in Madrid",
+      "value": "+34 91 431 74 53",
+      "source": "Spanish MFA Diplomatic Corps List, 30 June 2026 — https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf"
+    },
+    {
+      "type": "phone",
+      "label": "Andorra Business",
+      "value": "+376 812 020",
+      "source": "ITC Benchmarking institutional profile — https://www.itcbenchmarking.org/institutions/507"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs of Andorra",
+      "value": "C. Prat de la Creu, 62-64, AD500 Andorra la Vella, Andorra",
+      "source": "Ministeri d'Afers Exteriors listing — https://paginesgrogues.ad/ministeri-dafers-exteriors"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Andorra to the United Nations, New York",
+      "value": "Two United Nations Plaza, 27th Floor, New York, NY 10017, USA",
+      "source": "UN Protocol Blue Book bb311.pdf, Andorra entry p.17"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Andorra to the UN Office at Geneva",
+      "value": "Rue de Chantepoulet 1-3 (7th Floor), 1201 Geneva, Switzerland",
+      "source": "UN Geneva Blue Book — https://www.ungeneva.org/en/blue-book/missions/member-states/andorra"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Andorra in Spain",
+      "value": "C/ Alcalá, 73, 28009 Madrid, Spain",
+      "source": "Spanish MFA Diplomatic Corps List, 30 June 2026"
+    },
+    {
+      "type": "address",
+      "label": "Andorra Business",
+      "value": "Carrer Prat de la Creu 68-76, AD500 Andorra la Vella, Andorra",
+      "source": "ITC Benchmarking institutional profile — https://www.itcbenchmarking.org/institutions/507"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs — fax",
+      "value": "+376 869 559",
+      "source": "Ministeri d'Afers Exteriors listing — https://paginesgrogues.ad/ministeri-dafers-exteriors"
+    },
+    {
+      "type": "other",
+      "label": "Permanent Mission to the UN New York — fax",
+      "value": "+1 212-750-6630",
+      "source": "UN Protocol Blue Book bb311.pdf, Andorra entry p.17"
+    },
+    {
+      "type": "other",
+      "label": "Consell General (Parliament) — contact information page",
+      "url": "https://seu.consellgeneral.ad/contingutPublic/mostrarContingut/84",
+      "source": "Consell General del Principat d'Andorra official site"
+    },
+    {
+      "type": "other",
+      "label": "Participació Ciutadana (citizen participation) contact form",
+      "url": "https://www.visc.ad/contacte",
+      "source": "Govern d'Andorra citizen participation portal"
     },
     {
       "type": "website",

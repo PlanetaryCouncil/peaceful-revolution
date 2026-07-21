@@ -133,6 +133,36 @@
       "label": "Consular Map - Embassies and Consulates",
       "url": "https://mapaconsular.mrree.gub.uy/",
       "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "email",
+      "label": "Uruguay XXI - Export Promotion",
+      "value": "acuerdoue@uruguayxxi.gub.uy",
+      "source": "https://www.uruguayxxi.gub.uy/en/"
+    },
+    {
+      "type": "website",
+      "label": "Presidency - Official Government",
+      "url": "https://www.gub.uy/presidencia/",
+      "source": "Official Uruguay Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "Uruguay XXI - Business & Export Promotion",
+      "url": "https://www.uruguayxxi.gub.uy/",
+      "source": "Official Export Promotion Agency"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of Uruguay",
+      "url": "https://x.com/compresidencia",
+      "source": "Official Presidential Twitter/X Account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Relations",
+      "url": "https://x.com/CancilleriaUy",
+      "source": "Official Ministry Twitter/X Account"
     }
   ]
 }

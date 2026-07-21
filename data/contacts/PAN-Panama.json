@@ -103,6 +103,60 @@
       "label": "Embassy of Panama - Washington D.C.",
       "value": "2862 McGill Terrace N.W., Washington, D.C., USA",
       "source": "Official Embassy address"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Authentication & Apostille Services",
+      "value": "autenticaciones@mire.gob.pa",
+      "source": "https://mire.gob.pa"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Legal Affairs",
+      "value": "asuntosjuridicos@mire.gob.pa",
+      "source": "https://mire.gob.pa/directorio-telefonico/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency - Central Telephone",
+      "value": "(507) 527-9600",
+      "source": "https://www.presidencia.gob.pa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Central Line",
+      "value": "+507 511-4100, +507 511-4200",
+      "source": "https://mire.gob.pa/directorio-telefonico/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Authentication & Legalization Department",
+      "value": "+507 504-9392",
+      "source": "https://mire.gob.pa/directorio-telefonico/"
+    },
+    {
+      "type": "address",
+      "label": "Presidency Office Address",
+      "value": "Palacio de las Garzas, Corregimiento de San Felipe, Panama 1, República de Panamá",
+      "source": "https://www.presidencia.gob.pa"
+    },
+    {
+      "type": "website",
+      "label": "Government Online Services Portal (Apostille & Document Authentication)",
+      "url": "https://panamaconecta.gob.pa",
+      "source": "https://mire.gob.pa"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency Official X (Twitter)",
+      "url": "https://x.com/presidenciapma",
+      "source": "https://www.presidencia.gob.pa"
+    },
+    {
+      "type": "social_media",
+      "label": "Presidency Official Instagram",
+      "value": "@presidenciapma",
+      "source": "https://www.presidencia.gob.pa"
     }
   ]
 }

@@ -219,12 +219,6 @@
       "source": "https://www.mccy.gov.sg/contact-us"
     },
     {
-      "type": "address",
-      "label": "REACH Singapore",
-      "value": "140 Hill Street #01-01A, Old Hill Street Police Station, Singapore 179369",
-      "source": "https://www.reach.gov.sg/contact-us"
-    },
-    {
       "type": "other",
       "label": "Online Government Directory",
       "value": "Singapore Government Directory Interactive - searchable directory of ministries and agencies",

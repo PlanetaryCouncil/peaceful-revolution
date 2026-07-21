@@ -109,6 +109,30 @@
       "label": "Presidency and Government",
       "value": "Palacio de la Revolución, Ave Paseo #1040 B, e/ Carlos Manuel de Céspedes e Independencia, Plaza de la Revolución, Havana, Cuba",
       "source": "Official Presidency website (presidencia.gob.cu)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Minister's Office",
+      "value": "dm@minrex.gob.cu",
+      "source": "cubaminrex.cu (verified via multiple searches)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Customer Service",
+      "value": "+53 7 8364434",
+      "source": "cubaminrex.cu/en/customer-service-group"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "value": "Calle H between 5ta and Calzada, Vedado, Plaza de la Revolución, Havana, Cuba",
+      "source": "cubaminrex.cu (verified contact information)"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Presidency",
+      "value": "Ave Paseo #1040 B e/ Carlos Manuel de Céspedes e Independencia, Plaza de La Revolución, Havana, Cuba",
+      "source": "presidencia.gob.cu/en/presidency/headquarters"
     }
   ]
 }

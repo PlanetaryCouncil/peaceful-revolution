@@ -91,6 +91,72 @@
       "label": "YouTube - Gobierno de México",
       "url": "https://www.youtube.com/@gobiernodemexico",
       "source": "Official Government YouTube"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (Secretaría de Relaciones Exteriores)",
+      "url": "https://sre.gob.mx",
+      "source": "Mexican Federal Government"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office (Presidencia)",
+      "url": "https://www.gob.mx/presidencia/",
+      "source": "Mexican Federal Government"
+    },
+    {
+      "type": "website",
+      "label": "Transparency Platform - Presidency",
+      "url": "https://transparencia.presidencia.gob.mx",
+      "source": "Mexican Federal Government"
+    },
+    {
+      "type": "website",
+      "label": "Citizen Participation Portal",
+      "url": "https://participa.gob.mx",
+      "source": "Mexican Federal Government"
+    },
+    {
+      "type": "website",
+      "label": "Open Data Portal",
+      "url": "https://datos.gob.mx",
+      "source": "Mexican Federal Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Mexican Government Official Twitter/X",
+      "url": "https://twitter.com/GobiernoMX",
+      "source": "gob.mx"
+    },
+    {
+      "type": "twitter",
+      "label": "Mexican Government Twitter/X (Alternative Account)",
+      "url": "https://twitter.com/gobmexico",
+      "source": "gob.mx"
+    },
+    {
+      "type": "other",
+      "label": "Citizen Reporting Hotline",
+      "value": "079",
+      "source": "Presidencia.gob.mx"
+    },
+    {
+      "type": "website",
+      "label": "Public Complaints Platform (Complaints against Public Officials)",
+      "url": "https://sidec.buengobierno.gob.mx",
+      "source": "gob.mx"
+    },
+    {
+      "type": "website",
+      "label": "Whistleblower Reports",
+      "url": "https://alertadores.buengobierno.gob.mx",
+      "source": "gob.mx"
+    },
+    {
+      "type": "other",
+      "label": "General Contact Method",
+      "value": "Use gob.mx citizen services portal for specific ministry contact forms and procedures",
+      "source": "Mexican Federal Government"
     }
   ]
 }

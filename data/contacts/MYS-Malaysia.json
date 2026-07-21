@@ -70,12 +70,6 @@
     },
     {
       "type": "phone",
-      "label": "National Digital Department (JDN)",
-      "value": "+603-8000 8000",
-      "source": "https://www.malaysia.gov.my"
-    },
-    {
-      "type": "phone",
       "label": "Securities Commission Malaysia",
       "value": "+603-6204 8000",
       "source": "https://www.sc.com.my"

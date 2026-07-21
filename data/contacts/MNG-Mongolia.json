@@ -1,5 +1,222 @@
 {
-  "iso": "MNG",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs of Mongolia — general enquiries",
+      "value": "info@mfa.gov.mn",
+      "source": "https://www.theworldfolio.com/company/ministry-of-foreign-affairs-mongolia/969/ (also listed via mfa.gov.mn contact listings and UNESCO country correspondence guide http://www.unesco.org/eri/portal/countryguide_all.asp?contr=MN)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Mongolia in Washington, DC — chancery",
+      "value": "washington@mfa.gov.mn",
+      "source": "https://mongolianembassy.us/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Mongolia in Washington, DC — consular section",
+      "value": "monconsul@mongolianembassy.us",
+      "source": "https://mongolianembassy.us/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission of Mongolia to the UN, New York",
+      "value": "mongolianmission@twcmetrobiz.com",
+      "source": "https://www.un.int/mongolia/about"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Mongolia in Belgium / Mission to the EU, Brussels",
+      "value": "brussels@mfa.gov.mn",
+      "source": "https://brussels.embassy.mn/ ; https://www.embassypages.com/mongolia-embassy-brussels-belgium"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Mongolia in Belgium — consular section",
+      "value": "consul@embmongolie.be",
+      "source": "https://brussels.embassy.mn/ ; https://www.embassypages.com/mongolia-embassy-brussels-belgium"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Mongolia in the United Kingdom — chancery",
+      "value": "chancery@embassyofmongolia.co.uk",
+      "source": "https://en.embassyofmongolia.co.uk/contact-us ; https://www.embassypages.com/mongolia-embassy-london-unitedkingdom"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Mongolia in the United Kingdom — consular section",
+      "value": "consul@embassyofmongolia.co.uk",
+      "source": "https://en.embassyofmongolia.co.uk/contact-us ; https://www.embassypages.com/mongolia-embassy-london-unitedkingdom"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs of Mongolia",
+      "url": "https://mfa.gov.mn/en/",
+      "source": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Mongolia)"
+    },
+    {
+      "type": "website",
+      "label": "Government of Mongolia — official portal",
+      "url": "https://zasag.mn/en/",
+      "source": "https://zasag.mn/en/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of Mongolia",
+      "url": "https://president.mn/en/",
+      "source": "https://president.mn/en/"
+    },
+    {
+      "type": "website",
+      "label": "Consular Department, Ministry of Foreign Affairs (visa/consular services)",
+      "url": "https://en.consul.mn/",
+      "source": "https://en.consul.mn/"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission of Mongolia to the United Nations",
+      "url": "https://www.un.int/mongolia/",
+      "source": "https://www.un.int/mongolia/about"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Mongolia in the United States",
+      "url": "https://mongolianembassy.us/",
+      "source": "https://mongolianembassy.us/contact-us/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs of Mongolia (official Facebook)",
+      "url": "https://www.facebook.com/MFAMongoliaMN/",
+      "source": "https://www.facebook.com/MFAMongoliaMN/"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Mongolia (official Facebook)",
+      "url": "https://www.facebook.com/Mongoliagovernment/",
+      "source": "https://www.facebook.com/Mongoliagovernment/"
+    },
+    {
+      "type": "facebook",
+      "label": "Permanent Mission of Mongolia to the UN (official Facebook)",
+      "url": "https://www.facebook.com/mongolianpermanentmission/",
+      "source": "https://www.un.int/mongolia/about"
+    },
+    {
+      "type": "twitter",
+      "label": "MFA Mongolia (official X/Twitter)",
+      "url": "https://x.com/MongolDiplomacy",
+      "source": "https://x.com/mongoldiplomacy"
+    },
+    {
+      "type": "twitter",
+      "label": "MFA Mongolia — secondary official account",
+      "url": "https://x.com/MFA_Mongolia",
+      "source": "https://x.com/MFA_Mongolia"
+    },
+    {
+      "type": "twitter",
+      "label": "Permanent Mission of Mongolia to the UN (official X/Twitter)",
+      "url": "https://twitter.com/nymongolia",
+      "source": "https://www.un.int/mongolia/about"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs of Mongolia — switchboard",
+      "value": "+976 7277 4444",
+      "source": "https://en.consul.mn/ ; https://mfa.gov.mn/"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission of Mongolia to the UN, New York",
+      "value": "+1 212-861-9460",
+      "source": "https://www.un.int/mongolia/about"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Mongolia in Washington, DC",
+      "value": "+1 202-333-7117",
+      "source": "https://mongolianembassy.us/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Mongolia in the United Kingdom, London",
+      "value": "+44 20 7937 0150",
+      "source": "https://www.embassypages.com/mongolia-embassy-london-unitedkingdom"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Mongolia in Belgium, Brussels",
+      "value": "+32 2 344 69 74",
+      "source": "https://brussels.embassy.mn/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President of Mongolia",
+      "value": "+976 51 261273",
+      "source": "https://president.mn/en/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs of Mongolia",
+      "value": "Peace Avenue 7A, Sukhbaatar District, 14210 Ulaanbaatar, Mongolia",
+      "source": "https://en.consul.mn/ ; https://mfa.gov.mn/"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission of Mongolia to the United Nations",
+      "value": "6 East 77th Street, New York, NY 10075, USA",
+      "source": "https://www.un.int/mongolia/about"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Mongolia in Washington, DC",
+      "value": "2833 M Street NW, Washington, DC 20007, USA",
+      "source": "https://mongolianembassy.us/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Mongolia in the United Kingdom",
+      "value": "7-8 Kensington Court, London W8 5DL, United Kingdom",
+      "source": "https://www.embassypages.com/mongolia-embassy-london-unitedkingdom"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Mongolia in Belgium",
+      "value": "Avenue Besme 18, 1190 Forest, Brussels, Belgium",
+      "source": "https://brussels.embassy.mn/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President of Mongolia",
+      "value": "State House-12, Ulaanbaatar, Mongolia",
+      "source": "https://president.mn/en/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Office of the President of Mongolia — online petitions/requests form",
+      "url": "https://president.mn/en/contact-us/",
+      "source": "https://president.mn/en/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Mongolia open government data / official information portal",
+      "url": "https://open-government.mn/",
+      "source": "https://open-government.mn/"
+    },
+    {
+      "type": "other",
+      "label": "MFA Mongolia press/news desk",
+      "url": "https://mfa.gov.mn/en/news/",
+      "source": "https://mfa.gov.mn/en/news/"
+    },
+    {
+      "type": "other",
+      "label": "Fax — Permanent Mission of Mongolia to the UN",
+      "value": "+1 212-472-6517",
+      "source": "https://www.un.int/mongolia/about"
+    }
+  ],
   "country_name": "Mongolia",
-  "contacts": []
+  "iso": "MNG"
 }
