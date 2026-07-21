@@ -115,6 +115,20 @@
   #map{width:100%;height:min(62vh,580px);min-height:340px}
   .map-hint{position:absolute;left:14px;bottom:12px;z-index:2;pointer-events:none;font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--text-faint);background:rgba(255,255,255,.78);padding:4px 9px;border-radius:7px;border:1px solid var(--line)}
 
+  /* contacts board — tile grid in the center column, under the map */
+  .stage-main{min-width:0}
+  .contacts-board{margin-top:16px}
+  .cb-title{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--text-faint);display:block;margin-bottom:10px}
+  .cb-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:10px}
+  .tile{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:11px 13px;display:flex;flex-direction:column;gap:4px;min-width:0;text-align:left}
+  .tile.is-email{border-color:rgba(16,61,140,.4);box-shadow:inset 3px 0 0 var(--gold)}
+  .tile .t-type{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
+  .tile .t-label{font-size:12.5px;color:var(--text-dim);line-height:1.4}
+  .tile .t-value{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--gold);word-break:break-all;text-decoration:none}
+  a.t-value:hover{text-decoration:underline}
+  .tile-more{cursor:pointer;align-items:center;justify-content:center;font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--accent);background:var(--panel-2)}
+  .tile-more:hover{border-color:var(--accent)}
+
   /* panel (read-only) */
   .panel{background:linear-gradient(180deg,var(--panel),var(--panel-2));border:1px solid var(--line);border-radius:var(--radius);padding:18px;transition:background 1s ease,border-color 1s ease;min-height:340px}
   .panel .ph-empty{color:var(--text-faint);font-size:13px;line-height:1.6;margin-top:6px}
@@ -195,9 +209,12 @@
 
   <!-- MAP + PANEL -->
   <div class="stage">
-    <div class="map-card">
-      <div id="map"></div>
-      <div class="map-hint">click a country for its status &amp; sources ▸</div>
+    <div class="stage-main">
+      <div class="map-card">
+        <div id="map"></div>
+        <div class="map-hint">click a country for its status &amp; sources ▸</div>
+      </div>
+      <section class="contacts-board" id="contactsBoard" aria-label="Official contacts" hidden></section>
     </div>
     <aside class="panel" id="panel" aria-label="Selected country detail">
       <div id="panelBody"></div>
@@ -461,7 +478,7 @@ function drawMap(){
    RENDER
    ============================================================ */
 let selected = null;
-function select(key){ selected = key; renderRoster(); renderPanel(); document.getElementById("panel").scrollIntoView({block:"nearest"}); }
+function select(key){ selected = key; contactsExpanded = false; renderRoster(); renderPanel(); renderContacts(); document.getElementById("panel").scrollIntoView({block:"nearest"}); }
 
 function renderMeter(){
   const on = countOnline(), pct = on/N*100;
@@ -522,7 +539,7 @@ async function loadAssets(){
   loaded.forEach(hit => { if(hit) ALL_CONTACTS[hit[0]] = hit[1]; });
 
   console.log(`Loaded contacts for ${Object.keys(ALL_CONTACTS).length}/${entries.length} countries`);
-  if(selected) renderPanel();   // refresh if a country was picked before load finished
+  if(selected){ renderPanel(); renderContacts(); }   // refresh if a country was picked before load finished
 }
 
 function renderPanel(){
@@ -555,57 +572,6 @@ function renderPanel(){
   if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
   if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
 
-  // contacts section — render from ALL_CONTACTS (individual country JSONs)
-  let contactsHtml = "";
-  const countryContacts = ALL_CONTACTS[selected];
-  if(countryContacts && Array.isArray(countryContacts) && countryContacts.length > 0){
-    const contactsByType = {};
-    countryContacts.forEach(c=>{
-      if(!contactsByType[c.type]) contactsByType[c.type] = [];
-      contactsByType[c.type].push(c);
-    });
-    const typeLabels = {
-      email: "Email",
-      website: "Official Website",
-      facebook: "Facebook",
-      twitter: "Twitter / X",
-      phone: "Phone",
-      address: "Address",
-      gov: "Government Portal",
-      mfa: "Foreign Ministry",
-      un_mission: "UN Mission",
-      head_of_state: "Head of State",
-      parliament: "Parliament",
-      nhri: "Human Rights Institution",
-      embassy_directory: "Embassies Directory",
-      other: "Other"
-    };
-    const typeOrder = ["email","website","facebook","twitter","phone","address","gov","mfa","un_mission","head_of_state","parliament","nhri","embassy_directory","other"];
-    let contactsList = "";
-    typeOrder.forEach(type=>{
-      if(contactsByType[type]){
-        contactsList += `<div style="margin-bottom:12px"><strong>${typeLabels[type]||type}</strong>`;
-        contactsByType[type].forEach(c=>{
-          const val = c.value || c.url;
-          const href = type === "email" ? `mailto:${val}` : val;
-          if(href && (type === "email" || c.url)) contactsList += `<br><a class="source-link" href="${href}" target="_blank" rel="noopener">${c.label} <span class="arr">↗</span></a>`;
-          else if(val) contactsList += `<br><span style="font-size:0.9rem">${c.label}: <code>${val}</code></span>`;
-        });
-        contactsList += `</div>`;
-      }
-    });
-    if(contactsList) contactsHtml = `<div class="contacts" style="margin-top:16px"><div class="sources-label">Official Contacts</div>${contactsList}</div>`;
-  } else {
-    // Every country is meant to have a file; an empty panel should read as an
-    // invitation to contribute one, not as a dead end.
-    contactsHtml = `<div class="contacts" style="margin-top:16px">
-      <div class="sources-label">Official Contacts</div>
-      <p class="ph-empty" style="margin-top:6px">None recorded yet. Contacts live in
-      <code>data/contacts/${selected}-${e.name.replace(/[^\w -]/g,"").replace(/ /g,"-")}.json</code>
-      — add one and it appears here.</p>
-    </div>`;
-  }
-
   body.innerHTML = `
     <div class="pnl-iso">${e.kind==="nonun"?"non-UN polity":selected}</div>
     <h2 class="pnl-name">${e.name}</h2>
@@ -614,8 +580,68 @@ function renderPanel(){
     <div class="sources">
       <div class="sources-label">Source · dig deeper</div>
       ${links}
-    </div>
-    ${contactsHtml}`;
+    </div>`;
+}
+
+/* ============================================================
+   CONTACTS BOARD — tile grid in the center column, under the map.
+   The panel keeps the curated status story; the bulk data lives
+   here where there is width for a grid. Data is agent-collected,
+   so everything is escaped and URLs are scheme-checked.
+   ============================================================ */
+const TYPE_ORDER = ["email","website","facebook","twitter","instagram","phone","address"];
+const TYPE_LABELS = { email:"Email", website:"Website", facebook:"Facebook", twitter:"Twitter / X",
+  instagram:"Instagram", phone:"Phone", address:"Address", youtube:"YouTube", linkedin:"LinkedIn",
+  telegram:"Telegram", tiktok:"TikTok", fax:"Fax", whatsapp:"WhatsApp", other:"Other" };
+const TILE_LIMIT = 12;   // emails sort first, so the cap never hides one
+let contactsExpanded = false;
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : null;
+const typeRank = t => { const i = TYPE_ORDER.indexOf(t); return i === -1 ? TYPE_ORDER.length : i; };
+const typeLabel = t => TYPE_LABELS[t] || t.replace(/_/g," ").replace(/\b\w/g, c => c.toUpperCase());
+
+function tileHtml(c){
+  const type = String(c.type || "other").toLowerCase();
+  let value = "";
+  if(type === "email" && c.value){
+    value = `<a class="t-value" href="mailto:${esc(c.value)}">${esc(c.value)}</a>`;
+  } else {
+    const u = safeUrl(c.url);
+    if(u) value = `<a class="t-value" href="${esc(u)}" target="_blank" rel="noopener">${esc(c.value || u.replace(/^https?:\/\/(www\.)?/i,"").replace(/\/$/,""))}</a>`;
+    else if(c.value) value = `<span class="t-value">${esc(c.value)}</span>`;
+  }
+  return `<div class="tile ${type === "email" ? "is-email" : ""}">
+    <span class="t-type">${esc(typeLabel(type))}</span>
+    <span class="t-label">${esc(c.label || "")}</span>
+    ${value}
+  </div>`;
+}
+
+function renderContacts(){
+  const board = document.getElementById("contactsBoard");
+  if(!selected){ board.hidden = true; return; }
+  const e = LOOKUP[selected];
+  const list = (ALL_CONTACTS[selected] || []).slice()
+    .sort((a,b) => typeRank(String(a.type).toLowerCase()) - typeRank(String(b.type).toLowerCase()));
+  board.hidden = false;
+
+  const title = `<span class="cb-title">Official contacts — ${esc(e.name)}${list.length ? ` · ${list.length}` : ""}</span>`;
+  if(!list.length){
+    board.innerHTML = title + `<div class="cb-grid"><div class="tile">
+      <span class="t-type">none yet</span>
+      <span class="t-label">Contacts live in <code>data/contacts/${esc(selected)}-…​.json</code> — add a file and it appears here.</span>
+    </div></div>`;
+    return;
+  }
+  const shown = contactsExpanded ? list : list.slice(0, TILE_LIMIT);
+  let tiles = shown.map(tileHtml).join("");
+  const hidden = list.length - shown.length;
+  if(hidden > 0)
+    tiles += `<button type="button" class="tile tile-more" onclick="contactsExpanded=true;renderContacts()">＋ ${hidden} more</button>`;
+  else if(contactsExpanded && list.length > TILE_LIMIT)
+    tiles += `<button type="button" class="tile tile-more" onclick="contactsExpanded=false;renderContacts()">− show fewer</button>`;
+  board.innerHTML = title + `<div class="cb-grid">${tiles}</div>`;
 }
 
 /* ============================================================
