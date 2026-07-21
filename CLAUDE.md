@@ -9,8 +9,21 @@ A single-page, hand-curated **situation map of the world**: peaceful revolutions
 - Data lives inline in `index.html` as JS objects (UN members, developing, non-UN/de-facto polities); each entry links to Wikipedia as a starting point.
 - Prose companions: `DECLARATION.md`, `LETTER.md`, `LETTERS.md`, `README.md`.
 
+## Contacts dataset (`data/contacts/`)
+Official contact channels per country — **email is the priority**, plus websites, Facebook, Twitter/X, phone, address. Every entry carries a `source` so it can be re-verified.
+
+- **One file per country**: `data/contacts/{ISO3}-{CountryName}.json`. Independent files let contributors PR a single country without merge conflicts.
+- **`index.json` is generated, never hand-edited.** It maps ISO3 → real filename. The app reads it instead of guessing filenames — agent-written `country_name` drifts from the map's display name (`Democratic Republic of the Congo` vs `DR Congo`), and guessing 404s silently.
+- **After adding or editing any country file, run `node scripts/build-contacts-index.js`.** Skipping this means the app won't see your change.
+- `scripts/ingest-workflow-results.js <journal.jsonl>` ingests research-workflow output. Idempotent: keeps one file per ISO and won't overwrite a richer record with a thinner one.
+- The schema is deliberately loose — maximize collected data now, tighten later. Use `value` for emails/phones/addresses, `url` for links.
+- Wikipedia and CIA Factbook links are **generated** (from the country name and `data/factbook-slugs.json`) — don't add them as contact entries.
+- `data/HERMES_TASK.md` is the brief for handing bulk collection to a cheap local agent.
+
 ## Local dev
 Static server, no dependencies: launch config `static` (`python3 -m http.server 5050`) in `.claude/launch.json`, or just open `index.html`. Preview served on **port 5050**.
+
+**Note:** `python3 -m http.server` sends caching headers that make plain reloads serve a stale `index.html`. Hard-reload (or `location.replace('/?cb='+Date.now())`) after editing, or you'll debug code the browser isn't running.
 
 ## Deploy
 GitHub Pages — `CNAME` → `map.planetarycouncil.org`, `.nojekyll` present. Push to `main` to publish.
