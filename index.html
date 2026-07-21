@@ -595,6 +595,15 @@ function renderPanel(){
       }
     });
     if(contactsList) contactsHtml = `<div class="contacts" style="margin-top:16px"><div class="sources-label">Official Contacts</div>${contactsList}</div>`;
+  } else {
+    // Every country is meant to have a file; an empty panel should read as an
+    // invitation to contribute one, not as a dead end.
+    contactsHtml = `<div class="contacts" style="margin-top:16px">
+      <div class="sources-label">Official Contacts</div>
+      <p class="ph-empty" style="margin-top:6px">None recorded yet. Contacts live in
+      <code>data/contacts/${selected}-${e.name.replace(/[^\w -]/g,"").replace(/ /g,"-")}.json</code>
+      — add one and it appears here.</p>
+    </div>`;
   }
 
   body.innerHTML = `
