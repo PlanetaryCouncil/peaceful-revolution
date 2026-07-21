@@ -1,0 +1,114 @@
+{
+  "iso": "PLW",
+  "country_name": "Palau",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.palaugov.pw",
+      "source": "Palau National Government"
+    },
+    {
+      "type": "phone",
+      "label": "Main Government Office",
+      "value": "+680-767-2403",
+      "source": "palaugov.pw/office-of-the-president"
+    },
+    {
+      "type": "fax",
+      "label": "Main Government Fax",
+      "value": "+680-767-2424",
+      "source": "palaugov.pw"
+    },
+    {
+      "type": "address",
+      "label": "Main Government Mailing Address",
+      "value": "P.O. Box 6051, Koror, Palau 96940",
+      "source": "palaugov.pw"
+    },
+    {
+      "type": "email",
+      "label": "Passport Office",
+      "value": "passportoffice@palaugov.org",
+      "source": "palaugov.pw/passport-office"
+    },
+    {
+      "type": "phone",
+      "label": "Passport Office",
+      "value": "+680-767-6330",
+      "source": "palaugov.pw/passport-office"
+    },
+    {
+      "type": "address",
+      "label": "Passport Office Mailing Address",
+      "value": "P.O. Box 100, The National Capitol, Ngerulmud 96939",
+      "source": "palaugov.pw/passport-office"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health",
+      "value": "+680-488-2552",
+      "source": "palaugov.pw/ministry-of-health"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - HRD Office Direct",
+      "value": "+680-488-6647",
+      "source": "palaugov.pw/human-resources"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - HRD Office Main",
+      "value": "+680-488-2553 ext. 242",
+      "source": "palaugov.pw/human-resources"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health - Human Resources Administrator",
+      "value": "arnice.yuji@palauhealth.org",
+      "source": "palaugov.pw/human-resources"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health - Administrative Specialist",
+      "value": "maelee.sokau@palauhealth.org",
+      "source": "palaugov.pw/human-resources"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health - Administrative Assistant",
+      "value": "morisang.udui@palauhealth.org",
+      "source": "palaugov.pw/human-resources"
+    },
+    {
+      "type": "phone",
+      "label": "Division of Revenue & Taxation",
+      "value": "+680-488-3303",
+      "source": "palaugov.pw/ministry-of-finance"
+    },
+    {
+      "type": "phone",
+      "label": "Social Security Office",
+      "value": "+680-488-1823 / +680-488-2457",
+      "source": "palaugov.pw"
+    },
+    {
+      "type": "phone",
+      "label": "Bureau of Immigration",
+      "value": "+680-488-2498 / +680-488-2678",
+      "source": "palaugov.pw"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - COVID-19 Hotline",
+      "value": "+680-488-0555",
+      "source": "palaugov.pw/help"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Government Twitter/X Account",
+      "url": "https://x.com/PalauGov",
+      "source": "Palau National Government official social media"
+    }
+  ]
+}

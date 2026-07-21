@@ -1,0 +1,30 @@
+{
+  "iso": "TRA",
+  "country_name": "Transnistria",
+  "contacts": [
+    {
+      "type": "note",
+      "label": "Research Limitations",
+      "value": "Unable to verify current official Transnistria government contacts. Web search budget exhausted (200/200 calls). Direct website access to known government domains (mfa.dmr.md, dmr.md) failed with DNS and SSL errors. Transnistria is a de facto independent state not internationally recognized by most countries, which limits publicly available verified contact information.",
+      "source": "Research attempt 2026-07-21"
+    },
+    {
+      "type": "website",
+      "label": "Reported Ministry of Foreign Affairs",
+      "url": "https://mfa.dmr.md/",
+      "source": "General knowledge - UNVERIFIED (domain DNS resolution failed)"
+    },
+    {
+      "type": "website",
+      "label": "Reported Government Portal",
+      "url": "https://www.dmr.md/",
+      "source": "General knowledge - UNVERIFIED (SSL connection error)"
+    },
+    {
+      "type": "note",
+      "label": "Alternative Information Sources",
+      "value": "For verified Transnistria contacts, consider: (1) Contacting Moldova's Ministry of Foreign Affairs as an intermediary; (2) Reaching out through international dispute resolution organizations; (3) Consulting UN peacekeeping mission representatives in the region (OSCE, UN); (4) Checking with think tanks or research organizations that monitor the region.",
+      "source": "Research analysis"
+    }
+  ]
+}

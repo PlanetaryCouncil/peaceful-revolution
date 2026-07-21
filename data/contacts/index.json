@@ -1,4 +1,23 @@
 {
+  "ABK": {
+    "file": "ABK-Abkhazia.json",
+    "country_name": "Abkhazia",
+    "total": 0,
+    "types": {}
+  },
+  "AFG": {
+    "file": "AFG-Afghanistan.json",
+    "country_name": "Afghanistan",
+    "total": 15,
+    "types": {
+      "email": 3,
+      "phone": 2,
+      "website": 3,
+      "twitter": 2,
+      "facebook": 1,
+      "address": 4
+    }
+  },
   "AGO": {
     "file": "AGO-Angola.json",
     "country_name": "Angola",
@@ -12,6 +31,135 @@
       "address": 3
     }
   },
+  "ALB": {
+    "file": "ALB-Albania.json",
+    "country_name": "Albania",
+    "total": 15,
+    "types": {
+      "email": 2,
+      "phone": 2,
+      "address": 2,
+      "website": 3,
+      "facebook": 3,
+      "instagram": 1,
+      "youtube": 1,
+      "twitter": 1
+    }
+  },
+  "AND": {
+    "file": "AND-Andorra.json",
+    "country_name": "Andorra",
+    "total": 7,
+    "types": {
+      "website": 4,
+      "contact_form": 2,
+      "other": 1
+    }
+  },
+  "ARE": {
+    "file": "ARE-United-Arab-Emirates.json",
+    "country_name": "United Arab Emirates",
+    "total": 29,
+    "types": {
+      "email": 1,
+      "phone": 8,
+      "address": 4,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 2,
+      "youtube": 2,
+      "linkedin": 1,
+      "fax": 1,
+      "other": 2
+    }
+  },
+  "ARG": {
+    "file": "ARG-Argentina.json",
+    "country_name": "Argentina",
+    "total": 22,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "address": 3,
+      "website": 5,
+      "twitter": 3,
+      "facebook": 2,
+      "other": 1
+    }
+  },
+  "ARM": {
+    "file": "ARM-Armenia.json",
+    "country_name": "Armenia",
+    "total": 18,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "website": 4,
+      "twitter": 2,
+      "facebook": 2,
+      "address": 3
+    }
+  },
+  "ATG": {
+    "file": "ATG-Antigua-and-Barbuda.json",
+    "country_name": "Antigua and Barbuda",
+    "total": 33,
+    "types": {
+      "email": 7,
+      "website": 4,
+      "facebook": 4,
+      "twitter": 2,
+      "phone": 9,
+      "address": 7
+    }
+  },
+  "AUS": {
+    "file": "AUS-Australia.json",
+    "country_name": "Australia",
+    "total": 48,
+    "types": {
+      "email": 4,
+      "phone": 14,
+      "address": 8,
+      "website": 12,
+      "facebook": 2,
+      "twitter": 3,
+      "instagram": 2,
+      "linkedin": 2,
+      "other": 1
+    }
+  },
+  "AUT": {
+    "file": "AUT-Austria.json",
+    "country_name": "Austria",
+    "total": 33,
+    "types": {
+      "email": 4,
+      "phone": 6,
+      "address": 4,
+      "website": 6,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 2,
+      "other": 7
+    }
+  },
+  "AZE": {
+    "file": "AZE-Azerbaijan.json",
+    "country_name": "Azerbaijan",
+    "total": 44,
+    "types": {
+      "email": 8,
+      "phone": 16,
+      "address": 5,
+      "website": 11,
+      "instagram": 1,
+      "facebook": 1,
+      "twitter": 1,
+      "youtube": 1
+    }
+  },
   "BDI": {
     "file": "BDI-Burundi.json",
     "country_name": "Burundi",
@@ -23,6 +171,21 @@
       "website": 3,
       "twitter": 1,
       "facebook": 1
+    }
+  },
+  "BEL": {
+    "file": "BEL-Belgium.json",
+    "country_name": "Belgium",
+    "total": 33,
+    "types": {
+      "email": 4,
+      "phone": 12,
+      "address": 5,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 1,
+      "other": 4
     }
   },
   "BEN": {
@@ -49,6 +212,171 @@
       "facebook": 2,
       "twitter": 2,
       "address": 5
+    }
+  },
+  "BGD": {
+    "file": "BGD-Bangladesh.json",
+    "country_name": "Bangladesh",
+    "total": 25,
+    "types": {
+      "email": 7,
+      "phone": 6,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 3,
+      "address": 2
+    }
+  },
+  "BGR": {
+    "file": "BGR-Bulgaria.json",
+    "country_name": "Bulgaria",
+    "total": 26,
+    "types": {
+      "email": 6,
+      "phone": 7,
+      "address": 3,
+      "fax": 2,
+      "website": 5,
+      "facebook": 1,
+      "other": 2
+    }
+  },
+  "BHR": {
+    "file": "BHR-Bahrain.json",
+    "country_name": "Bahrain",
+    "total": 32,
+    "types": {
+      "phone": 5,
+      "email": 3,
+      "twitter": 5,
+      "instagram": 4,
+      "facebook": 2,
+      "website": 10,
+      "address": 2,
+      "other": 1
+    }
+  },
+  "BHS": {
+    "file": "BHS-Bahamas.json",
+    "country_name": "Bahamas",
+    "total": 27,
+    "types": {
+      "email": 3,
+      "phone": 10,
+      "address": 4,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 1
+    }
+  },
+  "BIH": {
+    "file": "BIH-Bosnia-and-Herzegovina.json",
+    "country_name": "Bosnia and Herzegovina",
+    "total": 0,
+    "types": {}
+  },
+  "BLR": {
+    "file": "BLR-Belarus.json",
+    "country_name": "Belarus",
+    "total": 19,
+    "types": {
+      "email": 2,
+      "phone": 5,
+      "address": 3,
+      "website": 2,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1,
+      "telegram": 1,
+      "tiktok": 1,
+      "youtube": 1,
+      "other": 1
+    }
+  },
+  "BLZ": {
+    "file": "BLZ-Belize.json",
+    "country_name": "Belize",
+    "total": 30,
+    "types": {
+      "email": 8,
+      "phone": 5,
+      "address": 5,
+      "website": 5,
+      "facebook": 3,
+      "twitter": 3,
+      "fax": 1
+    }
+  },
+  "BOL": {
+    "file": "BOL-Bolivia.json",
+    "country_name": "Bolivia",
+    "total": 26,
+    "types": {
+      "email": 4,
+      "website": 4,
+      "twitter": 3,
+      "facebook": 2,
+      "instagram": 1,
+      "youtube": 1,
+      "phone": 7,
+      "address": 4
+    }
+  },
+  "BRA": {
+    "file": "BRA-Brazil.json",
+    "country_name": "Brazil",
+    "total": 30,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "website": 5,
+      "twitter": 4,
+      "facebook": 3,
+      "instagram": 3,
+      "address": 3,
+      "fax": 1,
+      "other": 3
+    }
+  },
+  "BRB": {
+    "file": "BRB-Barbados.json",
+    "country_name": "Barbados",
+    "total": 33,
+    "types": {
+      "email": 9,
+      "phone": 7,
+      "address": 5,
+      "website": 8,
+      "facebook": 2,
+      "twitter": 1,
+      "youtube": 1
+    }
+  },
+  "BRN": {
+    "file": "BRN-Brunei-Darussalam.json",
+    "country_name": "Brunei Darussalam",
+    "total": 20,
+    "types": {
+      "email": 5,
+      "phone": 4,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 1,
+      "address": 4
+    }
+  },
+  "BTN": {
+    "file": "BTN-Bhutan.json",
+    "country_name": "Bhutan",
+    "total": 23,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "website": 6,
+      "facebook": 2,
+      "twitter": 5,
+      "address": 2
     }
   },
   "BWA": {
@@ -78,8 +406,51 @@
       "other": 1
     }
   },
+  "CAN": {
+    "file": "CAN-Canada.json",
+    "country_name": "Canada",
+    "total": 34,
+    "types": {
+      "email": 7,
+      "website": 7,
+      "twitter": 1,
+      "facebook": 1,
+      "instagram": 1,
+      "youtube": 1,
+      "phone": 9,
+      "address": 5,
+      "fax": 2
+    }
+  },
+  "CHL": {
+    "file": "CHL-Chile.json",
+    "country_name": "Chile",
+    "total": 24,
+    "types": {
+      "email": 3,
+      "phone": 5,
+      "address": 5,
+      "website": 4,
+      "facebook": 4,
+      "twitter": 2,
+      "instagram": 1
+    }
+  },
+  "CHN": {
+    "file": "CHN-China.json",
+    "country_name": "China",
+    "total": 17,
+    "types": {
+      "email": 2,
+      "phone": 3,
+      "website": 3,
+      "twitter": 3,
+      "facebook": 2,
+      "address": 4
+    }
+  },
   "CIV": {
-    "file": "CIV-Cte-dIvoire.json",
+    "file": "CIV-Cote-dIvoire.json",
     "country_name": "Côte d'Ivoire",
     "total": 13,
     "types": {
@@ -130,6 +501,20 @@
       "address": 6
     }
   },
+  "COL": {
+    "file": "COL-Colombia.json",
+    "country_name": "Colombia",
+    "total": 20,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "address": 2,
+      "website": 5,
+      "facebook": 3,
+      "twitter": 2,
+      "instagram": 2
+    }
+  },
   "COM": {
     "file": "COM-Comoros.json",
     "country_name": "Comoros",
@@ -157,6 +542,81 @@
       "other": 1
     }
   },
+  "CRI": {
+    "file": "CRI-Costa-Rica.json",
+    "country_name": "Costa Rica",
+    "total": 27,
+    "types": {
+      "email": 7,
+      "website": 5,
+      "twitter": 3,
+      "facebook": 2,
+      "instagram": 2,
+      "phone": 5,
+      "address": 3
+    }
+  },
+  "CUB": {
+    "file": "CUB-Cuba.json",
+    "country_name": "Cuba",
+    "total": 18,
+    "types": {
+      "email": 4,
+      "website": 4,
+      "twitter": 3,
+      "facebook": 2,
+      "instagram": 1,
+      "youtube": 1,
+      "phone": 1,
+      "address": 2
+    }
+  },
+  "CYN": {
+    "file": "CYN-Northern-Cyprus.json",
+    "country_name": "Northern Cyprus",
+    "total": 0,
+    "types": {}
+  },
+  "CYP": {
+    "file": "CYP-Cyprus.json",
+    "country_name": "Cyprus",
+    "total": 22,
+    "types": {
+      "email": 5,
+      "phone": 5,
+      "address": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 3
+    }
+  },
+  "CZE": {
+    "file": "CZE-Czechia.json",
+    "country_name": "Czechia",
+    "total": 38,
+    "types": {
+      "email": 9,
+      "phone": 10,
+      "address": 6,
+      "website": 6,
+      "facebook": 2,
+      "twitter": 2,
+      "other": 3
+    }
+  },
+  "DEU": {
+    "file": "DEU-Germany.json",
+    "country_name": "Germany",
+    "total": 16,
+    "types": {
+      "email": 1,
+      "phone": 4,
+      "address": 2,
+      "website": 7,
+      "facebook": 1,
+      "twitter": 1
+    }
+  },
   "DJI": {
     "file": "DJI-Djibouti.json",
     "country_name": "Djibouti",
@@ -167,6 +627,48 @@
       "website": 6,
       "facebook": 1,
       "address": 7
+    }
+  },
+  "DMA": {
+    "file": "DMA-Dominica.json",
+    "country_name": "Dominica",
+    "total": 19,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 1,
+      "address": 4
+    }
+  },
+  "DNK": {
+    "file": "DNK-Denmark.json",
+    "country_name": "Denmark",
+    "total": 8,
+    "types": {
+      "website": 3,
+      "email": 1,
+      "facebook": 1,
+      "twitter": 1,
+      "phone": 1,
+      "address": 1
+    }
+  },
+  "DOM": {
+    "file": "DOM-Dominican-Republic.json",
+    "country_name": "Dominican Republic",
+    "total": 17,
+    "types": {
+      "email": 2,
+      "phone": 6,
+      "address": 2,
+      "website": 2,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1,
+      "youtube": 1,
+      "other": 1
     }
   },
   "DZA": {
@@ -180,6 +682,19 @@
       "facebook": 2,
       "twitter": 1,
       "address": 3
+    }
+  },
+  "ECU": {
+    "file": "ECU-Ecuador.json",
+    "country_name": "Ecuador",
+    "total": 16,
+    "types": {
+      "email": 1,
+      "phone": 4,
+      "website": 5,
+      "facebook": 1,
+      "twitter": 1,
+      "address": 4
     }
   },
   "EGY": {
@@ -208,6 +723,45 @@
       "address": 4
     }
   },
+  "ESH": {
+    "file": "ESH-Western-Sahara.json",
+    "country_name": "Western Sahara",
+    "total": 0,
+    "types": {}
+  },
+  "ESP": {
+    "file": "ESP-Spain.json",
+    "country_name": "Spain",
+    "total": 73,
+    "types": {
+      "email": 13,
+      "phone": 11,
+      "address": 8,
+      "website": 12,
+      "twitter": 6,
+      "facebook": 6,
+      "instagram": 6,
+      "youtube": 6,
+      "other": 5
+    }
+  },
+  "EST": {
+    "file": "EST-Estonia.json",
+    "country_name": "Estonia",
+    "total": 28,
+    "types": {
+      "email": 5,
+      "phone": 6,
+      "address": 3,
+      "website": 4,
+      "twitter": 3,
+      "facebook": 2,
+      "youtube": 2,
+      "linkedin": 1,
+      "flickr": 1,
+      "instagram": 1
+    }
+  },
   "ETH": {
     "file": "ETH-Ethiopia.json",
     "country_name": "Ethiopia",
@@ -221,6 +775,51 @@
       "address": 3
     }
   },
+  "FIN": {
+    "file": "FIN-Finland.json",
+    "country_name": "Finland",
+    "total": 10,
+    "types": {
+      "website": 6,
+      "email": 2,
+      "facebook": 1,
+      "twitter": 1
+    }
+  },
+  "FJI": {
+    "file": "FJI-Fiji.json",
+    "country_name": "Fiji",
+    "total": 20,
+    "types": {
+      "email": 2,
+      "phone": 7,
+      "website": 2,
+      "address": 4,
+      "twitter": 1,
+      "facebook": 1,
+      "other": 3
+    }
+  },
+  "FRA": {
+    "file": "FRA-France.json",
+    "country_name": "France",
+    "total": 21,
+    "types": {
+      "website": 4,
+      "email": 3,
+      "phone": 4,
+      "address": 2,
+      "twitter": 1,
+      "facebook": 1,
+      "other": 6
+    }
+  },
+  "FSM": {
+    "file": "FSM-Micronesia.json",
+    "country_name": "Micronesia",
+    "total": 0,
+    "types": {}
+  },
   "GAB": {
     "file": "GAB-Gabon.json",
     "country_name": "Gabon",
@@ -232,6 +831,34 @@
       "facebook": 2,
       "twitter": 1,
       "address": 3
+    }
+  },
+  "GBR": {
+    "file": "GBR-United-Kingdom.json",
+    "country_name": "United Kingdom",
+    "total": 21,
+    "types": {
+      "website": 3,
+      "email": 8,
+      "phone": 5,
+      "address": 3,
+      "twitter": 1,
+      "facebook": 1
+    }
+  },
+  "GEO": {
+    "file": "GEO-Georgia.json",
+    "country_name": "Georgia",
+    "total": 18,
+    "types": {
+      "website": 5,
+      "phone": 5,
+      "address": 1,
+      "facebook": 2,
+      "twitter": 2,
+      "youtube": 1,
+      "instagram": 1,
+      "email": 1
     }
   },
   "GHA": {
@@ -299,6 +926,252 @@
       "address": 3
     }
   },
+  "GRC": {
+    "file": "GRC-Greece.json",
+    "country_name": "Greece",
+    "total": 3,
+    "types": {
+      "website": 3
+    }
+  },
+  "GRD": {
+    "file": "GRD-Grenada.json",
+    "country_name": "Grenada",
+    "total": 23,
+    "types": {
+      "email": 4,
+      "phone": 6,
+      "address": 3,
+      "website": 7,
+      "facebook": 1,
+      "youtube": 1,
+      "other": 1
+    }
+  },
+  "GTM": {
+    "file": "GTM-Guatemala.json",
+    "country_name": "Guatemala",
+    "total": 19,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 4
+    }
+  },
+  "GUY": {
+    "file": "GUY-Guyana.json",
+    "country_name": "Guyana",
+    "total": 29,
+    "types": {
+      "email": 5,
+      "phone": 7,
+      "address": 7,
+      "website": 7,
+      "facebook": 2,
+      "country_code": 1
+    }
+  },
+  "HND": {
+    "file": "HND-Honduras.json",
+    "country_name": "Honduras",
+    "total": 22,
+    "types": {
+      "email": 3,
+      "phone": 2,
+      "website": 4,
+      "facebook": 5,
+      "twitter": 4,
+      "address": 4
+    }
+  },
+  "HRV": {
+    "file": "HRV-Croatia.json",
+    "country_name": "Croatia",
+    "total": 28,
+    "types": {
+      "email": 4,
+      "phone": 9,
+      "address": 2,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 2,
+      "youtube": 2,
+      "linkedin": 2
+    }
+  },
+  "HTI": {
+    "file": "HTI-Haiti.json",
+    "country_name": "Haiti",
+    "total": 19,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "address": 3,
+      "website": 3,
+      "facebook": 3,
+      "twitter": 3
+    }
+  },
+  "HUN": {
+    "file": "HUN-Hungary.json",
+    "country_name": "Hungary",
+    "total": 4,
+    "types": {
+      "website": 2,
+      "facebook": 1,
+      "other": 1
+    }
+  },
+  "IDN": {
+    "file": "IDN-Indonesia.json",
+    "country_name": "Indonesia",
+    "total": 0,
+    "types": {}
+  },
+  "IND": {
+    "file": "IND-India.json",
+    "country_name": "India",
+    "total": 18,
+    "types": {
+      "email": 4,
+      "phone": 2,
+      "address": 2,
+      "website": 4,
+      "twitter": 3,
+      "facebook": 3
+    }
+  },
+  "IRL": {
+    "file": "IRL-Ireland.json",
+    "country_name": "Ireland",
+    "total": 35,
+    "types": {
+      "website": 8,
+      "email": 4,
+      "phone": 12,
+      "address": 6,
+      "twitter": 2,
+      "facebook": 2,
+      "instagram": 1
+    }
+  },
+  "IRN": {
+    "file": "IRN-Iran.json",
+    "country_name": "Iran",
+    "total": 0,
+    "types": {}
+  },
+  "IRQ": {
+    "file": "IRQ-Iraq.json",
+    "country_name": "Iraq",
+    "total": 0,
+    "types": {}
+  },
+  "ISL": {
+    "file": "ISL-Iceland.json",
+    "country_name": "Iceland",
+    "total": 18,
+    "types": {
+      "email": 2,
+      "phone": 3,
+      "address": 4,
+      "website": 5,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1,
+      "other": 1
+    }
+  },
+  "ISR": {
+    "file": "ISR-Israel.json",
+    "country_name": "Israel",
+    "total": 19,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 3,
+      "address": 3
+    }
+  },
+  "ITA": {
+    "file": "ITA-Italy.json",
+    "country_name": "Italy",
+    "total": 30,
+    "types": {
+      "website": 7,
+      "phone": 6,
+      "address": 8,
+      "facebook": 1,
+      "twitter": 2,
+      "instagram": 1,
+      "youtube": 1,
+      "linkedin": 1,
+      "email": 3
+    }
+  },
+  "JAM": {
+    "file": "JAM-Jamaica.json",
+    "country_name": "Jamaica",
+    "total": 48,
+    "types": {
+      "email": 11,
+      "phone": 7,
+      "address": 6,
+      "website": 7,
+      "facebook": 4,
+      "twitter": 4,
+      "instagram": 3,
+      "youtube": 3,
+      "tiktok": 2,
+      "linkedin": 1
+    }
+  },
+  "JOR": {
+    "file": "JOR-Jordan.json",
+    "country_name": "Jordan",
+    "total": 14,
+    "types": {
+      "phone": 2,
+      "website": 2,
+      "email": 1,
+      "address": 1,
+      "twitter": 2,
+      "facebook": 2,
+      "other": 4
+    }
+  },
+  "JPN": {
+    "file": "JPN-Japan.json",
+    "country_name": "Japan",
+    "total": 4,
+    "types": {
+      "website": 4
+    }
+  },
+  "KAZ": {
+    "file": "KAZ-Kazakhstan.json",
+    "country_name": "Kazakhstan",
+    "total": 18,
+    "types": {
+      "email": 1,
+      "phone": 3,
+      "address": 2,
+      "telegram": 1,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1,
+      "youtube": 1,
+      "tiktok": 1,
+      "website": 5,
+      "other": 1
+    }
+  },
   "KEN": {
     "file": "KEN-Kenya.json",
     "country_name": "Kenya",
@@ -310,6 +1183,108 @@
       "twitter": 1,
       "facebook": 1,
       "address": 3
+    }
+  },
+  "KGZ": {
+    "file": "KGZ-Kyrgyzstan.json",
+    "country_name": "Kyrgyzstan",
+    "total": 35,
+    "types": {
+      "email": 4,
+      "phone": 11,
+      "address": 3,
+      "fax": 1,
+      "facebook": 3,
+      "twitter": 1,
+      "instagram": 3,
+      "telegram": 2,
+      "youtube": 1,
+      "website": 5,
+      "linkedin": 1
+    }
+  },
+  "KHM": {
+    "file": "KHM-Cambodia.json",
+    "country_name": "Cambodia",
+    "total": 30,
+    "types": {
+      "email": 4,
+      "phone": 6,
+      "address": 6,
+      "website": 7,
+      "facebook": 2,
+      "telegram": 2,
+      "youtube": 2,
+      "tiktok": 1
+    }
+  },
+  "KIR": {
+    "file": "KIR-Kiribati.json",
+    "country_name": "Kiribati",
+    "total": 10,
+    "types": {
+      "email": 2,
+      "phone": 2,
+      "address": 1,
+      "website": 2,
+      "facebook": 2,
+      "other": 1
+    }
+  },
+  "KNA": {
+    "file": "KNA-Saint-Kitts-and-Nevis.json",
+    "country_name": "Saint Kitts and Nevis",
+    "total": 24,
+    "types": {
+      "email": 6,
+      "phone": 7,
+      "fax": 3,
+      "address": 3,
+      "website": 3,
+      "facebook": 2
+    }
+  },
+  "KOR": {
+    "file": "KOR-South-Korea.json",
+    "country_name": "South Korea",
+    "total": 7,
+    "types": {
+      "website": 4,
+      "address": 1,
+      "facebook": 1,
+      "twitter": 1
+    }
+  },
+  "KWT": {
+    "file": "KWT-Kuwait.json",
+    "country_name": "Kuwait",
+    "total": 24,
+    "types": {
+      "email": 1,
+      "website": 5,
+      "phone": 8,
+      "address": 3,
+      "twitter": 2,
+      "instagram": 2,
+      "youtube": 1,
+      "other": 2
+    }
+  },
+  "LAO": {
+    "file": "LAO-Laos.json",
+    "country_name": "Laos",
+    "total": 4,
+    "types": {
+      "other": 4
+    }
+  },
+  "LBN": {
+    "file": "LBN-Lebanon.json",
+    "country_name": "Lebanon",
+    "total": 5,
+    "types": {
+      "website": 1,
+      "other": 4
     }
   },
   "LBR": {
@@ -339,6 +1314,50 @@
       "twitter": 1
     }
   },
+  "LCA": {
+    "file": "LCA-Saint-Lucia.json",
+    "country_name": "Saint Lucia",
+    "total": 22,
+    "types": {
+      "email": 3,
+      "phone": 5,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 2,
+      "other": 1,
+      "address": 4
+    }
+  },
+  "LIE": {
+    "file": "LIE-Liechtenstein.json",
+    "country_name": "Liechtenstein",
+    "total": 26,
+    "types": {
+      "email": 8,
+      "phone": 4,
+      "address": 4,
+      "website": 5,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1,
+      "youtube": 1,
+      "other": 1
+    }
+  },
+  "LKA": {
+    "file": "LKA-Sri-Lanka.json",
+    "country_name": "Sri Lanka",
+    "total": 36,
+    "types": {
+      "email": 7,
+      "phone": 13,
+      "address": 6,
+      "website": 4,
+      "twitter": 2,
+      "facebook": 2,
+      "instagram": 2
+    }
+  },
   "LSO": {
     "file": "LSO-Lesotho.json",
     "country_name": "Lesotho",
@@ -350,6 +1369,52 @@
       "facebook": 2,
       "twitter": 1,
       "address": 2,
+      "other": 1
+    }
+  },
+  "LTU": {
+    "file": "LTU-Lithuania.json",
+    "country_name": "Lithuania",
+    "total": 14,
+    "types": {
+      "website": 5,
+      "email": 1,
+      "phone": 2,
+      "address": 3,
+      "twitter": 1,
+      "facebook": 1,
+      "other": 1
+    }
+  },
+  "LUX": {
+    "file": "LUX-Luxembourg.json",
+    "country_name": "Luxembourg",
+    "total": 24,
+    "types": {
+      "email": 3,
+      "phone": 5,
+      "address": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 2,
+      "linkedin": 1,
+      "youtube": 1,
+      "other": 1
+    }
+  },
+  "LVA": {
+    "file": "LVA-Latvia.json",
+    "country_name": "Latvia",
+    "total": 28,
+    "types": {
+      "email": 5,
+      "phone": 6,
+      "address": 4,
+      "website": 5,
+      "facebook": 3,
+      "twitter": 2,
+      "instagram": 2,
       "other": 1
     }
   },
@@ -366,6 +1431,38 @@
       "address": 4
     }
   },
+  "MCO": {
+    "file": "MCO-Monaco.json",
+    "country_name": "Monaco",
+    "total": 17,
+    "types": {
+      "website": 8,
+      "phone": 1,
+      "address": 1,
+      "facebook": 2,
+      "twitter": 1,
+      "instagram": 2,
+      "youtube": 1,
+      "linkedin": 1
+    }
+  },
+  "MDA": {
+    "file": "MDA-Moldova.json",
+    "country_name": "Moldova",
+    "total": 29,
+    "types": {
+      "email": 10,
+      "phone": 6,
+      "fax": 1,
+      "address": 2,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 1,
+      "youtube": 1,
+      "telegram": 1
+    }
+  },
   "MDG": {
     "file": "MDG-Madagascar.json",
     "country_name": "Madagascar",
@@ -376,6 +1473,59 @@
       "address": 2,
       "website": 3,
       "facebook": 3
+    }
+  },
+  "MDV": {
+    "file": "MDV-Maldives.json",
+    "country_name": "Maldives",
+    "total": 15,
+    "types": {
+      "website": 5,
+      "email": 3,
+      "phone": 3,
+      "postal": 1,
+      "facebook": 1,
+      "twitter": 1,
+      "other": 1
+    }
+  },
+  "MEX": {
+    "file": "MEX-Mexico.json",
+    "country_name": "Mexico",
+    "total": 15,
+    "types": {
+      "email": 5,
+      "phone": 3,
+      "website": 2,
+      "address": 1,
+      "facebook": 1,
+      "twitter": 1,
+      "other": 2
+    }
+  },
+  "MHL": {
+    "file": "MHL-Marshall-Islands.json",
+    "country_name": "Marshall Islands",
+    "total": 3,
+    "types": {
+      "phone": 1,
+      "website": 1,
+      "other": 1
+    }
+  },
+  "MKD": {
+    "file": "MKD-North-Macedonia.json",
+    "country_name": "North Macedonia",
+    "total": 37,
+    "types": {
+      "email": 9,
+      "phone": 8,
+      "address": 4,
+      "website": 7,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 2,
+      "social_media": 3
     }
   },
   "MLI": {
@@ -390,6 +1540,41 @@
       "twitter": 2,
       "facebook": 2
     }
+  },
+  "MLT": {
+    "file": "MLT-Malta.json",
+    "country_name": "Malta",
+    "total": 14,
+    "types": {
+      "website": 5,
+      "address": 4,
+      "twitter": 1,
+      "other": 4
+    }
+  },
+  "MMR": {
+    "file": "MMR-Myanmar.json",
+    "country_name": "Myanmar",
+    "total": 0,
+    "types": {}
+  },
+  "MNE": {
+    "file": "MNE-Montenegro.json",
+    "country_name": "Montenegro",
+    "total": 10,
+    "types": {
+      "website": 6,
+      "facebook": 1,
+      "twitter": 1,
+      "address": 1,
+      "phone": 1
+    }
+  },
+  "MNG": {
+    "file": "MNG-Mongolia.json",
+    "country_name": "Mongolia",
+    "total": 0,
+    "types": {}
   },
   "MOZ": {
     "file": "MOZ-Mozambique.json",
@@ -443,6 +1628,35 @@
       "address": 3
     }
   },
+  "MYS": {
+    "file": "MYS-Malaysia.json",
+    "country_name": "Malaysia",
+    "total": 48,
+    "types": {
+      "email": 10,
+      "phone": 8,
+      "website": 9,
+      "facebook": 4,
+      "twitter": 3,
+      "instagram": 2,
+      "address": 9,
+      "other": 3
+    }
+  },
+  "NAM": {
+    "file": "NAM-Namibia.json",
+    "country_name": "Namibia",
+    "total": 30,
+    "types": {
+      "email": 7,
+      "website": 5,
+      "facebook": 3,
+      "twitter": 2,
+      "instagram": 2,
+      "phone": 6,
+      "address": 5
+    }
+  },
   "NER": {
     "file": "NER-Niger.json",
     "country_name": "Niger",
@@ -469,6 +1683,264 @@
       "address": 3
     }
   },
+  "NIC": {
+    "file": "NIC-Nicaragua.json",
+    "country_name": "Nicaragua",
+    "total": 10,
+    "types": {
+      "email": 2,
+      "phone": 3,
+      "website": 2,
+      "address": 2,
+      "twitter": 1
+    }
+  },
+  "NLD": {
+    "file": "NLD-Netherlands.json",
+    "country_name": "Netherlands",
+    "total": 29,
+    "types": {
+      "email": 2,
+      "phone": 8,
+      "address": 5,
+      "website": 6,
+      "twitter": 1,
+      "facebook": 1,
+      "instagram": 1,
+      "linkedin": 1,
+      "youtube": 1,
+      "bluesky": 1,
+      "other": 2
+    }
+  },
+  "NOR": {
+    "file": "NOR-Norway.json",
+    "country_name": "Norway",
+    "total": 35,
+    "types": {
+      "email": 6,
+      "phone": 11,
+      "website": 9,
+      "address": 7,
+      "twitter": 1,
+      "instagram": 1
+    }
+  },
+  "NPL": {
+    "file": "NPL-Nepal.json",
+    "country_name": "Nepal",
+    "total": 52,
+    "types": {
+      "email": 12,
+      "website": 9,
+      "phone": 10,
+      "address": 7,
+      "facebook": 3,
+      "twitter": 3,
+      "instagram": 2,
+      "youtube": 2,
+      "other": 4
+    }
+  },
+  "NRU": {
+    "file": "NRU-Nauru.json",
+    "country_name": "Nauru",
+    "total": 9,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "website": 2,
+      "address": 1
+    }
+  },
+  "NZL": {
+    "file": "NZL-New-Zealand.json",
+    "country_name": "New Zealand",
+    "total": 52,
+    "types": {
+      "email": 14,
+      "phone": 14,
+      "address": 6,
+      "twitter": 2,
+      "facebook": 2,
+      "linkedin": 1,
+      "youtube": 1,
+      "website": 11,
+      "other": 1
+    }
+  },
+  "OMN": {
+    "file": "OMN-Oman.json",
+    "country_name": "Oman",
+    "total": 3,
+    "types": {
+      "website": 2,
+      "email": 1
+    }
+  },
+  "PAK": {
+    "file": "PAK-Pakistan.json",
+    "country_name": "Pakistan",
+    "total": 26,
+    "types": {
+      "email": 1,
+      "phone": 9,
+      "fax": 2,
+      "address": 5,
+      "website": 1,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1,
+      "linkedin": 1,
+      "youtube": 1,
+      "other": 3
+    }
+  },
+  "PAN": {
+    "file": "PAN-Panama.json",
+    "country_name": "Panama",
+    "total": 17,
+    "types": {
+      "email": 3,
+      "phone": 5,
+      "website": 3,
+      "facebook": 1,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "PER": {
+    "file": "PER-Peru.json",
+    "country_name": "Peru",
+    "total": 26,
+    "types": {
+      "email": 2,
+      "phone": 8,
+      "whatsapp": 2,
+      "address": 5,
+      "website": 5,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1,
+      "youtube": 1
+    }
+  },
+  "PLW": {
+    "file": "PLW-Palau.json",
+    "country_name": "Palau",
+    "total": 18,
+    "types": {
+      "website": 1,
+      "phone": 9,
+      "fax": 1,
+      "address": 2,
+      "email": 4,
+      "twitter": 1
+    }
+  },
+  "PNG": {
+    "file": "PNG-Papua-New-Guinea.json",
+    "country_name": "Papua New Guinea",
+    "total": 19,
+    "types": {
+      "email": 4,
+      "phone": 1,
+      "address": 3,
+      "website": 4,
+      "other": 7
+    }
+  },
+  "POL": {
+    "file": "POL-Poland.json",
+    "country_name": "Poland",
+    "total": 23,
+    "types": {
+      "email": 7,
+      "phone": 5,
+      "address": 4,
+      "website": 4,
+      "twitter": 1,
+      "facebook": 1,
+      "other": 1
+    }
+  },
+  "PRK": {
+    "file": "PRK-North-Korea.json",
+    "country_name": "North Korea",
+    "total": 0,
+    "types": {}
+  },
+  "PRT": {
+    "file": "PRT-Portugal.json",
+    "country_name": "Portugal",
+    "total": 53,
+    "types": {
+      "email": 13,
+      "phone": 17,
+      "address": 6,
+      "website": 10,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 2,
+      "youtube": 2,
+      "other": 1
+    }
+  },
+  "PRY": {
+    "file": "PRY-Paraguay.json",
+    "country_name": "Paraguay",
+    "total": 36,
+    "types": {
+      "email": 8,
+      "phone": 8,
+      "website": 8,
+      "facebook": 2,
+      "twitter": 3,
+      "address": 7
+    }
+  },
+  "PSE": {
+    "file": "PSE-Palestine.json",
+    "country_name": "Palestine",
+    "total": 0,
+    "types": {}
+  },
+  "QAT": {
+    "file": "QAT-Qatar.json",
+    "country_name": "Qatar",
+    "total": 14,
+    "types": {
+      "phone": 1,
+      "website": 6,
+      "address": 1,
+      "twitter": 2,
+      "instagram": 1,
+      "telegram": 1,
+      "other": 2
+    }
+  },
+  "ROU": {
+    "file": "ROU-Romania.json",
+    "country_name": "Romania",
+    "total": 18,
+    "types": {
+      "email": 2,
+      "website": 2,
+      "phone": 5,
+      "address": 3,
+      "facebook": 1,
+      "linkedin": 1,
+      "youtube": 1,
+      "newsletter": 1,
+      "other": 2
+    }
+  },
+  "RUS": {
+    "file": "RUS-Russia.json",
+    "country_name": "Russia",
+    "total": 0,
+    "types": {}
+  },
   "RWA": {
     "file": "RWA-Rwanda.json",
     "country_name": "Rwanda",
@@ -480,6 +1952,19 @@
       "website": 4,
       "twitter": 1,
       "facebook": 1
+    }
+  },
+  "SAU": {
+    "file": "SAU-Saudi-Arabia.json",
+    "country_name": "Saudi Arabia",
+    "total": 18,
+    "types": {
+      "email": 3,
+      "phone": 6,
+      "website": 3,
+      "twitter": 2,
+      "instagram": 1,
+      "other": 3
     }
   },
   "SDN": {
@@ -508,6 +1993,35 @@
       "address": 4
     }
   },
+  "SGP": {
+    "file": "SGP-Singapore.json",
+    "country_name": "Singapore",
+    "total": 39,
+    "types": {
+      "email": 6,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 1,
+      "instagram": 2,
+      "linkedin": 1,
+      "phone": 10,
+      "address": 10,
+      "other": 2
+    }
+  },
+  "SLB": {
+    "file": "SLB-Solomon-Islands.json",
+    "country_name": "Solomon Islands",
+    "total": 6,
+    "types": {
+      "email": 1,
+      "phone": 1,
+      "address": 1,
+      "website": 1,
+      "facebook": 1,
+      "twitter": 1
+    }
+  },
   "SLE": {
     "file": "SLE-Sierra-Leone.json",
     "country_name": "Sierra Leone",
@@ -519,6 +2033,44 @@
       "facebook": 4,
       "twitter": 2,
       "address": 4
+    }
+  },
+  "SLV": {
+    "file": "SLV-El-Salvador.json",
+    "country_name": "El Salvador",
+    "total": 18,
+    "types": {
+      "email": 2,
+      "phone": 4,
+      "address": 2,
+      "website": 7,
+      "facebook": 1,
+      "twitter": 1,
+      "instagram": 1
+    }
+  },
+  "SMR": {
+    "file": "SMR-San-Marino.json",
+    "country_name": "San Marino",
+    "total": 21,
+    "types": {
+      "email": 6,
+      "phone": 6,
+      "fax": 2,
+      "address": 2,
+      "website": 4,
+      "other": 1
+    }
+  },
+  "SOL": {
+    "file": "SOL-Somaliland.json",
+    "country_name": "Somaliland",
+    "total": 6,
+    "types": {
+      "social_media": 2,
+      "website": 1,
+      "organization": 2,
+      "email": 1
     }
   },
   "SOM": {
@@ -534,6 +2086,26 @@
       "address": 2
     }
   },
+  "SOS": {
+    "file": "SOS-South-Ossetia.json",
+    "country_name": "South Ossetia",
+    "total": 0,
+    "types": {}
+  },
+  "SRB": {
+    "file": "SRB-Serbia.json",
+    "country_name": "Serbia",
+    "total": 37,
+    "types": {
+      "email": 14,
+      "website": 4,
+      "twitter": 1,
+      "facebook": 1,
+      "phone": 10,
+      "address": 4,
+      "other": 3
+    }
+  },
   "SSD": {
     "file": "SSD-South-Sudan.json",
     "country_name": "South Sudan",
@@ -544,6 +2116,74 @@
       "address": 2,
       "facebook": 2,
       "twitter": 2
+    }
+  },
+  "STP": {
+    "file": "STP-Sao-Tome-and-Principe.json",
+    "country_name": "São Tomé and Príncipe",
+    "total": 26,
+    "types": {
+      "email": 4,
+      "website": 4,
+      "facebook": 3,
+      "phone": 9,
+      "address": 6
+    }
+  },
+  "SUR": {
+    "file": "SUR-Suriname.json",
+    "country_name": "Suriname",
+    "total": 18,
+    "types": {
+      "email": 5,
+      "phone": 3,
+      "website": 4,
+      "twitter": 2,
+      "facebook": 1,
+      "address": 3
+    }
+  },
+  "SVK": {
+    "file": "SVK-Slovakia.json",
+    "country_name": "Slovakia",
+    "total": 46,
+    "types": {
+      "email": 12,
+      "phone": 8,
+      "address": 7,
+      "website": 10,
+      "facebook": 3,
+      "twitter": 2,
+      "instagram": 3,
+      "youtube": 1
+    }
+  },
+  "SVN": {
+    "file": "SVN-Slovenia.json",
+    "country_name": "Slovenia",
+    "total": 31,
+    "types": {
+      "email": 6,
+      "website": 4,
+      "facebook": 3,
+      "twitter": 3,
+      "instagram": 3,
+      "phone": 6,
+      "address": 4,
+      "other": 2
+    }
+  },
+  "SWE": {
+    "file": "SWE-Sweden.json",
+    "country_name": "Sweden",
+    "total": 28,
+    "types": {
+      "phone": 8,
+      "address": 2,
+      "email": 3,
+      "website": 13,
+      "instagram": 1,
+      "twitter": 1
     }
   },
   "SWZ": {
@@ -572,6 +2212,12 @@
       "address": 3
     }
   },
+  "SYR": {
+    "file": "SYR-Syria.json",
+    "country_name": "Syria",
+    "total": 0,
+    "types": {}
+  },
   "TCD": {
     "file": "TCD-Chad.json",
     "country_name": "Chad",
@@ -583,6 +2229,83 @@
       "facebook": 2,
       "twitter": 2,
       "address": 3
+    }
+  },
+  "TGO": {
+    "file": "TGO-Togo.json",
+    "country_name": "Togo",
+    "total": 39,
+    "types": {
+      "email": 4,
+      "website": 11,
+      "facebook": 2,
+      "twitter": 4,
+      "instagram": 1,
+      "phone": 7,
+      "address": 7,
+      "other": 3
+    }
+  },
+  "THA": {
+    "file": "THA-Thailand.json",
+    "country_name": "Thailand",
+    "total": 24,
+    "types": {
+      "website": 2,
+      "phone": 6,
+      "address": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 1,
+      "youtube": 1,
+      "other": 1,
+      "email": 5
+    }
+  },
+  "TJK": {
+    "file": "TJK-Tajikistan.json",
+    "country_name": "Tajikistan",
+    "total": 0,
+    "types": {}
+  },
+  "TKM": {
+    "file": "TKM-Turkmenistan.json",
+    "country_name": "Turkmenistan",
+    "total": 0,
+    "types": {}
+  },
+  "TLS": {
+    "file": "TLS-Timor-Leste.json",
+    "country_name": "Timor-Leste",
+    "total": 0,
+    "types": {}
+  },
+  "TON": {
+    "file": "TON-Tonga.json",
+    "country_name": "Tonga",
+    "total": 0,
+    "types": {}
+  },
+  "TRA": {
+    "file": "TRA-Transnistria.json",
+    "country_name": "Transnistria",
+    "total": 4,
+    "types": {
+      "note": 2,
+      "website": 2
+    }
+  },
+  "TTO": {
+    "file": "TTO-Trinidad-and-Tobago.json",
+    "country_name": "Trinidad and Tobago",
+    "total": 18,
+    "types": {
+      "email": 3,
+      "phone": 6,
+      "address": 3,
+      "twitter": 1,
+      "facebook": 1,
+      "website": 4
     }
   },
   "TUN": {
@@ -598,6 +2321,47 @@
       "twitter": 4
     }
   },
+  "TUR": {
+    "file": "TUR-Turkey.json",
+    "country_name": "Turkey",
+    "total": 36,
+    "types": {
+      "email": 2,
+      "phone": 9,
+      "fax": 3,
+      "address": 5,
+      "website": 7,
+      "twitter": 2,
+      "facebook": 1,
+      "instagram": 1,
+      "youtube": 1,
+      "other": 5
+    }
+  },
+  "TUV": {
+    "file": "TUV-Tuvalu.json",
+    "country_name": "Tuvalu",
+    "total": 0,
+    "types": {}
+  },
+  "TWN": {
+    "file": "TWN-Taiwan.json",
+    "country_name": "Taiwan",
+    "total": 29,
+    "types": {
+      "email": 2,
+      "phone": 6,
+      "address": 5,
+      "website": 5,
+      "facebook": 3,
+      "twitter": 1,
+      "instagram": 2,
+      "youtube": 2,
+      "line": 1,
+      "threads": 1,
+      "other": 1
+    }
+  },
   "TZA": {
     "file": "TZA-Tanzania.json",
     "country_name": "Tanzania",
@@ -610,6 +2374,150 @@
       "facebook": 2,
       "address": 3
     }
+  },
+  "UGA": {
+    "file": "UGA-Uganda.json",
+    "country_name": "Uganda",
+    "total": 33,
+    "types": {
+      "email": 8,
+      "website": 7,
+      "twitter": 3,
+      "facebook": 1,
+      "phone": 8,
+      "address": 5,
+      "other": 1
+    }
+  },
+  "UKR": {
+    "file": "UKR-Ukraine.json",
+    "country_name": "Ukraine",
+    "total": 5,
+    "types": {
+      "website": 4,
+      "twitter": 1
+    }
+  },
+  "URY": {
+    "file": "URY-Uruguay.json",
+    "country_name": "Uruguay",
+    "total": 22,
+    "types": {
+      "email": 3,
+      "phone": 2,
+      "address": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "instagram": 2,
+      "youtube": 2,
+      "website": 3,
+      "other": 3
+    }
+  },
+  "USA": {
+    "file": "USA-United-States.json",
+    "country_name": "United States",
+    "total": 14,
+    "types": {
+      "website": 4,
+      "address": 1,
+      "phone": 1,
+      "twitter": 1,
+      "facebook": 1,
+      "other": 6
+    }
+  },
+  "UZB": {
+    "file": "UZB-Uzbekistan.json",
+    "country_name": "Uzbekistan",
+    "total": 0,
+    "types": {}
+  },
+  "VCT": {
+    "file": "VCT-Saint-Vincent-and-the-Grenadines.json",
+    "country_name": "Saint Vincent and the Grenadines",
+    "total": 20,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "address": 4,
+      "website": 4,
+      "facebook": 3,
+      "twitter": 1
+    }
+  },
+  "VEN": {
+    "file": "VEN-Venezuela.json",
+    "country_name": "Venezuela",
+    "total": 11,
+    "types": {
+      "email": 4,
+      "phone": 2,
+      "website": 2,
+      "facebook": 1,
+      "address": 2
+    }
+  },
+  "VNM": {
+    "file": "VNM-Vietnam.json",
+    "country_name": "Vietnam",
+    "total": 19,
+    "types": {
+      "email": 3,
+      "phone": 5,
+      "address": 3,
+      "website": 4,
+      "facebook": 1,
+      "twitter": 1,
+      "other": 1,
+      "fax": 1
+    }
+  },
+  "VUT": {
+    "file": "VUT-Vanuatu.json",
+    "country_name": "Vanuatu",
+    "total": 10,
+    "types": {
+      "email": 1,
+      "phone": 3,
+      "address": 1,
+      "website": 1,
+      "other": 4
+    }
+  },
+  "WSM": {
+    "file": "WSM-Samoa.json",
+    "country_name": "Samoa",
+    "total": 47,
+    "types": {
+      "email": 8,
+      "phone": 15,
+      "address": 7,
+      "website": 10,
+      "facebook": 4,
+      "twitter": 1,
+      "youtube": 2
+    }
+  },
+  "XKK": {
+    "file": "XKK-Kosovo.json",
+    "country_name": "Kosovo",
+    "total": 31,
+    "types": {
+      "email": 10,
+      "phone": 9,
+      "address": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "youtube": 1
+    }
+  },
+  "YEM": {
+    "file": "YEM-Yemen.json",
+    "country_name": "Yemen",
+    "total": 0,
+    "types": {}
   },
   "ZAF": {
     "file": "ZAF-South-Africa.json",
@@ -635,6 +2543,22 @@
       "website": 3,
       "twitter": 2,
       "facebook": 2
+    }
+  },
+  "ZWE": {
+    "file": "ZWE-Zimbabwe.json",
+    "country_name": "Zimbabwe",
+    "total": 45,
+    "types": {
+      "email": 9,
+      "phone": 7,
+      "address": 7,
+      "website": 8,
+      "twitter": 5,
+      "facebook": 2,
+      "youtube": 2,
+      "other": 4,
+      "instagram": 1
     }
   }
 }

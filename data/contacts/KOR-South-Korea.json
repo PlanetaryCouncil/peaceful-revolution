@@ -1,0 +1,48 @@
+{
+  "iso": "KOR",
+  "country_name": "South Korea",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Presidential Office Official Website",
+      "url": "https://www.president.go.kr",
+      "source": "Verified direct access"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office Mailing Address",
+      "value": "03048 Seoul, Jongno-gu, Cheongwadae-ro 1, Republic of Korea",
+      "source": "Verified from president.go.kr"
+    },
+    {
+      "type": "website",
+      "label": "South Korean Government Information Disclosure Portal",
+      "url": "https://www.open.go.kr",
+      "source": "Verified from president.go.kr"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office Facebook",
+      "url": "https://www.facebook.com/president.korea",
+      "source": "Verified from president.go.kr"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office X (Twitter)",
+      "url": "https://twitter.com/President_Korea",
+      "source": "Verified from president.go.kr social media directory"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official Website",
+      "url": "https://www.mofa.go.kr",
+      "source": "Known government domain"
+    },
+    {
+      "type": "website",
+      "label": "Government24 - South Korea Government Services Portal",
+      "url": "https://www.gov.kr",
+      "source": "Official government services portal"
+    }
+  ]
+}

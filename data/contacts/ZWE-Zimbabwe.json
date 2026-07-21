@@ -1,0 +1,276 @@
+{
+  "iso": "ZWE",
+  "country_name": "Zimbabwe",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs & International Trade - Main",
+      "value": "mfa@zimfa.gov.zw",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President and Cabinet",
+      "value": "info@opc.gov.zw",
+      "source": "https://www.theopc.gov.zw/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President and Cabinet - Webmaster",
+      "value": "webmaster@opc.gov.zw",
+      "source": "https://www.theopc.gov.zw/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance and Investment Promotion",
+      "value": "communications@zimtreasury.co.zw",
+      "source": "https://zimtreasury.co.zw/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health and Child Care - Public Relations",
+      "value": "pr@mohcc.gov.zw",
+      "source": "https://www.mohcc.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Zimbabwe - Clerk",
+      "value": "clerk@parlzim.gov.zw",
+      "source": "https://data.ipu.org/parliament/ZW/ZW-LC01/basic/contact-details/"
+    },
+    {
+      "type": "email",
+      "label": "Department of Immigration",
+      "value": "customercare@zimimmigration.gov.zw",
+      "source": "https://www.zimimmigration.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Zimbabwe to USA - Consular Services",
+      "value": "consular@zimembassydc.org",
+      "source": "https://zimembassydc.org/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Zimbabwe to USA - General Inquiries",
+      "value": "general@zimembassydc.org",
+      "source": "https://zimembassydc.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "value": "+263-242-794681-6, +263-242-793372-5, +263-242-706114-5",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President and Cabinet",
+      "value": "+263 24 2707091/7",
+      "source": "https://www.theopc.gov.zw/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance and Investment Promotion",
+      "value": "+263 8688003449-53",
+      "source": "https://zimtreasury.co.zw/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health and Child Care",
+      "value": "+263 242 798555-60, +263 242 798537-60, +263 712 867 337",
+      "source": "https://www.mohcc.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Zimbabwe",
+      "value": "+263 242 700 181/9, +263 242 252 936/55",
+      "source": "https://www.parlzim.gov.zw/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Immigration",
+      "value": "+263 242 790 193, +263 242 791 911",
+      "source": "https://www.zimimmigration.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Zimbabwe to USA",
+      "value": "+1 202 332 7100",
+      "source": "https://zimembassydc.org/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "value": "P.O. Box 4240 Munhumutapa Building, Samora Machel Avenue/Sam Nujoma Street, Harare",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President and Cabinet",
+      "value": "Munhumutapa Building, Corner Sam Nujoma/Samora Machel Avenue, Harare",
+      "source": "https://www.theopc.gov.zw/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance and Investment Promotion",
+      "value": "3rd Floor, Block B, Mgandane Dlodlo Building, New Government Complex, Corner Central Avenue and Simon Vengesai Muzenda Street, Harare",
+      "source": "https://zimtreasury.co.zw/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Health and Child Care",
+      "value": "Kaguvi Building, 4th Floor, Central Avenue, Harare; Postal: Box CY 1122 Causeway, Harare",
+      "source": "https://www.mohcc.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "address",
+      "label": "Parliament of Zimbabwe",
+      "value": "Parliament Building, Mt Hampden, Harare",
+      "source": "https://www.parlzim.gov.zw/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Department of Immigration",
+      "value": "Chingaira Building, Corner L. Takawira & H. Chitepo, P. Bag 7717 Causeway, Harare",
+      "source": "https://www.zimimmigration.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Zimbabwe to USA",
+      "value": "1608 New Hampshire Avenue NW, Washington, DC 20009",
+      "source": "https://zimembassydc.org/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Government of Zimbabwe - Main Portal",
+      "url": "https://www.zim.gov.zw/",
+      "source": "https://www.zim.gov.zw/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "url": "https://www.zimfa.gov.zw/",
+      "source": "https://www.zimfa.gov.zw/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President and Cabinet",
+      "url": "https://www.theopc.gov.zw/",
+      "source": "https://www.theopc.gov.zw/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance and Investment Promotion",
+      "url": "https://zimtreasury.co.zw/",
+      "source": "https://zimtreasury.co.zw/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health and Child Care",
+      "url": "https://www.mohcc.gov.zw/",
+      "source": "https://www.mohcc.gov.zw/"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Zimbabwe",
+      "url": "https://www.parlzim.gov.zw/",
+      "source": "https://www.parlzim.gov.zw/"
+    },
+    {
+      "type": "website",
+      "label": "Department of Immigration",
+      "url": "https://www.zimimmigration.gov.zw/",
+      "source": "https://www.zimimmigration.gov.zw/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Zimbabwe to USA",
+      "url": "https://zimembassydc.org/",
+      "source": "https://zimembassydc.org/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "url": "https://twitter.com/mofa_zw",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Zimbabwe Official",
+      "url": "https://twitter.com/zimbabwe_of",
+      "source": "https://twitter.com/zimbabwe_of"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Health and Child Care",
+      "url": "https://twitter.com/MoHCCZim",
+      "source": "https://www.mohcc.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "twitter",
+      "label": "Embassy of Zimbabwe to USA",
+      "url": "https://twitter.com/ZimEmbassyUSA",
+      "source": "https://zimembassydc.org/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "President Emmerson Mnangagwa",
+      "url": "https://twitter.com/edmnangagwa",
+      "source": "https://x.com/edmnangagwa"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Health and Child Care",
+      "url": "https://www.facebook.com/Ministry-of-Health-and-Child-Care",
+      "source": "https://www.mohcc.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy of Zimbabwe to USA",
+      "url": "https://www.facebook.com/Embassy-of-the-Republic-of-Zimbabwe-USA",
+      "source": "https://zimembassydc.org/contact-us/"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs & International Trade",
+      "url": "https://www.youtube.com/channel/UCp-szPiVtUbP3d-UGR2UtiA",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Health and Child Care",
+      "url": "https://www.youtube.com/channel/UCKpePSK6iH9bCUdAY5EDUpQ",
+      "source": "https://www.mohcc.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Finance - WhatsApp",
+      "value": "+263 719 567 051",
+      "source": "https://zimtreasury.co.zw/contact-us/"
+    },
+    {
+      "type": "other",
+      "label": "Department of Immigration - WhatsApp",
+      "value": "+263 719 380 874",
+      "source": "https://www.zimimmigration.gov.zw/?page_id=1228"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Fax",
+      "value": "+263-242-705161",
+      "source": "https://www.zimfa.gov.zw/index.php/contact/contact-details"
+    },
+    {
+      "type": "other",
+      "label": "Parliament of Zimbabwe - Fax",
+      "value": "+263 242 252 935",
+      "source": "https://www.parlzim.gov.zw/contact-us/"
+    },
+    {
+      "type": "instagram",
+      "label": "President Emmerson Mnangagwa",
+      "url": "https://www.instagram.com/presidentmnangagwa/",
+      "source": "https://www.instagram.com/presidentmnangagwa/"
+    }
+  ]
+}

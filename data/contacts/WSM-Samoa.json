@@ -1,0 +1,288 @@
+{
+  "iso": "WSM",
+  "country_name": "Samoa",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government Press Secretariat",
+      "value": "presssecretariat@samoa.ws",
+      "source": "https://www.samoagovt.ws/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance",
+      "value": "information@mof.gov.ws",
+      "source": "https://www.mof.gov.ws"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health - General Inquiries",
+      "value": "enquiries@health.gov.ws",
+      "source": "https://www.health.gov.ws"
+    },
+    {
+      "type": "email",
+      "label": "Attorney General's Office",
+      "value": "attorney.general@ag.gov.ws",
+      "source": "https://www.ag.gov.ws"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Ombudsman - General",
+      "value": "info@ombudsman.gov.ws",
+      "source": "https://www.ombudsman.gov.ws"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Ombudsman - Complaints",
+      "value": "complaints@ombudsman.gov.ws",
+      "source": "https://www.ombudsman.gov.ws"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Samoa",
+      "value": "info@palemene.ws",
+      "source": "https://www.palemene.ws"
+    },
+    {
+      "type": "email",
+      "label": "Samoa Audit Office",
+      "value": "info@audit.gov.ws",
+      "source": "https://www.audit.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Line",
+      "value": "+685 24799",
+      "source": "https://www.samoagovt.ws/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Government Switchboard",
+      "value": "+685 63222 (ext. 746 or 747)",
+      "source": "https://www.samoagovt.ws/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Government Inquiry Line",
+      "value": "+685 26322",
+      "source": "https://www.samoagovt.ws/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance",
+      "value": "+685 34333",
+      "source": "https://www.mof.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - Main",
+      "value": "+685 66660",
+      "source": "https://www.health.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - Alternate",
+      "value": "+685 68100",
+      "source": "https://www.health.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - Toll Free",
+      "value": "+685 8006440",
+      "source": "https://www.health.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Attorney General's Office",
+      "value": "+685 20295",
+      "source": "https://www.ag.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Ombudsman",
+      "value": "+685 25394",
+      "source": "https://www.ombudsman.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Ombudsman - Fax",
+      "value": "+685 21862",
+      "source": "https://www.ombudsman.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Samoa",
+      "value": "+685 21811",
+      "source": "https://www.palemene.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Samoa Audit Office",
+      "value": "+685 27751",
+      "source": "https://www.audit.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Samoa Audit Office - Fax",
+      "value": "+685 24167",
+      "source": "https://www.audit.gov.ws"
+    },
+    {
+      "type": "phone",
+      "label": "Samoa Post - Customer Service",
+      "value": "+685 27640 (ext. 120, 114)",
+      "source": "https://www.samoapost.ws"
+    },
+    {
+      "type": "phone",
+      "label": "UN Mission Office",
+      "value": "+685 23670",
+      "source": "https://samoa.un.org"
+    },
+    {
+      "type": "address",
+      "label": "Government Main Office",
+      "value": "P.O. Box L 1861, Apia, Samoa",
+      "source": "https://www.samoagovt.ws/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance",
+      "value": "Apia City Boulevard, Floors 2, 3, 4, 6, 7, Central Bank Building, Apia, Samoa",
+      "source": "https://www.mof.gov.ws"
+    },
+    {
+      "type": "address",
+      "label": "Attorney General's Office",
+      "value": "TATTE Building, Sogi, Floor 6, Samoa",
+      "source": "https://www.ag.gov.ws"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Ombudsman - Physical",
+      "value": "Level 2, SNPF Plaza, Savalalo, Samoa",
+      "source": "https://www.ombudsman.gov.ws"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Ombudsman - Postal",
+      "value": "P.O. Box 3036, Apia, Samoa",
+      "source": "https://www.ombudsman.gov.ws"
+    },
+    {
+      "type": "address",
+      "label": "Parliament of Samoa",
+      "value": "Malae o Tiafau, Mulinuu, Samoa",
+      "source": "https://www.palemene.ws"
+    },
+    {
+      "type": "address",
+      "label": "UN Mission Office",
+      "value": "One UN House, SIDS Street, Tuanaimato, Apia, Samoa",
+      "source": "https://samoa.un.org"
+    },
+    {
+      "type": "website",
+      "label": "Government of Samoa - Official Portal",
+      "url": "https://www.samoagovt.ws",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance",
+      "url": "https://www.mof.gov.ws",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://www.health.gov.ws",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Attorney General's Office",
+      "url": "https://www.ag.gov.ws",
+      "source": "Official government office website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Ombudsman",
+      "url": "https://www.ombudsman.gov.ws",
+      "source": "Official office website"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Samoa",
+      "url": "https://www.palemene.ws",
+      "source": "Official parliamentary website"
+    },
+    {
+      "type": "website",
+      "label": "Samoa Audit Office",
+      "url": "https://www.audit.gov.ws",
+      "source": "Official audit office website"
+    },
+    {
+      "type": "website",
+      "label": "Public Service Commission",
+      "url": "https://www.psc.gov.ws",
+      "source": "Official commission website"
+    },
+    {
+      "type": "website",
+      "label": "Samoa Post",
+      "url": "https://www.samoapost.ws",
+      "source": "Official postal service website"
+    },
+    {
+      "type": "website",
+      "label": "UN Mission Office",
+      "url": "https://samoa.un.org",
+      "source": "Official UN mission website"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Samoa",
+      "url": "https://www.facebook.com/samoagovt",
+      "source": "https://www.samoagovt.ws"
+    },
+    {
+      "type": "facebook",
+      "label": "Parliament of Samoa",
+      "url": "https://www.facebook.com/ParliamentOfSamoa",
+      "source": "https://www.palemene.ws"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Health",
+      "url": "https://www.facebook.com/healthsamoa",
+      "source": "https://www.health.gov.ws"
+    },
+    {
+      "type": "facebook",
+      "label": "Samoa Post",
+      "url": "https://www.facebook.com/samoapost",
+      "source": "https://www.samoapost.ws"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Samoa",
+      "url": "https://x.com/samoagovt",
+      "source": "https://www.samoagovt.ws"
+    },
+    {
+      "type": "youtube",
+      "label": "Government of Samoa Channel",
+      "url": "https://www.youtube.com/@GovernmentofSamoa",
+      "source": "https://www.samoagovt.ws"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Health Channel",
+      "url": "https://www.youtube.com/channel/UC2lJ2Pyyi8KBJ-wOff_MPFQ",
+      "source": "https://www.health.gov.ws"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "iso": "LVA",
+  "country_name": "Latvia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "President's Office",
+      "value": "info@president.lv",
+      "source": "president.lv official website"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+371 67092106",
+      "source": "president.lv official website"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Valsts prezidenta kanceleja)",
+      "value": "Pils laukums 3, Rīga, LV-1900, Latvia",
+      "source": "president.lv official website"
+    },
+    {
+      "type": "website",
+      "label": "President's Office",
+      "url": "https://www.president.lv",
+      "source": "official government domain"
+    },
+    {
+      "type": "facebook",
+      "label": "President's Office (Edgars Rinkēvičs)",
+      "url": "https://www.facebook.com/edgars.rinkevics",
+      "source": "president.lv official website"
+    },
+    {
+      "type": "twitter",
+      "label": "President's Office (Riga Castle)",
+      "url": "https://twitter.com/Rigas_pils",
+      "source": "president.lv official website"
+    },
+    {
+      "type": "instagram",
+      "label": "President's Office",
+      "url": "https://www.instagram.com/valsts_prezidents/",
+      "source": "president.lv official website"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Ministru kabinets)",
+      "value": "pasts@mk.gov.lv",
+      "source": "mk.gov.lv official website"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+371 67082800",
+      "source": "mk.gov.lv official website"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Secondary)",
+      "value": "+371 67082900",
+      "source": "mk.gov.lv official website"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office (Cabinet of Ministers)",
+      "value": "Brīvības bulvāris 36, Rīga, LV-1520, Latvia",
+      "source": "mk.gov.lv official website"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.mk.gov.lv",
+      "source": "official government domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Cabinet of Ministers",
+      "url": "https://www.facebook.com/valdibasmaja",
+      "source": "mk.gov.lv official website"
+    },
+    {
+      "type": "twitter",
+      "label": "Cabinet of Ministers",
+      "url": "https://twitter.com/Brivibas36",
+      "source": "mk.gov.lv official website"
+    },
+    {
+      "type": "instagram",
+      "label": "Cabinet of Ministers",
+      "url": "https://www.instagram.com/valdibasmaja",
+      "source": "mk.gov.lv official website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Ārlietu ministrija)",
+      "value": "pasts@mfa.gov.lv",
+      "source": "mfa.gov.lv official website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+371 67016201",
+      "source": "mfa.gov.lv official website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Travel & Consular Services)",
+      "value": "+371 67015905",
+      "source": "mfa.gov.lv official website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "K. Valdemara Street 3, Riga, LV-1395, Latvia",
+      "source": "mfa.gov.lv official website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.lv",
+      "source": "official government domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/latvian_mfa",
+      "source": "mfa.gov.lv official website"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Latvia (Saeima) - General Inquiries",
+      "value": "info@saeima.lv",
+      "source": "saeima.lv official website"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Latvia (Saeima) - Official Communications",
+      "value": "saeima@saeima.lv",
+      "source": "saeima.lv official website"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Latvia (Saeima) - Info Line",
+      "value": "+371 67087321",
+      "source": "saeima.lv official website"
+    },
+    {
+      "type": "address",
+      "label": "Parliament of Latvia (Saeima)",
+      "value": "Jēkaba iela 11, Rīga, LV-1811, Latvia",
+      "source": "saeima.lv official website"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Latvia",
+      "url": "https://www.saeima.lv",
+      "source": "official government domain"
+    },
+    {
+      "type": "other",
+      "label": "Parliament of Latvia - E-address (via Latvija.gov.lv portal)",
+      "value": "90000028300",
+      "source": "saeima.lv official website"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal (Latvija.gov.lv)",
+      "url": "https://latvija.gov.lv",
+      "source": "referenced on all government websites"
+    }
+  ]
+}

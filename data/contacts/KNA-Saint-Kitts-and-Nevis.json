@@ -1,0 +1,150 @@
+{
+  "iso": "KNA",
+  "country_name": "Saint Kitts and Nevis",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pmo@gov.kn",
+      "source": "gov.kn"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "foreignaffairs@mofa.gov.kn",
+      "source": "mofa.gov.kn"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Secretary, Ministry of Foreign Affairs",
+      "value": "kaye.bass@mofa.gov.kn",
+      "source": "mofa.gov.kn"
+    },
+    {
+      "type": "email",
+      "label": "International Trade, Industry & Commerce",
+      "value": "foreigntrade@gov.kn",
+      "source": "gov.kn"
+    },
+    {
+      "type": "email",
+      "label": "Attorney General's Office",
+      "value": "attorneygeneral@govt.kn",
+      "source": "gov.kn"
+    },
+    {
+      "type": "email",
+      "label": "Governor General's Office",
+      "value": "governmenthouse@gov.kn",
+      "source": "gov.kn"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+1 (869) 467-1043 / 1207",
+      "source": "gov.kn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "+1 (869) 467-1161",
+      "source": "mofa.gov.kn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Permanent Secretary",
+      "value": "+1 (869) 467-1155",
+      "source": "gov.kn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "+1 (869) 467-1069",
+      "source": "gov.kn"
+    },
+    {
+      "type": "phone",
+      "label": "Attorney General's Office",
+      "value": "+1 (869) 467-1013",
+      "source": "gov.kn"
+    },
+    {
+      "type": "phone",
+      "label": "Governor General's Office",
+      "value": "+1 (869) 465-2315",
+      "source": "gov.kn"
+    },
+    {
+      "type": "phone",
+      "label": "Government Headquarters",
+      "value": "+1 (869) 467-1502, 467-1503, 467-1505",
+      "source": "gov.kn"
+    },
+    {
+      "type": "fax",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+1 (869) 466-1895",
+      "source": "gov.kn"
+    },
+    {
+      "type": "fax",
+      "label": "Attorney General's Office",
+      "value": "+1 (869) 465-5040",
+      "source": "gov.kn"
+    },
+    {
+      "type": "fax",
+      "label": "Governor General's Office",
+      "value": "+1 (869) 465-2953",
+      "source": "gov.kn"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office / Government Headquarters",
+      "value": "Church Street, Basseterre, Saint Kitts and Nevis",
+      "source": "gov.kn"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Building 15, Suites 201-202, Port Zante, Basseterre, Saint Kitts and Nevis",
+      "source": "mofa.gov.kn"
+    },
+    {
+      "type": "address",
+      "label": "Governor General's Office",
+      "value": "Government House, Springfield, Basseterre, Saint Kitts and Nevis",
+      "source": "gov.kn"
+    },
+    {
+      "type": "website",
+      "label": "Government of Saint Kitts and Nevis",
+      "url": "https://www.gov.kn",
+      "source": "gov.kn"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.gov.kn/",
+      "source": "mofa.gov.kn"
+    },
+    {
+      "type": "website",
+      "label": "Electronic Travel Form",
+      "url": "https://knatravelform.kn/en",
+      "source": "mofa.gov.kn"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://facebook.com/foreign.govt.skn/",
+      "source": "mofa.gov.kn"
+    },
+    {
+      "type": "facebook",
+      "label": "Dr. Denzil L. Douglas (Minister of Foreign Affairs)",
+      "url": "https://facebook.com/rthondrdenzildouglas/",
+      "source": "gov.kn"
+    }
+  ]
+}

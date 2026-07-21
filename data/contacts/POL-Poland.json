@@ -1,0 +1,144 @@
+{
+  "iso": "POL",
+  "country_name": "Poland",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Information",
+      "value": "informacja.konsularna@msz.gov.pl",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Public Information Requests",
+      "value": "udip@msz.gov.pl",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - Public Information (BIP)",
+      "value": "bip@kprm.gov.pl",
+      "source": "https://www.gov.pl/web/premier/kontakt"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - Archives",
+      "value": "archiwum@kprm.gov.pl",
+      "source": "https://www.gov.pl/web/premier/kontakt"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Recruitment",
+      "value": "rekrutacja@msz.gov.pl",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Data Protection Officer",
+      "value": "iod@msz.gov.pl",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Switchboard",
+      "value": "+48 22 523 90 00",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Information (Weekdays 8:15-16:00)",
+      "value": "+48 22 250 01 16",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office - Citizen Hotline (Weekdays 8:15-16:15)",
+      "value": "+48 222 500 151",
+      "source": "https://www.gov.pl/web/premier/kontakt"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Al. J. Ch. Szucha 23, 00-580 Warszawa, Poland",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Al. Ujazdowskie 1/3, 00-583 Warszawa, Poland",
+      "source": "https://www.gov.pl/web/premier/kontakt"
+    },
+    {
+      "type": "website",
+      "label": "Official Polish Government Portal",
+      "url": "https://www.gov.pl",
+      "source": "https://www.gov.pl"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.gov.pl/dyplomacja",
+      "source": "https://www.gov.pl/dyplomacja"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.gov.pl/web/premier",
+      "source": "https://www.gov.pl/web/premier"
+    },
+    {
+      "type": "website",
+      "label": "Public Information Bulletin (BIP)",
+      "url": "https://www.gov.pl/bip",
+      "source": "https://www.gov.pl/bip"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - Official Twitter/X",
+      "url": "https://x.com/polandmfa",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Facebook",
+      "url": "https://www.facebook.com/polandmfa",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Digitization - Citizen Hotline (Weekdays 8:00-16:00)",
+      "value": "+48 222 500 110",
+      "source": "https://www.gov.pl/web/cyfryzacja"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Digitization",
+      "value": "ul. Królewska 27, 00-060 Warszawa, Poland",
+      "source": "https://www.gov.pl/web/cyfryzacja"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance - Citizen Hotline (Weekdays 8:15-16:15)",
+      "value": "+48 222 500 121",
+      "source": "https://www.gov.pl/web/finanse"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance",
+      "value": "Świętokrzyska 12, 00-916 Warszawa, Poland",
+      "source": "https://www.gov.pl/web/finanse"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - Tours and Visits",
+      "value": "zwiedzanie@kprm.gov.pl",
+      "source": "https://www.gov.pl/web/premier/kontakt"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Electronic Submission Box (ePUAP)",
+      "value": "/MSZ/SkrytkaESP",
+      "source": "https://www.gov.pl/dyplomacja/kontakt"
+    }
+  ]
+}

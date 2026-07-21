@@ -1,0 +1,90 @@
+{
+  "iso": "USA",
+  "country_name": "United States",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "White House - Official Contact",
+      "url": "https://www.whitehouse.gov/contact/",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "website",
+      "label": "White House - Main",
+      "url": "https://www.whitehouse.gov/",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "website",
+      "label": "USAGov - Official Government Portal",
+      "url": "https://www.usa.gov/",
+      "source": "usa.gov"
+    },
+    {
+      "type": "website",
+      "label": "State Department",
+      "url": "https://www.state.gov/",
+      "source": "state.gov"
+    },
+    {
+      "type": "address",
+      "label": "White House Mailing Address",
+      "value": "The White House, 1600 Pennsylvania Avenue, N.W., Washington, D.C. 20500",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "phone",
+      "label": "USAGov Contact Center",
+      "value": "1-844-USAGOV1 (1-844-872-4681)",
+      "source": "usa.gov"
+    },
+    {
+      "type": "twitter",
+      "label": "White House Official",
+      "url": "https://www.twitter.com/@whitehouse",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "facebook",
+      "label": "White House Official",
+      "url": "https://www.facebook.com/WhiteHouse",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "other",
+      "label": "White House Instagram",
+      "url": "https://www.instagram.com/whitehouse",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "other",
+      "label": "White House TikTok",
+      "url": "https://www.tiktok.com/@WhiteHouse",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "other",
+      "label": "White House YouTube",
+      "url": "https://www.youtube.com/@WhiteHouse",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "other",
+      "label": "White House Truth Social",
+      "url": "https://truthsocial.com/@WhiteHouse",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "other",
+      "label": "White House Rumble Channel",
+      "url": "https://rumble.com/c/WhiteHouse",
+      "source": "whitehouse.gov"
+    },
+    {
+      "type": "other",
+      "label": "Primary Digital Contact Method",
+      "value": "Web contact form at whitehouse.gov/contact/ (no direct email address listed on official page)",
+      "source": "whitehouse.gov"
+    }
+  ]
+}

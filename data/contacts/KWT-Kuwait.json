@@ -1,0 +1,150 @@
+{
+  "iso": "KWT",
+  "country_name": "Kuwait",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "contact@pm.gov.kw",
+      "source": "Official Prime Minister website (pm.gov.kw)"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://pm.gov.kw",
+      "source": "Wikipedia - Prime Minister of Kuwait"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.gov.kw/en/",
+      "source": "Wikipedia - Diplomatic missions of Kuwait"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Education",
+      "url": "https://moe.edu.kw",
+      "source": "Official Ministry of Education website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Commerce and Industry",
+      "url": "https://moci.gov.kw",
+      "source": "Official Ministry of Commerce and Industry website"
+    },
+    {
+      "type": "website",
+      "label": "Amiri Diwan (Emir's Office)",
+      "url": "https://da.gov.kw",
+      "source": "Wikipedia - Emir of Kuwait"
+    },
+    {
+      "type": "phone",
+      "label": "Amiri Diwan (Emir's Office)",
+      "value": "+965 1888881",
+      "source": "Amiri Diwan website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Commerce and Industry - Complaints",
+      "value": "+965 135",
+      "source": "Official Ministry of Commerce and Industry website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Commerce and Industry - Company Inquiries",
+      "value": "+965 137",
+      "source": "Official Ministry of Commerce and Industry website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Police/Ambulance/Fire",
+      "value": "+965 112",
+      "source": "Official Ministry of Interior website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Civil Defence",
+      "value": "+965 1804000",
+      "source": "Official Ministry of Interior website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Coast Guard",
+      "value": "+965 1880888",
+      "source": "Official Ministry of Interior website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Anti-Drug Administration",
+      "value": "+965 1884141",
+      "source": "Official Ministry of Interior website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Residency Affairs",
+      "value": "+965 25582960",
+      "source": "Official Ministry of Interior website"
+    },
+    {
+      "type": "address",
+      "label": "Amiri Diwan (Emir's Office)",
+      "value": "P.O. Box 1, Postal Code 13001, Safat Mail, Kuwait",
+      "source": "Amiri Diwan website"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Al-Seif Palace (Qasr Al-Seif), Kuwait City, Kuwait",
+      "source": "Official Prime Minister website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Education",
+      "value": "South Surra - Ministerial Zone, Kuwait",
+      "source": "Official Ministry of Education website"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office",
+      "url": "https://x.com/pmokuwait",
+      "source": "Official Prime Minister website"
+    },
+    {
+      "type": "instagram",
+      "label": "Prime Minister's Office",
+      "url": "https://www.instagram.com/pmkuwait",
+      "source": "Official Prime Minister website"
+    },
+    {
+      "type": "youtube",
+      "label": "Prime Minister's Office",
+      "url": "https://www.youtube.com/c/dpmkuwait",
+      "source": "Official Prime Minister website"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Commerce and Industry",
+      "url": "https://x.com/mocikw",
+      "source": "Official Ministry of Commerce and Industry website"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Commerce and Industry",
+      "url": "https://www.instagram.com/mocikw",
+      "source": "Official Ministry of Commerce and Industry website"
+    },
+    {
+      "type": "other",
+      "label": "International Calling Code",
+      "value": "+965",
+      "source": "Wikipedia - Kuwait"
+    },
+    {
+      "type": "other",
+      "label": "Government Domain Extension",
+      "value": ".kw",
+      "source": "Wikipedia - Kuwait"
+    }
+  ]
+}

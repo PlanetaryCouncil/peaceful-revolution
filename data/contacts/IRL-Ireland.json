@@ -1,0 +1,216 @@
+{
+  "iso": "IRL",
+  "country_name": "Ireland",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Irish Government Portal",
+      "url": "https://www.gov.ie",
+      "source": "Wikipedia - Government of Ireland"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "info@president.ie",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President - Main",
+      "value": "+353 1 617 1000",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President - Lo Call",
+      "value": "1890 430 430",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President - Fax",
+      "value": "+353 1 617 1001",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "Áras an Uachtaráin, Phoenix Park, Dublin 8, Ireland",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://x.com/PresidentIRL",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "https://www.facebook.com/PresidentIRL",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "instagram",
+      "label": "Office of the President",
+      "url": "https://www.instagram.com/presidentirl",
+      "source": "President.ie official website"
+    },
+    {
+      "type": "website",
+      "label": "Department of Foreign Affairs and Trade",
+      "url": "https://www.dfa.ie",
+      "source": "DFA official website"
+    },
+    {
+      "type": "twitter",
+      "label": "Department of Foreign Affairs and Trade",
+      "url": "https://x.com/dfatirl",
+      "source": "DFA official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Department of Foreign Affairs and Trade",
+      "url": "https://www.facebook.com/dfatireland",
+      "source": "DFA official website"
+    },
+    {
+      "type": "phone",
+      "label": "Irish Passport Office Customer Service",
+      "value": "+353 1 671 1633",
+      "source": "DFA Passport Services website"
+    },
+    {
+      "type": "website",
+      "label": "Irish Passport Tracking Service",
+      "url": "https://passporttracking.dfa.ie",
+      "source": "DFA official website"
+    },
+    {
+      "type": "website",
+      "label": "Irish Passport Online Application",
+      "url": "https://passportonline.dfa.ie/Apply/Passport",
+      "source": "DFA official website"
+    },
+    {
+      "type": "email",
+      "label": "Central Statistics Office Ireland",
+      "value": "information@cso.ie",
+      "source": "CSO official website"
+    },
+    {
+      "type": "phone",
+      "label": "Central Statistics Office Ireland",
+      "value": "+353 21 453 5000",
+      "source": "CSO official website"
+    },
+    {
+      "type": "address",
+      "label": "Central Statistics Office Ireland",
+      "value": "Skehard Road, Cork T12 X00E, Ireland",
+      "source": "CSO official website"
+    },
+    {
+      "type": "phone",
+      "label": "Irish Police (An Garda Síochána) - Emergency",
+      "value": "999 or 112",
+      "source": "Garda.ie official website"
+    },
+    {
+      "type": "phone",
+      "label": "Irish Police (An Garda Síochána) - Main Headquarters",
+      "value": "+353 1 666 0000",
+      "source": "Garda.ie official website"
+    },
+    {
+      "type": "phone",
+      "label": "Irish Police - Garda Confidential (anonymous crime reporting)",
+      "value": "1800 666 111",
+      "source": "Garda.ie official website"
+    },
+    {
+      "type": "address",
+      "label": "Irish Police (An Garda Síochána) - Headquarters",
+      "value": "Phoenix Park, Dublin 8, Ireland",
+      "source": "Garda.ie official website"
+    },
+    {
+      "type": "website",
+      "label": "An Garda Síochána",
+      "url": "https://www.garda.ie",
+      "source": "Garda official website"
+    },
+    {
+      "type": "phone",
+      "label": "Health Service Executive (HSE) - HSE Live",
+      "value": "1800 700 700 (Freephone)",
+      "source": "HSE.ie official website"
+    },
+    {
+      "type": "website",
+      "label": "Health Service Executive Ireland",
+      "url": "https://www.hse.ie",
+      "source": "HSE official website"
+    },
+    {
+      "type": "phone",
+      "label": "Enterprise Ireland",
+      "value": "+353 1 7272000",
+      "source": "Enterprise Ireland official website"
+    },
+    {
+      "type": "address",
+      "label": "Enterprise Ireland - Head Office",
+      "value": "East Point Business Park, The Plaza, Dublin 3, D03 E5R6, Ireland",
+      "source": "Enterprise Ireland official website"
+    },
+    {
+      "type": "website",
+      "label": "Enterprise Ireland",
+      "url": "https://www.enterprise-ireland.com",
+      "source": "Enterprise Ireland official website"
+    },
+    {
+      "type": "website",
+      "label": "Revenue Commissioners (Irish Tax Authority)",
+      "url": "https://www.revenue.ie",
+      "source": "Revenue official website"
+    },
+    {
+      "type": "email",
+      "label": "European Parliament Liaison Office Dublin",
+      "value": "epdublin@ep.europa.eu",
+      "source": "dublin.europarl.europa.eu"
+    },
+    {
+      "type": "phone",
+      "label": "European Parliament Liaison Office Dublin",
+      "value": "+353 1 605 7900",
+      "source": "dublin.europarl.europa.eu"
+    },
+    {
+      "type": "address",
+      "label": "European Parliament Liaison Office Dublin",
+      "value": "5 Balfe Street, Dublin D02 E7K4, Ireland",
+      "source": "dublin.europarl.europa.eu"
+    },
+    {
+      "type": "email",
+      "label": "European Parliament Liaison Office - Head of Office (Fearghas Ó Béara)",
+      "value": "fearghas.obeara@ep.europa.eu",
+      "source": "dublin.europarl.europa.eu"
+    },
+    {
+      "type": "phone",
+      "label": "European Parliament Liaison Office - Head of Office",
+      "value": "+353 1 605 7922",
+      "source": "dublin.europarl.europa.eu"
+    },
+    {
+      "type": "address",
+      "label": "Government Buildings (Headquarters)",
+      "value": "Merrion Street, Dublin, Ireland",
+      "source": "Wikipedia - Government of Ireland"
+    }
+  ]
+}

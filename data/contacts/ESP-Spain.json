@@ -1,0 +1,444 @@
+{
+  "iso": "ESP",
+  "country_name": "Spain",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Administrative Information",
+      "value": "informae@maec.es",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "consular@maec.es",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Information",
+      "value": "informacion.consular@maec.es",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press Office",
+      "value": "prensa@maec.es",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Communications & Public Diplomacy",
+      "value": "dg.cdpr@maec.es",
+      "source": "https://www.exteriores.gob.es/es/Ministerio/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Economic Diplomacy",
+      "value": "dg.diplomaciaeconomica@maec.es",
+      "source": "https://www.exteriores.gob.es/es/Ministerio/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Protocol & Chancellery",
+      "value": "protocolo@maec.es",
+      "source": "https://www.exteriores.gob.es/es/Ministerio/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance - Administrative Information",
+      "value": "informacion.administrativa@hacienda.gob.es",
+      "source": "https://www.hacienda.gob.es/es-es/el%20ministerio/paginas/contáctenos/contactenos.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance - Portal Suggestions",
+      "value": "sugerencias.portal@hacienda.gob.es",
+      "source": "https://www.hacienda.gob.es/es-es/el%20ministerio/paginas/contáctenos/contactenos.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance - Press Secretary",
+      "value": "secretaria.prensa@hacienda.gob.es",
+      "source": "https://www.hacienda.gob.es/es-es/el%20ministerio/paginas/contáctenos/contactenos.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Spanish Congress - Citizen Inquiries",
+      "value": "informacion@congreso.es",
+      "source": "https://www.congreso.es/cem/plano-situacion"
+    },
+    {
+      "type": "email",
+      "label": "Spanish Congress - Guided Group Visits",
+      "value": "visitasguiadas@congreso.es",
+      "source": "https://www.congreso.es/cem/plano-situacion"
+    },
+    {
+      "type": "email",
+      "label": "Spanish Congress - Website Inquiries",
+      "value": "webmaster@congreso.es",
+      "source": "https://www.congreso.es/cem/plano-situacion"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Line",
+      "value": "+34 91 379 97 00",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Administrative Information Office",
+      "value": "+34 91 379 96 00",
+      "source": "https://www.exteriores.gob.es/es/Ministerio/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "+34 91 379 79 65",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Affairs (alternate)",
+      "value": "+34 91 394 88 54",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Press (weekday, journalists only)",
+      "value": "+34 91 379 9756",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Press (after-hours/weekends)",
+      "value": "+34 91 379 94 47",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance - Information Service",
+      "value": "+34 900 567 765",
+      "source": "https://www.hacienda.gob.es/es-es/el%20ministerio/paginas/contáctenos/contactenos.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Defense - Main Line",
+      "value": "+34 91 395 50 00",
+      "source": "https://www.defensa.gob.es/ministerio/contacto/"
+    },
+    {
+      "type": "phone",
+      "label": "Spanish Congress - Main Switchboard",
+      "value": "+34 91 390 60 00",
+      "source": "https://www.congreso.es/cem/plano-situacion"
+    },
+    {
+      "type": "phone",
+      "label": "Spanish Congress - Central Fax",
+      "value": "+34 91 429 87 07",
+      "source": "https://www.congreso.es/cem/plano-situacion"
+    },
+    {
+      "type": "phone",
+      "label": "Spanish Royal Household - Main Line",
+      "value": "+34 91 599 24 24",
+      "source": "https://www.casareal.es/ES/Paginas/contacto.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office & Government Headquarters (La Moncloa)",
+      "value": "Complejo de la Moncloa, Avda. Puerta de Hierro, s/n, 28071 Madrid, Spain",
+      "source": "https://www.lamoncloa.gob.es"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Sede Marqués de Salamanca",
+      "value": "Plaza del Marqués de Salamanca, 8, 28006 Madrid, Spain",
+      "source": "https://www.exteriores.gob.es/es/Ministerio/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Sede Palacio de Santa Cruz",
+      "value": "Plaza de la Provincia, 1, 28071 Madrid, Spain",
+      "source": "https://www.exteriores.gob.es/es/Ministerio/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "C/ Príncipe de Vergara, 52, 28006 Madrid, Spain",
+      "source": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Contacto.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance",
+      "value": "Calle Alcalá, 5, 28014 Madrid, Spain",
+      "source": "https://www.hacienda.gob.es"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Defense",
+      "value": "Paseo de la Castellana, 109, 28071 Madrid, Spain",
+      "source": "https://www.defensa.gob.es"
+    },
+    {
+      "type": "address",
+      "label": "Spanish Congress",
+      "value": "Plaza de las Cortes, 1, 28014 Madrid, Spain",
+      "source": "https://www.congreso.es/cem/plano-situacion"
+    },
+    {
+      "type": "address",
+      "label": "Spanish Royal Household (Casa Real)",
+      "value": "Palacio de La Zarzuela, Carretera de El Pardo s/n, 28071 Madrid, Spain",
+      "source": "https://www.casareal.es/ES/Paginas/contacto.aspx"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office & Government (La Moncloa)",
+      "url": "https://www.lamoncloa.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.exteriores.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance",
+      "url": "https://www.hacienda.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Defense",
+      "url": "https://www.defensa.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://www.sanidad.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Inclusion, Social Security and Migration",
+      "url": "https://www.inclusion.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Education and Sports",
+      "url": "https://www.educacionfpydeportes.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "General Administration Portal (060)",
+      "url": "https://administracion.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Spanish Congress",
+      "url": "https://www.congreso.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Spanish Royal Household",
+      "url": "https://www.casareal.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Spanish Judiciary",
+      "url": "https://www.poderjudicial.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "website",
+      "label": "Write to the President Portal",
+      "url": "https://escribealpresidente.presidencia.gob.es",
+      "source": "Official Spanish Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/MAECgob",
+      "source": "https://www.exteriores.gob.es"
+    },
+    {
+      "type": "twitter",
+      "label": "Spain MFA International Account",
+      "url": "https://twitter.com/spainMFA",
+      "source": "https://www.exteriores.gob.es"
+    },
+    {
+      "type": "twitter",
+      "label": "La Moncloa Government",
+      "url": "https://twitter.com/desdelamoncloa",
+      "source": "https://www.lamoncloa.gob.es"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Finance",
+      "url": "https://twitter.com/haciendagob",
+      "source": "https://www.hacienda.gob.es"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Inclusion",
+      "url": "https://twitter.com/inclusiongob",
+      "source": "https://www.inclusion.gob.es"
+    },
+    {
+      "type": "twitter",
+      "label": "Spanish Congress",
+      "url": "https://twitter.com/congresods",
+      "source": "https://www.congreso.es"
+    },
+    {
+      "type": "facebook",
+      "label": "La Moncloa Government",
+      "url": "https://www.facebook.com/desdelamoncloa",
+      "source": "https://www.lamoncloa.gob.es"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MAECgob",
+      "source": "https://www.exteriores.gob.es"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Finance",
+      "url": "https://www.facebook.com/haciendagob",
+      "source": "https://www.hacienda.gob.es"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Inclusion",
+      "url": "https://www.facebook.com/MinisterioInclusion",
+      "source": "https://www.inclusion.gob.es"
+    },
+    {
+      "type": "facebook",
+      "label": "Spanish Congress",
+      "url": "https://www.facebook.com/CongresoDS",
+      "source": "https://www.congreso.es"
+    },
+    {
+      "type": "facebook",
+      "label": "Spanish Royal Household",
+      "url": "https://www.facebook.com/casareal",
+      "source": "https://www.casareal.es"
+    },
+    {
+      "type": "instagram",
+      "label": "La Moncloa Government",
+      "url": "https://www.instagram.com/desdelamoncloa",
+      "source": "https://www.lamoncloa.gob.es"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/MAECgob",
+      "source": "https://www.exteriores.gob.es"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Finance",
+      "url": "https://www.instagram.com/haciendagob",
+      "source": "https://www.hacienda.gob.es"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Inclusion",
+      "url": "https://www.instagram.com/inclusiongob",
+      "source": "https://www.inclusion.gob.es"
+    },
+    {
+      "type": "instagram",
+      "label": "Spanish Congress",
+      "url": "https://www.instagram.com/congresods",
+      "source": "https://www.congreso.es"
+    },
+    {
+      "type": "instagram",
+      "label": "Spanish Royal Household",
+      "url": "https://www.instagram.com/casareal",
+      "source": "https://www.casareal.es"
+    },
+    {
+      "type": "youtube",
+      "label": "La Moncloa Government",
+      "url": "https://www.youtube.com/@desdelamoncloa",
+      "source": "https://www.lamoncloa.gob.es"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.youtube.com/MAECgob",
+      "source": "https://www.exteriores.gob.es"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Finance",
+      "url": "https://www.youtube.com/haciendagob",
+      "source": "https://www.hacienda.gob.es"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Inclusion",
+      "url": "https://www.youtube.com/inclusiongob",
+      "source": "https://www.inclusion.gob.es"
+    },
+    {
+      "type": "youtube",
+      "label": "Spanish Congress",
+      "url": "https://www.youtube.com/CongresoDS",
+      "source": "https://www.congreso.es"
+    },
+    {
+      "type": "youtube",
+      "label": "Spanish Royal Household",
+      "url": "https://www.youtube.com/casareal",
+      "source": "https://www.casareal.es"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Electronic Headquarters",
+      "value": "https://sede.maec.gob.es",
+      "source": "https://www.exteriores.gob.es"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Finance - Electronic Headquarters",
+      "value": "https://sede.hacienda.gob.es",
+      "source": "https://www.hacienda.gob.es"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Defense - Electronic Headquarters",
+      "value": "https://sede.defensa.gob.es",
+      "source": "https://www.defensa.gob.es"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Health - Electronic Headquarters",
+      "value": "https://sede.mscbs.gob.es",
+      "source": "https://www.sanidad.gob.es"
+    },
+    {
+      "type": "other",
+      "label": "Central Citizen Contact Number (060)",
+      "value": "+34 900 060",
+      "source": "https://administracion.gob.es"
+    }
+  ]
+}

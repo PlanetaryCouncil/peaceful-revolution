@@ -1,0 +1,66 @@
+{
+  "iso": "KIR",
+  "country_name": "Kiribati",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Office of Te Beretitenti (President's Office) - General",
+      "value": "infor@ob.gov.ki",
+      "source": "www.president.gov.ki"
+    },
+    {
+      "type": "email",
+      "label": "Office of Te Beretitenti - Media Inquiries",
+      "value": "communications@ob.gov.ki",
+      "source": "www.president.gov.ki"
+    },
+    {
+      "type": "phone",
+      "label": "Office of Te Beretitenti (President's Office)",
+      "value": "+686 75021183",
+      "source": "www.president.gov.ki"
+    },
+    {
+      "type": "phone",
+      "label": "Office of Te Beretitenti (President's Office) - Main",
+      "value": "+686 75021140",
+      "source": "www.president.gov.ki"
+    },
+    {
+      "type": "address",
+      "label": "Office of Te Beretitenti",
+      "value": "P.O. Box 68, Bairiki, Tarawa, Republic of Kiribati",
+      "source": "www.president.gov.ki"
+    },
+    {
+      "type": "website",
+      "label": "Office of Te Beretitenti (President's Office)",
+      "url": "https://www.president.gov.ki",
+      "source": "verified redirect from ob.gov.ki"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs & Immigration",
+      "url": "https://www.mfa.gov.ki",
+      "source": "verified government website"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of Te Beretitenti",
+      "url": "https://www.facebook.com/ob.gov.ki",
+      "source": "www.president.gov.ki"
+    },
+    {
+      "type": "other",
+      "label": "Office of Te Beretitenti - Online Filings Portal",
+      "value": "ob.e-filings.net",
+      "source": "www.president.gov.ki"
+    },
+    {
+      "type": "facebook",
+      "label": "Kiribati High Commission in Suva, Fiji",
+      "url": "https://www.facebook.com/khcsuva2020",
+      "source": "www.mfa.gov.ki/missions"
+    }
+  ]
+}

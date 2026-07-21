@@ -1,0 +1,294 @@
+{
+  "iso": "MYS",
+  "country_name": "Malaysia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "MyGovernment Portal / National Digital Department (JDN)",
+      "value": "mygovernment@malaysia.gov.my",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Higher Education (KPT)",
+      "value": "Contact via officer directory at app.mohe.gov.my/direktori/",
+      "source": "https://www.mohe.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Istiadat (Ceremonial Affairs Department)",
+      "value": "webadmin@istiadat.gov.my",
+      "source": "https://www.istiadat.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Securities Commission Malaysia",
+      "value": "aduan@sc.com.my",
+      "source": "https://www.sc.com.my"
+    },
+    {
+      "type": "email",
+      "label": "Kuala Lumpur City Hall (DBKL)",
+      "value": "dbkl@dbkl.gov.my",
+      "source": "https://www.dbkl.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Department of Fisheries Malaysia",
+      "value": "pro@dof.gov.my",
+      "source": "https://www.dof.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Malaysian Halal Development Corporation (JAKIM)",
+      "value": "pr_halal@islam.gov.my",
+      "source": "https://www.halal.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Immigration Department Malaysia (IMI)",
+      "value": "webmaster@imi.gov.my",
+      "source": "https://www.imi.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Royal Malaysian Police (PDRM)",
+      "value": "rmp@rmp.gov.my",
+      "source": "https://www.rmp.gov.my"
+    },
+    {
+      "type": "email",
+      "label": "Khazanah Nasional",
+      "value": "info@khazanah.com.my",
+      "source": "https://www.khazanah.com.my"
+    },
+    {
+      "type": "phone",
+      "label": "Malaysia Government Call Centre (MyGCC) - 24/7",
+      "value": "+603-8000 8000",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "phone",
+      "label": "National Digital Department (JDN)",
+      "value": "+603-8000 8000",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "phone",
+      "label": "Securities Commission Malaysia",
+      "value": "+603-6204 8000",
+      "source": "https://www.sc.com.my"
+    },
+    {
+      "type": "phone",
+      "label": "Kuala Lumpur City Hall (DBKL)",
+      "value": "+603-2617 9000",
+      "source": "https://www.dbkl.gov.my"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Fisheries Malaysia",
+      "value": "+603-8870 4426 or +603-8889 2460",
+      "source": "https://www.dof.gov.my"
+    },
+    {
+      "type": "phone",
+      "label": "Malaysian Halal Development Corporation (JAKIM)",
+      "value": "+603-8892 5000",
+      "source": "https://www.halal.gov.my"
+    },
+    {
+      "type": "phone",
+      "label": "Malaysian Investment Development Authority (MIDA)",
+      "value": "+603 2267 3633",
+      "source": "https://www.mida.gov.my"
+    },
+    {
+      "type": "phone",
+      "label": "Royal Malaysian Police (PDRM) - Headquarters",
+      "value": "+603-2266 2222",
+      "source": "https://www.rmp.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.malaysia.gov.my",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Higher Education",
+      "url": "https://www.mohe.gov.my",
+      "source": "https://www.mohe.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Securities Commission Malaysia",
+      "url": "https://www.sc.com.my",
+      "source": "https://www.sc.com.my"
+    },
+    {
+      "type": "website",
+      "label": "Kuala Lumpur City Hall",
+      "url": "https://www.dbkl.gov.my",
+      "source": "https://www.dbkl.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Malaysian Communications and Multimedia Commission",
+      "url": "https://www.mcmc.gov.my",
+      "source": "https://www.mcmc.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Malaysian Investment Development Authority (MIDA)",
+      "url": "https://www.mida.gov.my",
+      "source": "https://www.mida.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Immigration Department Malaysia",
+      "url": "https://www.imi.gov.my",
+      "source": "https://www.imi.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Royal Malaysian Police (PDRM)",
+      "url": "https://www.rmp.gov.my",
+      "source": "https://www.rmp.gov.my"
+    },
+    {
+      "type": "website",
+      "label": "Khazanah Nasional",
+      "url": "https://www.khazanah.com.my",
+      "source": "https://www.khazanah.com.my"
+    },
+    {
+      "type": "facebook",
+      "label": "MyGovernment Portal",
+      "url": "https://www.facebook.com/MalaysiaPortal/",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "facebook",
+      "label": "Malaysia Government Call Centre (MyGCC)",
+      "url": "https://www.facebook.com/MyGCCMalaysia/",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Higher Education",
+      "url": "https://www.facebook.com/MOHEOfficial",
+      "source": "https://www.mohe.gov.my"
+    },
+    {
+      "type": "facebook",
+      "label": "Khazanah Nasional Berhad",
+      "url": "https://www.facebook.com/KhazanahNasional",
+      "source": "https://www.khazanah.com.my"
+    },
+    {
+      "type": "twitter",
+      "label": "Malaysia Government Services Gateway",
+      "url": "https://twitter.com/@gos_gateway",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "twitter",
+      "label": "Malaysia Government Call Centre (MyGCC)",
+      "url": "https://twitter.com/MyGCCMalaysia",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Higher Education",
+      "url": "https://twitter.com/@moheofficial",
+      "source": "https://www.mohe.gov.my"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Higher Education",
+      "url": "https://www.instagram.com/mohe.official",
+      "source": "https://www.mohe.gov.my"
+    },
+    {
+      "type": "instagram",
+      "label": "Khazanah Nasional",
+      "url": "https://www.instagram.com/khazanahnasional",
+      "source": "https://www.khazanah.com.my"
+    },
+    {
+      "type": "address",
+      "label": "National Digital Department (JDN) - MyGovernment",
+      "value": "Bangunan MKN Embassy Techzone, No. 3200 Jalan Teknokrat 2, 63000 Cyberjaya, Sepang, Selangor",
+      "source": "https://www.malaysia.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Higher Education (KPT)",
+      "value": "Kementerian Pendidikan Tinggi, No. 2, Menara 2, Jalan P5/6, Presint 5, 62200 Putrajaya, Malaysia",
+      "source": "https://www.mohe.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Istiadat (Ceremonial Affairs)",
+      "value": "Setia Perdana 3, Putrajaya, Malaysia",
+      "source": "https://www.istiadat.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Kuala Lumpur City Hall (DBKL)",
+      "value": "Kuala Lumpur, Malaysia",
+      "source": "https://www.dbkl.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Department of Fisheries Malaysia",
+      "value": "Wisma Tani, Aras 1-6, Blok Menara 4G2, Presint 4, Pusat Pentadbiran Kerajaan Persekutuan, 62628 PUTRAJAYA",
+      "source": "https://www.dof.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Malaysian Halal Development Corporation (JAKIM)",
+      "value": "Aras 6 & 7, Blok D, Kompleks Islam Putrajaya (KIP), No. 3 Jalan Tun Abdul Razak, Presint 3, 62100 Putrajaya, Malaysia",
+      "source": "https://www.halal.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Immigration Department Malaysia (IMI)",
+      "value": "No. 15, Tingkat 1-7, Blok 2G4 (Menara & Podium), Persiaran Perdana, Presint 2, 62550 Wilayah Persekutuan Putrajaya",
+      "source": "https://www.imi.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Malaysian Investment Development Authority (MIDA)",
+      "value": "MIDA Sentral, No. 5, Jalan Stesen Sentral 5, KL Sentral, 50470 Kuala Lumpur, Malaysia",
+      "source": "https://www.mida.gov.my"
+    },
+    {
+      "type": "address",
+      "label": "Royal Malaysian Police (PDRM) - Headquarters",
+      "value": "Ibu Pejabat Polis Diraja Malaysia, 50560 Bukit Aman, Kuala Lumpur",
+      "source": "https://www.rmp.gov.my"
+    },
+    {
+      "type": "other",
+      "label": "Malaysia Government Complaint System (SiSPAA)",
+      "value": "http://mohe.spab.gov.my",
+      "source": "https://www.mohe.gov.my"
+    },
+    {
+      "type": "other",
+      "label": "MCMC Consumer Complaints Portal",
+      "value": "aduan.mcmc.gov.my",
+      "source": "https://www.mcmc.gov.my"
+    },
+    {
+      "type": "other",
+      "label": "MIDA Online Inquiry Form",
+      "value": "https://investmalaysia.mida.gov.my/EIP/InvestMalaysia.aspx",
+      "source": "https://www.mida.gov.my"
+    }
+  ]
+}

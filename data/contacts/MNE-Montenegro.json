@@ -1,0 +1,66 @@
+{
+  "iso": "MNE",
+  "country_name": "Montenegro",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Government of Montenegro - Official Portal",
+      "url": "https://www.gov.me",
+      "source": "Official Montenegro government domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.me",
+      "source": "Official Montenegro Ministry of Foreign Affairs domain"
+    },
+    {
+      "type": "website",
+      "label": "President of Montenegro - Official Website",
+      "url": "https://www.predsjednica.me",
+      "source": "Official presidential office domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Montenegro - Official Facebook",
+      "url": "https://www.facebook.com/vladamne",
+      "source": "Official government social media account"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Montenegro - Official Twitter/X",
+      "url": "https://twitter.com/vladamne",
+      "source": "Official government social media account"
+    },
+    {
+      "type": "address",
+      "label": "Government of Montenegro - Main Office",
+      "value": "Bulevar Svetog Petra Cetinjskog 36, 81000 Podgorica, Montenegro",
+      "source": "Official government office location"
+    },
+    {
+      "type": "phone",
+      "label": "Government of Montenegro - Main Phone",
+      "value": "+382 20 406 100",
+      "source": "Official government contact number"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior - Official",
+      "url": "https://www.mvr.gov.me",
+      "source": "Official Montenegro Ministry of Interior domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice - Official",
+      "url": "https://www.mpr.gov.me",
+      "source": "Official Montenegro Ministry of Justice domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Defence - Official",
+      "url": "https://www.mod.gov.me",
+      "source": "Official Montenegro Ministry of Defence domain"
+    }
+  ]
+}

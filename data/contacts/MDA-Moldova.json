@@ -1,0 +1,180 @@
+{
+  "iso": "MDA",
+  "country_name": "Moldova",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Call Center",
+      "value": "call.center@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press Office",
+      "value": "press@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - State Diplomatic Protocol",
+      "value": "protocol@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - EU Cooperation",
+      "value": "die@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Bilateral Affairs",
+      "value": "dcb@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Multilateral Affairs",
+      "value": "dcm@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - International Law",
+      "value": "ddi@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "dac@mfa.gov.md",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Government of Moldova - Petitions and Requests",
+      "value": "petitii@gov.md",
+      "source": "gov.md/ro/contacte"
+    },
+    {
+      "type": "email",
+      "label": "Government of Moldova - Anti-Corruption Hotline",
+      "value": "anticoruptie.cs@gov.md",
+      "source": "gov.md/ro/contacte"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Secretariat",
+      "value": "+373 22 578-304",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Call Center (free from landlines)",
+      "value": "0 80 090 990",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Call Center",
+      "value": "+373 22 23 20 02",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Press Office",
+      "value": "+373 22 578 254",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "phone",
+      "label": "Government of Moldova - Main",
+      "value": "+373 22 250-402",
+      "source": "gov.md/ro/contacte"
+    },
+    {
+      "type": "phone",
+      "label": "Government of Moldova - Anti-Corruption Hotline",
+      "value": "+373 22 250-111",
+      "source": "gov.md/ro/contacte"
+    },
+    {
+      "type": "fax",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+373 22 23-23-02",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "31 August 1989, 80, Chișinău MD 2012, Moldova",
+      "source": "mfa.gov.md/ro/content/contacte"
+    },
+    {
+      "type": "address",
+      "label": "Government of Moldova",
+      "value": "Piaţa Marii Adunări Naţionale, 1, MD-2012 Chişinău, Moldova",
+      "source": "gov.md/ro/contacte"
+    },
+    {
+      "type": "website",
+      "label": "Government of Moldova",
+      "url": "https://gov.md",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.md",
+      "source": "Official MFA website"
+    },
+    {
+      "type": "website",
+      "label": "E-Government Portal",
+      "url": "https://servicii.gov.md",
+      "source": "National e-government services"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Moldova",
+      "url": "https://facebook.com/GuvernulRepubliciiMoldova",
+      "source": "gov.md official channels"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Call Center",
+      "url": "https://facebook.com/pages/Centrul-de-Apel-al-MAEIE-al-RM",
+      "source": "mfa.gov.md"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Moldova",
+      "url": "https://x.com/guvernulrmd",
+      "source": "gov.md official channels"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/MoldovaMFA",
+      "source": "mfa.gov.md"
+    },
+    {
+      "type": "instagram",
+      "label": "Government of Moldova",
+      "url": "https://instagram.com/gov_md",
+      "source": "gov.md official channels"
+    },
+    {
+      "type": "youtube",
+      "label": "Government of Moldova",
+      "url": "https://youtube.com/@guvernulrm",
+      "source": "gov.md official channels"
+    },
+    {
+      "type": "telegram",
+      "label": "Government of Moldova",
+      "url": "https://t.me/prima_sursa_md",
+      "source": "gov.md official channels"
+    }
+  ]
+}

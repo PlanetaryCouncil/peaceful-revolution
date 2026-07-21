@@ -1,0 +1,210 @@
+{
+  "iso": "CAN",
+  "country_name": "Canada",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Global Affairs Canada - General Inquiries",
+      "value": "info@international.gc.ca",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/contact"
+    },
+    {
+      "type": "email",
+      "label": "Global Affairs Canada - Travel & Consular Services",
+      "value": "travel@international.gc.ca",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/contact"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - Media Relations",
+      "value": "Media@pmo-cpm.gc.ca",
+      "source": "https://www.pm.gc.ca/en/connect/contact"
+    },
+    {
+      "type": "email",
+      "label": "Governor General - General Inquiries",
+      "value": "info@gg.ca",
+      "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    },
+    {
+      "type": "email",
+      "label": "Governor General - Media & Press",
+      "value": "media@gg.ca",
+      "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    },
+    {
+      "type": "email",
+      "label": "Department of Justice Canada",
+      "value": "webadmin@justice.gc.ca",
+      "source": "https://www.justice.gc.ca/eng/fl-df/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Canada - Statistical Information Service",
+      "value": "infostats@statcan.gc.ca",
+      "source": "https://www.statcan.gc.ca/en/reference/refcentre/index"
+    },
+    {
+      "type": "website",
+      "label": "Canada.ca - Official Government of Canada Portal",
+      "url": "https://www.canada.ca/en.html",
+      "source": "https://www.canada.ca/en.html"
+    },
+    {
+      "type": "website",
+      "label": "Global Affairs Canada",
+      "url": "https://international.canada.ca/en/global-affairs",
+      "source": "https://international.canada.ca/en/global-affairs"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister of Canada",
+      "url": "https://www.pm.gc.ca/en",
+      "source": "https://www.pm.gc.ca/en"
+    },
+    {
+      "type": "website",
+      "label": "Governor General of Canada",
+      "url": "https://www.gg.ca/en",
+      "source": "https://www.gg.ca/en"
+    },
+    {
+      "type": "website",
+      "label": "Department of Justice Canada",
+      "url": "https://www.justice.gc.ca/eng/",
+      "source": "https://www.justice.gc.ca/eng/"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Canada",
+      "url": "https://parl.gc.ca/",
+      "source": "https://www.parl.gc.ca/common/index.asp?Language=E"
+    },
+    {
+      "type": "website",
+      "label": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/",
+      "source": "https://www.statcan.gc.ca/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister of Canada",
+      "url": "https://twitter.com/CanadianPM",
+      "source": "https://www.pm.gc.ca/en/connect/social-media"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister of Canada",
+      "url": "https://www.facebook.com/CanadianPM",
+      "source": "https://www.pm.gc.ca/en/connect/social-media"
+    },
+    {
+      "type": "instagram",
+      "label": "Prime Minister of Canada",
+      "url": "https://www.instagram.com/canadianpm",
+      "source": "https://www.pm.gc.ca/en/connect/social-media"
+    },
+    {
+      "type": "youtube",
+      "label": "Prime Minister of Canada",
+      "url": "https://www.youtube.com/@CanadianPM",
+      "source": "https://www.pm.gc.ca/en/connect/social-media"
+    },
+    {
+      "type": "phone",
+      "label": "Global Affairs Canada - General",
+      "value": "1-800-267-8376",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Global Affairs Canada - Document Authentication",
+      "value": "1-833-928-1551",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "613-957-5555",
+      "source": "https://www.pm.gc.ca/en/connect/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Governor General - General Inquiries",
+      "value": "613-993-8200",
+      "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    },
+    {
+      "type": "phone",
+      "label": "Governor General - Visitor Services",
+      "value": "613-991-4422",
+      "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    },
+    {
+      "type": "phone",
+      "label": "Governor General - Information Line",
+      "value": "1-800-465-6890",
+      "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Justice Canada",
+      "value": "613-957-4222",
+      "source": "https://www.justice.gc.ca/eng/fl-df/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Statistics Canada - Toll Free",
+      "value": "1-800-263-1136",
+      "source": "https://www.statcan.gc.ca/en/reference/refcentre/index"
+    },
+    {
+      "type": "phone",
+      "label": "Statistics Canada - Ottawa",
+      "value": "514-283-8300",
+      "source": "https://www.statcan.gc.ca/en/reference/refcentre/index"
+    },
+    {
+      "type": "address",
+      "label": "Global Affairs Canada",
+      "value": "125 Sussex Drive, Ottawa, ON K1A 0G2",
+      "source": "https://international.canada.ca/en/global-affairs/corporate/contact"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "80 Wellington Street, Ottawa, ON K1A 0A2",
+      "source": "https://www.pm.gc.ca/en/connect/contact"
+    },
+    {
+      "type": "address",
+      "label": "Governor General - Rideau Hall",
+      "value": "1 Sussex Drive, Ottawa, ON K1A 0A1",
+      "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    },
+    {
+      "type": "address",
+      "label": "Department of Justice Canada",
+      "value": "284 Wellington Street, Ottawa, ON K1A 0H8",
+      "source": "https://www.justice.gc.ca/eng/fl-df/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Statistics Canada",
+      "value": "150 Tunney's Pasture Driveway, Ottawa, ON K1A 0T6",
+      "source": "https://www.statcan.gc.ca/en/about/dp/2020-2021/s11"
+    },
+    {
+      "type": "fax",
+      "label": "Prime Minister's Office",
+      "value": "613-941-6900",
+      "source": "https://www.pm.gc.ca/en/connect/contact"
+    },
+    {
+      "type": "fax",
+      "label": "Governor General",
+      "value": "613-998-8760",
+      "source": "https://www.gg.ca/en/contact-us/questions-comments"
+    }
+  ]
+}

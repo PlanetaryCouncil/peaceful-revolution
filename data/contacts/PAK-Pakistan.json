@@ -1,0 +1,162 @@
+{
+  "iso": "PAK",
+  "country_name": "Pakistan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Wireless/Communication Center",
+      "value": "wireless@mofa.gov.pk",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Foreign Minister's Office",
+      "value": "+92-51-9207600",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Foreign Secretary's Office",
+      "value": "+92-51-9211942",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - General Inquiries/Duty Room",
+      "value": "+92-51-9207663",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Additional Secretary (Administration)",
+      "value": "+92-51-9204502",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Special Secretary (UN)",
+      "value": "+92-51-9210002",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "fax",
+      "label": "Ministry of Foreign Affairs - Foreign Secretary's Office",
+      "value": "+92-51-9207217",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "fax",
+      "label": "Ministry of Foreign Affairs - Spokesperson/Additional Secretary",
+      "value": "+92-51-9201417",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs Headquarters",
+      "value": "Constitutional Avenue, G-5, Islamabad 44000, Pakistan",
+      "source": "https://www.linkedin.com/company/foreignofficepk/"
+    },
+    {
+      "type": "address",
+      "label": "Regional Liaison Office - Karachi",
+      "value": "Main Shahrah-e-Faisal, Adjacent to FTC Building, Karachi",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Regional Liaison Office - Karachi",
+      "value": "+92-21-99204989, +92-21-99206690",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Regional Liaison Office - Lahore",
+      "value": "43-N Block, Gulberg-II, Lahore",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Regional Liaison Office - Lahore",
+      "value": "+92-42-37824023",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Regional Liaison Office - Peshawar",
+      "value": "House-no. 12-D/A, Circular Road, University Town, Peshawar",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Regional Liaison Office - Peshawar",
+      "value": "+92-91-9216203",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Regional Liaison Office - Quetta",
+      "value": "Room 28, 2nd Floor, Civil Secretariat, Quetta",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Regional Liaison Office - Quetta",
+      "value": "+92-81-9203155",
+      "source": "https://mofa.gov.pk/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official Website",
+      "url": "https://mofa.gov.pk",
+      "source": "Official government domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs Facebook",
+      "url": "https://www.facebook.com/foreignofficepk",
+      "source": "https://mofa.gov.pk"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Twitter/X",
+      "url": "https://twitter.com/ForeignOfficePk",
+      "source": "https://mofa.gov.pk"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs Instagram",
+      "url": "https://www.instagram.com/foreignofficepk",
+      "source": "https://mofa.gov.pk"
+    },
+    {
+      "type": "linkedin",
+      "label": "Ministry of Foreign Affairs LinkedIn",
+      "url": "https://www.linkedin.com/company/foreignofficepk",
+      "source": "https://mofa.gov.pk"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs YouTube",
+      "url": "https://www.youtube.com/foreignofficepk",
+      "source": "https://mofa.gov.pk"
+    },
+    {
+      "type": "other",
+      "label": "Appointment Booking System",
+      "value": "https://mofa.gov.pk/appointment",
+      "source": "https://mofa.gov.pk"
+    },
+    {
+      "type": "other",
+      "label": "Consular Services",
+      "value": "Document attestation and services available at https://mofa.gov.pk/tabs/consular-service-attestation-of-documents",
+      "source": "https://mofa.gov.pk"
+    },
+    {
+      "type": "other",
+      "label": "Press Releases & Media Inquiries",
+      "value": "Spokesperson Office - Subscribe to Spokesperson MOFA via https://mofa.gov.pk/press-releases",
+      "source": "https://mofa.gov.pk"
+    }
+  ]
+}

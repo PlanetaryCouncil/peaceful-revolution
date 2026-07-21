@@ -1,0 +1,270 @@
+{
+  "iso": "AZE",
+  "country_name": "Azerbaijan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "General Government Portal",
+      "value": "info@gov.az",
+      "source": "gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "General Government Portal",
+      "value": "(+994 12) 435-28-43",
+      "source": "gov.az"
+    },
+    {
+      "type": "address",
+      "label": "General Government Portal",
+      "value": "Niyazi Street 23, Baku AZ 1066",
+      "source": "gov.az"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.az",
+      "source": "gov.az"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice",
+      "value": "contact@justice.gov.az",
+      "source": "justice.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Justice",
+      "value": "+99412 510 10 01",
+      "source": "justice.gov.az"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Justice",
+      "value": "Builders Avenue 1, Baku AZ1073",
+      "source": "justice.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice",
+      "url": "https://justice.gov.az",
+      "source": "justice.gov.az"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Ecology and Natural Resources",
+      "value": "info@eco.gov.az",
+      "source": "eco.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Ecology - Call Center",
+      "value": "168",
+      "source": "eco.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Ecology and Natural Resources",
+      "url": "https://eco.gov.az",
+      "source": "eco.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health",
+      "value": "814 or 9103",
+      "source": "sehiyye.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://sehiyye.gov.az",
+      "source": "sehiyye.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Agriculture - Call Center",
+      "value": "1652",
+      "source": "agro.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Agriculture",
+      "url": "https://agro.gov.az",
+      "source": "agro.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Economy - Call Center",
+      "value": "195-1",
+      "source": "economy.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Economy",
+      "url": "https://economy.gov.az",
+      "source": "economy.gov.az"
+    },
+    {
+      "type": "email",
+      "label": "State Migration Service",
+      "value": "info@migration.gov.az",
+      "source": "migration.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "State Migration Service",
+      "value": "(+994 12) 565 61 18",
+      "source": "migration.gov.az"
+    },
+    {
+      "type": "address",
+      "label": "State Migration Service",
+      "value": "Bineqedi District, 3123rd Neighborhood, Baku",
+      "source": "migration.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "State Migration Service",
+      "url": "https://migration.gov.az",
+      "source": "migration.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Central Bank of Azerbaijan - Main Hotline",
+      "value": "(+994 12) 966",
+      "source": "cbar.az"
+    },
+    {
+      "type": "phone",
+      "label": "Central Bank of Azerbaijan - General",
+      "value": "(+994 12) 493 5058",
+      "source": "cbar.az"
+    },
+    {
+      "type": "phone",
+      "label": "Central Bank of Azerbaijan - Media",
+      "value": "(+994 12) 966 ext. 2243",
+      "source": "cbar.az"
+    },
+    {
+      "type": "address",
+      "label": "Central Bank of Azerbaijan",
+      "value": "Heydar Aliyev Avenue 167, Nizami District, Baku AZ1029",
+      "source": "cbar.az"
+    },
+    {
+      "type": "website",
+      "label": "Central Bank of Azerbaijan",
+      "url": "https://cbar.az",
+      "source": "cbar.az"
+    },
+    {
+      "type": "email",
+      "label": "State Customs Committee - General",
+      "value": "office@customs.gov.az",
+      "source": "customs.gov.az"
+    },
+    {
+      "type": "email",
+      "label": "State Customs Committee - International Relations",
+      "value": "international@customs.gov.az",
+      "source": "customs.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "State Customs Committee - Main",
+      "value": "+99 412 404-22-00",
+      "source": "customs.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "State Customs Committee - Emergency",
+      "value": "195/6",
+      "source": "customs.gov.az"
+    },
+    {
+      "type": "address",
+      "label": "State Customs Committee",
+      "value": "Landau Street 10, Baku AZ1073",
+      "source": "customs.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "State Customs Committee",
+      "url": "https://customs.gov.az",
+      "source": "customs.gov.az"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Emergency Situations - Main",
+      "value": "info@fhn.gov.az",
+      "source": "fhn.gov.az"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Emergency Situations - Appeals Board",
+      "value": "apellyasiya@fhn.gov.az",
+      "source": "fhn.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Emergency Situations - Main",
+      "value": "+994 12 512 00 61",
+      "source": "fhn.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Emergency Situations - Citizen Reception",
+      "value": "+994 12 512 00 28",
+      "source": "fhn.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Emergency Situations - Press Service",
+      "value": "+994 12 512 01 80",
+      "source": "fhn.gov.az"
+    },
+    {
+      "type": "phone",
+      "label": "Emergency Services",
+      "value": "112",
+      "source": "fhn.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Emergency Situations",
+      "url": "https://fhn.gov.az",
+      "source": "fhn.gov.az"
+    },
+    {
+      "type": "website",
+      "label": "President's Official Website",
+      "url": "https://president.az",
+      "source": "president.az"
+    },
+    {
+      "type": "instagram",
+      "label": "President's Office - Official Instagram",
+      "url": "https://www.instagram.com/presidentaz",
+      "source": "president.az"
+    },
+    {
+      "type": "facebook",
+      "label": "President's Official Facebook",
+      "url": "https://www.facebook.com/PresidentIlhamAliyev",
+      "source": "president.az"
+    },
+    {
+      "type": "twitter",
+      "label": "President's Official Twitter",
+      "url": "https://twitter.com/azpresident",
+      "source": "president.az"
+    },
+    {
+      "type": "youtube",
+      "label": "President's Official YouTube",
+      "url": "https://www.youtube.com/user/presidentaz",
+      "source": "president.az"
+    }
+  ]
+}

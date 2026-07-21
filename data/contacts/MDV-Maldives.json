@@ -1,0 +1,96 @@
+{
+  "iso": "MDV",
+  "country_name": "Maldives",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official Portal",
+      "url": "https://mofa.gov.mv",
+      "source": "Official .gov.mv domain"
+    },
+    {
+      "type": "website",
+      "label": "President's Office Official Website",
+      "url": "https://www.presidencymaldives.gov.mv",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Government of Maldives Official Portal",
+      "url": "https://www.gov.mv",
+      "source": "Official government domain"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs General Inquiry",
+      "value": "info@mofa.gov.mv",
+      "source": "Official ministry contact directory"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs Main Office",
+      "value": "mofa@mofa.gov.mv",
+      "source": "Official ministry directory"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+960 332 6000",
+      "source": "Official government contact directory"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office Main Line",
+      "value": "+960 332 7311",
+      "source": "Official government directory"
+    },
+    {
+      "type": "postal",
+      "label": "Ministry of Foreign Affairs Address",
+      "value": "Building 20A, Ground Floor, Ameenee Magu, Male 20047, Maldives",
+      "source": "Official government directory"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs Official Facebook",
+      "url": "https://www.facebook.com/MofaMaldives",
+      "source": "Official government social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Official X/Twitter",
+      "url": "https://twitter.com/MofaMaldives",
+      "source": "Official government social media"
+    },
+    {
+      "type": "website",
+      "label": "Maldives Permanent Mission to UN",
+      "url": "https://www.un.int/maldives",
+      "source": "UN Missions directory"
+    },
+    {
+      "type": "email",
+      "label": "Maldives UN Mission Inquiry",
+      "value": "missionmaldives@un.int",
+      "source": "UN Missions directory"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Switchboard",
+      "value": "+960 332 2000",
+      "source": "Official government directory"
+    },
+    {
+      "type": "website",
+      "label": "Maldives Civil Service",
+      "url": "https://www.civilservice.gov.mv",
+      "source": "Official government service portal"
+    },
+    {
+      "type": "other",
+      "label": "Official Government Services Portal",
+      "value": "Digital services and information available at www.gov.mv",
+      "source": "Official government domain"
+    }
+  ]
+}

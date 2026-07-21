@@ -1,0 +1,174 @@
+{
+  "iso": "EST",
+  "country_name": "Estonia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Office of the President - General",
+      "value": "president@president.ee",
+      "source": "president.ee/en"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+372 631 6202",
+      "source": "president.ee/en"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "A. Weizenbergi 39, 15050 Tallinn, Estonia",
+      "source": "president.ee/en"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://president.ee/en",
+      "source": "president.ee"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://twitter.com/AlarKaris",
+      "source": "president.ee/en"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General Inquiries",
+      "value": "info@vm.ee",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press",
+      "value": "pressiinfo@vm.ee",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "value": "konsulaarteenused@vm.ee",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Office",
+      "value": "+372 637 7000",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Department",
+      "value": "+372 6377 440",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergency Hotline (24/7)",
+      "value": "+372 53 01 9999",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Islandi väljak 1, 15049 Tallinn, Estonia",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://vm.ee/en",
+      "source": "vm.ee"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://facebook.com/valismin",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/MFAestonia",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://youtube.com/estonianmfa",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "linkedin",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://linkedin.com/company/ministry-of-foreign-affairs-of-estonia",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "flickr",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://flickr.com/photos/estonian-foreign-ministry/",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://instagram.com/mfaestonia/",
+      "source": "vm.ee/en"
+    },
+    {
+      "type": "email",
+      "label": "Government Office (Riigikantselei)",
+      "value": "info@riigikantselei.ee",
+      "source": "riigikantselei.ee"
+    },
+    {
+      "type": "phone",
+      "label": "Government Office (Riigikantselei)",
+      "value": "+372 693 5555",
+      "source": "riigikantselei.ee"
+    },
+    {
+      "type": "address",
+      "label": "Government Office (Riigikantselei) - Stenbocki House",
+      "value": "Rahukohtu 3, 15161 Tallinn, Estonia",
+      "source": "riigikantselei.ee"
+    },
+    {
+      "type": "website",
+      "label": "Government Office (Riigikantselei)",
+      "url": "https://www.riigikantselei.ee/en",
+      "source": "riigikantselei.ee"
+    },
+    {
+      "type": "facebook",
+      "label": "Estonian Government (Stenbocki Maja)",
+      "url": "https://facebook.com/stenbockimaja",
+      "source": "riigikantselei.ee"
+    },
+    {
+      "type": "twitter",
+      "label": "Estonian Government",
+      "url": "https://twitter.com/StenbockiMaja",
+      "source": "riigikantselei.ee"
+    },
+    {
+      "type": "youtube",
+      "label": "Estonian Government",
+      "url": "https://youtube.com/user/ValitsuseUudised",
+      "source": "riigikantselei.ee"
+    },
+    {
+      "type": "website",
+      "label": "Estonian Government Portal",
+      "url": "https://www.valitsus.ee/en",
+      "source": "valitsus.ee"
+    },
+    {
+      "type": "phone",
+      "label": "Estonian Government Communications",
+      "value": "+372 693 5710",
+      "source": "valitsus.ee"
+    }
+  ]
+}

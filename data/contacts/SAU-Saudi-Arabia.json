@@ -1,0 +1,114 @@
+{
+  "iso": "SAU",
+  "country_name": "Saudi Arabia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Customer Care",
+      "value": "customercare@mofa.gov.sa",
+      "source": "mofa.gov.sa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "920011114",
+      "source": "mofa.gov.sa"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official Portal",
+      "url": "https://mofa.gov.sa",
+      "source": "mofa.gov.sa"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Official Twitter/X",
+      "url": "https://x.com/ksamofa",
+      "source": "mofa.gov.sa"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs Official Instagram",
+      "url": "https://www.instagram.com/ksa_mofa",
+      "source": "mofa.gov.sa"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior - General Inquiries",
+      "value": "info@moia.gov.sa",
+      "source": "moia.gov.sa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Unified Call Center",
+      "value": "1933",
+      "source": "moia.gov.sa"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior Official Portal",
+      "url": "https://moia.gov.sa",
+      "source": "moia.gov.sa"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health - General Inquiries",
+      "value": "937@moh.gov.sa",
+      "source": "moh.gov.sa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - Call Center 937 (24/7 Medical Consultations)",
+      "value": "937",
+      "source": "moh.gov.sa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - International Number",
+      "value": "+966920005937",
+      "source": "moh.gov.sa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - Staff Inquiries",
+      "value": "920009080",
+      "source": "moh.gov.sa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - Integrity Hotline",
+      "value": "980 (WhatsApp: +966539980980)",
+      "source": "moh.gov.sa"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health Official Portal",
+      "url": "https://www.moh.gov.sa",
+      "source": "moh.gov.sa"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Health Official Twitter",
+      "url": "https://twitter.com/SaudiMOH",
+      "source": "moh.gov.sa"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - E-Services Portal",
+      "value": "ksavisa.sa (Visa Services)",
+      "source": "mofa.gov.sa"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Jobs Portal",
+      "value": "jobs.mofa.gov.sa",
+      "source": "mofa.gov.sa"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Services for Saudis Abroad",
+      "value": "services.mofa.gov.sa/Fanar",
+      "source": "mofa.gov.sa"
+    }
+  ]
+}

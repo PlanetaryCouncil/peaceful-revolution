@@ -1,0 +1,294 @@
+{
+  "iso": "AUS",
+  "country_name": "Australia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Australian Treasury - Media Inquiries",
+      "value": "media@treasury.gov.au",
+      "source": "treasury.gov.au/the-department/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Austrade - Media Inquiries",
+      "value": "media@austrade.gov.au",
+      "source": "austrade.gov.au/contact"
+    },
+    {
+      "type": "email",
+      "label": "APRA - Licensing Inquiries",
+      "value": "licensing@apra.gov.au",
+      "source": "apra.gov.au/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Australian Bureau of Statistics - Occupation",
+      "value": "occupation@abs.gov.au",
+      "source": "abs.gov.au/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Australian Treasury - Switchboard",
+      "value": "1800 020 008",
+      "source": "treasury.gov.au/the-department/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Australian Treasury - Canberra Direct",
+      "value": "+61 2 6263 2111",
+      "source": "treasury.gov.au/the-department/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "DFAT - Emergency Consular Services (24/7)",
+      "value": "+61 2 6261 3305",
+      "source": "linkedin.com/company/department-of-foreign-affairs-and-trade"
+    },
+    {
+      "type": "phone",
+      "label": "Austrade - Direct Line",
+      "value": "13 28 78",
+      "source": "austrade.gov.au/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Austrade - Media",
+      "value": "+61 2 9392 2873",
+      "source": "austrade.gov.au/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Australian Electoral Commission",
+      "value": "13 23 26",
+      "source": "aec.gov.au/About_AEC/Contact_the_AEC"
+    },
+    {
+      "type": "phone",
+      "label": "Australian Electoral Commission - International",
+      "value": "+61 2 6160 2600",
+      "source": "aec.gov.au/About_AEC/Contact_the_AEC"
+    },
+    {
+      "type": "phone",
+      "label": "ASIC - Within Australia",
+      "value": "1300 300 630",
+      "source": "asic.gov.au/about-asic/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "ASIC - International",
+      "value": "+61 3 5177 5407",
+      "source": "asic.gov.au/about-asic/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "APRA - Within Australia",
+      "value": "1300 558 849",
+      "source": "apra.gov.au/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "APRA - International",
+      "value": "+61 2 8037 9015",
+      "source": "apra.gov.au/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "National Library of Australia",
+      "value": "+61 (0)2 6262 1111",
+      "source": "library.gov.au"
+    },
+    {
+      "type": "phone",
+      "label": "Australian Bureau of Statistics - Occupation Line",
+      "value": "1300 135 070",
+      "source": "abs.gov.au/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Australian Bureau of Statistics - International",
+      "value": "+61 2 92 684 909",
+      "source": "abs.gov.au/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister - Parliamentary Address",
+      "value": "Parliament House, Canberra ACT 2600, Australia",
+      "source": "pm.gov.au/contact-pm"
+    },
+    {
+      "type": "address",
+      "label": "Australian Treasury - Canberra Headquarters",
+      "value": "Langton Crescent, Parkes ACT 2600, Australia",
+      "source": "treasury.gov.au/the-department/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Australian Treasury - Sydney Office",
+      "value": "Level 29, 201 Kent Street, Sydney NSW 2000, Australia",
+      "source": "treasury.gov.au/the-department/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Australian Treasury - Melbourne Office",
+      "value": "Level 16, 530 Collins Street, Melbourne VIC 3000, Australia",
+      "source": "treasury.gov.au/the-department/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Australian Treasury - Perth Office",
+      "value": "St Georges Square, Level 5, 225 St Georges Terrace, Perth WA 6000, Australia",
+      "source": "treasury.gov.au/the-department/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "DFAT - Canberra Headquarters",
+      "value": "R G Casey Building, John McEwen Crescent, Barton ACT 0221, Australia",
+      "source": "linkedin.com/company/department-of-foreign-affairs-and-trade"
+    },
+    {
+      "type": "address",
+      "label": "National Library of Australia",
+      "value": "Parkes Place, Canberra ACT 2600, Australia",
+      "source": "library.gov.au"
+    },
+    {
+      "type": "address",
+      "label": "APRA - Sydney Head Office",
+      "value": "GPO Box 9836, Sydney NSW 2001, Australia",
+      "source": "apra.gov.au/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Australian Prime Minister",
+      "url": "https://www.pm.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister Contact Form",
+      "url": "https://www.pm.gov.au/contact",
+      "source": "Official contact page"
+    },
+    {
+      "type": "website",
+      "label": "Australian Treasury",
+      "url": "https://treasury.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Department of Foreign Affairs and Trade",
+      "url": "https://www.dfat.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Austrade - Australia's Trade and Investment Commission",
+      "url": "https://www.austrade.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Australian Electoral Commission",
+      "url": "https://www.aec.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "ASIC - Australian Securities and Investments Commission",
+      "url": "https://www.asic.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "APRA - Australian Prudential Regulation Authority",
+      "url": "https://www.apra.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "National Library of Australia",
+      "url": "https://www.library.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "myGov - Australian Government Services Portal",
+      "url": "https://my.gov.au",
+      "source": "Official government portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Australian Government - Official Account",
+      "url": "https://www.facebook.com/AustralianGovernment",
+      "source": "Official social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister Anthony Albanese",
+      "url": "https://www.facebook.com/AlboMP",
+      "source": "Official social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Australian Treasury",
+      "url": "https://www.x.com/Treasury_AU",
+      "source": "Official social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister Anthony Albanese",
+      "url": "https://www.x.com/AlboMP",
+      "source": "Official social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Australian Electoral Commission",
+      "url": "https://www.x.com/AusElectoralCom",
+      "source": "Official social media"
+    },
+    {
+      "type": "instagram",
+      "label": "Australian Government - Official Account",
+      "url": "https://www.instagram.com/australian_government",
+      "source": "Official social media"
+    },
+    {
+      "type": "instagram",
+      "label": "Australian Electoral Commission",
+      "url": "https://www.instagram.com/AusElectoralCom",
+      "source": "Official social media"
+    },
+    {
+      "type": "linkedin",
+      "label": "Department of Foreign Affairs and Trade",
+      "url": "https://www.linkedin.com/company/department-of-foreign-affairs-and-trade",
+      "source": "Official social media"
+    },
+    {
+      "type": "linkedin",
+      "label": "Australian Treasury",
+      "url": "https://www.linkedin.com/company/commonwealth-treasury",
+      "source": "Official social media"
+    },
+    {
+      "type": "other",
+      "label": "DFAT 120+ Global Network",
+      "value": "Australian embassies and consulates in 120+ countries worldwide",
+      "source": "linkedin.com/company/department-of-foreign-affairs-and-trade"
+    }
+  ]
+}

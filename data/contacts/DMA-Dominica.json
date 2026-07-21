@@ -1,0 +1,120 @@
+{
+  "iso": "DMA",
+  "country_name": "Dominica",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs, International Business, Trade and Energy",
+      "value": "foreignaffairs@dominica.gov.dm",
+      "source": "https://dominica.gov.dm/ministries/foreign-affairs-international-business-trade-and-energy"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister",
+      "value": "opm@dominica.gov.dm",
+      "source": "https://pressroomopm.gov.dm/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "presidentsoffice@dominica.gov.dm",
+      "source": "https://presidentoffice.gov.dm/contact"
+    },
+    {
+      "type": "email",
+      "label": "Government General Inquiries - Citizen Service Centre",
+      "value": "cscentre@dominica.gov.dm",
+      "source": "https://dominica.gov.dm/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Line",
+      "value": "+1 767 266 3000",
+      "source": "https://dominica.gov.dm/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+1 767 266 3333",
+      "source": "https://presidentoffice.gov.dm/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+1 767 266 3276",
+      "source": "https://dominica.gov.dm/ministries/foreign-affairs-international-business-trade-and-energy"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister",
+      "value": "+1 767 266 3300",
+      "source": "https://pressroomopm.gov.dm/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://dominica.gov.dm/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://presidentoffice.gov.dm/",
+      "source": "Official President's office website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opm.gov.dm/",
+      "source": "Official Prime Minister's office website"
+    },
+    {
+      "type": "website",
+      "label": "Government News Portal",
+      "url": "https://news.gov.dm/",
+      "source": "Official government news source"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Dominica",
+      "url": "https://www.facebook.com/GovernmentofDominica/",
+      "source": "Official government Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the Prime Minister",
+      "url": "https://www.facebook.com/OPMDominica/",
+      "source": "Official Prime Minister's office Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the Prime Minister (@DominicaOPM)",
+      "url": "https://x.com/dominicaopm",
+      "source": "Official Prime Minister's office Twitter/X account"
+    },
+    {
+      "type": "address",
+      "label": "Government Headquarters",
+      "value": "Ground Floor Government Headquarters, Kennedy Avenue, Roseau, Commonwealth of Dominica",
+      "source": "https://dominica.gov.dm/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "State House, Victoria Street, Roseau, Commonwealth of Dominica",
+      "source": "https://presidentoffice.gov.dm/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs, International Business, Trade and Energy",
+      "value": "4th Floor, Financial Centre, Kennedy Avenue, Roseau, Commonwealth of Dominica",
+      "source": "https://dominica.gov.dm/ministries/foreign-affairs-international-business-trade-and-energy"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "6th Floor, Financial Centre, Kennedy Avenue, Roseau, Commonwealth of Dominica",
+      "source": "https://pressroomopm.gov.dm/contact-us/"
+    }
+  ]
+}

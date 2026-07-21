@@ -1,0 +1,120 @@
+{
+  "iso": "PNG",
+  "country_name": "Papua New Guinea",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Department of Prime Minister and National Executive Council - General Inquiries",
+      "value": "info@pmnec.gov.pg",
+      "source": "pmnec.gov.pg"
+    },
+    {
+      "type": "email",
+      "label": "PNG Embassy to the Americas - General Inquiries",
+      "value": "info@pngembassy.org",
+      "source": "pngembassy.org"
+    },
+    {
+      "type": "email",
+      "label": "PNG Embassy to the Americas - Visa Services",
+      "value": "visa@pngembassy.org",
+      "source": "pngembassy.org"
+    },
+    {
+      "type": "email",
+      "label": "World Bank Port Moresby Office",
+      "value": "pacificmedia@worldbank.org",
+      "source": "worldbank.org"
+    },
+    {
+      "type": "phone",
+      "label": "PNG Embassy to the Americas (Washington, DC)",
+      "value": "+1-202-745-3680",
+      "source": "pngembassy.org"
+    },
+    {
+      "type": "address",
+      "label": "PNG Embassy to the Americas",
+      "value": "1825 K Street NW, Suite 1010, Washington, DC 20006, USA",
+      "source": "pngembassy.org"
+    },
+    {
+      "type": "address",
+      "label": "Department of Prime Minister and National Executive Council",
+      "value": "Melanesian Haus, Waigani, NCD 121, Papua New Guinea",
+      "source": "pmnec.gov.pg"
+    },
+    {
+      "type": "address",
+      "label": "Department of Prime Minister and National Executive Council - Mailing",
+      "value": "P.O. Box 639, Waigani, NCD 121, PNG",
+      "source": "pmnec.gov.pg"
+    },
+    {
+      "type": "website",
+      "label": "Department of Prime Minister and National Executive Council",
+      "url": "https://pmnec.gov.pg",
+      "source": "pmnec.gov.pg"
+    },
+    {
+      "type": "website",
+      "label": "PNG Embassy to the Americas",
+      "url": "https://www.pngembassy.org",
+      "source": "pngembassy.org"
+    },
+    {
+      "type": "website",
+      "label": "National Parliament of Papua New Guinea",
+      "url": "https://parliament.gov.pg",
+      "source": "Wikipedia - Government of Papua New Guinea"
+    },
+    {
+      "type": "website",
+      "label": "Papua New Guinea Immigration and Citizenship Authority",
+      "url": "https://ica.gov.pg",
+      "source": "pngembassy.org"
+    },
+    {
+      "type": "other",
+      "label": "Head of State",
+      "value": "King Charles III",
+      "source": "Wikipedia"
+    },
+    {
+      "type": "other",
+      "label": "Governor-General",
+      "value": "Sir Bob Dadae",
+      "source": "Wikipedia"
+    },
+    {
+      "type": "other",
+      "label": "Prime Minister",
+      "value": "James Marape",
+      "source": "Wikipedia"
+    },
+    {
+      "type": "other",
+      "label": "Foreign Minister",
+      "value": "Soroi Eoe",
+      "source": "Wikipedia"
+    },
+    {
+      "type": "other",
+      "label": "Country Code",
+      "value": "+675",
+      "source": "Wikipedia"
+    },
+    {
+      "type": "other",
+      "label": "Internet TLD",
+      "value": ".pg",
+      "source": "Wikipedia"
+    },
+    {
+      "type": "other",
+      "label": "Capital City",
+      "value": "Port Moresby",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "iso": "JAM",
+  "country_name": "Jamaica",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Foreign Trade - General",
+      "value": "info@mfaft.gov.jm",
+      "source": "https://mfaft.gov.jm"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Foreign Trade - Customer Service",
+      "value": "csb@mfaft.gov.jm",
+      "source": "https://mfaft.gov.jm"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister",
+      "value": "opmnews@opm.gov.jm",
+      "source": "https://www.gov.jm/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of National Security",
+      "value": "information@mns.gov.jm",
+      "source": "https://www.mns.gov.jm"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Industry, Investment and Commerce - General",
+      "value": "information@miic.gov.jm",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Industry, Investment and Commerce - Customer Service",
+      "value": "customerservice@miic.gov.jm",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice and Constitutional Affairs",
+      "value": "customerservice@moj.gov.jm",
+      "source": "https://www.gov.jm/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance and Public Service",
+      "value": "mofps.pr@mof.gov.jm",
+      "source": "https://www.gov.jm/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health and Wellness",
+      "value": "info@moh.gov.jm",
+      "source": "https://www.gov.jm/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Energy, Transport and Telecommunications",
+      "value": "info@mett.gov.jm",
+      "source": "https://www.mset.gov.jm"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Local Government and Community Development",
+      "value": "Communications@Mlgcd.Gov.Jm",
+      "source": "https://www.gov.jm/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "value": "+1 (876) 676-4028-30",
+      "source": "https://mfaft.gov.jm"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Foreign Trade - Fax",
+      "value": "+1 (876) 929-6733",
+      "source": "https://mfaft.gov.jm"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister and Cabinet Office",
+      "value": "+1 (876) 927-9941-3 / +1 (876) 968-8229",
+      "source": "https://www.gov.jm/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of National Security",
+      "value": "+1 (876) 906-4908",
+      "source": "https://www.mns.gov.jm"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "value": "+1 (876) 619-8038",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Energy, Transport and Telecommunications",
+      "value": "+1 (876) 929-8990-9 / +1 (876) 960-1623",
+      "source": "https://www.mset.gov.jm"
+    },
+    {
+      "type": "phone",
+      "label": "Jamaica Information Service (JIS)",
+      "value": "+1 (876) 926-3590-4 or +1 (876) 926-3740-6",
+      "source": "https://www.jis.gov.jm"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Foreign Trade (Hugh Lawson Shearer Building)",
+      "value": "2 Port Royal Street, Kingston, Jamaica",
+      "source": "https://mfaft.gov.jm"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister and Cabinet Office",
+      "value": "1 Devon Road, Kingston 10, Jamaica",
+      "source": "https://www.gov.jm/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of National Security",
+      "value": "North Tower, 2 Oxford Road, Kingston 5, Jamaica",
+      "source": "https://www.mns.gov.jm"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "value": "4 St. Lucia Avenue, Kingston 5, Jamaica",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Energy, Transport and Telecommunications",
+      "value": "PCJ Building, 36 Trafalgar Road, Kingston 10, Jamaica",
+      "source": "https://www.mset.gov.jm"
+    },
+    {
+      "type": "address",
+      "label": "Jamaica Information Service (JIS)",
+      "value": "58A Half Way Tree Road, Kingston 10, Jamaica, W.I",
+      "source": "https://www.jis.gov.jm"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.jm",
+      "source": "Jamaica Government Official Site"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://mfaft.gov.jm",
+      "source": "Jamaica Government"
+    },
+    {
+      "type": "website",
+      "label": "Jamaica Information Service (JIS) - Official News",
+      "url": "https://www.jis.gov.jm",
+      "source": "Jamaica Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of National Security",
+      "url": "https://www.mns.gov.jm",
+      "source": "Jamaica Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "url": "https://www.miic.gov.jm",
+      "source": "Jamaica Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Energy, Transport and Telecommunications",
+      "url": "https://www.mset.gov.jm",
+      "source": "Jamaica Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Education, Skills, Youth and Information",
+      "url": "https://www.moey.gov.jm",
+      "source": "Jamaica Government"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://www.facebook.com/mfaftja",
+      "source": "https://mfaft.gov.jm"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://twitter.com/mfaftja",
+      "source": "https://mfaft.gov.jm"
+    },
+    {
+      "type": "facebook",
+      "label": "Jamaica Information Service (JIS)",
+      "url": "https://www.facebook.com/JISVoice",
+      "source": "https://www.jis.gov.jm"
+    },
+    {
+      "type": "twitter",
+      "label": "Jamaica Information Service (JIS)",
+      "url": "https://twitter.com/JISNews",
+      "source": "https://www.jis.gov.jm"
+    },
+    {
+      "type": "instagram",
+      "label": "Jamaica Information Service (JIS)",
+      "url": "https://www.instagram.com/jisvoice",
+      "source": "https://www.jis.gov.jm"
+    },
+    {
+      "type": "youtube",
+      "label": "Jamaica Information Service (JIS)",
+      "url": "https://www.youtube.com/@jisvoice_1",
+      "source": "https://www.jis.gov.jm"
+    },
+    {
+      "type": "tiktok",
+      "label": "Jamaica Information Service (JIS)",
+      "url": "https://www.tiktok.com/@jisvoice_1",
+      "source": "https://www.jis.gov.jm"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "url": "https://twitter.com/industryminja",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "url": "https://www.instagram.com/industryminja",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "url": "https://www.facebook.com/MIIConline",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "url": "https://www.youtube.com/@industryminja",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "tiktok",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "url": "https://www.tiktok.com/@industryminja",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "linkedin",
+      "label": "Ministry of Industry, Investment and Commerce",
+      "url": "https://www.linkedin.com/company/the-ministry-of-industry-investment-and-commerce",
+      "source": "https://www.miic.gov.jm"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Education, Skills, Youth and Information",
+      "url": "https://www.facebook.com/MOEYIJamaica",
+      "source": "https://www.moey.gov.jm"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Education, Skills, Youth and Information",
+      "url": "https://twitter.com/MOEYJamaica",
+      "source": "https://www.moey.gov.jm"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Education, Skills, Youth and Information",
+      "url": "https://www.instagram.com/moesyijamaica",
+      "source": "https://www.moey.gov.jm"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Education, Skills, Youth and Information",
+      "url": "https://www.youtube.com/@MOEJamaica",
+      "source": "https://www.moey.gov.jm"
+    }
+  ]
+}

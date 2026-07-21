@@ -1,0 +1,54 @@
+{
+  "iso": "DNK",
+  "country_name": "Denmark",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.stm.dk",
+      "source": "Danish State Ministry - Primary government website (knowledge base, unable to verify live in this session due to browser timeout)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://um.dk",
+      "source": "Danish Ministry of Foreign Affairs official domain (knowledge base, unable to verify live)"
+    },
+    {
+      "type": "website",
+      "label": "Denmark.dk - Official Country Portal",
+      "url": "https://www.denmark.dk",
+      "source": "Official Denmark information portal (knowledge base, unable to verify live)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs Contact",
+      "value": "um@um.dk",
+      "source": "Danish Ministry of Foreign Affairs - Standard government contact (knowledge base only, not verified on live official page)"
+    },
+    {
+      "type": "facebook",
+      "label": "Danish Government Facebook",
+      "url": "https://www.facebook.com/regeringen",
+      "source": "Official Danish Government social media (knowledge base, unable to verify live)"
+    },
+    {
+      "type": "twitter",
+      "label": "Danish Government X/Twitter",
+      "url": "https://twitter.com/Stm_dk",
+      "source": "Official Danish Government social media (knowledge base, unable to verify live)"
+    },
+    {
+      "type": "phone",
+      "label": "Government Switchboard",
+      "value": "+45 33 92 33 00",
+      "source": "Danish government main phone line (knowledge base, not verified in this session)"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Statsministeriet, Prins Jørgens Gård 11, 1218 Copenhagen K, Denmark",
+      "source": "Prime Minister's Office official address (knowledge base, not verified in this session)"
+    }
+  ]
+}

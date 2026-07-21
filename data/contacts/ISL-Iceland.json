@@ -1,0 +1,114 @@
+{
+  "iso": "ISL",
+  "country_name": "Iceland",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Office of the President of Iceland",
+      "value": "forseti@forseti.is",
+      "source": "https://www.forseti.is/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President of Iceland",
+      "value": "+354 540 4400",
+      "source": "https://www.forseti.is/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President of Iceland (Skrifstofa forseta Íslands)",
+      "value": "Sóleyjargötu 1, 101 Reykjavík, Iceland",
+      "source": "https://www.forseti.is/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of Iceland",
+      "url": "https://www.forseti.is/",
+      "source": "Official presidential website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Utanríkisráðuneyti)",
+      "value": "Rauðarárstígur 25, 105 Reykjavík, Iceland",
+      "source": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Iceland)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.government.is/ministries/ministry-for-foreign-affairs/",
+      "source": "Government of Iceland official website"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.government.is/ministries/prime-ministers-office/",
+      "source": "Government of Iceland official website"
+    },
+    {
+      "type": "website",
+      "label": "Parliament (Althing) - Alþingi",
+      "url": "https://www.althingi.is/english",
+      "source": "Official parliamentary website"
+    },
+    {
+      "type": "email",
+      "label": "Reykjavik City Council Service Center",
+      "value": "upplysingar@reykjavik.is",
+      "source": "https://www.reykjavik.is/"
+    },
+    {
+      "type": "phone",
+      "label": "Reykjavik City Council Service Center",
+      "value": "+354 411-1111",
+      "source": "https://www.reykjavik.is/"
+    },
+    {
+      "type": "address",
+      "label": "Reykjavik City Council Service Center",
+      "value": "Borgartún 12–14, Reykjavík, Iceland",
+      "source": "https://www.reykjavik.is/"
+    },
+    {
+      "type": "phone",
+      "label": "Icelandic National Broadcasting Service (RÚV)",
+      "value": "+354 515-3000",
+      "source": "https://www.ruv.is/"
+    },
+    {
+      "type": "address",
+      "label": "Icelandic National Broadcasting Service (RÚV)",
+      "value": "Efstaleiti 1, 103 Reykjavík, Iceland",
+      "source": "https://www.ruv.is/"
+    },
+    {
+      "type": "facebook",
+      "label": "Icelandic National Broadcasting Service (RÚV)",
+      "url": "https://www.facebook.com/RUV",
+      "source": "https://www.ruv.is/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President - X/Twitter Account",
+      "url": "https://x.com/Forseti_is",
+      "source": "Twitter/X domain redirect verification"
+    },
+    {
+      "type": "instagram",
+      "label": "Icelandic National Broadcasting Service (RÚV)",
+      "url": "https://www.instagram.com/ruvgram",
+      "source": "https://www.ruv.is/"
+    },
+    {
+      "type": "other",
+      "label": "Icelandic Public Services Portal",
+      "url": "https://island.is/en/",
+      "source": "Official government services portal"
+    },
+    {
+      "type": "website",
+      "label": "Main Government Portal",
+      "url": "https://www.government.is/",
+      "source": "Official Icelandic government website"
+    }
+  ]
+}

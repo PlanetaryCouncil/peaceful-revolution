@@ -1,0 +1,174 @@
+{
+  "iso": "HRV",
+  "country_name": "Croatia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government General Inquiries",
+      "value": "gradjani@vlada.hr",
+      "source": "vlada.gov.hr/kontakti"
+    },
+    {
+      "type": "email",
+      "label": "Government Media/Press",
+      "value": "press@vlada.hr",
+      "source": "vlada.gov.hr/kontakti"
+    },
+    {
+      "type": "email",
+      "label": "Government Information Officer",
+      "value": "ppi@vlada.hr",
+      "source": "vlada.gov.hr/sluzbenik-za-informiranje"
+    },
+    {
+      "type": "email",
+      "label": "Office of Prime Minister",
+      "value": "predsjedniw@vlada.hr",
+      "source": "vlada.gov.hr/ured-predsjednika-vlade"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Line",
+      "value": "+385 1 4569 222",
+      "source": "vlada.gov.hr/kontakti"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Line (Alternative)",
+      "value": "+385 1 6303 222",
+      "source": "vlada.gov.hr/kontakti"
+    },
+    {
+      "type": "phone",
+      "label": "Government Citizen Inquiries",
+      "value": "+385 1 6303-209",
+      "source": "vlada.gov.hr/kontakti"
+    },
+    {
+      "type": "phone",
+      "label": "Government Media Inquiries",
+      "value": "+385 1 4569 239",
+      "source": "vlada.gov.hr/kontakti"
+    },
+    {
+      "type": "phone",
+      "label": "Government Information Officer",
+      "value": "+385 1 4569-228",
+      "source": "vlada.gov.hr/sluzbenik-za-informiranje"
+    },
+    {
+      "type": "phone",
+      "label": "Office of Prime Minister",
+      "value": "+385 1 4569-210",
+      "source": "vlada.gov.hr/ured-predsjednika-vlade"
+    },
+    {
+      "type": "address",
+      "label": "Government Headquarters",
+      "value": "Trg svetog Marka 2, 10 000 Zagreb, Croatia",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign and European Affairs",
+      "value": "+385 (0)1 4569 964",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Fax 1",
+      "value": "+385 (0)1 4551 795",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Fax 2",
+      "value": "+385 (0)1 4920 149",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign and European Affairs",
+      "value": "Trg N.Š. Zrinskog 7-8, 10000 Zagreb, Croatia",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "website",
+      "label": "Government Official Portal",
+      "url": "https://vlada.gov.hr",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign and European Affairs",
+      "url": "https://mvep.gov.hr",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "website",
+      "label": "Central Directory of Croatian Public Bodies",
+      "url": "https://sredisnjikatalogrh.gov.hr/adresar/adresar-tijela-javne-vlasti",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "facebook",
+      "label": "Government - Official Account",
+      "url": "https://www.facebook.com/HrvatskaVlada",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "twitter",
+      "label": "Government - Official Account",
+      "url": "https://twitter.com/VladaRH",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "instagram",
+      "label": "Government - Official Account",
+      "url": "https://www.instagram.com/vlada__rh",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "youtube",
+      "label": "Government - Official Channel",
+      "url": "https://www.youtube.com/user/wwwvladahr",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "linkedin",
+      "label": "Government - Official Account",
+      "url": "https://www.linkedin.com/company/vlada-republike-hrvatske",
+      "source": "vlada.gov.hr"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Official Account",
+      "url": "https://www.facebook.com/MVEP.hr",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - Official Account",
+      "url": "https://twitter.com/MFA_Croatia",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs - Official Account",
+      "url": "https://www.instagram.com/mvep_hr",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs - Official Channel",
+      "url": "https://www.youtube.com/user/mveprh",
+      "source": "mvep.gov.hr"
+    },
+    {
+      "type": "linkedin",
+      "label": "Ministry of Foreign Affairs - Official Account",
+      "url": "https://www.linkedin.com/company/ministarstvo-vanjskih-i-europskih-poslova-rh",
+      "source": "mvep.gov.hr"
+    }
+  ]
+}

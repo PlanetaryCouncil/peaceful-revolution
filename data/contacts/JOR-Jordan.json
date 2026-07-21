@@ -1,0 +1,90 @@
+{
+  "iso": "JOR",
+  "country_name": "Jordan",
+  "contacts": [
+    {
+      "type": "phone",
+      "label": "National Government Contact Center",
+      "value": "+962 (6) 5008080",
+      "source": "jordan.gov.jo official portal"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://jordan.gov.jo",
+      "source": "Verified official government site"
+    },
+    {
+      "type": "website",
+      "label": "Digital Identity & E-Government Services (SANAD)",
+      "url": "https://sanad.gov.jo",
+      "source": "Verified official government site"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Jordan - Washington DC (Consular Affairs)",
+      "value": "hkjconsular@jordanembassyus.org",
+      "source": "jordanembassyus.org (Embassy official site)"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Jordan - Washington DC",
+      "value": "+1 (202) 966-2664",
+      "source": "jordanembassyus.org official"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Jordan - Washington DC",
+      "value": "3504 International Dr NW, Washington, DC 20008, USA",
+      "source": "jordanembassyus.org official"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (Official Account)",
+      "url": "https://x.com/mofa_jordan",
+      "source": "Verified official Ministry account"
+    },
+    {
+      "type": "twitter",
+      "label": "Jordan e-Government Services",
+      "url": "https://x.com/jordanegov",
+      "source": "Verified official government account"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs (Official Page)",
+      "url": "https://www.facebook.com/mofa.jordan",
+      "source": "Verified on jordan.gov.jo"
+    },
+    {
+      "type": "facebook",
+      "label": "Jordan e-Government Program (SANAD)",
+      "url": "https://www.facebook.com/SanadGovJO",
+      "source": "Verified on jordan.gov.jo"
+    },
+    {
+      "type": "other",
+      "label": "YouTube Channel - Jordan e-Government",
+      "value": "JordanEGovernment (UCMjMV4oLpolrB3uAnTh_sWg)",
+      "source": "jordan.gov.jo official"
+    },
+    {
+      "type": "other",
+      "label": "WhatsApp Support",
+      "value": "+962 6 5008080",
+      "source": "jordan.gov.jo official portal"
+    },
+    {
+      "type": "other",
+      "label": "Government Contact Form",
+      "value": "Submit through jordan.gov.jo 'Contact Us' page",
+      "source": "jordan.gov.jo official portal"
+    },
+    {
+      "type": "other",
+      "label": "Corruption Reporting",
+      "value": "jiacc.gov.jo",
+      "source": "jordan.gov.jo official portal"
+    }
+  ]
+}

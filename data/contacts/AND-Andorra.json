@@ -1,0 +1,48 @@
+{
+  "iso": "AND",
+  "country_name": "Andorra",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.govern.ad",
+      "source": "WebFetch from govern.ad"
+    },
+    {
+      "type": "website",
+      "label": "Electronic Services Portal (Seu Electrònica)",
+      "url": "https://www.e-tramits.ad",
+      "source": "WebFetch from e-tramits.ad"
+    },
+    {
+      "type": "website",
+      "label": "Transparency Portal",
+      "url": "https://transparencia.ad",
+      "source": "WebFetch from transparencia.ad"
+    },
+    {
+      "type": "website",
+      "label": "Appointment Booking System",
+      "url": "https://www.tramits.ad",
+      "source": "WebFetch from e-tramits.ad"
+    },
+    {
+      "type": "contact_form",
+      "label": "Government Contact Form (Contacta'ns)",
+      "url": "https://transparencia.ad/web/guest/contacta-ns",
+      "source": "WebFetch from transparency portal"
+    },
+    {
+      "type": "contact_form",
+      "label": "Support Request Form",
+      "url": "https://aplicacions.govern.ad/IdentificacioRemota/Support",
+      "source": "WebFetch from e-tramits.ad"
+    },
+    {
+      "type": "other",
+      "label": "Government Contact Directory (Addresses & Phone Numbers)",
+      "url": "https://www.govern.ad/ca/adreces-i-telefons",
+      "source": "Referenced on transparencia.ad but content not fully accessible"
+    }
+  ]
+}

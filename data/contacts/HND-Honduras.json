@@ -1,0 +1,138 @@
+{
+  "iso": "HND",
+  "country_name": "Honduras",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "tuconsuladovirtual@sreci.gob.hn",
+      "source": "https://sreci.gob.hn/contáctenos"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Apostilles & Translations",
+      "value": "apostillas.traducciones@sreci.gob.hn",
+      "source": "https://sreci.gob.hn/contáctenos"
+    },
+    {
+      "type": "email",
+      "label": "Honduras Consulate - Washington D.C.",
+      "value": "proteccionhn.washington@gmail.com",
+      "source": "https://consuladodehondurasenus.com/en/washington-usa/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "(504) 2236-0200 / 2236-0300",
+      "source": "https://sreci.gob.hn/contáctenos"
+    },
+    {
+      "type": "phone",
+      "label": "Honduras Consulate - Washington D.C.",
+      "value": "(202) 525-4001 / (202) 893-4756",
+      "source": "https://consuladodehondurasenus.com/en/washington-usa/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs - Official",
+      "url": "https://sreci.gob.hn/",
+      "source": "Official Government Domain"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of Honduras - Official",
+      "url": "https://www.presidencia.gob.hn/",
+      "source": "Official Government Domain"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office (Secretaría de Estado)",
+      "url": "https://sep.gob.hn/",
+      "source": "Official Government Domain"
+    },
+    {
+      "type": "website",
+      "label": "National Congress - Official",
+      "url": "https://congresonacional.hn/",
+      "source": "Official Government Domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/SecretariaDeRelacionesExterioresDeHonduras/",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of Honduras",
+      "url": "https://www.facebook.com/people/Presidencia-de-Honduras/61585878237603/",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office",
+      "url": "https://www.facebook.com/secretariapresidenciahn/",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "facebook",
+      "label": "National Congress of Honduras",
+      "url": "https://www.facebook.com/Congreso-Nacional-de-Honduras/",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "facebook",
+      "label": "Honduras Embassy - Washington D.C.",
+      "url": "https://www.facebook.com/EmbHondurasUSA/",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "url": "https://x.com/CancilleriaHN",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency of Honduras",
+      "url": "https://x.com/hnpresidencia",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office",
+      "url": "https://x.com/SEPresidencial",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "twitter",
+      "label": "National Congress of Honduras",
+      "url": "https://x.com/hn_congreso",
+      "source": "Official Social Media"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Bulevar Kuwait, contiguo a la Corte Suprema de Justicia (CSJ), Tegucigalpa, Honduras",
+      "source": "https://sreci.gob.hn/contáctenos"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Secretaría de Estado de la Presidencia)",
+      "value": "Centro Cívico Gubernamental, Torre 1, Piso 11, Tegucigalpa, Honduras",
+      "source": "https://sep.gob.hn/"
+    },
+    {
+      "type": "address",
+      "label": "National Congress - Palacio Legislativo",
+      "value": "2 Calle, 7 Avenida, Tegucigalpa, M.D.C., Honduras (P.O. Box 3682)",
+      "source": "https://congresonacional.hn/"
+    },
+    {
+      "type": "address",
+      "label": "Honduras Consulate - Washington D.C.",
+      "value": "1990 M St NW, Suite 104, Washington, DC 20036, USA",
+      "source": "https://consuladodehondurasenus.com/en/washington-usa/"
+    }
+  ]
+}

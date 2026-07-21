@@ -1,0 +1,114 @@
+{
+  "iso": "TTO",
+  "country_name": "Trinidad and Tobago",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign & CARICOM Affairs",
+      "value": "website@foreign.gov.tt",
+      "source": "https://www.foreign.gov.tt"
+    },
+    {
+      "type": "email",
+      "label": "TTConnect Government Portal",
+      "value": "info.ttconnect@gov.tt",
+      "source": "https://www.ttconnect.gov.tt"
+    },
+    {
+      "type": "email",
+      "label": "Global Trinidad and Tobago (Investment & Business Development)",
+      "value": "information@globaltnt.com",
+      "source": "https://globaltrinidadandtobago.com"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign & CARICOM Affairs",
+      "value": "(868) 623-6894",
+      "source": "https://www.foreign.gov.tt"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign & CARICOM Affairs (Alt)",
+      "value": "(868) 285-5029",
+      "source": "https://www.foreign.gov.tt"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister",
+      "value": "+1-868-622-1625",
+      "source": "https://opm.gov.tt/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Global Trinidad and Tobago (Head Office)",
+      "value": "+1 868 612-3988",
+      "source": "https://globaltrinidadandtobago.com"
+    },
+    {
+      "type": "phone",
+      "label": "Global Trinidad and Tobago (Waterfront Office)",
+      "value": "+1 868 225-4688",
+      "source": "https://globaltrinidadandtobago.com"
+    },
+    {
+      "type": "phone",
+      "label": "TTConnect Government Hotline",
+      "value": "1-800-TTCN (8826)",
+      "source": "https://www.ttconnect.gov.tt"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign & CARICOM Affairs",
+      "value": "2 Prada Street, St. Clair, Newtown 190325, Trinidad and Tobago",
+      "source": "https://www.foreign.gov.tt"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "13-15 St Clair Ave, St Clair, Trinidad and Tobago",
+      "source": "https://opm.gov.tt/contact"
+    },
+    {
+      "type": "address",
+      "label": "Global Trinidad and Tobago",
+      "value": "151B Charlotte Street, Port of Spain, Trinidad",
+      "source": "https://globaltrinidadandtobago.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign & CARICOM Affairs",
+      "url": "https://twitter.com/mfcagovtt",
+      "source": "https://www.foreign.gov.tt"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign & CARICOM Affairs",
+      "url": "https://facebook.com/search - refer to Ministry website for official link",
+      "source": "https://www.foreign.gov.tt"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign & CARICOM Affairs",
+      "url": "https://www.foreign.gov.tt",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opm.gov.tt",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "TTConnect Government Portal",
+      "url": "https://www.ttconnect.gov.tt",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Global Trinidad and Tobago (Investment)",
+      "url": "https://globaltrinidadandtobago.com",
+      "source": "Official investment promotion website"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "iso": "SMR",
+  "country_name": "San Marino",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "State Secretariat for Foreign Affairs - General",
+      "value": "segreteria.affariesteri@gov.sm",
+      "source": "Official Ministry of Foreign Affairs website (esteri.sm)"
+    },
+    {
+      "type": "email",
+      "label": "General Government Inquiries",
+      "value": "paaperta@pa.sm",
+      "source": "Official Government Portal (gov.sm)"
+    },
+    {
+      "type": "email",
+      "label": "Civil Registry & Electoral Services",
+      "value": "info.statocivile@pa.sm",
+      "source": "Official Government Portal (gov.sm)"
+    },
+    {
+      "type": "email",
+      "label": "Tourism Office - General",
+      "value": "info@visitsanmarino.com",
+      "source": "Official Tourism Website (visitsanmarino.com)"
+    },
+    {
+      "type": "email",
+      "label": "Tourism Office - Marketing",
+      "value": "marketing.turismo@pa.sm",
+      "source": "Official Tourism Website (visitsanmarino.com)"
+    },
+    {
+      "type": "email",
+      "label": "Portal Technical Support",
+      "value": "supporto@pa.sm",
+      "source": "Official Government Portal (gov.sm)"
+    },
+    {
+      "type": "phone",
+      "label": "State Secretariat for Foreign Affairs",
+      "value": "+378 (0549) 882 312",
+      "source": "Official Ministry of Foreign Affairs website (esteri.sm)"
+    },
+    {
+      "type": "phone",
+      "label": "State Secretariat for Foreign Affairs - Alternative",
+      "value": "+378 (0549) 882 393",
+      "source": "Official Ministry of Foreign Affairs website (esteri.sm)"
+    },
+    {
+      "type": "phone",
+      "label": "State Secretariat for Foreign Affairs - Alternative 2",
+      "value": "+378 (0549) 882 336",
+      "source": "Official Ministry of Foreign Affairs website (esteri.sm)"
+    },
+    {
+      "type": "phone",
+      "label": "General Government Inquiries",
+      "value": "+378 (0549) 882837",
+      "source": "Official Government Portal (gov.sm)"
+    },
+    {
+      "type": "phone",
+      "label": "Civil Registry & Electoral Services",
+      "value": "+378 (0549) 882080",
+      "source": "Official Government Portal (gov.sm)"
+    },
+    {
+      "type": "phone",
+      "label": "Tourism Office",
+      "value": "+378 (0549) 882914",
+      "source": "Official Tourism Website (visitsanmarino.com)"
+    },
+    {
+      "type": "fax",
+      "label": "State Secretariat for Foreign Affairs",
+      "value": "+378 (0549) 882 814",
+      "source": "Official Ministry of Foreign Affairs website (esteri.sm)"
+    },
+    {
+      "type": "fax",
+      "label": "Tourism Office",
+      "value": "+378 (0549) 882575",
+      "source": "Official Tourism Website (visitsanmarino.com)"
+    },
+    {
+      "type": "address",
+      "label": "State Secretariat for Foreign Affairs",
+      "value": "Palazzo Begni, Contrada Omerelli n.31, 47890 San Marino",
+      "source": "Official Ministry of Foreign Affairs website (esteri.sm)"
+    },
+    {
+      "type": "address",
+      "label": "Tourism Office",
+      "value": "Via dei Cappuccini, 1, 47890 Republic of San Marino",
+      "source": "Official Tourism Website (visitsanmarino.com)"
+    },
+    {
+      "type": "website",
+      "label": "Main Government Portal",
+      "url": "https://www.gov.sm/",
+      "source": "Official San Marino government website"
+    },
+    {
+      "type": "website",
+      "label": "State Secretariat for Foreign Affairs",
+      "url": "https://www.esteri.sm/",
+      "source": "Official Ministry of Foreign Affairs website"
+    },
+    {
+      "type": "website",
+      "label": "Tourism Office",
+      "url": "https://www.visitsanmarino.com",
+      "source": "Official San Marino Tourism Portal"
+    },
+    {
+      "type": "website",
+      "label": "Public Administration Services Portal",
+      "url": "https://www.pa.sm/",
+      "source": "Official Government Services Portal"
+    },
+    {
+      "type": "other",
+      "label": "Information Request Form",
+      "value": "Available on esteri.sm for specific inquiries to the Ministry of Foreign Affairs",
+      "source": "Official Ministry of Foreign Affairs website (esteri.sm)"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "iso": "UGA",
+  "country_name": "Uganda",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General Inquiries",
+      "value": "info@mofa.go.ug",
+      "source": "mofa.go.ug"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Protocol Services",
+      "value": "ps@mofa.go.ug",
+      "source": "mofa.go.ug"
+    },
+    {
+      "type": "email",
+      "label": "State House / Office of the President",
+      "value": "info@statehouse.go.ug",
+      "source": "statehouse.go.ug"
+    },
+    {
+      "type": "email",
+      "label": "State House Press Office",
+      "value": "press@statehouse.go.ug",
+      "source": "statehouse.go.ug"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister",
+      "value": "ps@opm.go.ug",
+      "source": "opm.go.ug"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Uganda",
+      "value": "cpa@parliament.go.ug",
+      "source": "parliament.go.ug"
+    },
+    {
+      "type": "email",
+      "label": "Uganda Embassy in Washington, DC",
+      "value": "washington@mofa.go.ug",
+      "source": "washington.mofa.go.ug"
+    },
+    {
+      "type": "email",
+      "label": "Uganda Embassy in Washington, DC (Alternative)",
+      "value": "info@ugandaembassyus.org",
+      "source": "washington.mofa.go.ug"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.go.ug/",
+      "source": "Official MoFA website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://op.go.ug/",
+      "source": "Official OP website"
+    },
+    {
+      "type": "website",
+      "label": "State House Uganda",
+      "url": "https://statehouse.go.ug/",
+      "source": "Official State House website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opm.go.ug/",
+      "source": "Official OPM website"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Uganda",
+      "url": "https://www.parliament.go.ug/",
+      "source": "Official Parliament website"
+    },
+    {
+      "type": "website",
+      "label": "Uganda National Web Portal",
+      "url": "https://www.gou.go.ug/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Uganda Media Centre",
+      "url": "https://mediacentre.go.ug/",
+      "source": "Official media/communications hub"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/UgandaMFA",
+      "source": "Official MoFA X account"
+    },
+    {
+      "type": "twitter",
+      "label": "State House Uganda",
+      "url": "https://x.com/StateHouseUg",
+      "source": "Official State House X account"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Uganda",
+      "url": "https://x.com/GovUganda",
+      "source": "Official Government X account"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of the Republic of Uganda",
+      "url": "https://www.facebook.com/ugandagovernment/",
+      "source": "Official government Facebook page"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+256-417-102300",
+      "source": "mofa.go.ug"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Alternative)",
+      "value": "+256-414-257525",
+      "source": "mofa.go.ug"
+    },
+    {
+      "type": "phone",
+      "label": "State House Nakasero",
+      "value": "+256-41-231900",
+      "source": "statehouse.go.ug"
+    },
+    {
+      "type": "phone",
+      "label": "State House Press Office",
+      "value": "+256 414 343 308",
+      "source": "statehouse.go.ug"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office Hotline",
+      "value": "+256-41-343311",
+      "source": "statehouse.go.ug"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister Toll-Free",
+      "value": "0800 100 350",
+      "source": "opm.go.ug"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Uganda",
+      "value": "+256 414 377000",
+      "source": "parliament.go.ug"
+    },
+    {
+      "type": "phone",
+      "label": "Uganda Embassy in Washington, DC",
+      "value": "+1-(202) 726-7100",
+      "source": "washington.mofa.go.ug"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "P.O. Box 7048, Kampala, 2A/B Apollo Kaggwa Road, Uganda",
+      "source": "mofa.go.ug"
+    },
+    {
+      "type": "address",
+      "label": "State House / Office of the President",
+      "value": "P.O. Box 25497, Kampala, Uganda",
+      "source": "statehouse.go.ug"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "Plot 9-11 Apollo Kaggwa Road, Kampala, Uganda",
+      "source": "opm.go.ug"
+    },
+    {
+      "type": "address",
+      "label": "Parliament of Uganda",
+      "value": "Plot 16-18 Parliament Avenue, Plot 13-15 Sir Apollo Kaggwa Road, P.O. Box 7178, Kampala, Uganda",
+      "source": "parliament.go.ug"
+    },
+    {
+      "type": "address",
+      "label": "Uganda Embassy in Washington, DC",
+      "value": "5911 16th Street NW, Washington, DC 20011, USA",
+      "source": "washington.mofa.go.ug"
+    },
+    {
+      "type": "other",
+      "label": "Uganda Media Centre (Government Communications Hub)",
+      "value": "https://mediacentre.go.ug/",
+      "source": "Official government media channel - 'One Government, One Voice'"
+    }
+  ]
+}

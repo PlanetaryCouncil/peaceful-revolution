@@ -1,0 +1,126 @@
+{
+  "iso": "FJI",
+  "country_name": "Fiji",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Communications - General Government Inquiries",
+      "value": "news@moc.gov.fj",
+      "source": "Official fiji.gov.fj website"
+    },
+    {
+      "type": "phone",
+      "label": "Government General Inquiries",
+      "value": "+679 3301 806",
+      "source": "Official fiji.gov.fj website"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.fiji.gov.fj",
+      "source": "Official Fiji government domain (currently under construction)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Trade",
+      "url": "https://foreignaffairs.gov.fj",
+      "source": "Referenced on official embassy portals"
+    },
+    {
+      "type": "email",
+      "label": "UN Permanent Mission to the United Nations",
+      "value": "mission@fijiprun.org",
+      "source": "Official un.int website"
+    },
+    {
+      "type": "phone",
+      "label": "UN Permanent Mission",
+      "value": "(212) 687-4130",
+      "source": "Official un.int website"
+    },
+    {
+      "type": "phone",
+      "label": "UN Permanent Mission Fax",
+      "value": "(212) 687-3963",
+      "source": "Official un.int website"
+    },
+    {
+      "type": "address",
+      "label": "UN Permanent Mission to the United Nations",
+      "value": "801 2nd Avenue, 20th floor, New York, NY 10017, USA",
+      "source": "Official un.int website"
+    },
+    {
+      "type": "twitter",
+      "label": "UN Permanent Mission Official Account",
+      "url": "https://twitter.com/fijimissionun",
+      "source": "Official un.int website"
+    },
+    {
+      "type": "facebook",
+      "label": "UN Permanent Mission Official Page",
+      "url": "https://www.facebook.com/FijiMissionUN",
+      "source": "Official un.int website"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Fiji - Washington D.C.",
+      "value": "+1 (202) 466-8320",
+      "source": "Official Fiji embassy records"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Fiji - Washington D.C. Fax",
+      "value": "+1 (202) 466-8325",
+      "source": "Official Fiji embassy records"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Fiji - Washington D.C.",
+      "value": "1707 L Street N.W., Suite 200, Washington, DC 20036, USA",
+      "source": "Official Fiji embassy records"
+    },
+    {
+      "type": "phone",
+      "label": "Honorary Consulate of Fiji - Los Angeles",
+      "value": "+1 (310) 531-8784",
+      "source": "Official Fiji embassy records"
+    },
+    {
+      "type": "address",
+      "label": "Honorary Consulate of Fiji - Los Angeles",
+      "value": "18508 Pioneer Boulevard, Artesia, CA 90701, USA",
+      "source": "Official Fiji embassy records"
+    },
+    {
+      "type": "phone",
+      "label": "Honorary Consulate of Fiji - San Francisco",
+      "value": "+1 (202) 466-8320",
+      "source": "Official Fiji embassy records"
+    },
+    {
+      "type": "address",
+      "label": "Honorary Consulate of Fiji - San Francisco",
+      "value": "50 West Harris Avenue, South San Francisco, CA 94080, USA",
+      "source": "Official Fiji embassy records"
+    },
+    {
+      "type": "other",
+      "label": "Government Calling Code",
+      "value": "+679",
+      "source": "Official government records"
+    },
+    {
+      "type": "other",
+      "label": "Country Internet TLD",
+      "value": ".fj",
+      "source": "Official government records"
+    },
+    {
+      "type": "other",
+      "label": "Capital City",
+      "value": "Suva",
+      "source": "Official government records"
+    }
+  ]
+}

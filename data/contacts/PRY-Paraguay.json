@@ -1,0 +1,222 @@
+{
+  "iso": "PRY",
+  "country_name": "Paraguay",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Senate (Cámara de Senadores)",
+      "value": "rcat@senado.gov.py",
+      "source": "https://www.senado.gov.py"
+    },
+    {
+      "type": "email",
+      "label": "Chamber of Deputies - Public Relations",
+      "value": "relacionespublicas@diputados.gov.py",
+      "source": "https://www.diputados.gov.py"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Public Works & Communications (MOPC) - Cabinet",
+      "value": "gabineteministerial@mopc.gov.py",
+      "source": "https://www.mopc.gov.py"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Public Works & Communications (MOPC) - General",
+      "value": "meusg@mopc.gov.py",
+      "source": "https://www.mopc.gov.py"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance (MEF) - VCHGO Department",
+      "value": "vchgo@mef.gov.py",
+      "source": "http://www.mef.gov.py/es/contactos"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Technology & Communications (MITIC) - Communications",
+      "value": "comunicacion@mitic.gov.py",
+      "source": "https://www.mitic.gov.py"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Technology & Communications (MITIC) - General",
+      "value": "sgeneral@mitic.gov.py",
+      "source": "https://www.mitic.gov.py"
+    },
+    {
+      "type": "email",
+      "label": "Digital Services Support (Paraguay.gov.py)",
+      "value": "soporte@paraguay.gov.py",
+      "source": "https://www.mitic.gov.py"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (MRE) - Main",
+      "value": "(+595 21) 414 8000",
+      "source": "https://www.mre.gov.py"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President - Main",
+      "value": "(+595) 21 4140 200",
+      "source": "https://presidencia.gov.py"
+    },
+    {
+      "type": "phone",
+      "label": "Senate (Cámara de Senadores) - Main",
+      "value": "+595 21 4145000",
+      "source": "https://www.senado.gov.py"
+    },
+    {
+      "type": "phone",
+      "label": "Chamber of Deputies - Main",
+      "value": "(+595 21) 414 4000",
+      "source": "https://www.diputados.gov.py"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Public Works (MOPC) - Main",
+      "value": "(+595 21) 4149000",
+      "source": "https://www.mopc.gov.py"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance (MEF) - Main",
+      "value": "+595-21 440-010",
+      "source": "http://www.mef.gov.py/es"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Technology & Communications (MITIC) - Main",
+      "value": "(+595 21) 217 9000",
+      "source": "https://www.mitic.gov.py"
+    },
+    {
+      "type": "phone",
+      "label": "Digital Services Hotline (Portal Paraguay)",
+      "value": "(+595 21) 151 or *151",
+      "source": "https://www.mitic.gov.py"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (MRE)",
+      "url": "https://www.mre.gov.py",
+      "source": "Official MRE website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://presidencia.gov.py",
+      "source": "Official Presidency website"
+    },
+    {
+      "type": "website",
+      "label": "Senate (Cámara de Senadores)",
+      "url": "https://www.senado.gov.py",
+      "source": "Official Senate website"
+    },
+    {
+      "type": "website",
+      "label": "Chamber of Deputies",
+      "url": "https://www.diputados.gov.py",
+      "source": "Official Chamber website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance (MEF)",
+      "url": "http://www.mef.gov.py",
+      "source": "Official MEF website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Public Works (MOPC)",
+      "url": "https://www.mopc.gov.py",
+      "source": "Official MOPC website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Technology & Communications (MITIC)",
+      "url": "https://www.mitic.gov.py",
+      "source": "Official MITIC website"
+    },
+    {
+      "type": "website",
+      "label": "Portal Paraguay - Digital Services",
+      "url": "https://www.paraguay.gov.py",
+      "source": "Official government portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "https://www.facebook.com/SantiPenaPY",
+      "source": "https://presidencia.gov.py"
+    },
+    {
+      "type": "facebook",
+      "label": "Senate - Official",
+      "url": "https://www.facebook.com/SenadoresPy",
+      "source": "https://www.senado.gov.py"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (MRE)",
+      "url": "https://twitter.com/mreparaguay",
+      "source": "https://www.mre.gov.py"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://twitter.com/prensasanti2023",
+      "source": "https://presidencia.gov.py"
+    },
+    {
+      "type": "twitter",
+      "label": "Senate - Official",
+      "url": "https://twitter.com/SenadoresPy",
+      "source": "https://www.senado.gov.py"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (MRE)",
+      "value": "Palma y 14 de Mayo, Palacio Benigno López, Asunción, Paraguay",
+      "source": "https://www.mre.gov.py"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "El Paraguayo Independiente entre O'leary y Ayolas, Asunción, Paraguay",
+      "source": "https://presidencia.gov.py"
+    },
+    {
+      "type": "address",
+      "label": "Senate (Cámara de Senadores)",
+      "value": "Avda. República y Río Jejuí, Asunción, Paraguay",
+      "source": "https://www.senado.gov.py"
+    },
+    {
+      "type": "address",
+      "label": "Chamber of Deputies",
+      "value": "Avda. Republica 1214, Asunción, Paraguay",
+      "source": "https://www.diputados.gov.py"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Public Works (MOPC)",
+      "value": "Oliva y Alberbi 411, Asunción, Paraguay",
+      "source": "https://www.mopc.gov.py"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance (MEF)",
+      "value": "Chile 252, 1220 Asunción, Paraguay",
+      "source": "http://www.mef.gov.py/es"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Technology & Communications (MITIC)",
+      "value": "Complejo Santos E2 - Gral. Santos 1170 c/ Concordia, Asunción, Paraguay",
+      "source": "https://www.mitic.gov.py"
+    }
+  ]
+}

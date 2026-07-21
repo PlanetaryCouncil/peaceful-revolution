@@ -1,0 +1,30 @@
+{
+  "iso": "LAO",
+  "country_name": "Laos",
+  "contacts": [
+    {
+      "type": "other",
+      "label": "Country Code",
+      "value": "+856",
+      "source": "Wikipedia - Laos"
+    },
+    {
+      "type": "other",
+      "label": "Capital",
+      "value": "Vientiane",
+      "source": "Wikipedia - Laos"
+    },
+    {
+      "type": "other",
+      "label": "Current Head of State",
+      "value": "Thongloun Sisoulith (President, since March 22, 2021)",
+      "source": "Wikipedia - President of Laos"
+    },
+    {
+      "type": "other",
+      "label": "Current Head of Government",
+      "value": "Sonexay Siphandone (Prime Minister)",
+      "source": "Wikipedia - Laos"
+    }
+  ]
+}

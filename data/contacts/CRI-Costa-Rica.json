@@ -1,0 +1,168 @@
+{
+  "iso": "CRI",
+  "country_name": "Costa Rica",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Presidential Office (Casa Presidencial)",
+      "value": "info@presidencia.go.cr",
+      "source": "presidencia.go.cr"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Worship (Diplomatic Legal Affairs)",
+      "value": "dda@rree.go.cr",
+      "source": "rree.go.cr"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Worship (Documentary Services)",
+      "value": "atdocumental@rree.go.cr",
+      "source": "rree.go.cr"
+    },
+    {
+      "type": "email",
+      "label": "Costa Rica Embassy in Washington DC",
+      "value": "embcr-us@rree.go.cr",
+      "source": "costarica-embassy.org"
+    },
+    {
+      "type": "email",
+      "label": "Costa Rica Consulate General in Washington DC",
+      "value": "concr-us-wa@rree.go.cr",
+      "source": "costarica-embassy.org"
+    },
+    {
+      "type": "email",
+      "label": "Legislative Assembly (Apps and Technology)",
+      "value": "apps@asamblea.go.cr",
+      "source": "asamblea.go.cr"
+    },
+    {
+      "type": "email",
+      "label": "Legislative Assembly (Public Relations and Press)",
+      "value": "aagonzalez@asamblea.go.cr",
+      "source": "asamblea.go.cr"
+    },
+    {
+      "type": "website",
+      "label": "Presidencia de la República de Costa Rica",
+      "url": "https://www.presidencia.go.cr",
+      "source": "Official Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Worship (Ministerio de Relaciones Exteriores y Culto)",
+      "url": "https://www.rree.go.cr",
+      "source": "Official Government"
+    },
+    {
+      "type": "website",
+      "label": "Legislative Assembly (Asamblea Legislativa)",
+      "url": "https://www.asamblea.go.cr",
+      "source": "Official Government"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal (Gobierno Fácil)",
+      "url": "http://www.gobiernofacil.go.cr",
+      "source": "Official Government"
+    },
+    {
+      "type": "website",
+      "label": "Costa Rica Embassy in Washington DC",
+      "url": "http://www.costarica-embassy.org",
+      "source": "Official Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidencia de la República (@presidenciacr)",
+      "url": "https://x.com/presidenciacr",
+      "source": "Official Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (@CRcancilleria)",
+      "url": "https://x.com/CRcancilleria",
+      "source": "Official Government"
+    },
+    {
+      "type": "twitter",
+      "label": "Legislative Assembly (@asambleacrc)",
+      "url": "https://x.com/asambleacrc",
+      "source": "Official Government"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidencia de la República (Casa Presidencial)",
+      "url": "https://www.facebook.com/CasaPresidencial",
+      "source": "Official Government"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs (Ministerio Relaciones Exteriores)",
+      "url": "https://www.facebook.com/Ministerio-Relaciones-Exteriores-Costa-Rica",
+      "source": "Official Government"
+    },
+    {
+      "type": "instagram",
+      "label": "Presidencia de la República (@presidenciacr)",
+      "url": "https://www.instagram.com/presidenciacr",
+      "source": "Official Government"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs (@cancilleriacr)",
+      "url": "https://www.instagram.com/cancilleriacr",
+      "source": "Official Government"
+    },
+    {
+      "type": "phone",
+      "label": "Presidencia de la República",
+      "value": "+506 2207-9100",
+      "source": "presidencia.go.cr"
+    },
+    {
+      "type": "phone",
+      "label": "Legislative Assembly Main Line",
+      "value": "+506 2243-2000",
+      "source": "asamblea.go.cr"
+    },
+    {
+      "type": "phone",
+      "label": "Legislative Assembly Alternative",
+      "value": "+506 8830-2257",
+      "source": "asamblea.go.cr"
+    },
+    {
+      "type": "phone",
+      "label": "Costa Rica Embassy Washington DC",
+      "value": "+1 202 480-2200",
+      "source": "costarica-embassy.org"
+    },
+    {
+      "type": "phone",
+      "label": "Costa Rica Consulate Washington DC",
+      "value": "+1 202 499-2980",
+      "source": "costarica-embassy.org"
+    },
+    {
+      "type": "address",
+      "label": "Presidencia de la República (Casa Presidencial)",
+      "value": "Zapote, San José, Costa Rica",
+      "source": "presidencia.go.cr"
+    },
+    {
+      "type": "address",
+      "label": "Legislative Assembly (Asamblea Legislativa)",
+      "value": "Avenida Central y Primera entre calles 15 y 17, San José, Costa Rica",
+      "source": "asamblea.go.cr"
+    },
+    {
+      "type": "address",
+      "label": "Costa Rica Embassy in Washington DC",
+      "value": "2114 S Street, NW, Washington, D.C., United States",
+      "source": "costarica-embassy.org"
+    }
+  ]
+}

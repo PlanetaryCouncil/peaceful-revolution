@@ -1,0 +1,108 @@
+{
+  "iso": "CHN",
+  "country_name": "China",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press Department",
+      "value": "chinaembpress_us@mfa.gov.cn",
+      "source": "https://us.china-embassy.gov.cn/eng/sgxx/lxwm/"
+    },
+    {
+      "type": "email",
+      "label": "Department of Services for Foreign Ministry",
+      "value": "fwzx@wjbfwzx.com",
+      "source": "https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/fwj_665338/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Office",
+      "value": "+86-10-65961114",
+      "source": "https://www.fmprc.gov.cn/eng/"
+    },
+    {
+      "type": "phone",
+      "label": "International Press Center",
+      "value": "+86-10-65882585",
+      "source": "https://ipc.fmprc.gov.cn/eng/"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Services - Main Line",
+      "value": "+86-10-65633000",
+      "source": "https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/fwj_665338/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official",
+      "url": "https://www.fmprc.gov.cn/eng/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "State Council Information Office",
+      "url": "http://english.scio.gov.cn/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "State Council Portal",
+      "url": "https://english.www.gov.cn/",
+      "source": "Official government website"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Spokesperson",
+      "url": "https://x.com/MFA_China",
+      "source": "https://x.com/MFA_China?lang=en"
+    },
+    {
+      "type": "twitter",
+      "label": "State Council Information Office",
+      "url": "https://x.com/chinascio",
+      "source": "https://x.com/chinascio?lang=en"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Chinese Government",
+      "url": "https://x.com/TheChineseGovt",
+      "source": "https://x.com/thechinesegovt"
+    },
+    {
+      "type": "facebook",
+      "label": "State Council Information Office",
+      "url": "https://www.facebook.com/chinascio/",
+      "source": "https://www.facebook.com/chinascio/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MFA.CHN/",
+      "source": "https://www.facebook.com/MFA.CHN/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Headquarters",
+      "value": "No. 2, Chaoyangmen Nandajie, Chaoyang District, Beijing, 100701, China",
+      "source": "https://www.fmprc.gov.cn/eng/"
+    },
+    {
+      "type": "address",
+      "label": "State Council Information Office",
+      "value": "No. 5 Changanjie, Xicheng District, Beijing, 100806, China",
+      "source": "http://english.scio.gov.cn/"
+    },
+    {
+      "type": "address",
+      "label": "Department of Services for Foreign Ministry",
+      "value": "No. 57, Ganmian Hutong, Dongcheng District, Beijing, 100010, China",
+      "source": "https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/fwj_665338/"
+    },
+    {
+      "type": "address",
+      "label": "International Press Center",
+      "value": "2 Chaoyangmen South Avenue, Chaoyang District, Beijing, China",
+      "source": "https://ipc.fmprc.gov.cn/eng/"
+    }
+  ]
+}

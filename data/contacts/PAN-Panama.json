@@ -1,0 +1,108 @@
+{
+  "iso": "PAN",
+  "country_name": "Panama",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - International Legal Affairs",
+      "value": "dgajp@mire.gob.pa",
+      "source": "Panama Ministry of Foreign Affairs official contact list"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - International Legal Affairs",
+      "value": "lramos@mire.gob.pa",
+      "source": "Panama Ministry of Foreign Affairs official contact list"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Executive Assistant",
+      "value": "ycalderon@mire.gob.pa",
+      "source": "Panama Ministry of Foreign Affairs official contact list"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+507 511-4100",
+      "source": "Official Panama government website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - International Legal Affairs",
+      "value": "+507 511-4228",
+      "source": "Official Panama government website"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office",
+      "value": "+507 527-9600",
+      "source": "Official Presidential website - presidencia.gob.pa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Government",
+      "value": "+507 512-7600",
+      "source": "Official Panama government website"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Panama - Washington D.C.",
+      "value": "+1 (202) 483-1407",
+      "source": "Official Embassy contact information"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mire.gob.pa/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://www.presidencia.gob.pa",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Government",
+      "url": "https://www.mingob.gob.pa",
+      "source": "Official government domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidencia de la República de Panamá",
+      "url": "https://www.facebook.com/PresidenciaPma/",
+      "source": "Official Presidential social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidencia de la República de Panamá",
+      "url": "https://twitter.com/presidenciapma",
+      "source": "Official Presidential social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministerio de Gobierno",
+      "url": "https://twitter.com/MinGobPma",
+      "source": "Official Ministry social media"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Palacio Bolívar, San Felipe, Calle 3, Edificio 26, Panamá 4, Panamá",
+      "source": "Official government address"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office",
+      "value": "Palacio de las Garzas, Corregimiento de San Felipe, Apartado Postal: Presidencia de la República, Panama 1, República de Panamá",
+      "source": "Official government address"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Panama - Washington D.C.",
+      "value": "2862 McGill Terrace N.W., Washington, D.C., USA",
+      "source": "Official Embassy address"
+    }
+  ]
+}

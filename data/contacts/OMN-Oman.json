@@ -1,0 +1,24 @@
+{
+  "iso": "OMN",
+  "country_name": "Oman",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.oman.om",
+      "source": "General knowledge - primary Oman government domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mofa.gov.om",
+      "source": "Oman Ministry of Foreign Affairs official website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs General Inquiries",
+      "value": "Contact through official website form",
+      "source": "Unable to verify specific email without current access to official pages"
+    }
+  ]
+}

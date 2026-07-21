@@ -1,0 +1,120 @@
+{
+  "iso": "GTM",
+  "country_name": "Guatemala",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (MINEX)",
+      "value": "uip@minex.gob.gt",
+      "source": "minex.gob.gt"
+    },
+    {
+      "type": "email",
+      "label": "General Secretariat of the Presidency (SGP)",
+      "value": "libreacceso@sgp.gob.gt",
+      "source": "sgp.gob.gt"
+    },
+    {
+      "type": "email",
+      "label": "Vice Presidential Office",
+      "value": "contacto@vicepresidencia.gob.gt",
+      "source": "vicepresidencia.gob.gt"
+    },
+    {
+      "type": "email",
+      "label": "Mercantile Registry (Business/Trade)",
+      "value": "info@registromercantil.gob.gt",
+      "source": "registromercantil.gob.gt"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (MINEX)",
+      "value": "(502) 2410-0000",
+      "source": "minex.gob.gt"
+    },
+    {
+      "type": "phone",
+      "label": "General Secretariat of the Presidency (SGP)",
+      "value": "(502) 2318-4600",
+      "source": "sgp.gob.gt"
+    },
+    {
+      "type": "phone",
+      "label": "Vice Presidential Office",
+      "value": "+502 2321-2121",
+      "source": "vicepresidencia.gob.gt"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://guatemala.gob.gt/",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.minex.gob.gt/",
+      "source": "MINEX official website"
+    },
+    {
+      "type": "website",
+      "label": "General Secretariat of the Presidency",
+      "url": "https://sgp.gob.gt/web/",
+      "source": "SGP official website"
+    },
+    {
+      "type": "website",
+      "label": "Vice Presidential Office",
+      "url": "https://vicepresidencia.gob.gt/",
+      "source": "Vicepresidencia official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Gobierno de Guatemala",
+      "url": "https://www.facebook.com/guatemalagob/",
+      "source": "Official government Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "MINEX Guatemala",
+      "url": "https://www.facebook.com/MinexGt/",
+      "source": "MINEX official Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Gobierno de Guatemala (@GuatemalaGob)",
+      "url": "https://x.com/GuatemalaGob",
+      "source": "Official government X/Twitter"
+    },
+    {
+      "type": "twitter",
+      "label": "MINEX Guatemala (@MinexGt)",
+      "url": "https://x.com/MinexGt",
+      "source": "MINEX official X/Twitter"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (MINEX)",
+      "value": "2 Av. 4-17 Zona 10, Guatemala City, Guatemala 01010",
+      "source": "minex.gob.gt"
+    },
+    {
+      "type": "address",
+      "label": "General Secretariat of the Presidency",
+      "value": "6 Avenida 5-34 Zona 1, Guatemala City, Guatemala",
+      "source": "sgp.gob.gt"
+    },
+    {
+      "type": "address",
+      "label": "Vice Presidential Office",
+      "value": "6ta. Avenida 4-19 Zona 1, Casa Presidencial, Guatemala City, Guatemala",
+      "source": "vicepresidencia.gob.gt"
+    },
+    {
+      "type": "address",
+      "label": "Mercantile Registry",
+      "value": "7a. Avenida 7-61, Zona 4, 01004 Guatemala City, Guatemala",
+      "source": "registromercantil.gob.gt"
+    }
+  ]
+}

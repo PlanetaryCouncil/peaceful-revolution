@@ -1,0 +1,126 @@
+{
+  "iso": "VCT",
+  "country_name": "Saint Vincent and the Grenadines",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Primary)",
+      "value": "office.foreignaffairs@mail.gov.vc",
+      "source": "https://foreign.gov.vc/foreign/index.php/contact-us-sp-1455698324"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Secondary)",
+      "value": "svgforeign@gmail.com",
+      "source": "https://foreign.gov.vc/foreign/index.php/contact-us-sp-1455698324"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pmosvg@gov.vc",
+      "source": "https://pmoffice.gov.vc/pmoffice/index.php/contact-us-1"
+    },
+    {
+      "type": "email",
+      "label": "Invest SVG - Business Development",
+      "value": "info@investsvg.com",
+      "source": "https://investsvg.com/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+1 (784) 456-2060",
+      "source": "https://foreign.gov.vc/foreign/index.php/contact-us-sp-1455698324"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office - Front Desk",
+      "value": "+1 (784) 457-2484",
+      "source": "https://pmoffice.gov.vc/pmoffice/index.php/contact-us-1"
+    },
+    {
+      "type": "phone",
+      "label": "Governor General's Office (Head of State)",
+      "value": "+1 (784) 456-1401",
+      "source": "https://www.gov.vc/index.php?Itemid=147&id=34&option=com_content&view=article"
+    },
+    {
+      "type": "phone",
+      "label": "Invest SVG - Business Development",
+      "value": "+1 (784) 457-2159",
+      "source": "https://investsvg.com/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "3rd Floor Administrative Centre, Bay Street, Kingstown, Saint Vincent and the Grenadines",
+      "source": "https://foreign.gov.vc/foreign/index.php/contact-us-sp-1455698324"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "4th Floor Administrative Centre, Bay Street, Kingstown, Saint Vincent and the Grenadines",
+      "source": "https://pmoffice.gov.vc/pmoffice/index.php/contact-us-1"
+    },
+    {
+      "type": "address",
+      "label": "Governor General's Office",
+      "value": "Government House, Montrose, Saint Vincent and the Grenadines",
+      "source": "https://www.gov.vc/index.php?Itemid=147&id=34&option=com_content&view=article"
+    },
+    {
+      "type": "address",
+      "label": "Invest SVG",
+      "value": "2nd Floor Administrative Building, Bay Street, Kingstown, Saint Vincent and the Grenadines",
+      "source": "https://investsvg.com/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government",
+      "url": "https://www.gov.vc/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://foreign.gov.vc/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://pmoffice.gov.vc/",
+      "source": "Official office website"
+    },
+    {
+      "type": "website",
+      "label": "Invest SVG",
+      "url": "https://investsvg.com/",
+      "source": "Official investment agency"
+    },
+    {
+      "type": "facebook",
+      "label": "Agency For Public Information (API-SVG)",
+      "url": "https://www.facebook.com/APISVG/",
+      "source": "Official government social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office",
+      "url": "https://www.facebook.com/OPMSVG/",
+      "source": "Official office social media"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mofasvg/",
+      "source": "Official ministry social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Saint Vincent and the Grenadines Official",
+      "url": "https://x.com/stvincentgren",
+      "source": "Official government X/Twitter account"
+    }
+  ]
+}

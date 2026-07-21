@@ -1,0 +1,282 @@
+{
+  "iso": "SVK",
+  "country_name": "Slovakia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "President's Office",
+      "value": "informacie@prezident.gov.sk",
+      "source": "https://www.prezident.sk"
+    },
+    {
+      "type": "email",
+      "label": "Office of Government (Prime Minister's Office)",
+      "value": "premier@vlada.gov.sk",
+      "source": "https://www.vlada.gov.sk/kontakty/"
+    },
+    {
+      "type": "email",
+      "label": "Government Office Filing/Reception",
+      "value": "podatelna@vlada.gov.sk",
+      "source": "https://www.vlada.gov.sk/kontakty/"
+    },
+    {
+      "type": "email",
+      "label": "Government Office - Information Requests",
+      "value": "uvsrinfo@vlada.gov.sk",
+      "source": "https://www.vlada.gov.sk/kontakty/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior",
+      "value": "public@minv.slovensko.sk",
+      "source": "https://www.minv.sk"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Defence",
+      "value": "minister@mod.gov.sk",
+      "source": "https://www.mosr.sk/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Culture - Media/Spokesperson",
+      "value": "hovorca@culture.gov.sk",
+      "source": "https://www.culture.gov.sk"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice - Filing Office",
+      "value": "podatelnamssr@justice.sk",
+      "source": "https://www.justice.gov.sk/ministerstvo/kontakty/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice - Media/Press",
+      "value": "tlacove@justice.sk",
+      "source": "https://www.justice.gov.sk/ministerstvo/kontakty/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health",
+      "value": "office@health.gov.sk",
+      "source": "https://www.health.gov.sk"
+    },
+    {
+      "type": "email",
+      "label": "Slovak Government Portal (NASES) - Content/Editorial",
+      "value": "redakcia@nases.gov.sk",
+      "source": "https://slovensko.sk/sk/kontakt"
+    },
+    {
+      "type": "email",
+      "label": "Slovak Government Portal (NASES) - Filing",
+      "value": "podatelna@nases.gov.sk",
+      "source": "https://slovensko.sk/sk/kontakt"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+421 2 20 510 001",
+      "source": "https://www.prezident.sk"
+    },
+    {
+      "type": "phone",
+      "label": "Office of Government - Main",
+      "value": "+421 2 209 25 370",
+      "source": "https://www.vlada.gov.sk/kontakty/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of Government - Reception",
+      "value": "+421 2 209 25 401",
+      "source": "https://www.vlada.gov.sk/kontakty/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Main",
+      "value": "+421 2 5094 1111",
+      "source": "https://www.minv.sk"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Defence",
+      "value": "0960 11 22 33",
+      "source": "https://www.mosr.sk/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Culture",
+      "value": "+421 2 2048 2111",
+      "source": "https://www.culture.gov.sk"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Justice",
+      "value": "+421 2 888 91111",
+      "source": "https://www.justice.gov.sk/ministerstvo/kontakty/"
+    },
+    {
+      "type": "phone",
+      "label": "Slovak Government Portal (NASES) - Central Contact Center",
+      "value": "+421 2 32 780 700",
+      "source": "https://slovensko.sk/sk/kontakt"
+    },
+    {
+      "type": "address",
+      "label": "President's Office",
+      "value": "Kancelária prezidenta Slovenskej republiky, Štefánikova 2, 811 05 Bratislava, Slovakia",
+      "source": "https://www.prezident.sk"
+    },
+    {
+      "type": "address",
+      "label": "Office of Government (Prime Minister's Office)",
+      "value": "Námestie slobody 1, 813 70 Bratislava, Slovakia",
+      "source": "https://www.vlada.gov.sk/kontakty/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Interior",
+      "value": "Pribinova 2, 812 72 Bratislava, Slovakia",
+      "source": "https://www.minv.sk"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Defence",
+      "value": "Námestie generála Viesta 2, 832 47 Bratislava, Slovakia",
+      "source": "https://www.mosr.sk/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Culture",
+      "value": "Námestie SNP č. 33, 813 31 Bratislava, Slovakia",
+      "source": "https://www.culture.gov.sk"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Justice",
+      "value": "Račianska 71, 813 11 Bratislava, Slovakia",
+      "source": "https://www.justice.gov.sk/ministerstvo/kontakty/"
+    },
+    {
+      "type": "address",
+      "label": "Slovak Government Portal (NASES)",
+      "value": "Tower 115, Pribinova 25, 811 09 Bratislava, Slovakia",
+      "source": "https://slovensko.sk/sk/kontakt"
+    },
+    {
+      "type": "website",
+      "label": "President of Slovakia Official Website",
+      "url": "https://www.prezident.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Office of Government (Prime Minister)",
+      "url": "https://www.vlada.gov.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior",
+      "url": "https://www.minv.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Defence",
+      "url": "https://www.mosr.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Culture",
+      "url": "https://www.culture.gov.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice",
+      "url": "https://www.justice.gov.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://www.health.gov.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mzv.sk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Slovak Government Central Portal",
+      "url": "https://www.slovensko.sk",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "European Commission Representation in Slovakia",
+      "url": "https://slovakia.representation.ec.europa.eu",
+      "source": "Official EU representation"
+    },
+    {
+      "type": "facebook",
+      "label": "President Peter Pellegrini",
+      "url": "https://www.facebook.com/pellegrini.peter",
+      "source": "https://www.prezident.sk"
+    },
+    {
+      "type": "twitter",
+      "label": "President Peter Pellegrini",
+      "url": "https://x.com/pellegrinip_",
+      "source": "https://www.prezident.sk"
+    },
+    {
+      "type": "instagram",
+      "label": "President Peter Pellegrini",
+      "url": "https://www.instagram.com/peter_pellegrini",
+      "source": "https://www.prezident.sk"
+    },
+    {
+      "type": "youtube",
+      "label": "President Peter Pellegrini",
+      "url": "https://www.youtube.com/@PeterPellegrini1",
+      "source": "https://www.prezident.sk"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Justice",
+      "url": "https://www.facebook.com/spravodlivostSR",
+      "source": "https://www.justice.gov.sk/ministerstvo/kontakty/"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Justice",
+      "url": "https://www.instagram.com/ministerstvospravodlivosti_sr",
+      "source": "https://www.justice.gov.sk/ministerstvo/kontakty/"
+    },
+    {
+      "type": "twitter",
+      "label": "European Commission Representation in Slovakia",
+      "url": "https://x.com/ZEKvSR",
+      "source": "https://slovakia.representation.ec.europa.eu"
+    },
+    {
+      "type": "facebook",
+      "label": "European Commission Representation in Slovakia",
+      "url": "https://www.facebook.com/ZEKvSR",
+      "source": "https://slovakia.representation.ec.europa.eu"
+    },
+    {
+      "type": "instagram",
+      "label": "European Commission Representation in Slovakia",
+      "url": "https://www.instagram.com/europa.sk",
+      "source": "https://slovakia.representation.ec.europa.eu"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "iso": "FRA",
+  "country_name": "France",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Élysée Palace - President's Office",
+      "url": "https://www.elysee.fr",
+      "source": "elysee.fr official website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Europe and Foreign Affairs",
+      "url": "https://www.diplomatie.gouv.fr/fr",
+      "source": "diplomatie.gouv.fr official website"
+    },
+    {
+      "type": "website",
+      "label": "French Government Portal - Service Public",
+      "url": "https://www.service-public.gouv.fr",
+      "source": "service-public.gouv.fr official website"
+    },
+    {
+      "type": "website",
+      "label": "Government Administration Directory",
+      "url": "https://lannuaire.service-public.gouv.fr",
+      "source": "lannuaire.service-public.gouv.fr - Annuaire de l'administration"
+    },
+    {
+      "type": "email",
+      "label": "Ministry Press Office",
+      "value": "presse.dcp@diplomatie.gouv.fr",
+      "source": "diplomatie.gouv.fr espace-presse"
+    },
+    {
+      "type": "email",
+      "label": "Ministry Spokesperson (Pascal Confavreux)",
+      "value": "pascal.confavreux@diplomatie.gouv.fr",
+      "source": "diplomatie.gouv.fr espace-presse"
+    },
+    {
+      "type": "email",
+      "label": "Ministry Deputy Spokesperson (Glenn Salic)",
+      "value": "glenn.salic@diplomatie.gouv.fr",
+      "source": "diplomatie.gouv.fr espace-presse"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Main Line",
+      "value": "+33 (0)1 43 17 53 53",
+      "source": "diplomatie.gouv.fr/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry Press Office",
+      "value": "+33 (0)1 43 17 57 57",
+      "source": "diplomatie.gouv.fr espace-presse"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry Press Office Alt",
+      "value": "+33 (0)1 43 17 52 01",
+      "source": "diplomatie.gouv.fr espace-presse"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry Spokesperson",
+      "value": "+33 (0)1 43 17 52 00",
+      "source": "diplomatie.gouv.fr espace-presse"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main Address",
+      "value": "37 quai d'Orsay, 75007 Paris, France",
+      "source": "diplomatie.gouv.fr/contact"
+    },
+    {
+      "type": "address",
+      "label": "Élysée Palace - President's Office",
+      "value": "55 rue du Faubourg-Saint-Honoré, 75008 Paris, France",
+      "source": "elysee.fr/ecrire-au-president-de-la-republique"
+    },
+    {
+      "type": "twitter",
+      "label": "Élysée Palace Twitter/X",
+      "url": "https://twitter.com/elysee",
+      "source": "elysee.fr official website"
+    },
+    {
+      "type": "facebook",
+      "label": "Élysée Palace Facebook",
+      "url": "https://www.facebook.com/elysee.fr",
+      "source": "elysee.fr official website"
+    },
+    {
+      "type": "other",
+      "label": "Élysée Palace Instagram",
+      "value": "@elysee",
+      "source": "elysee.fr official website"
+    },
+    {
+      "type": "other",
+      "label": "Élysée Palace YouTube",
+      "url": "https://www.youtube.com/elysee",
+      "source": "elysee.fr official website"
+    },
+    {
+      "type": "other",
+      "label": "Élysée Palace LinkedIn",
+      "value": "Présidence de la République",
+      "source": "elysee.fr official website"
+    },
+    {
+      "type": "other",
+      "label": "President Contact Form",
+      "url": "https://www.elysee.fr/ecrire-au-president-de-la-republique",
+      "source": "elysee.fr - Écrire au Président"
+    },
+    {
+      "type": "other",
+      "label": "Ministry Contact Form",
+      "url": "https://www.diplomatie.gouv.fr/fr/contact",
+      "source": "diplomatie.gouv.fr - Nous écrire"
+    },
+    {
+      "type": "other",
+      "label": "Government Services Contact Portal",
+      "url": "https://www.service-public.gouv.fr/contact/accueil",
+      "source": "service-public.gouv.fr"
+    }
+  ]
+}

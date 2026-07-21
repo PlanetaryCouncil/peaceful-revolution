@@ -1,0 +1,204 @@
+{
+  "iso": "ATG",
+  "country_name": "Antigua and Barbuda",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government Helpdesk - General Inquiries",
+      "value": "helpdesk@ab.gov.ag",
+      "source": "https://ab.gov.ag/"
+    },
+    {
+      "type": "email",
+      "label": "Government Information Services",
+      "value": "info.abs@ab.gov.ag",
+      "source": "https://ab.gov.ag/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "foreignaffairs@ab.gov.ag",
+      "source": "https://foreignaffairs.gov.ag/contact.php"
+    },
+    {
+      "type": "email",
+      "label": "UN Permanent Mission",
+      "value": "unmission@ab.gov.ag",
+      "source": "https://www.abconsulate.nyc/"
+    },
+    {
+      "type": "email",
+      "label": "Consulate General New York",
+      "value": "consulateny@ab.gov.ag",
+      "source": "https://www.abconsulate.nyc/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Embassy Washington DC",
+      "value": "embantbar@aol.com",
+      "source": "https://www.embassypages.com/antiguaandbarbuda-embassy-washingtondc-unitedstates"
+    },
+    {
+      "type": "email",
+      "label": "High Commission London",
+      "value": "highcommission@antigua-barbuda.com",
+      "source": "https://embassies.info/PermanentMissionofAntiguaandBarbudatoUNinNewYork"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://ab.gov.ag/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://foreignaffairs.gov.ag/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Governor General Office",
+      "url": "https://gg.gov.ag/",
+      "source": "Official Governor General website"
+    },
+    {
+      "type": "website",
+      "label": "Consulate General New York",
+      "url": "https://www.abconsulate.nyc/",
+      "source": "Official consulate website"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of The Prime Minister",
+      "url": "https://www.facebook.com/OPMAntiguaBarbuda/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Antigua and Barbuda",
+      "url": "https://www.facebook.com/AntiguaBarbudaGovt/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Government Information Services",
+      "url": "https://www.facebook.com/OPMantiguaandbarbuda/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "New York Government Offices",
+      "url": "https://www.facebook.com/antiguabarbudany/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of The Prime Minister",
+      "url": "https://twitter.com/antiguaopm",
+      "source": "Official Twitter/X account"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Antigua and Barbuda",
+      "url": "https://x.com/antiguagov",
+      "source": "Official Twitter/X account"
+    },
+    {
+      "type": "phone",
+      "label": "Government Helpdesk",
+      "value": "+1 (268) 468-4622",
+      "source": "https://ab.gov.ag/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of The Prime Minister Switchboard",
+      "value": "+1 (268) 562-3860",
+      "source": "https://www.govserv.org/AG/Saint-John's/126208308177680/Office-of-The-Prime-Minister-Antigua-and-Barbuda"
+    },
+    {
+      "type": "phone",
+      "label": "Office of The Prime Minister Direct",
+      "value": "+1 (268) 562-3913",
+      "source": "https://www.govserv.org/AG/Saint-John's/126208308177680/Office-of-The-Prime-Minister-Antigua-and-Barbuda"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+1 (268) 562-3860 / +1 (268) 462-1052",
+      "source": "https://foreignaffairs.gov.ag/contact.php"
+    },
+    {
+      "type": "phone",
+      "label": "Governor General Office",
+      "value": "+1 (268) 462-0005",
+      "source": "https://gg.gov.ag/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Consulate General New York",
+      "value": "+1 (212) 541-4117",
+      "source": "https://www.abconsulate.nyc/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "UN Permanent Mission New York",
+      "value": "+1 (212) 541-4117",
+      "source": "https://www.abconsulate.nyc/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy Washington DC",
+      "value": "+1 (202) 362-5122",
+      "source": "https://www.embassypages.com/antiguaandbarbuda-embassy-washingtondc-unitedstates"
+    },
+    {
+      "type": "phone",
+      "label": "High Commission London",
+      "value": "+44 (20) 7258 0070",
+      "source": "https://embassies.info/PermanentMissionofAntiguaandBarbudatoUNinNewYork"
+    },
+    {
+      "type": "address",
+      "label": "Governor General Office",
+      "value": "Government House, St John's, Antigua and Barbuda",
+      "source": "https://gg.gov.ag/"
+    },
+    {
+      "type": "address",
+      "label": "Office of The Prime Minister",
+      "value": "Queen Elizabeth Highway, St. John's, Antigua and Barbuda",
+      "source": "https://www.govserv.org/AG/Saint-John's/126208308177680/Office-of-The-Prime-Minister-Antigua-and-Barbuda"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Prime Minister's Building, Queen Elizabeth Highway, St. John's, Antigua and Barbuda",
+      "source": "https://foreignaffairs.gov.ag/contact.php"
+    },
+    {
+      "type": "address",
+      "label": "Consulate General New York",
+      "value": "3 Dag Hammarskjold Plaza, 305 E. 47th Street, Suite 6A, New York, NY 10017, USA",
+      "source": "https://www.abconsulate.nyc/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "UN Permanent Mission New York",
+      "value": "305 East 47th Street, Suite 6A, New York, NY 10017, USA",
+      "source": "https://www.abconsulate.nyc/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy Washington DC",
+      "value": "3234 Prospect Ave. NW, Washington DC 20007, USA",
+      "source": "https://www.embassypages.com/antiguaandbarbuda-embassy-washingtondc-unitedstates"
+    },
+    {
+      "type": "address",
+      "label": "High Commission London",
+      "value": "2nd floor, 45 Crawford Place, London W1H 4LP, England, UK",
+      "source": "https://embassies.info/PermanentMissionofAntiguaandBarbudatoUNinNewYork"
+    }
+  ]
+}

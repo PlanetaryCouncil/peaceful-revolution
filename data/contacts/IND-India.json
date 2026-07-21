@@ -1,0 +1,114 @@
+{
+  "iso": "IND",
+  "country_name": "India",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of External Affairs - General",
+      "value": "jsxp@mea.gov.in",
+      "source": "https://www.mea.gov.in/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of External Affairs - Foreign Secretary",
+      "value": "psfs@mea.gov.in",
+      "source": "https://www.mea.gov.in/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of External Affairs - Minister",
+      "value": "eam@mea.gov.in",
+      "source": "https://www.mea.gov.in/contact"
+    },
+    {
+      "type": "email",
+      "label": "President's Secretariat",
+      "value": "secy.president@rb.nic.in",
+      "source": "https://www.rashtrapatibhavan.gov.in/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of External Affairs",
+      "value": "+91-11-23383371, +91-11-23383373",
+      "source": "https://www.mea.gov.in/contact"
+    },
+    {
+      "type": "phone",
+      "label": "President's Secretariat",
+      "value": "+91-11-23015321, +91-11-23017290",
+      "source": "https://www.rashtrapatibhavan.gov.in/telephone-directory"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of External Affairs",
+      "value": "Room No 152, A-Wing, Shastri Bhavan, New Delhi - 110001, India",
+      "source": "https://www.mea.gov.in/contact"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Rashtrapati Bhavan)",
+      "value": "Rashtrapati Bhavan, New Delhi - 110004, India",
+      "source": "https://www.rashtrapatibhavan.gov.in/telephone-directory"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of External Affairs",
+      "url": "https://www.mea.gov.in",
+      "source": "https://www.mea.gov.in"
+    },
+    {
+      "type": "website",
+      "label": "President of India",
+      "url": "https://presidentofindia.nic.in",
+      "source": "https://presidentofindia.nic.in"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.pmindia.gov.in",
+      "source": "https://www.pmindia.gov.in"
+    },
+    {
+      "type": "website",
+      "label": "National Portal of India (Government Gateway)",
+      "url": "https://www.india.gov.in",
+      "source": "https://www.india.gov.in"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office",
+      "url": "https://twitter.com/PMOIndia",
+      "source": "https://www.pmindia.gov.in/en/social-media-updates/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of External Affairs",
+      "url": "https://twitter.com/MEAIndia",
+      "source": "https://twitter.com/MEAIndia"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of India",
+      "url": "https://twitter.com/GovernmentIndia",
+      "source": "https://twitter.com/GovernmentIndia"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of External Affairs",
+      "url": "https://www.facebook.com/MEAINDIA/",
+      "source": "https://www.facebook.com/MEAINDIA/"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office",
+      "url": "https://www.facebook.com/PMOIndia/",
+      "source": "https://www.facebook.com/PMOIndia/"
+    },
+    {
+      "type": "facebook",
+      "label": "MyGov India (Citizen Engagement)",
+      "url": "https://www.facebook.com/MyGovIndia/",
+      "source": "https://www.facebook.com/MyGovIndia/"
+    }
+  ]
+}

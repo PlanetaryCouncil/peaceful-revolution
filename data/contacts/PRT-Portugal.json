@@ -1,0 +1,324 @@
+{
+  "iso": "PRT",
+  "country_name": "Portugal",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "Not publicly listed (contact via diplomatic portal)",
+      "source": "https://portaldiplomatico.mne.gov.pt/"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Portugal (INE) - Main",
+      "value": "ine@ine.pt",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Portugal - Data Protection Officer",
+      "value": "Enc.protecaodados@ine.pt",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Portugal - User Support",
+      "value": "info@ine.pt",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Portugal - Press Relations",
+      "value": "imprensa@ine.pt",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Portugal - Support to Respondents",
+      "value": "webinq@ine.pt",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Portugal - Library",
+      "value": "biblioteca@ine.pt",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "email",
+      "label": "European Information Center (Eurocid) - Main",
+      "value": "CIEJD@mne.pt",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "email",
+      "label": "Eurocid - Jacques Delors Library",
+      "value": "biblioteca@ciejd.pt",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "email",
+      "label": "Eurocid - Training Programs",
+      "value": "formacao@ciejd.pt",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "email",
+      "label": "Eurocid - Financial Support & Tenders",
+      "value": "negocios@ciejd.pt",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "email",
+      "label": "Eurocid - Employment & Internships",
+      "value": "carreiras.europeias@ciejd.pt",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "email",
+      "label": "Eurocid - European Citizenship Initiative",
+      "value": "ice.portugal@ciejd.pt",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President of Portugal",
+      "value": "(+351) 213 614 600",
+      "source": "https://www.presidencia.pt/contactos/"
+    },
+    {
+      "type": "phone",
+      "label": "Portuguese Parliament (Assembleia da República)",
+      "value": "(+351) 213 919 000",
+      "source": "https://www.parlamento.pt"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergency Consular Service",
+      "value": "+351 217 929 714",
+      "source": "https://portaldiplomatico.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - 24-Hour Emergency Consular Assistance",
+      "value": "+351 961 706 472",
+      "source": "https://portaldiplomatico.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Statistics Portugal (INE) - General Contact",
+      "value": "+351 218 426 100",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "phone",
+      "label": "Statistics Portugal - User Support Service",
+      "value": "+351 218 440 695",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "phone",
+      "label": "Statistics Portugal - Press Relations",
+      "value": "+351 218 426 110",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "phone",
+      "label": "Statistics Portugal - Support to Respondents",
+      "value": "+351 218 426 307",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "phone",
+      "label": "Eurocid (European Information Center) - Main",
+      "value": "+351 211 225 000",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Eurocid - Jacques Delors Library",
+      "value": "+351 210 170 113",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Eurocid - Training & Educational Programs",
+      "value": "+351 211 225 043",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Eurocid - Financial Support & Public Tenders",
+      "value": "+351 211 225 044",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Eurocid - Employment & Internships",
+      "value": "+351 211 225 045",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "Eurocid - European Citizenship Initiative",
+      "value": "+351 211 225 046",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "phone",
+      "label": "National Republican Guard (GNR) - Emergency",
+      "value": "112",
+      "source": "https://www.gnr.pt"
+    },
+    {
+      "type": "phone",
+      "label": "National Republican Guard (GNR) - Environment Emergency",
+      "value": "808 200 520",
+      "source": "https://www.gnr.pt"
+    },
+    {
+      "type": "phone",
+      "label": "National Republican Guard (GNR) - Traffic Emergency",
+      "value": "808 201 855",
+      "source": "https://www.gnr.pt"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President of Portugal",
+      "value": "Palácio de Belém, Calçada da Ajuda, 1349-022 Lisboa",
+      "source": "https://www.presidencia.pt/contactos/"
+    },
+    {
+      "type": "address",
+      "label": "Portuguese Parliament (Assembleia da República)",
+      "value": "Palácio de São Bento, Praça da Constituição de 1976, 1249-068 Lisboa",
+      "source": "https://www.parlamento.pt"
+    },
+    {
+      "type": "address",
+      "label": "Statistics Portugal (INE) - Head Office",
+      "value": "Avenida António José de Almeida, 1000-043 Lisboa",
+      "source": "https://www.ine.pt"
+    },
+    {
+      "type": "address",
+      "label": "Eurocid (European Information Center) - Centro Jacques Delors",
+      "value": "Rua da Cova da Moura, 1, 1350-115 Lisboa",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "address",
+      "label": "Eurocid - Jacques Delors Library",
+      "value": "Edifício Caleidoscópio, Jardim do Campo Grande, 1700-090 Lisboa",
+      "source": "https://eurocid.mne.gov.pt/"
+    },
+    {
+      "type": "address",
+      "label": "National Republican Guard (GNR) - Main Headquarters",
+      "value": "Largo do Carmo, 1200-092 Lisboa",
+      "source": "https://www.gnr.pt"
+    },
+    {
+      "type": "website",
+      "label": "Portuguese Government Portal",
+      "url": "https://www.portugal.gov.pt",
+      "source": "Official government main portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs - Diplomatic Portal",
+      "url": "https://portaldiplomatico.mne.gov.pt/",
+      "source": "Official Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Portuguese Communities Portal",
+      "url": "https://portaldascomunidades.mne.gov.pt/",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.presidencia.pt",
+      "source": "Official Presidency website"
+    },
+    {
+      "type": "website",
+      "label": "Portuguese Parliament",
+      "url": "https://www.parlamento.pt",
+      "source": "Official Parliament website"
+    },
+    {
+      "type": "website",
+      "label": "Statistics Portugal (INE)",
+      "url": "https://www.ine.pt",
+      "source": "Official statistics institute"
+    },
+    {
+      "type": "website",
+      "label": "European Information Center (Eurocid)",
+      "url": "https://eurocid.mne.gov.pt/",
+      "source": "Under Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Portuguese Visa Services",
+      "url": "https://vistos.mne.gov.pt/",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Online Visa Application Portal",
+      "url": "https://pedidodevistos.mne.gov.pt/VistosOnline/",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Immigration and Border Authority (AIMA)",
+      "url": "https://aima.gov.pt/pt",
+      "source": "Portuguese immigration services"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MNEdePortugal",
+      "source": "Official Facebook account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/nestrangeiro_pt",
+      "source": "Official X (Twitter) account"
+    },
+    {
+      "type": "instagram",
+      "label": "Portuguese Government",
+      "url": "https://www.instagram.com/gov_pt",
+      "source": "Official Instagram account"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mne.pt",
+      "source": "Official Instagram account"
+    },
+    {
+      "type": "youtube",
+      "label": "Office of the President",
+      "url": "https://www.youtube.com/@PresidenciaRepublica",
+      "source": "Official YouTube channel"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.youtube.com/channel/UCK3s9wcrjBReS2veJrB-nAw",
+      "source": "Official YouTube channel"
+    },
+    {
+      "type": "other",
+      "label": "Government Contact Form",
+      "value": "Available via https://www.presidencia.pt/contactos/ and https://www.parlamento.pt/Paginas/contactos.aspx",
+      "source": "Official government websites"
+    }
+  ]
+}

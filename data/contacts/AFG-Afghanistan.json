@@ -1,0 +1,96 @@
+{
+  "iso": "AFG",
+  "country_name": "Afghanistan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mfa.gov.af",
+      "source": "https://mfa.gov.af/en/page/contact-en"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "info@president.gov.af",
+      "source": "https://president.gov.af/en/office-of-the-spokesperson/1070"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Defense",
+      "value": "info@mod.gov.af",
+      "source": "https://mod.gov.af/en/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+93 (0) 20 210 0381",
+      "source": "https://mfa.gov.af/en/page/contact-en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Commerce and Industries",
+      "value": "+93 (0) 20 2500 356",
+      "source": "https://moci.gov.af/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.af/en",
+      "source": "https://mfa.gov.af/en/home-en"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://president.gov.af",
+      "source": "https://president.gov.af/en/office-of-the-spokesperson/1070"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Commerce and Industries",
+      "url": "https://moci.gov.af/en",
+      "source": "https://moci.gov.af/en"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MoFA_Afg",
+      "source": "https://x.com/MoFA_Afg?lang=en"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the President",
+      "url": "https://x.com/arg_afg",
+      "source": "https://x.com/arg_afg?lang=en"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mfa.afghanistan",
+      "source": "https://www.facebook.com/mfa.afghanistan"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Malik Asghar Square, Kabul, Afghanistan",
+      "source": "https://mfa.gov.af/en/page/contact-en"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "ARG Presidential Palace, Akber, Kabul, Afghanistan",
+      "source": "https://president.gov.af/en/office-of-the-spokesperson/1070"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Defense",
+      "value": "Pule-Mahmood Khan, PD 2, 1001, Kabul, Afghanistan",
+      "source": "https://mod.gov.af/en/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Commerce and Industries",
+      "value": "Darluman Road, Kabul, Afghanistan",
+      "source": "https://moci.gov.af/en"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "iso": "UKR",
+  "country_name": "Ukraine",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.ua",
+      "source": "Known official domain - unable to verify current content due to 403 access restrictions"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://gov.ua",
+      "source": "Known official government domain - unable to verify current content due to access restrictions"
+    },
+    {
+      "type": "website",
+      "label": "President's Office",
+      "url": "https://president.gov.ua",
+      "source": "Known official domain - unable to verify current content due to 403 access restrictions"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Ukraine X/Twitter Account",
+      "url": "https://x.com/Ukraine",
+      "source": "Redirect confirmed from twitter.com/Ukraine - content verification blocked (402 error)"
+    },
+    {
+      "type": "website",
+      "label": "Cabinet of Ministers of Ukraine",
+      "url": "https://www.kmu.gov.ua/en",
+      "source": "Known official government domain - unable to verify current content due to access restrictions"
+    }
+  ]
+}

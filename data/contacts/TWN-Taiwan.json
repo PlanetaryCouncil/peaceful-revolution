@@ -1,0 +1,180 @@
+{
+  "iso": "TWN",
+  "country_name": "Taiwan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Minister's Mailbox",
+      "value": "https://eyes.mofa.gov.tw/System/en/Default.aspx",
+      "source": "https://en.mofa.gov.tw"
+    },
+    {
+      "type": "email",
+      "label": "Executive Yuan - Contact the Premier",
+      "value": "https://eyemail.ey.gov.tw/WWW/MailToPremier.aspx",
+      "source": "https://www.ey.gov.tw/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+886-2-2348-2999",
+      "source": "https://en.mofa.gov.tw"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+886-2-2311-3731",
+      "source": "https://www.president.gov.tw"
+    },
+    {
+      "type": "phone",
+      "label": "Executive Yuan",
+      "value": "+886-2-3356-6500",
+      "source": "https://www.ey.gov.tw/en"
+    },
+    {
+      "type": "phone",
+      "label": "Consular Affairs Bureau",
+      "value": "+886-2-2343-2888",
+      "source": "https://www.boca.gov.tw"
+    },
+    {
+      "type": "phone",
+      "label": "Foreign Ministry Emergency Center",
+      "value": "+886-800-085-095",
+      "source": "https://www.boca.gov.tw"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Justice",
+      "value": "+886-2-2191-0189",
+      "source": "https://www.moj.gov.tw"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "2 Ketagalan Boulevard, Zhongzheng District, Taipei City 100202, Taiwan",
+      "source": "https://en.mofa.gov.tw"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "122 Chongqing South Road, Section 1, Zhongzheng District, Taipei 100006, Taiwan",
+      "source": "https://www.president.gov.tw"
+    },
+    {
+      "type": "address",
+      "label": "Executive Yuan",
+      "value": "1 Zhongxiao East Road, Section 1, Zhongzheng District, Taipei 100009, Taiwan",
+      "source": "https://www.ey.gov.tw"
+    },
+    {
+      "type": "address",
+      "label": "Consular Affairs Bureau",
+      "value": "2-2 Jimin Road, Section 1, Taipei 100219, Taiwan (North Building, Central Joint Office Building, Floors 3-5)",
+      "source": "https://www.boca.gov.tw"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Justice",
+      "value": "130 Chongqing South Road, Section 1, Taipei 100204, Taiwan",
+      "source": "https://www.moj.gov.tw"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://en.mofa.gov.tw",
+      "source": "https://www.mofa.gov.tw"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.president.gov.tw",
+      "source": "https://www.president.gov.tw"
+    },
+    {
+      "type": "website",
+      "label": "Executive Yuan",
+      "url": "https://www.ey.gov.tw",
+      "source": "https://www.ey.gov.tw"
+    },
+    {
+      "type": "website",
+      "label": "Consular Affairs Bureau",
+      "url": "https://www.boca.gov.tw",
+      "source": "https://www.boca.gov.tw"
+    },
+    {
+      "type": "website",
+      "label": "Taiwan Government Portal",
+      "url": "https://www.taiwan.gov.tw",
+      "source": "https://www.taiwan.gov.tw"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mofa.gov.tw",
+      "source": "https://en.mofa.gov.tw"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "https://www.facebook.com/presidentialoffice.tw",
+      "source": "https://www.president.gov.tw"
+    },
+    {
+      "type": "facebook",
+      "label": "Executive Yuan",
+      "url": "https://www.facebook.com/ey.gov.tw",
+      "source": "https://www.ey.gov.tw"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/MOFA_Taiwan",
+      "source": "https://en.mofa.gov.tw"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mofa_taiwan",
+      "source": "https://en.mofa.gov.tw"
+    },
+    {
+      "type": "instagram",
+      "label": "Executive Yuan",
+      "url": "https://www.instagram.com/executiveyuan",
+      "source": "https://www.ey.gov.tw"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.youtube.com/user/taiwan2theworld",
+      "source": "https://en.mofa.gov.tw"
+    },
+    {
+      "type": "youtube",
+      "label": "Office of the President",
+      "url": "https://www.youtube.com/user/presidentialoffice",
+      "source": "https://www.president.gov.tw"
+    },
+    {
+      "type": "line",
+      "label": "Office of the President",
+      "url": "https://lin.ee/15lfcRtIE",
+      "source": "https://www.president.gov.tw"
+    },
+    {
+      "type": "threads",
+      "label": "Executive Yuan",
+      "value": "@executiveyuan",
+      "source": "https://www.ey.gov.tw"
+    },
+    {
+      "type": "other",
+      "label": "Flickr - Office of the President",
+      "url": "https://www.flickr.com/photos/presidentialoffice",
+      "source": "https://www.president.gov.tw"
+    }
+  ]
+}

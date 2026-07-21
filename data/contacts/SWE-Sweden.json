@@ -1,0 +1,174 @@
+{
+  "iso": "SWE",
+  "country_name": "Sweden",
+  "contacts": [
+    {
+      "type": "phone",
+      "label": "Government Offices (Regeringskansliet) - Main Switchboard",
+      "value": "+46 8-405 10 00",
+      "source": "https://www.regeringen.se/kontakt/"
+    },
+    {
+      "type": "address",
+      "label": "Government Offices (Regeringskansliet)",
+      "value": "103 33 Stockholm, Sweden",
+      "source": "https://www.regeringen.se/kontakt/"
+    },
+    {
+      "type": "email",
+      "label": "Department Email Format",
+      "value": "[department]@regeringskansliet.se",
+      "source": "https://www.regeringen.se/kontakt/"
+    },
+    {
+      "type": "website",
+      "label": "Official Swedish Government Website",
+      "url": "https://www.regeringen.se",
+      "source": "https://www.regeringen.se"
+    },
+    {
+      "type": "phone",
+      "label": "Swedish Parliament (Riksdagen) - Main Switchboard",
+      "value": "+46 8-786 40 00",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "phone",
+      "label": "Swedish Parliament - Riksdagsinformation",
+      "value": "+46 20-349 000",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "email",
+      "label": "Swedish Parliament - General Inquiries",
+      "value": "riksdagsinformation@riksdagen.se",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "email",
+      "label": "Swedish Parliament - Registry/Administrative",
+      "value": "registrator.riksdagsforvaltningen@riksdagen.se",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Parliament (Riksdagen)",
+      "url": "https://www.riksdagen.se",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "phone",
+      "label": "Royal Court (Kungl. Hovstaterna) - Switchboard",
+      "value": "+46 8-402 60 00",
+      "source": "https://www.kungahuset.se/kontakt"
+    },
+    {
+      "type": "address",
+      "label": "Royal Court (Kungl. Hovstaterna)",
+      "value": "Kungl. Slottet, 107 70 Stockholm, Sweden",
+      "source": "https://www.kungahuset.se/kontakt"
+    },
+    {
+      "type": "website",
+      "label": "Royal Court of Sweden",
+      "url": "https://www.kungahuset.se",
+      "source": "https://www.kungahuset.se"
+    },
+    {
+      "type": "phone",
+      "label": "Emergency Services",
+      "value": "112",
+      "source": "https://www.krisinformation.se"
+    },
+    {
+      "type": "phone",
+      "label": "Crisis Information Line",
+      "value": "113 13",
+      "source": "https://www.krisinformation.se"
+    },
+    {
+      "type": "phone",
+      "label": "Police General Contact",
+      "value": "+46 114 14",
+      "source": "https://www.polisen.se/om-polisen/kontakt/"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Police",
+      "url": "https://www.polisen.se",
+      "source": "https://www.polisen.se"
+    },
+    {
+      "type": "phone",
+      "label": "Teletal - Speech Support",
+      "value": "+46 20-22 11 44",
+      "source": "https://www.regeringen.se/kontakt/"
+    },
+    {
+      "type": "website",
+      "label": "Text Telephone Service (Texttelefoni)",
+      "url": "https://www.texttelefoni.se",
+      "source": "https://www.regeringen.se/kontakt/"
+    },
+    {
+      "type": "website",
+      "label": "Sign Language Video Calling (Bildtelefoni)",
+      "url": "https://www.bildtelefoni.net",
+      "source": "https://www.regeringen.se/kontakt/"
+    },
+    {
+      "type": "instagram",
+      "label": "Swedish Government Instagram",
+      "url": "https://www.instagram.com/regeringen",
+      "source": "https://www.regeringen.se"
+    },
+    {
+      "type": "twitter",
+      "label": "Swedish Parliament on X (Twitter)",
+      "url": "https://x.com/sverigesriksdag",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Parliament on LinkedIn",
+      "url": "https://www.linkedin.com/company/riksdagen",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Parliament on Bluesky",
+      "url": "https://bsky.app/profile/sverigesriksdag",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Parliament on YouTube",
+      "url": "https://www.youtube.com/c/sverigesriksdag",
+      "source": "https://www.riksdagen.se/sv/kontakt-och-besok/"
+    },
+    {
+      "type": "website",
+      "label": "Crisis Information Portal (Krisinformation)",
+      "url": "https://www.krisinformation.se",
+      "source": "https://www.krisinformation.se"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Tax Agency (Skatteverket)",
+      "url": "https://www.skatteverket.se",
+      "source": "https://www.skatteverket.se"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Migration Agency (Migrationsverket)",
+      "url": "https://www.migrationsverket.se",
+      "source": "https://www.migrationsverket.se"
+    },
+    {
+      "type": "website",
+      "label": "Swedish Civil Contingencies Agency (MCF)",
+      "url": "https://www.mcf.se",
+      "source": "https://www.mcf.se"
+    }
+  ]
+}

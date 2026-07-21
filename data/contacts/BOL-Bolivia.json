@@ -1,0 +1,162 @@
+{
+  "iso": "BOL",
+  "country_name": "Bolivia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Ministerio de Relaciones Exteriores)",
+      "value": "mreuno@rree.gob.bo",
+      "source": "https://cancilleria.gob.bo/mre/contactos/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Government Communication",
+      "value": "min.gob.bolivia.comunicacion@gmail.com",
+      "source": "https://web.mingobierno.gob.bo/"
+    },
+    {
+      "type": "email",
+      "label": "Government Portal Support (AGETIC)",
+      "value": "soporte@agetic.gob.bo",
+      "source": "https://www.gob.bo/"
+    },
+    {
+      "type": "email",
+      "label": "Bolivian Consulate - Washington DC",
+      "value": "consulado.boliviawdc@gmail.com",
+      "source": "https://www.boliviawdc.org/en-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "url": "https://cancilleria.gob.bo/",
+      "source": "Official government ministry"
+    },
+    {
+      "type": "website",
+      "label": "Presidency of Bolivia",
+      "url": "https://presidencia.gob.bo/",
+      "source": "Official presidential office"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal (gob.bo)",
+      "url": "https://www.gob.bo/",
+      "source": "Official government services portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Government",
+      "url": "https://web.mingobierno.gob.bo/",
+      "source": "Official government ministry"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MRE_Bolivia",
+      "source": "https://cancilleria.gob.bo/"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Bolivia Government",
+      "url": "https://x.com/BoliviaOfficial",
+      "source": "X/Twitter official account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of the Presidency",
+      "url": "https://x.com/MinPresidencia",
+      "source": "Official presidential ministry"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/CancilleriaBolivia",
+      "source": "https://cancilleria.gob.bo/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Government",
+      "url": "https://www.facebook.com/MindeGobierno/",
+      "source": "Official ministry page"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/cancilleriabolivia/",
+      "source": "https://cancilleria.gob.bo/"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs Press",
+      "url": "https://www.youtube.com/@prensarree",
+      "source": "https://cancilleria.gob.bo/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "+591-2-2408900",
+      "source": "https://cancilleria.gob.bo/mre/contactos/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Line 2",
+      "value": "+591-2-2409114",
+      "source": "https://cancilleria.gob.bo/mre/contactos/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Line 3",
+      "value": "+591-2-2408595",
+      "source": "https://cancilleria.gob.bo/mre/contactos/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Fax",
+      "value": "+591-2-2408642",
+      "source": "https://cancilleria.gob.bo/mre/contactos/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Government",
+      "value": "+591-2-2170200",
+      "source": "https://web.mingobierno.gob.bo/"
+    },
+    {
+      "type": "phone",
+      "label": "Bolivian Embassy - Washington DC",
+      "value": "+1-202-483-4410",
+      "source": "https://www.boliviawdc.org/en-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Bolivian Consulate - Washington DC",
+      "value": "+1-202-232-4827",
+      "source": "https://www.boliviawdc.org/en-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs Headquarters",
+      "value": "Plaza Murillo c. Ingavi esq. c. Junín, La Paz, Bolivia",
+      "source": "https://cancilleria.gob.bo/mre/contactos/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Government",
+      "value": "Av. Arce esq. Belisario Salinas N° 2409, La Paz, Bolivia",
+      "source": "https://web.mingobierno.gob.bo/"
+    },
+    {
+      "type": "address",
+      "label": "Plurinational Legislative Assembly - Chamber of Senators",
+      "value": "Plaza Murillo, Edificio del Palacio Legislativo, La Paz, Bolivia",
+      "source": "https://data.ipu.org/parliament/BO/BO-UC01/basic/contact-details/"
+    },
+    {
+      "type": "address",
+      "label": "Bolivian Consulate - Washington DC",
+      "value": "1718 Connecticut Ave NW, Washington DC, USA",
+      "source": "https://www.boliviawdc.org/en-us/"
+    }
+  ]
+}

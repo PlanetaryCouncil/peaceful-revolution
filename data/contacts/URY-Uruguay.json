@@ -1,0 +1,138 @@
+{
+  "iso": "URY",
+  "country_name": "Uruguay",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Presidency Email",
+      "value": "comunicacion@presidencia.gub.uy",
+      "source": "https://www.gub.uy/presidencia/institucional/contacto"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "consultas.web@mrree.gub.uy",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/institucional/contacto"
+    },
+    {
+      "type": "email",
+      "label": "Government Portal (AGESIC)",
+      "value": "info@agesic.gub.uy",
+      "source": "https://www.gub.uy/contacto"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency",
+      "value": "(+598 2) 150",
+      "source": "https://www.gub.uy/presidencia"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "(+598) 2902 10 10",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "address",
+      "label": "Presidency Office",
+      "value": "Plaza Independencia 710, Montevideo, Uruguay",
+      "source": "https://www.gub.uy/presidencia"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main Office",
+      "value": "Colonia 1206, Montevideo, Uruguay",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Customer Service",
+      "value": "Cuareim 1384, Montevideo, Uruguay",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency Official",
+      "url": "https://www.facebook.com/ComunicacionPresidencial/",
+      "source": "https://www.gub.uy/"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency Official",
+      "url": "https://twitter.com/compresidencia",
+      "source": "https://www.gub.uy/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/CancilleriaUy",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/CancilleriaUruguay/",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "instagram",
+      "label": "Presidency Official",
+      "url": "https://www.instagram.com/presidenciauruguay/",
+      "source": "https://www.gub.uy/"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/cancilleriauruguay/",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "youtube",
+      "label": "Presidency Official",
+      "url": "https://www.youtube.com/user/Presidenciatv",
+      "source": "https://www.gub.uy/"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.youtube.com/@CancilleriaUy",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "website",
+      "label": "Main Government Portal",
+      "url": "https://www.gub.uy/",
+      "source": "https://www.gub.uy/"
+    },
+    {
+      "type": "website",
+      "label": "Presidency",
+      "url": "http://www.gub.uy/presidencia",
+      "source": "https://www.gub.uy/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.gub.uy/ministerio-relaciones-exteriores/",
+      "source": "https://www.gub.uy/"
+    },
+    {
+      "type": "other",
+      "label": "Office Hours - Ministry of Foreign Affairs",
+      "value": "Monday to Friday, 10:00 AM to 3:30 PM (Cuareim 1384)",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    },
+    {
+      "type": "other",
+      "label": "Citizen Assistance Points",
+      "url": "http://atencionciudadana.gub.uy/",
+      "source": "https://www.gub.uy/contacto"
+    },
+    {
+      "type": "other",
+      "label": "Consular Map - Embassies and Consulates",
+      "url": "https://mapaconsular.mrree.gub.uy/",
+      "source": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+    }
+  ]
+}

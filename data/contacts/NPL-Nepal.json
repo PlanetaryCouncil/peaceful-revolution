@@ -1,0 +1,318 @@
+{
+  "iso": "NPL",
+  "country_name": "Nepal",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mofa.gov.np",
+      "source": "https://www.mofa.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Home Affairs - General",
+      "value": "control@moha.gov.np",
+      "source": "https://moha.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Home Affairs - Complaints",
+      "value": "gunaso@moha.gov.np",
+      "source": "https://moha.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Health & Population",
+      "value": "info@mohp.gov.np",
+      "source": "https://www.mohp.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Industry, Commerce and Supplies",
+      "value": "info@moics.gov.np",
+      "source": "https://www.moics.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Land Management, Cooperatives, Federal and General Administration",
+      "value": "info@mofaga.gov.np",
+      "source": "https://mofaga.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Nepal Tourism Board",
+      "value": "info@ntb.org.np",
+      "source": "https://ntb.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Nepal Police - Spokesperson",
+      "value": "spokesperson@nepalpolice.gov.np",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Armed Police Force Nepal - General",
+      "value": "info@apf.gov.np",
+      "source": "https://www.apf.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Armed Police Force Nepal - Spokesperson",
+      "value": "spokesperson@apf.gov.np",
+      "source": "https://www.apf.gov.np"
+    },
+    {
+      "type": "email",
+      "label": "Nepal Rastra Bank (Central Bank) - Spokesperson",
+      "value": "spokesperson@nrb.org.np",
+      "source": "https://www.nrb.org.np"
+    },
+    {
+      "type": "email",
+      "label": "Nepal Rastra Bank - Information Officer",
+      "value": "information@nrb.org.np",
+      "source": "https://www.nrb.org.np"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Home Affairs",
+      "url": "https://moha.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health & Population",
+      "url": "https://www.mohp.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Industry, Commerce and Supplies",
+      "url": "https://www.moics.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Land Management, Cooperatives, Federal and General Administration",
+      "url": "https://mofaga.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Nepal Tourism Board",
+      "url": "https://ntb.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Nepal Police",
+      "url": "https://www.nepalpolice.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Armed Police Force Nepal",
+      "url": "https://www.apf.gov.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Nepal Rastra Bank (Central Bank)",
+      "url": "https://www.nrb.org.np",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+977-1-4200182, +977-1-4200183, +977-1-4200184, +977-1-4200185",
+      "source": "https://www.mofa.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Home Affairs",
+      "value": "+977-1-4211208, +977-1-4211214, 1112 (toll-free)",
+      "source": "https://moha.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Industry, Commerce and Supplies",
+      "value": "+977-1-4211455",
+      "source": "https://www.moics.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Land Management",
+      "value": "+977-1-4200318, +977-1-4200432, +977-1-4200291",
+      "source": "https://mofaga.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Nepal Tourism Board",
+      "value": "+977-1-5356909",
+      "source": "https://ntb.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Nepal Police - Emergency",
+      "value": "100",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Nepal Police - Main Office",
+      "value": "+977-1-5719900",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Armed Police Force Nepal - Emergency",
+      "value": "1114 (toll-free)",
+      "source": "https://www.apf.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Armed Police Force Nepal - General",
+      "value": "+977-1-5249524",
+      "source": "https://www.apf.gov.np"
+    },
+    {
+      "type": "phone",
+      "label": "Nepal Rastra Bank (Central Bank)",
+      "value": "+977-1-5719641, +977-1-5719642, +977-1-5719643, +977-1-5719653, +977-1-5719659",
+      "source": "https://www.nrb.org.np"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Singhadurbar, Kathmandu, Nepal",
+      "source": "https://www.mofa.gov.np"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Home Affairs",
+      "value": "Singhadurbar, Kathmandu, Nepal",
+      "source": "https://moha.gov.np"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Industry, Commerce and Supplies",
+      "value": "Singha Durbar, Kathmandu, Nepal",
+      "source": "https://www.moics.gov.np"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Land Management, Cooperatives, Federal and General Administration",
+      "value": "Singhadurbar, Kathmandu, Nepal",
+      "source": "https://mofaga.gov.np"
+    },
+    {
+      "type": "address",
+      "label": "Nepal Tourism Board",
+      "value": "Bhrikutimandap, Kathmandu, P.O. Box 11018, Nepal",
+      "source": "https://ntb.gov.np"
+    },
+    {
+      "type": "address",
+      "label": "Nepal Police - Headquarters",
+      "value": "Naxal, Kathmandu, Nepal",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "address",
+      "label": "Nepal Rastra Bank (Central Bank)",
+      "value": "Baluwatar, Kathmandu, P.O. Box 73, Nepal",
+      "source": "https://www.nrb.org.np"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Health & Population",
+      "url": "https://www.facebook.com/mohpnep",
+      "source": "https://www.mohp.gov.np"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Health & Population",
+      "url": "https://twitter.com/mohp_nepal",
+      "source": "https://www.mohp.gov.np"
+    },
+    {
+      "type": "facebook",
+      "label": "Nepal Tourism Board",
+      "url": "https://www.facebook.com/nepaltourismboard",
+      "source": "https://ntb.gov.np"
+    },
+    {
+      "type": "twitter",
+      "label": "Nepal Tourism Board",
+      "url": "https://twitter.com/nepaltourismb",
+      "source": "https://ntb.gov.np"
+    },
+    {
+      "type": "instagram",
+      "label": "Nepal Tourism Board",
+      "url": "https://www.instagram.com/nepaltourism",
+      "source": "https://ntb.gov.np"
+    },
+    {
+      "type": "youtube",
+      "label": "Nepal Tourism Board",
+      "url": "https://www.youtube.com/channel/UC2SJQgLtP-whF6M4K_m7XAA",
+      "source": "https://ntb.gov.np"
+    },
+    {
+      "type": "facebook",
+      "label": "Nepal Police",
+      "url": "https://www.facebook.com/NepalPoliceHQ",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "twitter",
+      "label": "Nepal Police",
+      "url": "https://twitter.com/NepalPoliceHQ",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "instagram",
+      "label": "Nepal Police",
+      "url": "https://www.instagram.com/NepalPoliceHQ",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "youtube",
+      "label": "Nepal Police",
+      "url": "https://www.youtube.com/@NepalPoliceHQ",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Home Affairs - Complaint Portal",
+      "value": "Available on official website",
+      "source": "https://moha.gov.np"
+    },
+    {
+      "type": "other",
+      "label": "Nepal Police - Online Complaint System",
+      "value": "https://www.nepalpolice.gov.np/ujuri-gunaso-form/",
+      "source": "https://www.nepalpolice.gov.np"
+    },
+    {
+      "type": "other",
+      "label": "Armed Police Force Nepal - Online Complaints Portal",
+      "value": "https://gunaso.apf.gov.np/",
+      "source": "https://www.apf.gov.np"
+    },
+    {
+      "type": "other",
+      "label": "Nepal Rastra Bank - Contact Form",
+      "value": "https://www.nrb.org.np/contact/",
+      "source": "https://www.nrb.org.np"
+    }
+  ]
+}

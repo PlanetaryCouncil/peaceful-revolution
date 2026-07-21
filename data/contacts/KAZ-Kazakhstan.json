@@ -1,0 +1,114 @@
+{
+  "iso": "KAZ",
+  "country_name": "Kazakhstan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Kazinform (State News Agency) - Coordinator",
+      "value": "coordinator@inform.kz",
+      "source": "https://www.inform.kz/contacts/"
+    },
+    {
+      "type": "phone",
+      "label": "Kazinform (State News Agency) - Reception",
+      "value": "+7 (7172) 954-053",
+      "source": "https://www.inform.kz/contacts/"
+    },
+    {
+      "type": "phone",
+      "label": "Kazinform - International Cooperation",
+      "value": "+7 701 888-69-66, +7 701 500-79-49",
+      "source": "https://www.inform.kz/contacts/"
+    },
+    {
+      "type": "phone",
+      "label": "Baiterek National Investment Holding - Call Center",
+      "value": "+7 1408",
+      "source": "https://www.baiterek.gov.kz"
+    },
+    {
+      "type": "address",
+      "label": "Baiterek National Investment Holding",
+      "value": "Mangilik El avenue 55A, Yesil district, Astana city, Kazakhstan Z05T3E2",
+      "source": "https://www.baiterek.gov.kz"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Akorda)",
+      "value": "Akorda Presidential Residence, Astana, Kazakhstan",
+      "source": "https://www.akorda.kz"
+    },
+    {
+      "type": "telegram",
+      "label": "Presidential Office - Official Telegram",
+      "value": "@aqorda_resmi",
+      "source": "https://www.akorda.kz"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office - Official Facebook",
+      "value": "https://www.facebook.com/AqordaResmi",
+      "source": "https://www.akorda.kz"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office - Official X/Twitter",
+      "value": "https://x.com/aqorda_press",
+      "source": "https://www.akorda.kz"
+    },
+    {
+      "type": "instagram",
+      "label": "Presidential Office - Official Instagram",
+      "value": "@akordapress",
+      "source": "https://www.akorda.kz"
+    },
+    {
+      "type": "youtube",
+      "label": "Presidential Office - Official YouTube",
+      "value": "https://www.youtube.com/akordapress",
+      "source": "https://www.akorda.kz"
+    },
+    {
+      "type": "tiktok",
+      "label": "Presidential Office - Official TikTok",
+      "value": "@aqorda_official",
+      "source": "https://www.akorda.kz"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal - Unified Platform",
+      "value": "https://www.gov.kz",
+      "source": "Official Kazakhstan Government"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "value": "https://www.akorda.kz",
+      "source": "Official Kazakhstan Presidential Office"
+    },
+    {
+      "type": "website",
+      "label": "State News Agency (Kazinform)",
+      "value": "https://www.inform.kz",
+      "source": "Official Kazakhstan State News Agency"
+    },
+    {
+      "type": "website",
+      "label": "E-Petition Platform (eOtinish)",
+      "value": "https://eotinish.kz",
+      "source": "Official Kazakhstan Government"
+    },
+    {
+      "type": "website",
+      "label": "Electronic Government Portal",
+      "value": "https://eotinish.gov.kz",
+      "source": "Official Kazakhstan Government"
+    },
+    {
+      "type": "other",
+      "label": "Virtual Reception - Presidential Office",
+      "value": "https://eotinish.kz/sendAppeal?orgId=77",
+      "source": "https://www.akorda.kz"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "iso": "BGD",
+  "country_name": "Bangladesh",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular & Welfare",
+      "value": "dgcnw@mofa.gov.bd",
+      "source": "https://mofa.gov.bd/site/page/abecb99b-1df9-4f54-bf93-ee46be79159e/Contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - ICT Support",
+      "value": "ict1@mofa.gov.bd",
+      "source": "https://mofa.gov.bd/site/page/abecb99b-1df9-4f54-bf93-ee46be79159e/Contact-us"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Secretary",
+      "value": "secretary@bangabhaban.gov.bd",
+      "source": "https://bangabhaban.gov.bd/"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Military Secretary",
+      "value": "msp@bangabhaban.gov.bd",
+      "source": "https://bangabhaban.gov.bd/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "psecy@pmo.gov.bd",
+      "source": "https://pmo.gov.bd/"
+    },
+    {
+      "type": "email",
+      "label": "Chief Adviser's Office - Governance Innovation Unit",
+      "value": "dggiu@pmo.gov.bd",
+      "source": "https://giupmo.gov.bd/site/page/e53aa730-d7f0-4843-9f49-848a1e70d1e0/Contact"
+    },
+    {
+      "type": "email",
+      "label": "Bangladesh Investment Development Authority (BIDA)",
+      "value": "info@bida.gov.bd",
+      "source": "https://bida.gov.bd/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "+8802-9556020-7, +8802-9554112-6, +8802-9562950-4",
+      "source": "https://mofa.gov.bd/site/page/abecb99b-1df9-4f54-bf93-ee46be79159e/Contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Welfare",
+      "value": "+880-2223382923",
+      "source": "https://mofa.gov.bd/site/page/abecb99b-1df9-4f54-bf93-ee46be79159e/Contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+88-02-2266381-60-169",
+      "source": "https://bangabhaban.gov.bd/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+88-02-55029409",
+      "source": "https://pmo.gov.bd/"
+    },
+    {
+      "type": "phone",
+      "label": "Chief Adviser's Office",
+      "value": "+88-02-55029444",
+      "source": "https://giupmo.gov.bd/site/page/e53aa730-d7f0-4843-9f49-848a1e70d1e0/Contact"
+    },
+    {
+      "type": "phone",
+      "label": "Bangladesh Investment Development Authority (BIDA)",
+      "value": "+880-2-44826795-99",
+      "source": "https://bida.gov.bd/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://bangladesh.gov.bd/",
+      "source": "https://bangladesh.gov.bd/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mofa.gov.bd/",
+      "source": "https://mofa.gov.bd/"
+    },
+    {
+      "type": "website",
+      "label": "President's Office",
+      "url": "https://bangabhaban.gov.bd/",
+      "source": "https://bangabhaban.gov.bd/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://pmo.gov.bd/",
+      "source": "https://pmo.gov.bd/"
+    },
+    {
+      "type": "website",
+      "label": "Bangladesh Investment Development Authority (BIDA)",
+      "url": "https://bida.gov.bd/",
+      "source": "https://bida.gov.bd/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-Bangladesh-100068796236896/",
+      "source": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-Bangladesh-100068796236896/"
+    },
+    {
+      "type": "facebook",
+      "label": "Bangladesh Investment Development Authority (BIDA)",
+      "url": "https://www.facebook.com/bida.pmo.bangladesh/",
+      "source": "https://www.facebook.com/bida.pmo.bangladesh/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/BDMOFA",
+      "source": "https://twitter.com/BDMOFA"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Government of Bangladesh",
+      "url": "https://twitter.com/GovtBangladesh",
+      "source": "https://twitter.com/GovtBangladesh"
+    },
+    {
+      "type": "twitter",
+      "label": "Chief Adviser of the Government of Bangladesh",
+      "url": "https://twitter.com/ChiefAdviserGoB",
+      "source": "https://twitter.com/ChiefAdviserGoB"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Segunbagicha, Dhaka 1000, Bangladesh",
+      "source": "https://mofa.gov.bd/site/page/abecb99b-1df9-4f54-bf93-ee46be79159e/Contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Bangladesh Investment Development Authority (BIDA)",
+      "value": "E-6/B Agargaon, Sher-e-Bangla Nagar, Dhaka-1207, Bangladesh",
+      "source": "https://bida.gov.bd/contact-us"
+    }
+  ]
+}

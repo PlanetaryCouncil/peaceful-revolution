@@ -1,0 +1,192 @@
+{
+  "iso": "XKK",
+  "country_name": "Kosovo",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "mfa@rks-gov.net",
+      "source": "https://arkivi.mfa-ks.net/en/ministria/548/kontakti/548.html"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "value": "konsullore.mpj@rks-gov.net",
+      "source": "https://arkivi.mfa-ks.net/en/kontakti.html"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Visa Center",
+      "value": "visa.center@rks-gov.net",
+      "source": "https://arkivi.mfa-ks.net/en/kontakti.html"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "zprk@president-ksgov.net",
+      "source": "https://president-ksgov.net/en/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Information and Communication",
+      "value": "florent.rrahmani@president-ksgov.net",
+      "source": "https://president-ksgov.net/en/administration-management-structure/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Legal and International Relations",
+      "value": "besim.m.kajtazi@president-ksgov.net",
+      "source": "https://president-ksgov.net/en/administration-management-structure/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Protocol Department",
+      "value": "valbona.idrizaj@president-ksgov.net",
+      "source": "https://president-ksgov.net/en/administration-management-structure/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister - General",
+      "value": "zkp.zkm@rks-gov.net",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister - Public Document Requests",
+      "value": "donika.krasniqi@rks-gov.net",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister - Whistleblower Protection",
+      "value": "sinjalizimi.zkm@rks-gov.net",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "+383 38 213 963",
+      "source": "https://arkivi.mfa-ks.net/en/ministria/548/kontakti/548.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "value": "+383 38 200 77098, +383 38 200 77100, +383 38 200 77008, +383 38 200 77111",
+      "source": "https://arkivi.mfa-ks.net/en/kontakti.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Visa Inquiries",
+      "value": "+383 38 200 77040, +383 38 200 77117, +383 38 200 77046, +383 38 200 77104",
+      "source": "https://arkivi.mfa-ks.net/en/kontakti.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergency Contact",
+      "value": "+383 45 897 897",
+      "source": "https://arkivi.mfa-ks.net/en/kontakti.html"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President - Cabinet",
+      "value": "+383 38 200 12 504",
+      "source": "https://president-ksgov.net/en/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President - Communications",
+      "value": "+383 38 212 460",
+      "source": "https://president-ksgov.net/en/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister - General",
+      "value": "+383 38 200 14 803",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister - Whistleblower Protection",
+      "value": "+383 38 200 14 804",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Internal Affairs - Contact Numbers",
+      "value": "Via contact page at mpb.rks-gov.net",
+      "source": "https://mpb.rks-gov.net/?culture=en-gb"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Str. Luan Haradinaj, 10000 Pristina, Republic of Kosovo",
+      "source": "https://arkivi.mfa-ks.net/en/ministria/548/kontakti/548.html"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "Building of the Parliament, Nëna Terezë Square, 10000 Pristina, Kosovo",
+      "source": "https://president-ksgov.net/en/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "Government Building, Nëna Terezë Square, 10000 Pristina, Republic of Kosovo",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://arkivi.mfa-ks.net/en/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://president-ksgov.net/en/",
+      "source": "Official presidency website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://kryeministri.rks-gov.net/",
+      "source": "Official prime minister office website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Internal Affairs",
+      "url": "https://mpb.rks-gov.net/",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Internal Affairs",
+      "url": "https://www.facebook.com/RKS.MPB/",
+      "source": "https://mpb.rks-gov.net/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Internal Affairs",
+      "url": "https://twitter.com/rksmpb",
+      "source": "https://mpb.rks-gov.net/"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the Prime Minister",
+      "url": "https://twitter.com/albinkurti",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the Prime Minister",
+      "url": "https://www.facebook.com/albini2017",
+      "source": "https://kryeministri.rks-gov.net/"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Internal Affairs",
+      "url": "https://www.youtube.com/channel/UCjIySwLiyLgKsHFeqFQY7RQ",
+      "source": "https://mpb.rks-gov.net/"
+    }
+  ]
+}

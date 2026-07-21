@@ -1,0 +1,60 @@
+{
+  "iso": "NRU",
+  "country_name": "Nauru",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Parliament Clerk",
+      "value": "ann-marie.cain@nauru.gov.nr",
+      "source": "Official Government of Nauru Website (nauru.gov.nr)"
+    },
+    {
+      "type": "email",
+      "label": "Parliament Secretariat",
+      "value": "enquirenauruparl@gmail.com",
+      "source": "Official Government of Nauru Parliament Contact Page (nauru.gov.nr/parliament-of-nauru/contact-parliament.aspx)"
+    },
+    {
+      "type": "email",
+      "label": "Government Information Office",
+      "value": "gio.nauru@gmail.com",
+      "source": "Official Government of Nauru - Government Information Office (nauru.gov.nr/government-information-office.aspx)"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament Clerk Direct Line",
+      "value": "+674 557 3000",
+      "source": "Official Government of Nauru Website"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament Secretariat",
+      "value": "+674 557 3133 ext. 289",
+      "source": "Official Government of Nauru Parliament Contact Page"
+    },
+    {
+      "type": "phone",
+      "label": "General Government Contact",
+      "value": "+674 557 3133 ext. 307",
+      "source": "Official Government of Nauru Website"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.nauru.gov.nr",
+      "source": "Verified official government website"
+    },
+    {
+      "type": "website",
+      "label": "Contact Form",
+      "url": "https://www.nauru.gov.nr/contact-us.aspx",
+      "source": "Official Government of Nauru - Contact Page"
+    },
+    {
+      "type": "address",
+      "label": "Parliament House",
+      "value": "Yaren District, Republic of Nauru, Central Pacific",
+      "source": "Official Government of Nauru Parliament Contact Page"
+    }
+  ]
+}

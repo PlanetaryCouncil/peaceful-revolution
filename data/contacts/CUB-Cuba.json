@@ -1,0 +1,114 @@
+{
+  "iso": "CUB",
+  "country_name": "Cuba",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (MINREX) - General Inquiry",
+      "value": "cubaminrex@minrex.gob.cu",
+      "source": "Official Ministry of Foreign Affairs website (cubaminrex.cu)"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Customer Service",
+      "value": "atpoblacion@minrex.gob.cu",
+      "source": "Official Ministry of Foreign Affairs website (cubaminrex.cu)"
+    },
+    {
+      "type": "email",
+      "label": "Presidency Office",
+      "value": "despacho@presidencia.gob.cu",
+      "source": "Official Presidency website (presidencia.gob.cu)"
+    },
+    {
+      "type": "email",
+      "label": "Presidency - Technical Support",
+      "value": "webmaster@presidencia.gob.cu",
+      "source": "Official Presidency website (presidencia.gob.cu)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "url": "https://cubaminrex.cu/en",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Presidency and Government",
+      "url": "https://www.presidencia.gob.cu/en/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "General Customs of the Republic of Cuba",
+      "url": "https://www.aduana.gob.cu/en",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Granma - Official State Media",
+      "url": "https://en.granma.cu/",
+      "source": "Official government publication"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency Official Account",
+      "url": "https://x.com/PresidenciaCuba",
+      "source": "Official X/Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Government Official Account",
+      "url": "https://x.com/GobiernoCuba",
+      "source": "Official X/Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/CubaMINREX",
+      "source": "Official X/Twitter account"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of Cuba",
+      "url": "https://www.facebook.com/PresidenciaDeCuba",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "url": "https://www.facebook.com/CubaMINREX/",
+      "source": "Official Facebook page"
+    },
+    {
+      "type": "instagram",
+      "label": "Presidency Official Account",
+      "url": "https://www.instagram.com/presidenciadecuba/",
+      "source": "Official Instagram account"
+    },
+    {
+      "type": "youtube",
+      "label": "Presidency Official Channel",
+      "url": "https://www.youtube.com/channel/UCFD9TPE5iL0_g3CqYdnXoWA",
+      "source": "Official YouTube channel"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Minister's Secretary",
+      "value": "+53 7 836 4173",
+      "source": "Official Ministry directory (cubaminrex.cu)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (MINREX)",
+      "value": "Calle G No. 360, Vedado, Plaza de la Revolución, Havana, Cuba",
+      "source": "Official MINREX website"
+    },
+    {
+      "type": "address",
+      "label": "Presidency and Government",
+      "value": "Palacio de la Revolución, Ave Paseo #1040 B, e/ Carlos Manuel de Céspedes e Independencia, Plaza de la Revolución, Havana, Cuba",
+      "source": "Official Presidency website (presidencia.gob.cu)"
+    }
+  ]
+}

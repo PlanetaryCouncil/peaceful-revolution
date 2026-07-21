@@ -1,0 +1,186 @@
+{
+  "iso": "KHM",
+  "country_name": "Cambodia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Interior",
+      "value": "cambodia@interior.gov.kh",
+      "source": "interior.gov.kh"
+    },
+    {
+      "type": "email",
+      "label": "National Institute of Statistics",
+      "value": "info@nis.gov.kh",
+      "source": "nis.gov.kh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Planning",
+      "value": "nsdp@mop.gov.kh",
+      "source": "mop.gov.kh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Women's Affairs",
+      "value": "info@mowa.gov.kh",
+      "source": "mowa.gov.kh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Main",
+      "value": "+855-23-721-905",
+      "source": "interior.gov.kh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Secondary",
+      "value": "+855-23-726-052",
+      "source": "interior.gov.kh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Third",
+      "value": "+855-23-721-190",
+      "source": "interior.gov.kh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Planning",
+      "value": "+855-23-720-901",
+      "source": "mop.gov.kh"
+    },
+    {
+      "type": "phone",
+      "label": "National Institute of Statistics",
+      "value": "+855-12-832-534",
+      "source": "nis.gov.kh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Women's Affairs",
+      "value": "+855-23-880-737",
+      "source": "mowa.gov.kh"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Interior",
+      "value": "275 Preah Norodom Boulevard, Phnom Penh, Cambodia",
+      "source": "interior.gov.kh"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "3 Samdech Hun Sen Street, Phnom Penh 12207, Cambodia",
+      "source": "Wikipedia - Ministry of Foreign Affairs and International Cooperation (Cambodia)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Planning",
+      "value": "Building 386, Monivong Boulevard, Phnom Penh, Cambodia",
+      "source": "mop.gov.kh"
+    },
+    {
+      "type": "address",
+      "label": "National Institute of Statistics",
+      "value": "Street 360, Sangkat Boeung Keng Kang I, Khan Boeung Keng Kang, Phnom Penh, Cambodia",
+      "source": "nis.gov.kh"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Agriculture",
+      "value": "Building 200, Preah Norodom Boulevard, Tonle Bassac Commune, Chamkar Mon District, Phnom Penh, Cambodia",
+      "source": "maff.gov.kh"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Women's Affairs",
+      "value": "Troung Mean Street, Phum Damnakthom Village 3, Sangkat Stung Meanchey, Khan Meanchey, Phnom Penh, Cambodia",
+      "source": "mowa.gov.kh"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://mfaic.gov.kh",
+      "source": "Wikipedia"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Agriculture, Forestry and Fisheries",
+      "url": "https://www.maff.gov.kh",
+      "source": "maff.gov.kh"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Planning",
+      "url": "https://mop.gov.kh",
+      "source": "mop.gov.kh"
+    },
+    {
+      "type": "website",
+      "label": "National Institute of Statistics",
+      "url": "https://www.nis.gov.kh",
+      "source": "nis.gov.kh"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Rural Development",
+      "url": "https://mrd.gov.kh",
+      "source": "mrd.gov.kh"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior",
+      "url": "https://interior.gov.kh",
+      "source": "interior.gov.kh"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Women's Affairs",
+      "url": "https://www.mowa.gov.kh",
+      "source": "mowa.gov.kh"
+    },
+    {
+      "type": "facebook",
+      "label": "National Institute of Statistics",
+      "url": "https://www.facebook.com/profile.php?id=61575024976904",
+      "source": "nis.gov.kh"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Rural Development",
+      "url": "https://www.facebook.com/mrdcambodia",
+      "source": "mrd.gov.kh"
+    },
+    {
+      "type": "telegram",
+      "label": "National Institute of Statistics",
+      "url": "https://t.me/NationalInstituteofStatistics",
+      "source": "nis.gov.kh"
+    },
+    {
+      "type": "telegram",
+      "label": "Ministry of Rural Development",
+      "url": "https://t.me/MinistryofRuralDevelopment",
+      "source": "mrd.gov.kh"
+    },
+    {
+      "type": "youtube",
+      "label": "National Institute of Statistics",
+      "url": "https://www.youtube.com/@nationalinstituteofstatist8117",
+      "source": "nis.gov.kh"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Rural Development",
+      "url": "https://www.youtube.com/MinistryofRuralDevelopment",
+      "source": "mrd.gov.kh"
+    },
+    {
+      "type": "tiktok",
+      "label": "Ministry of Rural Development",
+      "url": "https://www.tiktok.com/@mrd.gov",
+      "source": "mrd.gov.kh"
+    }
+  ]
+}

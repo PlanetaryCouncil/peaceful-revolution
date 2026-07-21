@@ -1,0 +1,138 @@
+{
+  "iso": "ARG",
+  "country_name": "Argentina",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "value": "info@cancilleria.gob.ar",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Secretariat of Foreign Affairs",
+      "value": "seree@cancilleria.gob.ar",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior",
+      "value": "info@mininterior.gob.ar",
+      "source": "https://www.argentina.gob.ar/interior"
+    },
+    {
+      "type": "email",
+      "label": "Casa Rosada - Museum Visits (Presidencia)",
+      "value": "museovisitasguiadas@presidencia.gov.ar",
+      "source": "https://www.casarosada.gob.ar/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "value": "+54 11 4819-7000",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "phone",
+      "label": "Casa Rosada (President's Office)",
+      "value": "+54 11 4344-3600",
+      "source": "https://www.casarosada.gob.ar/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior",
+      "value": "+54 11 4339-0800",
+      "source": "https://www.argentina.gob.ar/interior"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior (Toll-Free)",
+      "value": "0800-999-0209",
+      "source": "https://www.argentina.gob.ar/interior"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "value": "Esmeralda 1212, Piso 13, Of. 1302, C1007ABR, Buenos Aires, Argentina",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "address",
+      "label": "Casa Rosada (President's Office)",
+      "value": "Balcarce 50-78, C1064, Buenos Aires, Argentina",
+      "source": "https://www.casarosada.gob.ar/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Interior",
+      "value": "25 de Mayo 101, C1002ABC, Buenos Aires, Argentina",
+      "source": "https://www.argentina.gob.ar/interior"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "url": "https://www.cancilleria.gob.ar/en",
+      "source": "https://www.cancilleria.gob.ar/en"
+    },
+    {
+      "type": "website",
+      "label": "Casa Rosada (President's Office)",
+      "url": "https://www.casarosada.gob.ar/",
+      "source": "https://www.casarosada.gob.ar/"
+    },
+    {
+      "type": "website",
+      "label": "General Secretariat of the Presidency",
+      "url": "https://www.argentina.gob.ar/secretariageneral",
+      "source": "https://www.argentina.gob.ar/"
+    },
+    {
+      "type": "website",
+      "label": "Official Argentine Government Portal",
+      "url": "https://www.argentina.gob.ar/",
+      "source": "https://www.argentina.gob.ar/"
+    },
+    {
+      "type": "website",
+      "label": "Contact Form - Casa Rosada",
+      "url": "https://contacto.casarosada.gob.ar/",
+      "source": "https://www.casarosada.gob.ar/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (Argentina MFA)",
+      "url": "https://x.com/ArgentinaMFA",
+      "source": "https://x.com/ArgentinaMFA"
+    },
+    {
+      "type": "twitter",
+      "label": "Cancillería Argentina (Ministry of Foreign Affairs - Spanish)",
+      "url": "https://x.com/Cancilleria_Ar",
+      "source": "https://x.com/Cancilleria_Ar"
+    },
+    {
+      "type": "twitter",
+      "label": "Casa Rosada (President's Office)",
+      "url": "https://x.com/CasaRosada",
+      "source": "https://x.com/CasaRosada"
+    },
+    {
+      "type": "facebook",
+      "label": "Casa Rosada (President's Office)",
+      "url": "https://www.facebook.com/CasaRosadaArgentina/",
+      "source": "https://www.facebook.com/CasaRosadaArgentina/"
+    },
+    {
+      "type": "facebook",
+      "label": "Casa Rosada Museum",
+      "url": "https://www.facebook.com/museocasarosada/",
+      "source": "https://www.facebook.com/museocasarosada/"
+    },
+    {
+      "type": "other",
+      "label": "Government Information Request Portal (Transparency)",
+      "url": "https://www.argentina.gob.ar/secretariageneral/transparencia/pedirinformacion",
+      "source": "https://www.argentina.gob.ar/"
+    }
+  ]
+}

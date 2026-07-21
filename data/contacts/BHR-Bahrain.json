@@ -1,0 +1,198 @@
+{
+  "iso": "BHR",
+  "country_name": "Bahrain",
+  "contacts": [
+    {
+      "type": "phone",
+      "label": "National Government Call Center",
+      "value": "+973 80008001",
+      "source": "bahrain.bh, services.bahrain.bh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Education - Customer Services",
+      "value": "customerservices@moe.gov.bh",
+      "source": "moe.gov.bh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Education",
+      "value": "+973 17873333",
+      "source": "moe.gov.bh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice, Islamic Affairs and Waqf",
+      "value": "info@moj.gov.bh",
+      "source": "moj.gov.bh"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Justice",
+      "url": "https://x.com/moj_bah",
+      "source": "moj.gov.bh"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Justice",
+      "url": "https://www.instagram.com/mojbahrain",
+      "source": "moj.gov.bh"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Labour",
+      "value": "info@mol.gov.bh",
+      "source": "mol.gov.bh"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Labour",
+      "value": "+973 80008001",
+      "source": "mol.gov.bh"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Labour",
+      "url": "https://x.com/molbahrain1",
+      "source": "mol.gov.bh"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Labour",
+      "url": "https://www.facebook.com/molbahrain",
+      "source": "mol.gov.bh"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Labour",
+      "url": "https://www.instagram.com/molbahrain",
+      "source": "mol.gov.bh"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Education",
+      "url": "https://www.moe.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice, Islamic Affairs and Waqf",
+      "url": "https://www.moj.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Labour",
+      "url": "https://www.mol.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Housing and Urban Planning",
+      "url": "https://www.housing.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health - Customer Service",
+      "value": "+973 80008100",
+      "source": "moh.gov.bh"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://www.moh.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "website",
+      "label": "Kingdom of Bahrain National Portal",
+      "url": "https://bahrain.bh",
+      "source": "verified"
+    },
+    {
+      "type": "website",
+      "label": "Government eServices Portal (Tawasul)",
+      "url": "https://services.bahrain.bh",
+      "source": "verified"
+    },
+    {
+      "type": "website",
+      "label": "Information & eGovernment Authority",
+      "url": "https://iga.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "address",
+      "label": "Information & eGovernment Authority (IGA)",
+      "value": "P.O. Box 33305, Manama, Kingdom of Bahrain",
+      "source": "iga.gov.bh"
+    },
+    {
+      "type": "facebook",
+      "label": "Kingdom of Bahrain National Portal",
+      "url": "https://www.facebook.com/igabahrain",
+      "source": "bahrain.bh"
+    },
+    {
+      "type": "twitter",
+      "label": "Kingdom of Bahrain National Portal",
+      "url": "https://x.com/igabahrain",
+      "source": "bahrain.bh"
+    },
+    {
+      "type": "instagram",
+      "label": "Kingdom of Bahrain National Portal",
+      "url": "https://www.instagram.com/igabahrain",
+      "source": "bahrain.bh"
+    },
+    {
+      "type": "website",
+      "label": "Central Bank of Bahrain",
+      "url": "https://www.cbb.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "phone",
+      "label": "Central Bank of Bahrain - Consumer Protection",
+      "value": "+973 17547789",
+      "source": "cbb.gov.bh"
+    },
+    {
+      "type": "address",
+      "label": "Central Bank of Bahrain",
+      "value": "Building 96, Road 1702, Block 317, Diplomatic Area, Manama, Kingdom of Bahrain",
+      "source": "cbb.gov.bh"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.pmo.gov.bh",
+      "source": "verified"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office",
+      "url": "https://x.com/BahrainPMO",
+      "source": "pmo.gov.bh"
+    },
+    {
+      "type": "instagram",
+      "label": "Prime Minister's Office",
+      "url": "https://www.instagram.com/BahrainPMO",
+      "source": "pmo.gov.bh"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Housing and Urban Planning",
+      "url": "https://x.com/MOHousing_BH",
+      "source": "housing.gov.bh"
+    },
+    {
+      "type": "other",
+      "label": "National Complaints and Suggestions System",
+      "value": "Tawasul Platform at services.bahrain.bh/wps/portal/tawasul/Home_en",
+      "source": "services.bahrain.bh"
+    }
+  ]
+}

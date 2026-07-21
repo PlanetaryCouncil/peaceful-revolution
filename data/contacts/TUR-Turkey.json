@@ -1,0 +1,222 @@
+{
+  "iso": "TUR",
+  "country_name": "Turkey",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Turkish Delegation to European Union",
+      "value": "tr-delegation.eu@mfa.gov.tr",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "email",
+      "label": "EU Directorate - Secure Government Email (KEP)",
+      "value": "avrupabirligibaskanligi@hs01.kep.tr",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office Main Line",
+      "value": "+90 (312) 525 55 55",
+      "source": "www.tccb.gov.tr (Official Presidential Website)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Main Office",
+      "value": "+90 (312) 292 10 00",
+      "source": "www.mfa.gov.tr (Contact Page)"
+    },
+    {
+      "type": "phone",
+      "label": "Consular Services Call Center",
+      "value": "+90 312 292 29 29",
+      "source": "www.konsolosluk.gov.tr (Consular Services Portal)"
+    },
+    {
+      "type": "phone",
+      "label": "CİMER - Presidential Communications Center / Citizen Complaint System",
+      "value": "+90 (312) 590 20 00",
+      "source": "www.cimer.gov.tr (Official CİMER Website)"
+    },
+    {
+      "type": "phone",
+      "label": "CİMER Hotline (ALO 150)",
+      "value": "150",
+      "source": "www.cimer.gov.tr (Official CİMER Website)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of EU Affairs - Main Office",
+      "value": "+90 312 218 1300",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of EU Affairs - Istanbul Regional Office",
+      "value": "+90 212 359 89 15",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of EU Affairs - Antalya Regional Office",
+      "value": "+90 242 237 30 21",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of EU Affairs - Izmir Regional Office",
+      "value": "+90 232 299 10 19 ext. 124",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "fax",
+      "label": "Presidential Office Fax",
+      "value": "+90 (312) 525 58 31",
+      "source": "www.tccb.gov.tr (Official Presidential Website)"
+    },
+    {
+      "type": "fax",
+      "label": "CİMER - Citizen Complaint System Fax",
+      "value": "+90 312 473 64 94",
+      "source": "www.cimer.gov.tr (Official CİMER Website)"
+    },
+    {
+      "type": "fax",
+      "label": "Ministry of EU Affairs - Antalya Regional Office",
+      "value": "+90 242 237 30 20",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Cumhurbaşkanlığı)",
+      "value": "Cumhurbaşkanlığı Külliyesi, 06560 Beştepe, Ankara, Turkey",
+      "source": "www.tccb.gov.tr (Official Presidential Website)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs Headquarters",
+      "value": "Dr. Sadık Ahmet Cad. No:8, Balgat, 06520 Ankara, Turkey",
+      "source": "www.mfa.gov.tr (Contact Page)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of EU Affairs",
+      "value": "Mustafa Kemal Mahallesi, 2082. Cadde No:5, 06530 Çankaya, Ankara, Turkey",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "address",
+      "label": "CİMER - Presidential Communications Center",
+      "value": "T.C. Cumhurbaşkanlığı Külliyesi, 06560 Beştepe, Ankara, Turkey",
+      "source": "www.cimer.gov.tr (Official CİMER Website)"
+    },
+    {
+      "type": "address",
+      "label": "Turkish Permanent Delegation to the European Union",
+      "value": "Avenue des Arts, 36-38, B-1040 Bruxelles, Belgium",
+      "source": "www.ab.gov.tr (EU Directorate Contact Page)"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office Official Website",
+      "url": "https://www.tccb.gov.tr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official Website",
+      "url": "https://www.mfa.gov.tr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "Consular Services Portal",
+      "url": "https://www.konsolosluk.gov.tr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of EU Affairs Official Website",
+      "url": "https://www.ab.gov.tr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "CİMER - Citizen Complaint and Suggestion System",
+      "url": "https://www.cimer.gov.tr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "e-Devlet Kapısı - National e-Government Portal",
+      "url": "https://www.edevlet.gov.tr",
+      "source": "Official Government Portal"
+    },
+    {
+      "type": "website",
+      "label": "Legalization Office Appointment System (Ankara)",
+      "url": "https://disisleritasdik.mfa.gov.tr",
+      "source": "www.mfa.gov.tr"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Twitter/X",
+      "url": "https://x.com/MFATurkiye",
+      "source": "www.mfa.gov.tr"
+    },
+    {
+      "type": "twitter",
+      "label": "President Recep Tayyip Erdoğan Twitter/X",
+      "url": "https://x.com/RTErdogan",
+      "source": "www.tccb.gov.tr"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs Facebook",
+      "url": "https://www.facebook.com/MFATurkiye",
+      "source": "www.mfa.gov.tr"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs Instagram",
+      "url": "https://www.instagram.com/tcdisisleri",
+      "source": "www.mfa.gov.tr"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs YouTube",
+      "url": "https://www.youtube.com/user/TCDisisleri",
+      "source": "www.mfa.gov.tr"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Mastodon",
+      "value": "@tc_disisleri on sosyal.teknofest.app",
+      "source": "www.mfa.gov.tr"
+    },
+    {
+      "type": "other",
+      "label": "FTP Access for Press Materials",
+      "value": "ftp://ftp.tccb.gov.tr/",
+      "source": "www.tccb.gov.tr"
+    },
+    {
+      "type": "other",
+      "label": "Contact Form (EU Directorate) - Write to Us",
+      "url": "https://www.ab.gov.tr/iletisim_11.html",
+      "source": "www.ab.gov.tr"
+    },
+    {
+      "type": "other",
+      "label": "Press & Information Section",
+      "url": "https://www.mfa.gov.tr/press-information.en.mfa",
+      "source": "www.mfa.gov.tr"
+    },
+    {
+      "type": "other",
+      "label": "DETSİS - Public Information Request System",
+      "url": "https://www.detsis.gov.tr",
+      "source": "Official Government Portal"
+    }
+  ]
+}

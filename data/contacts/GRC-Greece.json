@@ -1,0 +1,24 @@
+{
+  "iso": "GRC",
+  "country_name": "Greece",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Greek Government Portal",
+      "url": "https://www.gov.gr",
+      "source": "Known official Greek government domain (access restricted during research)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gr",
+      "source": "Known official Greek MFA domain (access restricted during research)"
+    },
+    {
+      "type": "website",
+      "label": "Greek Parliament",
+      "url": "https://www.parliament.gr",
+      "source": "Known official Greek Parliament domain (access restricted during research)"
+    }
+  ]
+}

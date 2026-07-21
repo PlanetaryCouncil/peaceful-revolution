@@ -1,0 +1,96 @@
+{
+  "iso": "ALB",
+  "country_name": "Albania",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Kryeministria) - General Inquiries",
+      "value": "info@kryeministria.al",
+      "source": "https://kryeministria.al"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+355 4 2277 369",
+      "source": "https://kryeministria.al"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Bulevardi 'Dëshmorët e Kombit', Tiranë, Albania",
+      "source": "https://kryeministria.al"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://kryeministria.al",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office Official",
+      "url": "https://facebook.com/kryeministriaal",
+      "source": "https://kryeministria.al"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister Edi Rama",
+      "url": "https://facebook.com/ediramaal",
+      "source": "https://kryeministria.al"
+    },
+    {
+      "type": "instagram",
+      "label": "Prime Minister Edi Rama",
+      "url": "https://instagram.com/ediramaal",
+      "source": "https://kryeministria.al"
+    },
+    {
+      "type": "youtube",
+      "label": "Prime Minister's Office",
+      "url": "https://youtube.com/edirama",
+      "source": "https://kryeministria.al"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice - General Inquiries",
+      "value": "info@drejtesia.gov.al",
+      "source": "https://drejtesia.gov.al"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Justice",
+      "value": "+355 4 2259389",
+      "source": "https://drejtesia.gov.al"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Justice",
+      "value": "Bulevardi 'Zog I', Tiranë, Albania",
+      "source": "https://drejtesia.gov.al"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice",
+      "url": "https://drejtesia.gov.al",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice Contact Form",
+      "url": "https://drejtesia.gov.al/kontakt/",
+      "source": "https://drejtesia.gov.al"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Justice",
+      "url": "https://facebook.com/drejtesia.gov.al",
+      "source": "https://drejtesia.gov.al"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Justice",
+      "url": "https://x.com/DrejtesiaGovAL",
+      "source": "https://drejtesia.gov.al"
+    }
+  ]
+}

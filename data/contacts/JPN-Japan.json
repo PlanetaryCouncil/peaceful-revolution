@@ -1,0 +1,30 @@
+{
+  "iso": "JPN",
+  "country_name": "Japan",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (MOFA)",
+      "url": "https://www.mofa.go.jp",
+      "source": "Japanese government official portal - known public domain"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office (Kantei)",
+      "url": "https://www.kantei.go.jp",
+      "source": "Japanese government official portal - known public domain"
+    },
+    {
+      "type": "website",
+      "label": "Imperial Household Agency",
+      "url": "https://www.kunaicho.go.jp",
+      "source": "Japanese government official portal - known public domain"
+    },
+    {
+      "type": "website",
+      "label": "Japanese Diet (Parliament)",
+      "url": "https://www.diet.go.jp",
+      "source": "Japanese government official portal - known public domain"
+    }
+  ]
+}

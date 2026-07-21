@@ -1,0 +1,102 @@
+{
+  "iso": "ECU",
+  "country_name": "Ecuador",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "ProEcuador (Export Promotion & Investment)",
+      "value": "contactoproecuador@produccion.gob.ec",
+      "source": "https://www.proecuador.gob.ec"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office",
+      "value": "+593-2-382-7000",
+      "source": "https://www.presidencia.gob.ec"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+593-2-220-0200",
+      "source": "https://www.gobiernoelectronico.gob.ec"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Production (Quito)",
+      "value": "+593-2-3948760",
+      "source": "https://www.produccion.gob.ec"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Production (Guayaquil)",
+      "value": "+593-4-2591370",
+      "source": "https://www.produccion.gob.ec"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gob.ec",
+      "source": "Ecuador government primary domain"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://www.presidencia.gob.ec",
+      "source": "Ecuador's Executive Branch"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.cancilleria.gob.ec",
+      "source": "Official Ministry Website"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Production",
+      "url": "https://www.produccion.gob.ec",
+      "source": "Business & Trade Ministry"
+    },
+    {
+      "type": "website",
+      "label": "ProEcuador (Export Promotion)",
+      "url": "https://www.proecuador.gob.ec",
+      "source": "Investment & Export Agency"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Communication Office",
+      "url": "https://www.facebook.com/ComunicacionEcuador",
+      "source": "https://www.presidencia.gob.ec"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office",
+      "url": "https://twitter.com/Presidencia_Ec",
+      "source": "https://www.presidencia.gob.ec"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office & Ministry of Foreign Affairs",
+      "value": "García Moreno N10-43 entre Chile y Espejo, Quito, Código Postal 170401, Ecuador",
+      "source": "https://www.presidencia.gob.ec"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "value": "Av. 6 de Diciembre N25-75 y Av. Colón, Quito, Código Postal 170517, Ecuador",
+      "source": "https://www.gobiernoelectronico.gob.ec"
+    },
+    {
+      "type": "address",
+      "label": "ProEcuador - Quito Office",
+      "value": "Av. Amazonas - Unión Nacional de Periodistas y Alfonso Pereira, Plataforma Gubernamental Financiera, Bloque Verde, Piso 5, Quito, Ecuador",
+      "source": "https://www.proecuador.gob.ec"
+    },
+    {
+      "type": "address",
+      "label": "ProEcuador - Guayaquil Office",
+      "value": "Malecón Simón Bolivar 100 y 9 de Octubre, Edificio La Previsora, Piso 15, Guayaquil, Ecuador",
+      "source": "https://www.proecuador.gob.ec"
+    }
+  ]
+}

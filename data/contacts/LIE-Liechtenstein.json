@@ -1,0 +1,162 @@
+{
+  "iso": "LIE",
+  "country_name": "Liechtenstein",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government of Liechtenstein - Main Office",
+      "value": "office@regierung.li",
+      "source": "www.regierung.li"
+    },
+    {
+      "type": "email",
+      "label": "Prince's Secretariat",
+      "value": "sf@sfl.li",
+      "source": "www.fuerstenhaus.li"
+    },
+    {
+      "type": "email",
+      "label": "Heir Prince's Office (Protocol & State Visits)",
+      "value": "se@sfl.li",
+      "source": "www.fuerstenhaus.li"
+    },
+    {
+      "type": "email",
+      "label": "Cabinet Chancellery (Political/Legal Matters)",
+      "value": "kk@sfl.li",
+      "source": "www.fuerstenhaus.li"
+    },
+    {
+      "type": "email",
+      "label": "Princely House Media Department",
+      "value": "medien@fuerstenhaus.li",
+      "source": "www.fuerstenhaus.li"
+    },
+    {
+      "type": "email",
+      "label": "Castle Vaduz (Princely House Main)",
+      "value": "info@fuerstenhaus.li",
+      "source": "www.fuerstenhaus.li"
+    },
+    {
+      "type": "email",
+      "label": "Parliament (Landtag)",
+      "value": "info@landtag.li",
+      "source": "www.landtag.li"
+    },
+    {
+      "type": "email",
+      "label": "Liechtenstein Tourism/General Information",
+      "value": "info@liechtenstein.li",
+      "source": "www.liechtenstein.li"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Office",
+      "value": "+423 236 61 11",
+      "source": "www.regierung.li"
+    },
+    {
+      "type": "phone",
+      "label": "Castle Vaduz (Prince's Office)",
+      "value": "+423 238 12 00",
+      "source": "www.fuerstenhaus.li"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament (Landtag)",
+      "value": "+423 236 65 71",
+      "source": "www.landtag.li"
+    },
+    {
+      "type": "phone",
+      "label": "Liechtenstein Marketing",
+      "value": "+423 239 63 63",
+      "source": "www.liechtenstein-marketing.li"
+    },
+    {
+      "type": "address",
+      "label": "Government of Liechtenstein",
+      "value": "Peter-Kaiser-Platz 1, Postfach 684, LI-9490 Vaduz",
+      "source": "www.regierung.li"
+    },
+    {
+      "type": "address",
+      "label": "Castle Vaduz (Prince's Office)",
+      "value": "Schloss Vaduz, 9490 Vaduz",
+      "source": "www.fuerstenhaus.li"
+    },
+    {
+      "type": "address",
+      "label": "Parliament (Landtag)",
+      "value": "Peter-Kaiser-Platz 3, Postfach 684, LI-9490 Vaduz",
+      "source": "www.landtag.li"
+    },
+    {
+      "type": "address",
+      "label": "Liechtenstein Marketing",
+      "value": "Äulestrasse 30, Postfach 139, 9490 Vaduz",
+      "source": "www.liechtenstein-marketing.li"
+    },
+    {
+      "type": "website",
+      "label": "Government of Liechtenstein",
+      "url": "https://www.regierung.li",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Princely House of Liechtenstein",
+      "url": "https://www.fuerstenhaus.li",
+      "source": "Official Princely House website"
+    },
+    {
+      "type": "website",
+      "label": "Parliament (Landtag)",
+      "url": "https://www.landtag.li",
+      "source": "Official Parliament website"
+    },
+    {
+      "type": "website",
+      "label": "Official Liechtenstein Portal",
+      "url": "https://www.liechtenstein.li",
+      "source": "Official country portal"
+    },
+    {
+      "type": "website",
+      "label": "Liechtenstein Marketing",
+      "url": "https://www.liechtenstein-marketing.li",
+      "source": "Tourism and information office"
+    },
+    {
+      "type": "facebook",
+      "label": "Fürstentum Liechtenstein (Official)",
+      "url": "https://www.facebook.com/FuerstentumLIE",
+      "source": "Official government Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Fürstentum Liechtenstein (Official X/Twitter)",
+      "url": "https://x.com/FuerstentumLIE",
+      "source": "Official government X account"
+    },
+    {
+      "type": "instagram",
+      "label": "Fürstentum Liechtenstein (Official)",
+      "url": "https://www.instagram.com/fuerstentumliechtenstein",
+      "source": "Official government Instagram"
+    },
+    {
+      "type": "youtube",
+      "label": "LiechtensteinTravel (Official)",
+      "url": "https://www.youtube.com/@LiechtensteinTravel",
+      "source": "Official government YouTube"
+    },
+    {
+      "type": "other",
+      "label": "Ministry for Foreign Affairs, Environment and Culture",
+      "value": "Contact via main government office or sf@sfl.li for formal diplomatic matters",
+      "source": "www.regierung.li"
+    }
+  ]
+}

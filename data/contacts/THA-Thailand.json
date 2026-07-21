@@ -1,0 +1,150 @@
+{
+  "iso": "THA",
+  "country_name": "Thailand",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.thailand.go.th",
+      "source": "thailand.go.th"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.go.th",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Main Line",
+      "value": "0-2203-5000",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "443 Sri Ayudhya Road, Bangkok 10400",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/ThaiMFA",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/mfathai",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mfa_thailand",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.youtube.com/mfathailand",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs LINE",
+      "value": "@ijs4576g",
+      "source": "mfa.go.th"
+    },
+    {
+      "type": "email",
+      "label": "Department of Industrial Promotion - General",
+      "value": "saraban@diprom.go.th",
+      "source": "dip.go.th"
+    },
+    {
+      "type": "email",
+      "label": "Department of Industrial Promotion - Director",
+      "value": "natthiya@diprom.go.th",
+      "source": "dip.go.th"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Industrial Promotion",
+      "value": "0 2430 6860, 0 2202 4511",
+      "source": "dip.go.th"
+    },
+    {
+      "type": "address",
+      "label": "Department of Industrial Promotion",
+      "value": "75/6 Rama VI Road, Ratchathewi, Bangkok 10400",
+      "source": "dip.go.th"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Labor - General",
+      "value": "saraban.mol@mol.mail.go.th",
+      "source": "mol.go.th"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Labor - Webmaster",
+      "value": "webmaster@mol.mail.go.th",
+      "source": "mol.go.th"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Labor Public Relations",
+      "value": "0 2232 1471",
+      "source": "mol.go.th"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Labor Hotline",
+      "value": "1506",
+      "source": "mol.go.th"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Labor",
+      "value": "Mittramaitri Road, Din Daeng Sub-district, Din Daeng District, Bangkok 10400",
+      "source": "mol.go.th"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Education",
+      "value": "saraban@moe.go.th",
+      "source": "moe.go.th"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Education",
+      "value": "02-628-6346",
+      "source": "moe.go.th"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Education Hotline",
+      "value": "1579",
+      "source": "moe.go.th"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Education",
+      "value": "319 Wangchantkasem Road, Ratchadamnoen Nok, Dusit District, Bangkok 10300",
+      "source": "moe.go.th"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Education",
+      "url": "https://www.facebook.com/moe.sueksa.th",
+      "source": "moe.go.th"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Education",
+      "url": "https://twitter.com/moe_net",
+      "source": "moe.go.th"
+    }
+  ]
+}

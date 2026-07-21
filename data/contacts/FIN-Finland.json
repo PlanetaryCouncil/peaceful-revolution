@@ -1,0 +1,66 @@
+{
+  "iso": "FIN",
+  "country_name": "Finland",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Government of Finland - Official Portal",
+      "url": "https://www.valtioneuvosto.fi/",
+      "source": "Finnish government official domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry for Foreign Affairs",
+      "url": "https://formin.fi/en/",
+      "source": "Finnish Ministry for Foreign Affairs official site"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President of the Republic of Finland",
+      "url": "https://www.president.fi/en/",
+      "source": "Finnish Presidential office official site"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://valtioneuvosto.fi/en/prime-ministers-office",
+      "source": "Finnish government official portal"
+    },
+    {
+      "type": "email",
+      "label": "Ministry for Foreign Affairs - Contact Form",
+      "value": "Contact through official website form at formin.fi",
+      "source": "formin.fi official contact page"
+    },
+    {
+      "type": "email",
+      "label": "Government Inquiries",
+      "value": "Contact through valtioneuvosto.fi official contact form",
+      "source": "Finnish government official portal"
+    },
+    {
+      "type": "website",
+      "label": "Finnish Embassies and Consulates Directory",
+      "url": "https://formin.fi/en/about-us/missions/",
+      "source": "Ministry for Foreign Affairs official directory"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry for Foreign Affairs",
+      "url": "https://www.facebook.com/UlkoministeriöFinland/",
+      "source": "Official Finnish government social media"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry for Foreign Affairs (@ForminFinland)",
+      "url": "https://twitter.com/ForminFinland",
+      "source": "Official Finnish government X/Twitter account"
+    },
+    {
+      "type": "website",
+      "label": "Government Information Service",
+      "url": "https://valtioneuvosto.fi/en/information",
+      "source": "Finnish government official portal"
+    }
+  ]
+}

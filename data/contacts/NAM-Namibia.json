@@ -1,0 +1,186 @@
+{
+  "iso": "NAM",
+  "country_name": "Namibia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Office of the President",
+      "value": "info.op@op.gov.na",
+      "source": "https://op.gov.na/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of International Relations and Cooperation",
+      "value": "headquarters@mirco.gov.na",
+      "source": "https://mit.gov.na/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister",
+      "value": "pro@opm.gov.na",
+      "source": "https://opm.gov.na/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister - General Enquiries",
+      "value": "enquiries@opm.gov.na",
+      "source": "https://opm.gov.na/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Namibia - National Assembly",
+      "value": "parliament@parliament.gov.na",
+      "source": "https://www.parliament.na/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Namibia Embassy USA",
+      "value": "info@namibianembassyusa.org",
+      "source": "https://namibiaembassyusa.org/"
+    },
+    {
+      "type": "email",
+      "label": "Namibia Embassy USA - Ministry Contact",
+      "value": "washington@mirco.gov.na",
+      "source": "https://namibiaembassyusa.org/3622-2/"
+    },
+    {
+      "type": "website",
+      "label": "Government of Namibia Portal",
+      "url": "https://www.gov.na/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://op.gov.na/",
+      "source": "https://op.gov.na/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opm.gov.na/",
+      "source": "https://opm.gov.na/"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Namibia",
+      "url": "https://www.parliament.na/",
+      "source": "https://www.parliament.na/"
+    },
+    {
+      "type": "website",
+      "label": "Namibia Embassy USA",
+      "url": "https://namibiaembassyusa.org/",
+      "source": "https://namibiaembassyusa.org/"
+    },
+    {
+      "type": "facebook",
+      "label": "Namibian Presidency",
+      "url": "https://www.facebook.com/NamibianPresidency/",
+      "source": "https://www.facebook.com/NamibianPresidency/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of International Relations and Cooperation",
+      "url": "https://www.facebook.com/mirconamibia/",
+      "source": "https://www.facebook.com/mirconamibia/"
+    },
+    {
+      "type": "facebook",
+      "label": "Parliament of Namibia",
+      "url": "https://www.facebook.com/p/Parliament-of-the-Republic-of-Namibia-100064691498479/",
+      "source": "https://www.facebook.com/p/Parliament-of-the-Republic-of-Namibia-100064691498479/"
+    },
+    {
+      "type": "twitter",
+      "label": "Namibian Presidency",
+      "url": "https://x.com/NamPresidency",
+      "source": "https://x.com/NamPresidency"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the Prime Minister",
+      "url": "https://x.com/NamibiaOPM",
+      "source": "https://x.com/NamibiaOPM"
+    },
+    {
+      "type": "instagram",
+      "label": "Namibian Presidency",
+      "url": "https://www.instagram.com/namibianpresidency/",
+      "source": "https://www.instagram.com/namibianpresidency/"
+    },
+    {
+      "type": "instagram",
+      "label": "Office of the Prime Minister",
+      "url": "https://www.instagram.com/opm_namibia_official/",
+      "source": "https://www.instagram.com/opm_namibia_official/"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+264 (61) 270 7111",
+      "source": "https://op.gov.na/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of International Relations and Cooperation",
+      "value": "+264 61 282 9111",
+      "source": "https://mit.gov.na/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister",
+      "value": "+264 61 287 9111",
+      "source": "https://opm.gov.na/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament - National Assembly",
+      "value": "+264 (61) 2889111",
+      "source": "https://www.parliament.na/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament - National Council",
+      "value": "+264 (61) 2028000",
+      "source": "https://www.parliament.na/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Namibia Embassy USA",
+      "value": "+1 (202) 986 0540",
+      "source": "https://namibiaembassyusa.org/"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "State House, 1 Engelberg Street, Auasblick, Windhoek; Private Bag 13339, Windhoek, Namibia",
+      "source": "https://op.gov.na/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of International Relations and Cooperation",
+      "value": "Robert Mugabe Avenue, Private Bag 13347, Windhoek, Namibia",
+      "source": "https://mit.gov.na/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "Parliament Building, Love Street, Private Bag 13338, Windhoek, Namibia",
+      "source": "https://opm.gov.na/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Parliament - National Assembly",
+      "value": "Parliament Building, 14c Love Street, Private Bag 13323, Windhoek, Namibia",
+      "source": "https://www.parliament.na/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Namibia Embassy USA",
+      "value": "1605 New Hampshire Avenue, N.W., Washington, DC 20009, United States",
+      "source": "https://namibiaembassyusa.org/"
+    }
+  ]
+}

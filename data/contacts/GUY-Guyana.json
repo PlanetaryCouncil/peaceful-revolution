@@ -1,0 +1,180 @@
+{
+  "iso": "GUY",
+  "country_name": "Guyana",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "minfor@minfor.gov.gy",
+      "source": "https://minfor.gov.gy"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "+592 226-1606/8, +592 225-6467",
+      "source": "https://minfor.gov.gy"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "value": "254 South Road, Chanderpaul Drive, Georgetown, Guyana",
+      "source": "https://minfor.gov.gy"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://minfor.gov.gy",
+      "source": "Official government website"
+    },
+    {
+      "type": "email",
+      "label": "National Assembly of Guyana (Parliament)",
+      "value": "info@parliament.gov.gy",
+      "source": "http://parliament.gov.gy"
+    },
+    {
+      "type": "phone",
+      "label": "National Assembly of Guyana (Parliament)",
+      "value": "+592 226-8458-9",
+      "source": "http://parliament.gov.gy"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly of Guyana (Parliament Building)",
+      "value": "Parliament Building, Georgetown, Guyana",
+      "source": "http://parliament.gov.gy"
+    },
+    {
+      "type": "website",
+      "label": "National Assembly of Guyana",
+      "url": "https://www.parliament.gov.gy",
+      "source": "Official government website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Home Affairs",
+      "value": "info@moha.gov.gy",
+      "source": "https://www.moha.gov.gy"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Home Affairs",
+      "value": "+592 226-3454, +592 226-1717, +592 226-2444, +592 226-2445",
+      "source": "https://www.moha.gov.gy"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Home Affairs",
+      "value": "Lot 6 Brickdam, Georgetown, Guyana",
+      "source": "https://www.moha.gov.gy"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Home Affairs",
+      "url": "https://www.moha.gov.gy",
+      "source": "Official government website"
+    },
+    {
+      "type": "email",
+      "label": "Guyana Revenue Authority",
+      "value": "publicrelations@gra.gov.gy",
+      "source": "https://www.gra.gov.gy"
+    },
+    {
+      "type": "phone",
+      "label": "Guyana Revenue Authority",
+      "value": "+592 227-6060, +592 227-8222",
+      "source": "https://www.gra.gov.gy"
+    },
+    {
+      "type": "address",
+      "label": "Guyana Revenue Authority",
+      "value": "200-201 Camp Street, Georgetown, Guyana",
+      "source": "https://www.gra.gov.gy"
+    },
+    {
+      "type": "website",
+      "label": "Guyana Revenue Authority",
+      "url": "https://www.gra.gov.gy",
+      "source": "Official government website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Education",
+      "value": "pr@moe.gov.gy",
+      "source": "https://www.education.gov.gy"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Education",
+      "value": "+592 223-7900",
+      "source": "https://www.education.gov.gy"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Education",
+      "value": "26 Brickdam, Georgetown, Guyana",
+      "source": "https://www.education.gov.gy"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Education",
+      "url": "https://www.education.gov.gy",
+      "source": "Official government website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health",
+      "value": "+592 226-7400",
+      "source": "https://www.health.gov.gy"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Health",
+      "value": "Lot 1 Brickdam, Georgetown, Guyana",
+      "source": "https://www.health.gov.gy"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://www.health.gov.gy",
+      "source": "Official government website"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Guyana - Washington, D.C.",
+      "value": "+1 202-265-6900",
+      "source": "https://guyanaembassydc.org"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Guyana - Washington, D.C.",
+      "value": "2490 Tracey Pl NW, Washington, DC 20008, USA",
+      "source": "https://guyanaembassydc.org"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Guyana - Washington, D.C.",
+      "url": "https://guyanaembassydc.org",
+      "source": "Official diplomatic mission website"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and International Cooperation",
+      "url": "https://www.facebook.com/mfaguyana",
+      "source": "Embassy of Guyana DC official listings"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Home Affairs",
+      "url": "https://www.facebook.com/MinistryOfHomeAffairsGuyana",
+      "source": "Official government ministry"
+    },
+    {
+      "type": "country_code",
+      "label": "Guyana International Dialing Code",
+      "value": "+592",
+      "source": "Wikipedia"
+    }
+  ]
+}

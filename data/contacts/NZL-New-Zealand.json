@@ -1,0 +1,318 @@
+{
+  "iso": "NZL",
+  "country_name": "New Zealand",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Trade - General Enquiries",
+      "value": "enquiries@mfat.govt.nz",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Trade - Exports",
+      "value": "exports@mfat.govt.nz",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Trade - Media",
+      "value": "media@mfat.govt.nz",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Department of Internal Affairs - General",
+      "value": "info@dia.govt.nz",
+      "source": "https://www.dia.govt.nz/Contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Department of Internal Affairs - Complaints",
+      "value": "complaints@dia.govt.nz",
+      "source": "https://www.dia.govt.nz/Contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Department of Internal Affairs - Media",
+      "value": "media@dia.govt.nz",
+      "source": "https://www.dia.govt.nz/Media-contacts"
+    },
+    {
+      "type": "email",
+      "label": "Department of Internal Affairs - Local Government",
+      "value": "Councils@dia.govt.nz",
+      "source": "https://www.dia.govt.nz/Contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Department of Internal Affairs - Water Services",
+      "value": "waterservices@dia.govt.nz",
+      "source": "https://www.dia.govt.nz/Contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Department of Internal Affairs - OIA Requests",
+      "value": "oia@dia.govt.nz",
+      "source": "https://www.dia.govt.nz/Media-contacts"
+    },
+    {
+      "type": "email",
+      "label": "New Zealand Customs Service - Complaints/Feedback",
+      "value": "feedback@customs.govt.nz",
+      "source": "https://www.customs.govt.nz/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "New Zealand Customs Service - Integrity",
+      "value": "integrity@customs.govt.nz",
+      "source": "https://www.customs.govt.nz/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry for Primary Industries - General",
+      "value": "info@mpi.govt.nz",
+      "source": "https://www.mpi.govt.nz/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry for Primary Industries - Media",
+      "value": "media@mpi.govt.nz",
+      "source": "https://www.mpi.govt.nz/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Fraud Reporting",
+      "value": "fraud@mfat.govt.nz",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Trade - Main Office",
+      "value": "+64 4 439 8000",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Trade - Media",
+      "value": "+64 21 375 105",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Internal Affairs - General",
+      "value": "+64 4 495 7200",
+      "source": "https://www.dia.govt.nz/Contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Internal Affairs - Freephone (NZ only)",
+      "value": "0800 25 78 87",
+      "source": "https://www.dia.govt.nz/Contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Department of Internal Affairs - Media",
+      "value": "+64 27 535 8639",
+      "source": "https://www.dia.govt.nz/Media-contacts"
+    },
+    {
+      "type": "phone",
+      "label": "New Zealand Customs Service - General (Toll-free)",
+      "value": "0800 428 786",
+      "source": "https://www.customs.govt.nz/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "New Zealand Customs Service - International",
+      "value": "+64 9 886 4651",
+      "source": "https://www.customs.govt.nz/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "New Zealand Police - Emergency",
+      "value": "111",
+      "source": "https://www.police.govt.nz"
+    },
+    {
+      "type": "phone",
+      "label": "New Zealand Police - Non-Emergency",
+      "value": "105",
+      "source": "https://www.police.govt.nz"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Justice - General Enquiries",
+      "value": "0800 268 787 (0800 COURTS)",
+      "source": "https://www.justice.govt.nz/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry for Primary Industries - Freephone",
+      "value": "0800 008 333",
+      "source": "https://www.mpi.govt.nz/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry for Primary Industries - International",
+      "value": "+64 4 830 1574",
+      "source": "https://www.mpi.govt.nz/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry for Primary Industries - Media",
+      "value": "+64 2 989 40328",
+      "source": "https://www.mpi.govt.nz/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "The Treasury - Main Office",
+      "value": "+64 4 472 2733",
+      "source": "https://www.treasury.govt.nz"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Trade - Head Office",
+      "value": "55 Molesworth Street, Private Bag 18 901, Wellington 6160, New Zealand",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Trade - Auckland Office",
+      "value": "Level 6, 139 Quay Street, PO Box 2364 Shortland Street, Auckland 1140, New Zealand",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Department of Internal Affairs",
+      "value": "PO Box 805, Wellington 6140, New Zealand",
+      "source": "https://www.dia.govt.nz/Contact-us"
+    },
+    {
+      "type": "address",
+      "label": "New Zealand Customs Service",
+      "value": "The Customhouse, 1 Hinemoa Street, Harbour Quays, Wellington 6011; PO Box 2218, Wellington 6140",
+      "source": "https://www.customs.govt.nz/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "The Treasury",
+      "value": "1 The Terrace, Wellington 6011; PO Box 3724, Wellington 6140, New Zealand",
+      "source": "https://www.treasury.govt.nz"
+    },
+    {
+      "type": "address",
+      "label": "Ministry for Primary Industries - Head Office",
+      "value": "Charles Fergusson Building, 38-42 Bowen Street, Pipitea, Wellington, New Zealand; PO Box 2526, Wellington 6140",
+      "source": "https://www.mpi.govt.nz/contact-us"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and Trade",
+      "url": "https://twitter.com/MFATNZ",
+      "source": "https://www.mfat.govt.nz/en/follow-us"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - Auckland",
+      "url": "https://twitter.com/MFATinAuckland",
+      "source": "https://www.mfat.govt.nz/en/follow-us"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Trade",
+      "url": "https://www.facebook.com/MinistryOfForeignAffairsAndTrade",
+      "source": "https://www.mfat.govt.nz/en/follow-us"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs SafeTravel",
+      "url": "https://www.facebook.com/safetravel.govt.nz",
+      "source": "https://www.mfat.govt.nz/en/follow-us"
+    },
+    {
+      "type": "linkedin",
+      "label": "Ministry of Foreign Affairs and Trade",
+      "url": "https://www.linkedin.com/company/mfatgovtnz",
+      "source": "https://www.mfat.govt.nz/en/follow-us"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs and Trade",
+      "url": "https://www.youtube.com/user/mfatnz",
+      "source": "https://www.mfat.govt.nz/en/follow-us"
+    },
+    {
+      "type": "website",
+      "label": "New Zealand Government - Main Portal",
+      "url": "https://www.govt.nz",
+      "source": "https://www.beehive.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "The Beehive - Official Government Website",
+      "url": "https://www.beehive.govt.nz",
+      "source": "https://www.beehive.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Trade",
+      "url": "https://www.mfat.govt.nz",
+      "source": "https://www.mfat.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "Department of Internal Affairs",
+      "url": "https://www.dia.govt.nz",
+      "source": "https://www.dia.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "New Zealand Customs Service",
+      "url": "https://www.customs.govt.nz",
+      "source": "https://www.customs.govt.nz/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "New Zealand Police",
+      "url": "https://www.police.govt.nz",
+      "source": "https://www.police.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice",
+      "url": "https://www.justice.govt.nz",
+      "source": "https://www.justice.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "The Treasury",
+      "url": "https://www.treasury.govt.nz",
+      "source": "https://www.treasury.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "Ministry for Primary Industries",
+      "url": "https://www.mpi.govt.nz",
+      "source": "https://www.mpi.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "Safe Travel Information",
+      "url": "https://www.safetravel.govt.nz",
+      "source": "https://www.mfat.govt.nz"
+    },
+    {
+      "type": "website",
+      "label": "New Zealand Parliament",
+      "url": "https://www.parliament.nz",
+      "source": "https://www.parliament.nz"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs and Trade - Embassies/High Commissions",
+      "value": "60 posts in 53 countries with individual contact details available on MFAT website",
+      "source": "https://www.mfat.govt.nz/en/about-us/contact-us"
+    }
+  ]
+}

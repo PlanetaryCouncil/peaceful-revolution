@@ -1,0 +1,138 @@
+{
+  "iso": "LCA",
+  "country_name": "Saint Lucia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of External Affairs, International Trade, Civil Aviation and Diaspora Affairs",
+      "value": "external@govt.lc",
+      "source": "https://externalaffairs.govt.lc/contact"
+    },
+    {
+      "type": "email",
+      "label": "Office of the Prime Minister",
+      "value": "info@opmsaintlucia.lc",
+      "source": "https://opmsaintlucia.com/"
+    },
+    {
+      "type": "email",
+      "label": "Invest Saint Lucia (Business Development)",
+      "value": "info@investstlucia.com",
+      "source": "https://investstlucia.com/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of External Affairs",
+      "value": "+1 (758) 468-4519",
+      "source": "https://externalaffairs.govt.lc/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of External Affairs (Secondary)",
+      "value": "+1 (758) 468-4516",
+      "source": "https://externalaffairs.govt.lc/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister",
+      "value": "+1 (758) 468-2111",
+      "source": "https://opmsaintlucia.com/"
+    },
+    {
+      "type": "phone",
+      "label": "Invest Saint Lucia",
+      "value": "+1 (758) 457-3400",
+      "source": "https://investstlucia.com/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Government Contact Centre",
+      "value": "+1 (758) 468-2000",
+      "source": "https://www.govt.lc/directory"
+    },
+    {
+      "type": "website",
+      "label": "Government of Saint Lucia (Official Portal)",
+      "url": "https://www.govt.lc/",
+      "source": "https://www.govt.lc/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of External Affairs",
+      "url": "https://externalaffairs.govt.lc/",
+      "source": "https://externalaffairs.govt.lc/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opmsaintlucia.com/",
+      "source": "https://opmsaintlucia.com/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Governor General",
+      "url": "https://governorgeneral.govt.lc/",
+      "source": "https://governorgeneral.govt.lc/"
+    },
+    {
+      "type": "website",
+      "label": "Invest Saint Lucia",
+      "url": "https://investstlucia.com/",
+      "source": "https://investstlucia.com/"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Saint Lucia",
+      "url": "https://www.facebook.com/SaintLuciaGovernment/",
+      "source": "https://www.facebook.com/SaintLuciaGovernment/"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the Prime Minister",
+      "url": "https://www.facebook.com/opmsaintlucia/",
+      "source": "https://www.facebook.com/opmsaintlucia/"
+    },
+    {
+      "type": "twitter",
+      "label": "Saint Lucia Government",
+      "url": "https://x.com/SaintLuciaGov",
+      "source": "https://x.com/SaintLuciaGov"
+    },
+    {
+      "type": "twitter",
+      "label": "Saint Lucia External Affairs",
+      "url": "https://x.com/saintluciaext",
+      "source": "https://x.com/saintluciaext"
+    },
+    {
+      "type": "other",
+      "label": "Instagram - Government of Saint Lucia",
+      "url": "https://www.instagram.com/saintluciagovernment/",
+      "source": "https://www.instagram.com/saintluciagovernment/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of External Affairs, International Trade, Civil Aviation and Diaspora Affairs",
+      "value": "Level 5 Baywalk, Rodney Bay, Gros Islet, Saint Lucia",
+      "source": "https://externalaffairs.govt.lc/contact"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "5th Floor Greaham Louisy Building, Castries, Saint Lucia",
+      "source": "https://opmsaintlucia.com/"
+    },
+    {
+      "type": "address",
+      "label": "Invest Saint Lucia - Main Office",
+      "value": "1st Floor Heraldine Rock Building, Waterfront, Castries, Saint Lucia",
+      "source": "https://investstlucia.com/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Invest Saint Lucia - South Office",
+      "value": "Martha's Commercial Building, La Tourney, Vieux Fort, Saint Lucia",
+      "source": "https://investstlucia.com/contact/"
+    }
+  ]
+}

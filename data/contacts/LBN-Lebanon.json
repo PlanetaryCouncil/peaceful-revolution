@@ -1,0 +1,36 @@
+{
+  "iso": "LBN",
+  "country_name": "Lebanon",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Emigrants",
+      "url": "http://www.mfa.gov.lb",
+      "source": "Direct fetch attempt - contact form present but email/phone not publicly displayed on homepage"
+    },
+    {
+      "type": "other",
+      "label": "Government Headquarters",
+      "value": "The Grand Serail (Government Palace), Beirut",
+      "source": "Wikipedia - Government of Lebanon"
+    },
+    {
+      "type": "other",
+      "label": "Current President",
+      "value": "Joseph Aoun (since January 9, 2025)",
+      "source": "Wikipedia - Government of Lebanon"
+    },
+    {
+      "type": "other",
+      "label": "Current Prime Minister",
+      "value": "Nawaf Salam (since February 8, 2025)",
+      "source": "Wikipedia - Government of Lebanon"
+    },
+    {
+      "type": "other",
+      "label": "Foreign Minister",
+      "value": "Abdallah Bou Habib",
+      "source": "Wikipedia - Government of Lebanon"
+    }
+  ]
+}

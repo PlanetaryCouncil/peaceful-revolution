@@ -1,0 +1,126 @@
+{
+  "iso": "COL",
+  "country_name": "Colombia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Cancillería) - General Contact",
+      "value": "contactenos@cancilleria.gov.co",
+      "source": "https://www.cancilleria.gov.co/en/contact-info"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Office (Casa de Nariño)",
+      "value": "contacto@presidencia.gov.co",
+      "source": "https://casanarino.presidencia.gov.co/"
+    },
+    {
+      "type": "email",
+      "label": "Colombian Embassy in United States",
+      "value": "eestadosunidos@cancilleria.gov.co",
+      "source": "https://www.colombiaemb.org/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (Cancillería) - Main Switchboard",
+      "value": "+57-601-3814000",
+      "source": "https://www.cancilleria.gov.co/en"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office (Casa de Nariño) - PBX",
+      "value": "+57-601-5629300",
+      "source": "https://casanarino.presidencia.gov.co/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office - Free National Attention Line",
+      "value": "018000-913040",
+      "source": "https://casanarino.presidencia.gov.co/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Cancillería) - Main Office",
+      "value": "Palacio de San Carlos, Calle 10 # 5-51, Bogotá D.C., Colombia",
+      "source": "https://www.cancilleria.gov.co/en/contact-info"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Casa de Nariño)",
+      "value": "Carrera 8 No. 7-26, Bogotá, Colombia",
+      "source": "https://casanarino.presidencia.gov.co/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "url": "https://www.cancilleria.gov.co/en",
+      "source": "https://www.cancilleria.gov.co/en"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office (Casa de Nariño)",
+      "url": "https://casanarino.presidencia.gov.co/",
+      "source": "https://casanarino.presidencia.gov.co/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal (Gov.co)",
+      "url": "https://www.gov.co",
+      "source": "https://gobiernodigital.mintic.gov.co/692/w3-propertyvalue-47233.html"
+    },
+    {
+      "type": "website",
+      "label": "Digital Government Portal (MinTIC)",
+      "url": "https://gobiernodigital.mintic.gov.co/",
+      "source": "https://gobiernodigital.mintic.gov.co/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior",
+      "url": "https://www.mininterior.gov.co",
+      "source": "https://english.mininterior.gov.co/"
+    },
+    {
+      "type": "facebook",
+      "label": "Cancillería Colombia (Ministry of Foreign Affairs)",
+      "url": "https://www.facebook.com/CancilleriaCol/",
+      "source": "https://www.facebook.com/CancilleriaCol/"
+    },
+    {
+      "type": "facebook",
+      "label": "Casa de Nariño (Presidential Office)",
+      "url": "https://www.facebook.com/CasadeNarino",
+      "source": "https://www.instagram.com/casadenarinooficial/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Interior",
+      "url": "https://www.facebook.com/MinInterior/",
+      "source": "https://www.facebook.com/MinInterior/"
+    },
+    {
+      "type": "twitter",
+      "label": "Cancillería Colombia (Ministry of Foreign Affairs)",
+      "url": "https://twitter.com/CancilleriaCol",
+      "source": "https://twitter.com/CancilleriaCol"
+    },
+    {
+      "type": "twitter",
+      "label": "Casa de Nariño (Presidential Office)",
+      "url": "https://twitter.com/Casa_Narino",
+      "source": "https://twitter.com/Casa_Narino"
+    },
+    {
+      "type": "instagram",
+      "label": "Cancillería Colombia (Ministry of Foreign Affairs)",
+      "url": "https://www.instagram.com/cancilleriacol/",
+      "source": "https://www.instagram.com/cancilleriacol/"
+    },
+    {
+      "type": "instagram",
+      "label": "Casa de Nariño (Presidential Office)",
+      "url": "https://www.instagram.com/casadenarinooficial/",
+      "source": "https://www.instagram.com/casadenarinooficial/"
+    }
+  ]
+}

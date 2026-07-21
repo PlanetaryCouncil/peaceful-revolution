@@ -1,0 +1,240 @@
+{
+  "iso": "TGO",
+  "country_name": "Togo",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Embassy of Togo in Washington, DC",
+      "value": "info@togoembassy.us",
+      "source": "https://www.embassy.org/embassies/tg.html"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Commerce",
+      "value": "secretariat.ministre@commerce.gouv.tg",
+      "source": "https://commerce.gouv.tg/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice",
+      "value": "info@minjustg.com",
+      "source": "https://minojtog.com/contact.html"
+    },
+    {
+      "type": "email",
+      "label": "Agence Togo Digital",
+      "value": "contact@digital.gouv.tg",
+      "source": "https://digital.gouv.tg/contact?lang=en"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://togo.gouv.tg/",
+      "source": "https://togo.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://presidence.gouv.tg/",
+      "source": "https://presidence.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office (Primature)",
+      "url": "https://primature.gouv.tg/",
+      "source": "https://primature.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://diplomatie.gouv.tg/",
+      "source": "https://diplomatie.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://www.sante.gouv.tg/",
+      "source": "https://healthresearchwebafrica.org.za/en/togo/keygroups_162"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice",
+      "url": "https://justice.gouv.tg/",
+      "source": "https://togo.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Commerce",
+      "url": "https://commerce.gouv.tg/",
+      "source": "https://commerce.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Education",
+      "url": "https://education.gouv.tg/",
+      "source": "https://togo.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance",
+      "url": "https://finances.gouv.tg/",
+      "source": "https://togo.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Citizen Services Portal",
+      "url": "https://service-public.gouv.tg/",
+      "source": "https://togo.gouv.tg/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Togo in Washington, DC",
+      "url": "https://embassyoftogousa.com/",
+      "source": "https://www.embassy.org/embassies/tg.html"
+    },
+    {
+      "type": "facebook",
+      "label": "Présidence de la République Togolaise (Presidential Office)",
+      "url": "https://www.facebook.com/PresidenceTG/",
+      "source": "https://www.facebook.com/PresidenceTG/"
+    },
+    {
+      "type": "facebook",
+      "label": "Présidence du Conseil du Togo (Prime Minister's Office)",
+      "url": "https://www.facebook.com/presidencecstg/",
+      "source": "https://www.facebook.com/presidencecstg/"
+    },
+    {
+      "type": "twitter",
+      "label": "République Togolaise (@republicoftogo)",
+      "url": "https://x.com/republicoftogo",
+      "source": "https://x.com/republicoftogo"
+    },
+    {
+      "type": "twitter",
+      "label": "Présidence Togolaise (@PresidenceTg)",
+      "url": "https://x.com/presidencetg",
+      "source": "https://x.com/presidencetg"
+    },
+    {
+      "type": "twitter",
+      "label": "President Faure Essozimna Gnassingbé (@FEGnassingbe)",
+      "url": "https://x.com/FEGnassingbe",
+      "source": "https://x.com/FEGnassingbe"
+    },
+    {
+      "type": "twitter",
+      "label": "Secrétariat Général du Gouvernement (@SggTogo)",
+      "url": "https://x.com/sggtogo",
+      "source": "https://x.com/sggtogo"
+    },
+    {
+      "type": "instagram",
+      "label": "République Togolaise (@republicoftogo)",
+      "url": "https://www.instagram.com/republicoftogo/",
+      "source": "https://www.instagram.com/republicoftogo/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Togo in Washington, DC (Main)",
+      "value": "(202) 234-4212",
+      "source": "https://www.embassy.org/embassies/tg.html"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Togo in Washington, DC (Fax)",
+      "value": "(202) 232-3190",
+      "source": "https://www.embassy.org/embassies/tg.html"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "(+228) 22 61 06 05",
+      "source": "https://primature.gouv.tg/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office Fax",
+      "value": "(+228) 22 61 06 87",
+      "source": "https://primature.gouv.tg/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Commerce",
+      "value": "+228 22 21 05 52",
+      "source": "https://commerce.gouv.tg/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Communication",
+      "value": "(+228) 22 21 29 23",
+      "source": "https://communication.gouv.tg/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health",
+      "value": "+228 22 22 42 61",
+      "source": "https://healthresearchwebafrica.org.za/en/togo/keygroups_162"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "Cité OUA, villa 433, B.P. 1161, Lomé, Togo",
+      "source": "https://primature.gouv.tg/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Togo in Washington, DC",
+      "value": "2208 Massachusetts Avenue, NW, Washington DC 20008, USA",
+      "source": "https://www.embassy.org/embassies/tg.html"
+    },
+    {
+      "type": "address",
+      "label": "Agence Togo Digital",
+      "value": "656 Avenue de la Nouvelle Marche, Quartier des Étoiles, B.P. 2274, Lomé, Togo",
+      "source": "https://digital.gouv.tg/contact?lang=en"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Justice",
+      "value": "Complexe du Ministère de la Justice, B.P. 1011, Lomé, Togo",
+      "source": "https://minojtog.com/contact.html"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Communication",
+      "value": "26 rue Nangbéto, B.P. 40, Lomé, Togo",
+      "source": "https://communication.gouv.tg/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Mines and Energy",
+      "value": "Rue des hydrocarbures, B.P. 4227, Lomé, Togo",
+      "source": "https://theodora.com/wfbcurrent/togo/togo_government.html"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Health",
+      "value": "B.P. 336, Lomé, Togo",
+      "source": "https://healthresearchwebafrica.org.za/en/togo/keygroups_162"
+    },
+    {
+      "type": "other",
+      "label": "Contact Form - Presidential Office",
+      "url": "https://presidence.gouv.tg/contact/",
+      "source": "https://presidence.gouv.tg/contact/"
+    },
+    {
+      "type": "other",
+      "label": "Contact Form - Ministry of Foreign Affairs",
+      "url": "https://diplomatie.gouv.tg/contact/",
+      "source": "https://diplomatie.gouv.tg/contact/"
+    },
+    {
+      "type": "other",
+      "label": "Contact Form - Prime Minister's Office",
+      "url": "https://primature.gouv.tg/contact/",
+      "source": "https://primature.gouv.tg/contact/"
+    }
+  ]
+}

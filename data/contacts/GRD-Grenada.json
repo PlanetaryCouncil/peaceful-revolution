@@ -1,0 +1,144 @@
+{
+  "iso": "GRD",
+  "country_name": "Grenada",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Main Government Portal",
+      "value": "[email protected]",
+      "source": "gov.gd - Official Government of Grenada Portal"
+    },
+    {
+      "type": "email",
+      "label": "Parliament - Parliamentary Services",
+      "value": "order.order@grenadaparliament.gd",
+      "source": "grenadaparliament.gd - Official Parliament Website"
+    },
+    {
+      "type": "email",
+      "label": "Parliament - Alternative Contact",
+      "value": "order.order@spiceisle.com",
+      "source": "grenadaparliament.gd - Official Parliament Website"
+    },
+    {
+      "type": "email",
+      "label": "Electoral Commission",
+      "value": "[email protected]",
+      "source": "peogrenada.org - Parliamentary Elections Office"
+    },
+    {
+      "type": "phone",
+      "label": "Main Government Office",
+      "value": "+1 (473) 440-2255",
+      "source": "gov.gd - Official Government Portal"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament",
+      "value": "+1 (473) 440-2090",
+      "source": "grenadaparliament.gd - Official Parliament Website"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament Fax",
+      "value": "+1 (473) 440-4138",
+      "source": "grenadaparliament.gd - Official Parliament Website"
+    },
+    {
+      "type": "phone",
+      "label": "Electoral Commission - Main",
+      "value": "(473) 440-2357",
+      "source": "peogrenada.org - Parliamentary Elections Office"
+    },
+    {
+      "type": "phone",
+      "label": "Electoral Commission - Alternative",
+      "value": "(473) 440-2698",
+      "source": "peogrenada.org - Parliamentary Elections Office"
+    },
+    {
+      "type": "phone",
+      "label": "Electoral Commission Fax",
+      "value": "(473) 440-4198",
+      "source": "peogrenada.org - Parliamentary Elections Office"
+    },
+    {
+      "type": "address",
+      "label": "Main Government Office",
+      "value": "Sir Eric Matthew Gairy Botanical Gardens, St George's, Grenada W.I.",
+      "source": "gov.gd - Official Government Portal"
+    },
+    {
+      "type": "address",
+      "label": "Parliament",
+      "value": "Grenada House of Parliament, Mt. Wheldale, St. George's, Grenada, W.I.",
+      "source": "grenadaparliament.gd - Official Parliament Website"
+    },
+    {
+      "type": "address",
+      "label": "Electoral Commission",
+      "value": "Tanteen Terrace, St. George, Grenada W.I.",
+      "source": "peogrenada.org - Parliamentary Elections Office"
+    },
+    {
+      "type": "website",
+      "label": "Government of Grenada Official Portal",
+      "url": "https://gov.gd",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Grenada",
+      "url": "https://grenadaparliament.gd",
+      "source": "Official Parliament Website"
+    },
+    {
+      "type": "website",
+      "label": "Electoral Commission",
+      "url": "https://www.peogrenada.org",
+      "source": "Electoral Commission Official Website"
+    },
+    {
+      "type": "website",
+      "label": "Grenada Industrial Development Corporation",
+      "url": "https://gidc.gd",
+      "source": "gov.gd - Business Development Resources"
+    },
+    {
+      "type": "website",
+      "label": "Online Government Services Portal",
+      "url": "https://my.gov.gd",
+      "source": "gov.gd"
+    },
+    {
+      "type": "website",
+      "label": "Government Payment Services",
+      "url": "https://pay.gov.gd",
+      "source": "gov.gd"
+    },
+    {
+      "type": "website",
+      "label": "Tax Services Portal",
+      "url": "https://tax.gov.gd",
+      "source": "gov.gd"
+    },
+    {
+      "type": "facebook",
+      "label": "Government Information Service",
+      "url": "https://www.facebook.com/gisgrenada/",
+      "source": "gov.gd - Official Social Media Link"
+    },
+    {
+      "type": "youtube",
+      "label": "Pure Grenada - Official Channel",
+      "url": "https://www.youtube.com/@puregrenada/",
+      "source": "gov.gd - Official Social Media Link"
+    },
+    {
+      "type": "other",
+      "label": "Government Directory 2026 PDF",
+      "value": "Updated Directory 2026.pdf - Available at /pdf/Updated Directory 2026.pdf",
+      "source": "gov.gd - Comprehensive government directory document"
+    }
+  ]
+}

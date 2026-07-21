@@ -1,0 +1,186 @@
+{
+  "iso": "BRA",
+  "country_name": "Brazil",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press Office",
+      "value": "imprensa@itamaraty.gov.br",
+      "source": "gov.br/mre/pt-br/consular-imprensa"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Ombudsman",
+      "value": "ouvidoria.consular@itamaraty.gov.br",
+      "source": "gov.br/mre - Ouvidoria Consular"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - International Media Department",
+      "value": "secom.inter@presidencia.gov.br",
+      "source": "gov.br/planalto/en/service_channels"
+    },
+    {
+      "type": "email",
+      "label": "General Government Ombudsman",
+      "value": "Contact via Fala.BR platform",
+      "source": "falabr.cgu.gov.br"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Press Office (weekdays 9am-1pm, 3pm-7pm)",
+      "value": "+55 61 2030-6160, +55 61 2030-8006, +55 61 2030-8007",
+      "source": "gov.br/mre/pt-br/consular-imprensa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - After-hours/Weekend Press",
+      "value": "+55 61 8197-2229",
+      "source": "gov.br/mre/pt-br/consular-imprensa"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Ombudsman",
+      "value": "+55 61 2030-8804, +55 61 2030-8805, +55 61 2030-9712, +55 61 2030-8803",
+      "source": "gov.br/mre - Ouvidoria Consular"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office - International Media Department",
+      "value": "+55 61 3411-1437",
+      "source": "gov.br/planalto/en/service_channels"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.gov.br/mre/en",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "President's Office (Palácio do Planalto)",
+      "url": "https://www.gov.br/planalto/en",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Brazil Government Main Portal",
+      "url": "https://www.gov.br/en",
+      "source": "Official e-government platform"
+    },
+    {
+      "type": "website",
+      "label": "Federal Ombudsman Platform (Fala.BR)",
+      "url": "https://falabr.cgu.gov.br",
+      "source": "Official complaints and feedback portal"
+    },
+    {
+      "type": "website",
+      "label": "Consular Portal",
+      "url": "http://www.portalconsular.itamaraty.gov.br",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "twitter",
+      "label": "Itamaraty (English)",
+      "url": "https://x.com/Itamaraty_EN",
+      "source": "Ministry of Foreign Affairs official"
+    },
+    {
+      "type": "twitter",
+      "label": "Itamaraty Brasil (Portuguese)",
+      "url": "https://x.com/ItamaratyGovBr",
+      "source": "Ministry of Foreign Affairs official"
+    },
+    {
+      "type": "twitter",
+      "label": "Itamaraty (Spanish)",
+      "url": "https://x.com/Itamaraty_ES",
+      "source": "Ministry of Foreign Affairs official"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Brazil (International)",
+      "url": "https://x.com/govbrazil",
+      "source": "Official government account"
+    },
+    {
+      "type": "facebook",
+      "label": "Itamaraty Brasil",
+      "url": "https://www.facebook.com/ItamaratyGovBr",
+      "source": "Ministry of Foreign Affairs official"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Brazil",
+      "url": "https://www.facebook.com/govbrazil",
+      "source": "Official government account"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidência do Brasil",
+      "url": "https://www.facebook.com/presidenciadobrasil",
+      "source": "President's Office official"
+    },
+    {
+      "type": "instagram",
+      "label": "Itamaraty",
+      "url": "https://www.instagram.com/itamaratygovbr",
+      "source": "Ministry of Foreign Affairs official"
+    },
+    {
+      "type": "instagram",
+      "label": "Presidência do Brasil",
+      "url": "https://www.instagram.com/presidenciadobrasil",
+      "source": "President's Office official"
+    },
+    {
+      "type": "instagram",
+      "label": "Government of Brazil (International)",
+      "url": "https://www.instagram.com/govbrazil",
+      "source": "Official government account"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (Itamaraty)",
+      "value": "Palácio Itamaraty, Esplanada dos Ministérios - Bloco H, Brasília/DF, CEP 70.170-900, Brazil",
+      "source": "gov.br/mre"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Palácio do Planalto)",
+      "value": "Three Powers Square (Praça dos 3 Poderes), Brasília/DF, CEP 70150-900, Brazil",
+      "source": "gov.br/planalto"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Consular Ombudsman",
+      "value": "Palácio Itamaraty - Anexo I - Térreo - Divisão de Assistência Consular, Esplanada dos Ministérios - Bloco H, Brasília/DF, CEP 70.170-900, Brazil",
+      "source": "gov.br/mre - Ouvidoria Consular"
+    },
+    {
+      "type": "fax",
+      "label": "Ministry of Foreign Affairs - Press Office",
+      "value": "+55 61 2030-8002",
+      "source": "gov.br/mre/pt-br/consular-imprensa"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - General Inquiries",
+      "value": "portal@itamaraty.gov.br",
+      "source": "gov.br/mre"
+    },
+    {
+      "type": "other",
+      "label": "Contact Form - Ministry of Foreign Affairs",
+      "url": "https://www.gov.br/mre/en/contact-us",
+      "source": "Official website"
+    },
+    {
+      "type": "other",
+      "label": "Contact Form - President's Office",
+      "url": "https://www.gov.br/planalto/en/service_channels/contact-info",
+      "source": "Official website"
+    }
+  ]
+}

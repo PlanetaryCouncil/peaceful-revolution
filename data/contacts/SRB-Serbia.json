@@ -1,0 +1,228 @@
+{
+  "iso": "SRB",
+  "country_name": "Serbia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "mfa@mfa.rs",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press/Media",
+      "value": "press@mfa.rs",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "value": "okp@mfa.rs",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Visa Services",
+      "value": "ovp@mfa.rs",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Diplomatic Protocol",
+      "value": "protocol@mfa.rs",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Government of Serbia - General Contacts",
+      "value": "kontakt@gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Government of Serbia - Prime Minister's Office",
+      "value": "predsednikvlade@gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Government of Serbia - Media Office",
+      "value": "press@gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Government of Serbia - General Media",
+      "value": "office@srbija.gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President of Serbia",
+      "value": "predstavkegradjana@predsednik.rs",
+      "source": "predsednik.rs"
+    },
+    {
+      "type": "email",
+      "label": "Interior Ministry",
+      "value": "infomup@mup.gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Justice Ministry",
+      "value": "kontakt@mpravde.gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Finance Ministry",
+      "value": "press@mfin.gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "email",
+      "label": "Defense Ministry",
+      "value": "info@mod.gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.srbija.gov.rs",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.rs",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.predsednik.rs",
+      "source": "predsednik.rs"
+    },
+    {
+      "type": "website",
+      "label": "National Parliament",
+      "url": "https://www.parlament.gov.rs",
+      "source": "parlament.gov.rs"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/mfaserbia",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Serbia",
+      "url": "https://www.facebook.com/vladaRS",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Government Main Contact",
+      "value": "+381 11 3614-621",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "+381 11 306-8000",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Services",
+      "value": "+381 11 3068-268",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Visa Services",
+      "value": "+381 11 3068-585",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergency (weekends/holidays)",
+      "value": "+381 11 306-8615",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+381 11 3620-115",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Government Media Office",
+      "value": "+381 11 3617-709",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Interior Ministry",
+      "value": "+381 11 274-00-00",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Justice Ministry",
+      "value": "+381 11 785-8000",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "phone",
+      "label": "Defense Ministry",
+      "value": "+381 11 3203-015",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "address",
+      "label": "Government of Serbia - Central Office",
+      "value": "Nemanjina 11, Belgrade, Serbia",
+      "source": "srbija.gov.rs"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Kneza Miloša 24-26, 11000 Belgrade, Serbia",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President - General Secretariat",
+      "value": "Андрićев венац 1, 11000 Belgrade, Serbia",
+      "source": "predsednik.rs"
+    },
+    {
+      "type": "address",
+      "label": "National Parliament",
+      "value": "Trg Nikolе Pašića 13, Belgrade, Serbia",
+      "source": "parlament.gov.rs"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Social Media Instagram",
+      "value": "@mfaserbia",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - YouTube Channel",
+      "value": "msprsvideo",
+      "source": "mfa.gov.rs"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - RSS Feed",
+      "value": "https://www.mfa.gov.rs/rss.xml",
+      "source": "mfa.gov.rs"
+    }
+  ]
+}

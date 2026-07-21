@@ -1,0 +1,150 @@
+{
+  "iso": "LUX",
+  "country_name": "Luxembourg",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General Inquiries",
+      "value": "info@mae.etat.lu",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press Office",
+      "value": "Press@mae.etat.lu",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "email",
+      "label": "Government Information and Press Service",
+      "value": "info@sip.etat.lu",
+      "source": "https://gouvernement.lu/fr/support/contact.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Line",
+      "value": "+352 247-82300",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Passport & Visa Services",
+      "value": "+352 247-88300",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergency Consular Assistance (after-hours)",
+      "value": "+352 247-72300",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Press Contact: Luc Poveromo",
+      "value": "+352 247-72414",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Press Contact: Charel Nesser",
+      "value": "+352 247-72467",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main Office",
+      "value": "9, rue du Palais de Justice, L-1841 Luxembourg",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Passport & Visa Services",
+      "value": "6, rue de l'Ancien Athénée, L-1144 Luxembourg",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "address",
+      "label": "Government Information and Press Service",
+      "value": "33, boulevard Roosevelt, L-2450 Luxembourg (B.P. 1111)",
+      "source": "https://gouvernement.lu/fr/support/contact.html"
+    },
+    {
+      "type": "website",
+      "label": "Luxembourg Government Official Website",
+      "url": "https://gouvernement.lu",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mae.gouvernement.lu",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "website",
+      "label": "Guichet.lu - Citizen Services Portal",
+      "url": "https://guichet.public.lu",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "website",
+      "label": "GovJobs.lu - Government Employment Opportunities",
+      "url": "https://govjobs.lu",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "facebook",
+      "label": "Luxembourg Government",
+      "url": "https://www.facebook.com/gouvernement.lu",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs (MAE Luxembourg)",
+      "url": "https://www.facebook.com/MAE.Luxembourg",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "twitter",
+      "label": "Luxembourg Government (@GouvernementLU)",
+      "url": "https://x.com/gouvernementlu",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (@MFA_Lu)",
+      "url": "https://x.com/MFA_Lu",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "instagram",
+      "label": "Luxembourg Government (@gouvernement.lu)",
+      "url": "https://www.instagram.com/gouvernement.lu",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs (@mfa.lu)",
+      "url": "https://www.instagram.com/mfa.lu",
+      "source": "https://mae.gouvernement.lu"
+    },
+    {
+      "type": "linkedin",
+      "label": "Luxembourg Government (Gouvernement luxembourgeois)",
+      "url": "https://www.linkedin.com/company/gouvernement-luxembourgeois",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "youtube",
+      "label": "Luxembourg Government (@GouvernementLU)",
+      "url": "https://www.youtube.com/@GouvernementLU",
+      "source": "https://gouvernement.lu"
+    },
+    {
+      "type": "other",
+      "label": "Government Contact Form",
+      "value": "Online form available at https://gouvernement.lu/fr/support/contact.html",
+      "source": "https://gouvernement.lu/fr/support/contact.html"
+    }
+  ]
+}

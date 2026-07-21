@@ -1,0 +1,90 @@
+{
+  "iso": "MLT",
+  "country_name": "Malta",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Government Main Portal",
+      "url": "https://www.gov.mt",
+      "source": "Wikipedia - Government of Malta article"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://president.gov.mt/",
+      "source": "Wikipedia - President of Malta article"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opm.gov.mt",
+      "source": "Wikipedia - Prime Minister of Malta article"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Malta",
+      "url": "http://www.parlament.mt/",
+      "source": "Wikipedia - House of Representatives of Malta article"
+    },
+    {
+      "type": "website",
+      "label": "Ministry for Gozo and Planning",
+      "url": "https://gozo.gov.mt",
+      "source": "Wikipedia - Ministry for Gozo article"
+    },
+    {
+      "type": "address",
+      "label": "President's Official Residence",
+      "value": "San Anton Palace, Attard, Malta",
+      "source": "Wikipedia - San Anton Palace article"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Auberge de Castille, Castile Place, Valletta, Malta",
+      "source": "Wikipedia - Auberge de Castille and Prime Minister of Malta articles"
+    },
+    {
+      "type": "address",
+      "label": "Parliament House",
+      "value": "Valletta, Malta (relocated May 4, 2015)",
+      "source": "Wikipedia - House of Representatives of Malta article"
+    },
+    {
+      "type": "address",
+      "label": "Ministry for Gozo Headquarters",
+      "value": "Victoria, Gozo, Malta",
+      "source": "Wikipedia - Ministry for Gozo article"
+    },
+    {
+      "type": "twitter",
+      "label": "Deputy PM Ian Borg (Foreign Affairs Minister)",
+      "url": "https://x.com/DeputyPMIanBorg",
+      "source": "Wikipedia - Ian Borg article"
+    },
+    {
+      "type": "other",
+      "label": "Current President",
+      "value": "Myriam Spiteri Debono (since April 4, 2024)",
+      "source": "Wikipedia - President of Malta article"
+    },
+    {
+      "type": "other",
+      "label": "Current Prime Minister",
+      "value": "Robert Abela (since January 13, 2020)",
+      "source": "Wikipedia - Prime Minister of Malta article"
+    },
+    {
+      "type": "other",
+      "label": "Parliament Speaker",
+      "value": "Carmelo Abela (since June 20, 2026)",
+      "source": "Wikipedia - House of Representatives of Malta article"
+    },
+    {
+      "type": "other",
+      "label": "Foreign Affairs Minister",
+      "value": "Ian Borg (Minister for Foreign Affairs, European Affairs and Trade)",
+      "source": "Wikipedia - Ian Borg article"
+    }
+  ]
+}

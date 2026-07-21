@@ -1,0 +1,72 @@
+{
+  "iso": "VEN",
+  "country_name": "Venezuela",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General Inquiries",
+      "value": "consulado@mppre.gob.ve",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=280"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Alternative Contact",
+      "value": "contact@mofa.vrdgov.org",
+      "source": "https://mofa.vrdgov.org/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Press",
+      "value": "press@vrdgov.org",
+      "source": "https://mofa.vrdgov.org/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Permanent Mission to United Nations",
+      "value": "misionvene@venezuelaonu.gob.ve",
+      "source": "https://www.un.org/unispal/wp-content/uploads/2023/04/Venezuela_English.pdf"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+58 (212) 8064449 / 802-8000, Ext. 6704-6713",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=280"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to United Nations (New York)",
+      "value": "(212) 557-2055",
+      "source": "https://embassies.info/PermanentMissionofVenezuelatoUNinNewYork"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official",
+      "url": "http://www.mppre.gob.ve",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=280"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission to United Nations",
+      "url": "https://www.venezuelaonu.gob.ve",
+      "source": "https://embassies.info/PermanentMissionofVenezuelatoUNinNewYork"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Cancillería Venezuela",
+      "url": "https://www.facebook.com/CancilleriaVE/",
+      "source": "https://www.facebook.com/CancilleriaVE/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Caracas",
+      "value": "Edificio Anexo a la Torre MRE, piso 1, Avenida Urdaneta - Esquina Carmelitas a Puente Llaguno, Caracas 1010, Venezuela",
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=280"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission to United Nations",
+      "value": "335 East 46th Street, New York, N.Y. 10017, United States",
+      "source": "https://embassies.info/PermanentMissionofVenezuelatoUNinNewYork"
+    }
+  ]
+}

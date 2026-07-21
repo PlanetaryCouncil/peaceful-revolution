@@ -1,0 +1,162 @@
+{
+  "iso": "BGR",
+  "country_name": "Bulgaria",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government Information Service",
+      "value": "GIS@GOVERNMENT.BG",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "email",
+      "label": "Government Registry/Administration",
+      "value": "ms_register@government.bg",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "email",
+      "label": "Government Reception Desk",
+      "value": "ms_priemna@government.bg",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Situation Center/Crisis Management",
+      "value": "crisis@mfa.bg",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Relations",
+      "value": "consular@mfa.bg",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Administration - Reception",
+      "value": "priemna@president.bg",
+      "source": "https://www.president.bg"
+    },
+    {
+      "type": "phone",
+      "label": "Bulgarian Government Council of Ministers - Main Switchboard",
+      "value": "+359 2 940 29 99",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "phone",
+      "label": "Bulgarian Government Information Service",
+      "value": "+359 2 940 27 70",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Central",
+      "value": "+359 2 948 2999",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Citizen Reception",
+      "value": "+359 2 948 2018",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Situation Center/Crisis Management",
+      "value": "+359 2 948 2404",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Relations",
+      "value": "+359 2 948 2365",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Administration - Central Switchboard",
+      "value": "+359 2 9239333",
+      "source": "https://www.president.bg"
+    },
+    {
+      "type": "address",
+      "label": "Bulgarian Government Council of Ministers",
+      "value": "Boulevard 'Prince Alexander Dondukov' №1, 1594 Sofia, Bulgaria",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Administration",
+      "value": "Sofia 1123, 'Dondukov' 2, Bulgaria",
+      "source": "https://www.president.bg"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Sofia 1113, ul. Aleksandър Zhendov 2, Bulgaria",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "fax",
+      "label": "Bulgarian Government Information Service",
+      "value": "+359 2 981 37 19",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "fax",
+      "label": "Presidential Administration",
+      "value": "+359 2 9804484",
+      "source": "https://www.president.bg"
+    },
+    {
+      "type": "website",
+      "label": "Bulgarian Government Official Portal",
+      "url": "https://www.government.bg",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Administration",
+      "url": "https://www.president.bg",
+      "source": "Official presidential domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.bg",
+      "source": "Official ministry domain"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs - E-Services",
+      "url": "https://e-usluga_bds.mfa.bg",
+      "source": "https://www.mfa.bg"
+    },
+    {
+      "type": "website",
+      "label": "Bulgarian National Assembly/Parliament",
+      "url": "https://www.parliament.bg",
+      "source": "Official parliament domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Bulgaria Official Page",
+      "url": "https://www.facebook.com/Government.of.Bulgaria",
+      "source": "https://www.government.bg"
+    },
+    {
+      "type": "other",
+      "label": "Presidential Administration - Office Hours",
+      "value": "Monday-Thursday: 10:00 AM-12:00 PM and 2:30 PM-5:00 PM",
+      "source": "https://www.president.bg"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Social Media",
+      "value": "Facebook, X (Twitter), YouTube, RSS feed",
+      "source": "https://www.mfa.bg"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "iso": "SVN",
+  "country_name": "Slovenia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government Office (General Secretariat)",
+      "value": "gp.gs@gov.si",
+      "source": "gov.si/drzavni-organi/vlada/o-vladi/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign and European Affairs",
+      "value": "gp.mzez@gov.si",
+      "source": "gov.si/drzavni-organi/ministrstva/ministrstvo-za-zunanje-in-evropske-zadeve/"
+    },
+    {
+      "type": "email",
+      "label": "President's Office",
+      "value": "gp.uprs@predsednica-slo.si",
+      "source": "gov.si/drzavni-organi/predsednik-republike/"
+    },
+    {
+      "type": "email",
+      "label": "National Assembly (Parliament)",
+      "value": "gp@dz-rs.si",
+      "source": "dz-rs.si"
+    },
+    {
+      "type": "email",
+      "label": "Government Communications Office",
+      "value": "gp.ukom@gov.si",
+      "source": "gov.si/o-spletnem-mestu/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Secretariat",
+      "value": "sekretariat.mzz@gov.si",
+      "source": "gov.si/drzavni-organi/ministrstva/ministrstvo-za-zunanje-in-evropske-zadeve/o-ministrstvu/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.si",
+      "source": "gov.si"
+    },
+    {
+      "type": "website",
+      "label": "President's Office",
+      "url": "https://www.predsednica-slo.si",
+      "source": "predsednica-slo.si"
+    },
+    {
+      "type": "website",
+      "label": "National Assembly",
+      "url": "https://www.dz-rs.si",
+      "source": "dz-rs.si"
+    },
+    {
+      "type": "website",
+      "label": "Slovenian Diplomatic Missions Abroad",
+      "url": "https://www.gov.si/predstavnistva/",
+      "source": "gov.si/predstavnistva/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mfeaSlovenia",
+      "source": "Ministry of Foreign Affairs official page"
+    },
+    {
+      "type": "facebook",
+      "label": "President's Office (Natasa Pirc Musar)",
+      "url": "https://www.facebook.com/natasa.pirc.musar",
+      "source": "predsednica-slo.si"
+    },
+    {
+      "type": "facebook",
+      "label": "National Assembly",
+      "url": "https://www.facebook.com/DrzavnizborRS",
+      "source": "dz-rs.si"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/MZEZ_RS",
+      "source": "Ministry of Foreign Affairs official page"
+    },
+    {
+      "type": "twitter",
+      "label": "President's Office",
+      "url": "https://twitter.com/nmusar",
+      "source": "predsednica-slo.si"
+    },
+    {
+      "type": "twitter",
+      "label": "National Assembly",
+      "url": "https://twitter.com/Drzavnizbor",
+      "source": "dz-rs.si"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mfea_slovenia",
+      "source": "Ministry of Foreign Affairs official page"
+    },
+    {
+      "type": "instagram",
+      "label": "President's Office",
+      "url": "https://www.instagram.com/natasa.pirc.musar",
+      "source": "predsednica-slo.si"
+    },
+    {
+      "type": "instagram",
+      "label": "National Assembly",
+      "url": "https://www.instagram.com/drzavnizbor/",
+      "source": "dz-rs.si"
+    },
+    {
+      "type": "phone",
+      "label": "Government Office",
+      "value": "+386 1 478 10 00",
+      "source": "gov.si/drzavni-organi/vlada/o-vladi/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+386 1 478 20 00",
+      "source": "gov.si/drzavni-organi/ministrstva/ministrstvo-za-zunanje-in-evropske-zadeve/"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+386 1 478 12 09",
+      "source": "gov.si/drzavni-organi/predsednik-republike/"
+    },
+    {
+      "type": "phone",
+      "label": "National Assembly",
+      "value": "+386 1 478 94 00",
+      "source": "dz-rs.si"
+    },
+    {
+      "type": "phone",
+      "label": "Government Communications Office",
+      "value": "+386 1 478 50 00",
+      "source": "gov.si/o-spletnem-mestu/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Secretariat",
+      "value": "+386 1 478 22 10",
+      "source": "gov.si/drzavni-organi/ministrstva/ministrstvo-za-zunanje-in-evropske-zadeve/o-ministrstvu/"
+    },
+    {
+      "type": "address",
+      "label": "Government Office (General Secretariat)",
+      "value": "Gregorčičeva 20, 25 1000 Ljubljana, Slovenia",
+      "source": "gov.si/drzavni-organi/vlada/o-vladi/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign and European Affairs",
+      "value": "Prešernova cesta 25, 1000 Ljubljana, Slovenia",
+      "source": "gov.si/drzavni-organi/ministrstva/ministrstvo-za-zunanje-in-evropske-zadeve/o-ministrstvu/"
+    },
+    {
+      "type": "address",
+      "label": "President's Office",
+      "value": "Erjavčeva cesta 17, 1000 Ljubljana, Slovenia",
+      "source": "gov.si/drzavni-organi/predsednik-republike/"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly",
+      "value": "Šubičeva ulica 4, 1102 Ljubljana, Slovenia",
+      "source": "dz-rs.si"
+    },
+    {
+      "type": "other",
+      "label": "TikTok - President's Office",
+      "value": "@natasa.pirc.musar",
+      "source": "predsednica-slo.si"
+    },
+    {
+      "type": "other",
+      "label": "LinkedIn - President's Office",
+      "value": "Urad Predsednika Republike Slovenije",
+      "source": "predsednica-slo.si"
+    }
+  ]
+}

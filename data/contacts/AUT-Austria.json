@@ -1,0 +1,204 @@
+{
+  "iso": "AUT",
+  "country_name": "Austria",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Chancellor's Office - General Inquiries",
+      "value": "post@bka.gv.at",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "email",
+      "label": "Chancellor's Office - Citizen Services",
+      "value": "buergerservice@bka.gv.at",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "email",
+      "label": "Chancellor's Office - Website Team",
+      "value": "online@bka.gv.at",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "email",
+      "label": "Austrian Parliament",
+      "value": "info@parlament.gv.at",
+      "source": "parlament.gv.at"
+    },
+    {
+      "type": "phone",
+      "label": "Chancellor's Office - Citizen Hotline (Toll-free)",
+      "value": "0800 222 666",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "phone",
+      "label": "Chancellor's Office - General",
+      "value": "+43 1 531 15-2042",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergencies Abroad",
+      "value": "+43 1 90115 4411",
+      "source": "bmeia.gv.at"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Travel Information",
+      "value": "+43 1 90115 3775",
+      "source": "bmeia.gv.at"
+    },
+    {
+      "type": "phone",
+      "label": "Austrian Parliament",
+      "value": "+43 1 401 10-0",
+      "source": "parlament.gv.at"
+    },
+    {
+      "type": "phone",
+      "label": "Federal President's Office",
+      "value": "+43-1-53422-318",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "address",
+      "label": "Chancellor's Office (Bundeskanzleramt Österreich)",
+      "value": "Ballhausplatz 2, 1010 Wien, Austria",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (BMEIA)",
+      "value": "Minoritenplatz 8, Vienna, Austria",
+      "source": "bmeia.gv.at"
+    },
+    {
+      "type": "address",
+      "label": "Austrian Parliament (Nationrat/Bundesrat)",
+      "value": "Dr.-Karl-Renner-Ring 3, 1017 Wien, Austria",
+      "source": "parlament.gv.at"
+    },
+    {
+      "type": "address",
+      "label": "Federal President's Office (Österreichische Präsidentschaftskanzlei)",
+      "value": "Hofburg, Ballhausplatz, 1010 Wien, Austria",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.oesterreich.gv.at",
+      "source": "oesterreich.gv.at"
+    },
+    {
+      "type": "website",
+      "label": "Chancellor's Office",
+      "url": "https://www.bundeskanzleramt.gv.at",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (BMEIA)",
+      "url": "https://www.bmeia.gv.at",
+      "source": "bmeia.gv.at"
+    },
+    {
+      "type": "website",
+      "label": "Austrian Parliament",
+      "url": "https://www.parlament.gv.at",
+      "source": "parlament.gv.at"
+    },
+    {
+      "type": "website",
+      "label": "Federal President",
+      "url": "https://www.bundespraesident.at",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "website",
+      "label": "Auslandsservice (Citizen Services Abroad)",
+      "url": "https://www.auslandsservice.at",
+      "source": "bmeia.gv.at"
+    },
+    {
+      "type": "facebook",
+      "label": "Chancellor's Office",
+      "url": "https://www.facebook.com/Bundeskanzleramt.gv.at",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "facebook",
+      "label": "Federal President",
+      "url": "https://www.facebook.com/alexandervanderbellen",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/mfa_austria",
+      "source": "bmeia.gv.at"
+    },
+    {
+      "type": "twitter",
+      "label": "Federal President",
+      "url": "https://x.com/vanderbellen",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "instagram",
+      "label": "Chancellor's Office",
+      "url": "https://www.instagram.com/bundeskanzleramt.gv.at",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "instagram",
+      "label": "Federal President",
+      "url": "https://www.instagram.com/vanderbellen",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "other",
+      "label": "YouTube - Chancellor's Office",
+      "url": "https://www.youtube.com/ihrbundeskanzleramt",
+      "source": "bundeskanzleramt.gv.at"
+    },
+    {
+      "type": "other",
+      "label": "YouTube - Federal President",
+      "url": "https://www.youtube.com/channel/UCguMeO2ZTxHB0ytM0b_1NRw",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "other",
+      "label": "Bluesky - Federal President",
+      "url": "https://bsky.app/profile/bundespraesident.at",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "other",
+      "label": "Threads - Federal President",
+      "url": "https://threads.net/@vanderbellen",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "other",
+      "label": "TikTok - Federal President",
+      "url": "https://www.tiktok.com/@vanderbellen",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "other",
+      "label": "Federal President - Press Office",
+      "url": "https://www.bundespraesident.at/presse",
+      "source": "bundespraesident.at"
+    },
+    {
+      "type": "other",
+      "label": "Federal President - Contact Form",
+      "url": "https://www.bundespraesident.at/kontakt",
+      "source": "bundespraesident.at"
+    }
+  ]
+}

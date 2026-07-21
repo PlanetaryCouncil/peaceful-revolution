@@ -1,0 +1,30 @@
+{
+  "iso": "HUN",
+  "country_name": "Hungary",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.kormany.hu",
+      "source": "Hungarian Government official domain"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal - English",
+      "url": "https://www.kormany.hu/en",
+      "source": "Hungarian Government official domain"
+    },
+    {
+      "type": "facebook",
+      "label": "Hungarian Government Facebook",
+      "url": "https://www.facebook.com/magyarorszagkormanyzata",
+      "source": "kormany.hu footer links"
+    },
+    {
+      "type": "other",
+      "label": "Contact Information",
+      "value": "Available on kormany.hu under Elérhetőségek (Contacts) section",
+      "source": "kormany.hu homepage - contact redirection"
+    }
+  ]
+}

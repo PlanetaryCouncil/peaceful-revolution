@@ -1,0 +1,114 @@
+{
+  "iso": "SLV",
+  "country_name": "El Salvador",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Presidential Office",
+      "value": "[email protected]",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "opina@rree.gob.sv",
+      "source": "https://rree.gob.sv/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office Main Line",
+      "value": "(503) 2248-9000",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Main",
+      "value": "(503) 2231-1000",
+      "source": "Search results - El Salvador Ministry of Foreign Affairs"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (alternate)",
+      "value": "(503) 2231-2900",
+      "source": "Search results - El Salvador Ministry of Foreign Affairs"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office",
+      "value": "Alameda Doctor Manuel Enrique Araujo No 5500, San Salvador, El Salvador, C.A.",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Calle El Pedregal, Blvd. Cancillería 500 mts. al poniente del Campus II de la Universidad Dr. Jose Matías Delgado, Edificio 1, Nivel 1, Ciudad Merliot, Antiguo Cuscatlán, La Libertad",
+      "source": "Search results - El Salvador Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://www.presidencia.gob.sv/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://rree.gob.sv/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Legislative Assembly",
+      "url": "https://www.asamblea.gob.sv/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidential Office Official Account",
+      "url": "https://www.facebook.com/PresidenciaSV/",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidential Office Official Account",
+      "url": "https://twitter.com/PresidenciaSV",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "instagram",
+      "label": "Presidential Office Official Account",
+      "url": "https://www.instagram.com/presidenciasv/",
+      "source": "https://www.presidencia.gob.sv/contactenos/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Fax",
+      "value": "(503) 2243-9656",
+      "source": "Search results - El Salvador Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Governance and Territorial Development",
+      "url": "https://www.gobernacion.gob.sv/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Health",
+      "url": "https://www.salud.gob.sv/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance",
+      "url": "https://www.mh.gob.sv/",
+      "source": "Official government portal"
+    },
+    {
+      "type": "website",
+      "label": "U.S. Embassy in El Salvador",
+      "url": "https://sv.usembassy.gov/",
+      "source": "Official U.S. Embassy portal"
+    }
+  ]
+}

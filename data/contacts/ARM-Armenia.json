@@ -1,0 +1,114 @@
+{
+  "iso": "ARM",
+  "country_name": "Armenia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mfa.am",
+      "source": "https://www.mfa.am/en/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Secretariat",
+      "value": "secretariat@president.am",
+      "source": "https://president.am/en/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Office of the President - Public Relations",
+      "value": "press@president.am",
+      "source": "https://president.am/en/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "National Assembly - Webmaster",
+      "value": "webmaster@parliament.am",
+      "source": "http://www.parliament.am/budget_office.php?sel=contact&lang=eng"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+374 60 620508",
+      "source": "https://www.mfa.am/en/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the President",
+      "value": "+374 10 710075",
+      "source": "https://president.am/en/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "National Assembly",
+      "value": "+374 11 506050",
+      "source": "http://www.parliament.am/budget_office.php?sel=contact&lang=eng"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official",
+      "url": "https://www.mfa.am/en/",
+      "source": "https://www.mfa.am/en/"
+    },
+    {
+      "type": "website",
+      "label": "Government of Armenia Official",
+      "url": "https://www.gov.am/en/",
+      "source": "https://www.gov.am/en/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.president.am/en/",
+      "source": "https://www.president.am/en/"
+    },
+    {
+      "type": "website",
+      "label": "National Assembly",
+      "url": "http://www.parliament.am/",
+      "source": "http://www.parliament.am/"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Armenia Official",
+      "url": "https://twitter.com/armgov",
+      "source": "https://twitter.com/armgov"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MFAofArmenia",
+      "source": "https://x.com/MFAofArmenia?lang=en"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the President",
+      "url": "https://www.facebook.com/Armpresident/",
+      "source": "https://www.facebook.com/Armpresident/"
+    },
+    {
+      "type": "facebook",
+      "label": "Republic of Armenia Official",
+      "url": "https://www.facebook.com/Armenia/",
+      "source": "https://www.facebook.com/Armenia/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Government House #2, Vazgen Sargsyan 3, Yerevan 0010, Republic of Armenia",
+      "source": "https://www.mfa.am/en/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President",
+      "value": "26/1 Marshall Baghramian Ave, Yerevan 0024, Republic of Armenia",
+      "source": "https://president.am/en/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly",
+      "value": "19 Baghramyan, Yerevan 0095, Republic of Armenia",
+      "source": "http://www.parliament.am/budget_office.php?sel=contact&lang=eng"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "iso": "BLZ",
+  "country_name": "Belize",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "belizemfa@btl.net",
+      "source": "https://mfa.gov.bz/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Communications",
+      "value": "communications@mfa.gov.bz",
+      "source": "https://mfa.gov.bz/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - Secretary",
+      "value": "secretarypm@opm.gov.bz",
+      "source": "https://www.pressoffice.gov.bz/the-prime-minister/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - CEO",
+      "value": "ceo@opm.gov.bz",
+      "source": "https://www.pressoffice.gov.bz/the-prime-minister/"
+    },
+    {
+      "type": "email",
+      "label": "Government Press Office",
+      "value": "info@pressoffice.gov.bz",
+      "source": "https://www.pressoffice.gov.bz/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Attorney General's Ministry",
+      "value": "ministry.info@agm.gov.bz",
+      "source": "https://www.agm.gov.bz/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Belize USA - Reception",
+      "value": "reception.usa@mfa.gov.bz",
+      "source": "https://www.belizeembassyusa.mfa.gov.bz/contact"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Belize USA - Consular Services",
+      "value": "Consular.Service.usa@mfa.gov.bz",
+      "source": "https://www.belizeembassyusa.mfa.gov.bz/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+501-880-2167, +501-880-2322",
+      "source": "https://mfa.gov.bz/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+501-828-4180, +501-828-4182",
+      "source": "https://www.pressoffice.gov.bz/the-prime-minister/"
+    },
+    {
+      "type": "phone",
+      "label": "Government Press Office",
+      "value": "+501-822-0759, +501-822-0092, +501-822-0094",
+      "source": "https://www.pressoffice.gov.bz/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Attorney General's Ministry",
+      "value": "+501-822-0519, +501-822-2504",
+      "source": "https://www.agm.gov.bz/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Belize USA",
+      "value": "+1-202-332-9636",
+      "source": "https://www.belizeembassyusa.mfa.gov.bz/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "The Leigh Richardson Building, PO Box 174 North Ring Road, Belmopan, Belize",
+      "source": "https://mfa.gov.bz/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "3rd Floor, Left Wing, Sir Edney Cain Building, Belmopan, Belize",
+      "source": "https://www.pressoffice.gov.bz/the-prime-minister/"
+    },
+    {
+      "type": "address",
+      "label": "Government Press Office",
+      "value": "Corner St. Vincent & Caribbean Streets, Belmopan, Belize",
+      "source": "https://www.pressoffice.gov.bz/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Attorney General's Ministry",
+      "value": "6120 Racoon Avenue, Belmopan, Belize, Central America",
+      "source": "https://www.agm.gov.bz/contact"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Belize USA",
+      "value": "2535 Massachusetts Ave NW, Washington, DC 20008-2826, USA",
+      "source": "https://www.belizeembassyusa.mfa.gov.bz/contact"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.belize.gov.bz",
+      "source": "Government of Belize"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.bz",
+      "source": "https://mfa.gov.bz/"
+    },
+    {
+      "type": "website",
+      "label": "Government Press Office",
+      "url": "https://www.pressoffice.gov.bz",
+      "source": "https://www.pressoffice.gov.bz/"
+    },
+    {
+      "type": "website",
+      "label": "Attorney General's Ministry",
+      "url": "https://www.agm.gov.bz",
+      "source": "https://www.agm.gov.bz/"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of Belize USA",
+      "url": "https://www.belizeembassyusa.mfa.gov.bz",
+      "source": "https://www.belizeembassyusa.mfa.gov.bz/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://www.facebook.com/MFABelize/",
+      "source": "Official Ministry Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Government of Belize Press Office",
+      "url": "https://www.facebook.com/GOBPressOffice/",
+      "source": "Official Press Office Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister Hon. John Briceño",
+      "url": "https://www.facebook.com/JohnBricenoBZE/",
+      "source": "Official PM Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MFABelize",
+      "source": "Official MFA Twitter/X"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Belize Press Office",
+      "url": "https://x.com/gobpressoffice",
+      "source": "Official Press Office Twitter/X"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Belize",
+      "url": "https://x.com/belizegov",
+      "source": "Official GOB Twitter/X"
+    },
+    {
+      "type": "fax",
+      "label": "Embassy of Belize USA",
+      "value": "+1-202-332-6888",
+      "source": "https://www.belizeembassyusa.mfa.gov.bz/contact"
+    }
+  ]
+}

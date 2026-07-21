@@ -1,0 +1,144 @@
+{
+  "iso": "BTN",
+  "country_name": "Bhutan",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pmo@cabinet.gov.bt",
+      "source": "https://pmo.gov.bt/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office - General",
+      "value": "info@cabinet.gov.bt",
+      "source": "https://pmo.gov.bt/"
+    },
+    {
+      "type": "email",
+      "label": "Invest Bhutan (Business Development)",
+      "value": "investbhutan@moice.gov.bt",
+      "source": "https://investbhutan.gov.bt/"
+    },
+    {
+      "type": "email",
+      "label": "Royal Bhutanese Embassy, New Delhi",
+      "value": "rbedelhi@mfa.gov.bt",
+      "source": "https://www.mfa.gov.bt/rbedelhi/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+975 2 337100",
+      "source": "https://pmo.gov.bt/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main PABX",
+      "value": "+975-2-322459",
+      "source": "https://www.mfa.gov.bt/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular & Passport",
+      "value": "+975-2-328183",
+      "source": "https://www.mfa.gov.bt/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Invest Bhutan",
+      "value": "+975 2 337 623",
+      "source": "https://investbhutan.gov.bt/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.bhutan.gov.bt/",
+      "source": "https://www.bhutan.gov.bt/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://pmo.gov.bt/",
+      "source": "https://pmo.gov.bt/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and External Trade",
+      "url": "https://www.mfa.gov.bt/",
+      "source": "https://www.mfa.gov.bt/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Home Affairs",
+      "url": "https://www.moha.gov.bt/",
+      "source": "https://www.moha.gov.bt/"
+    },
+    {
+      "type": "website",
+      "label": "Invest Bhutan - Business Development",
+      "url": "https://investbhutan.gov.bt/",
+      "source": "https://investbhutan.gov.bt/"
+    },
+    {
+      "type": "website",
+      "label": "GovToCitizen Services",
+      "url": "https://www.citizenservices.gov.bt/",
+      "source": "https://www.citizenservices.gov.bt/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and External Trade",
+      "url": "https://www.facebook.com/MoFABhutan/",
+      "source": "https://www.facebook.com/MoFABhutan/"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office",
+      "url": "https://www.facebook.com/PMOBhutan/",
+      "source": "https://www.facebook.com/PMOBhutan/"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Government of Bhutan",
+      "url": "https://x.com/OfficialBhutan",
+      "source": "https://x.com/OfficialBhutan"
+    },
+    {
+      "type": "twitter",
+      "label": "Bhutan Government",
+      "url": "https://x.com/bhutangov",
+      "source": "https://x.com/bhutangov"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister Bhutan",
+      "url": "https://x.com/pmbhutan",
+      "source": "https://x.com/pmbhutan"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MFABhutan",
+      "source": "https://x.com/MFABhutan"
+    },
+    {
+      "type": "twitter",
+      "label": "Foreign Minister of Bhutan",
+      "url": "https://x.com/FMBhutan",
+      "source": "https://x.com/FMBhutan"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and External Trade",
+      "value": "Gyalyong Tshogkhang, Thimphu, Bhutan, Post Box No. 103",
+      "source": "https://www.mfa.gov.bt/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Invest Bhutan",
+      "value": "Doebum Lam, Thimphu, Bhutan",
+      "source": "https://investbhutan.gov.bt/"
+    }
+  ]
+}

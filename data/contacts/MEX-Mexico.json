@@ -1,0 +1,96 @@
+{
+  "iso": "MEX",
+  "country_name": "Mexico",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Secretaría de Relaciones Exteriores)",
+      "value": "atencionciudadana@sre.gob.mx",
+      "source": "https://www.gob.mx/sre"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Economy (Secretaría de Economía)",
+      "value": "contacto.ciudadano@economia.gob.mx",
+      "source": "https://www.gob.mx/se"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Defense (Secretaría de la Defensa Nacional)",
+      "value": "atn_ciudadana@defensa.gob.mx",
+      "source": "https://www.gob.mx/sedena"
+    },
+    {
+      "type": "email",
+      "label": "National Immigration Institute (Instituto Nacional de Migración)",
+      "value": "cam@inami.gob.mx",
+      "source": "https://www.gob.mx/inm"
+    },
+    {
+      "type": "email",
+      "label": "Federal Environmental Protection (PROFEPA)",
+      "value": "denuncias@profepa.gob.mx",
+      "source": "https://www.gob.mx/profepa"
+    },
+    {
+      "type": "phone",
+      "label": "Mexican Social Security Institute (IMSS)",
+      "value": "+52 800 623 2323",
+      "source": "https://www.imss.gob.mx"
+    },
+    {
+      "type": "phone",
+      "label": "National Council of Science and Humanities (SECIHTI)",
+      "value": "(55) 5322-7700",
+      "source": "https://secihti.mx"
+    },
+    {
+      "type": "phone",
+      "label": "General Government Information Line",
+      "value": "079",
+      "source": "https://www.gob.mx"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gob.mx",
+      "source": "Mexican Federal Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.sre.gob.mx",
+      "source": "Secretaría de Relaciones Exteriores"
+    },
+    {
+      "type": "address",
+      "label": "National Council of Science and Humanities (SECIHTI) - Mexico City",
+      "value": "Av. Insurgentes Sur 1582, Col. Crédito Constructor, Benito Juárez, CP 03940, Ciudad de México",
+      "source": "https://secihti.mx"
+    },
+    {
+      "type": "facebook",
+      "label": "Gobierno de México Official",
+      "url": "https://www.facebook.com/gobmexico",
+      "source": "Official Government Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Gobierno de México Official",
+      "url": "https://x.com/GobiernoMX",
+      "source": "Official Government Twitter/X"
+    },
+    {
+      "type": "other",
+      "label": "Instagram - Gobierno de México",
+      "url": "https://www.instagram.com/gobmexico",
+      "source": "Official Government Instagram"
+    },
+    {
+      "type": "other",
+      "label": "YouTube - Gobierno de México",
+      "url": "https://www.youtube.com/@gobiernodemexico",
+      "source": "Official Government YouTube"
+    }
+  ]
+}

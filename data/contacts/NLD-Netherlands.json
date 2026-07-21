@@ -1,0 +1,180 @@
+{
+  "iso": "NLD",
+  "country_name": "Netherlands",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Fraud/Corruption Reporting",
+      "value": "VCI@minbuza.nl",
+      "source": "https://www.government.nl/ministries/ministry-of-foreign-affairs/contact"
+    },
+    {
+      "type": "email",
+      "label": "Public Information Service - Online Contact Form",
+      "value": "Contact form available at /service/contact/public-information-service/email",
+      "source": "https://www.rijksoverheid.nl"
+    },
+    {
+      "type": "phone",
+      "label": "Public Information Service (Informatie Rijksoverheid) - Within Netherlands",
+      "value": "1400",
+      "source": "https://www.government.nl/ministries/ministry-of-foreign-affairs/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Public Information Service - International",
+      "value": "+31 70 214 02 14",
+      "source": "https://www.government.nl/ministries/ministry-of-foreign-affairs/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - General Enquiries (24/7)",
+      "value": "+31 70 348 64 86",
+      "source": "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Legalisation Desk",
+      "value": "+31 247 247 247",
+      "source": "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of General Affairs - Main Office",
+      "value": "+31 70 356 41 00",
+      "source": "https://www.government.nl/ministries/ministry-of-general-affairs/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of General Affairs - Press Officers",
+      "value": "+31 70 356 41 13",
+      "source": "https://www.government.nl/ministries/ministry-of-general-affairs/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Nederland Wereldwijd - Consular & Travel Services (24/7)",
+      "value": "+31 247 247 247",
+      "source": "https://www.nederlandwereldwijd.nl/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Nederland Wereldwijd - WhatsApp",
+      "value": "+31 857 737 400",
+      "source": "https://www.nederlandwereldwijd.nl/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Postal Address",
+      "value": "P.O. Box 20061, 2500 EB The Hague, Netherlands",
+      "source": "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Physical Address",
+      "value": "Rijnstraat 8, 2515 XP Den Haag, Netherlands",
+      "source": "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of General Affairs - Postal Address",
+      "value": "Postbus 20001, 2500 EA Den Haag, Netherlands",
+      "source": "https://www.government.nl/ministries/ministry-of-general-affairs/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of General Affairs - Physical Address (Main)",
+      "value": "Bezuidenhoutseweg 73, Den Haag, Netherlands",
+      "source": "https://www.government.nl/ministries/ministry-of-general-affairs/contact"
+    },
+    {
+      "type": "address",
+      "label": "Royal House Inquiries - Postal Address",
+      "value": "Ministerie van Algemene Zaken, Rijksvoorlichtingsdienst, Postbus 20009, 2500 EA Den Haag, Netherlands",
+      "source": "https://koninklijkhuis.nl/contact"
+    },
+    {
+      "type": "website",
+      "label": "Government of the Netherlands - Official Portal (English)",
+      "url": "https://www.government.nl",
+      "source": "https://www.government.nl"
+    },
+    {
+      "type": "website",
+      "label": "Rijksoverheid - Official Government Website (Dutch)",
+      "url": "https://www.rijksoverheid.nl",
+      "source": "https://www.rijksoverheid.nl"
+    },
+    {
+      "type": "website",
+      "label": "Nederland Wereldwijd - Embassies, Consulates & International Services",
+      "url": "https://www.nederlandwereldwijd.nl",
+      "source": "https://www.nederlandwereldwijd.nl"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.government.nl/ministries/ministry-of-foreign-affairs",
+      "source": "https://www.government.nl/ministries/ministry-of-foreign-affairs"
+    },
+    {
+      "type": "website",
+      "label": "Royal House of the Netherlands (English)",
+      "url": "https://www.royal-house.nl",
+      "source": "https://www.royal-house.nl"
+    },
+    {
+      "type": "website",
+      "label": "Koninklijk Huis - Dutch Royal House (Dutch)",
+      "url": "https://koninklijkhuis.nl",
+      "source": "https://koninklijkhuis.nl"
+    },
+    {
+      "type": "twitter",
+      "label": "Royal House of the Netherlands Official X/Twitter",
+      "value": "@koninklijkhuis",
+      "source": "https://www.royal-house.nl"
+    },
+    {
+      "type": "facebook",
+      "label": "Royal House of the Netherlands Official Facebook",
+      "value": "HetKoninklijkHuis",
+      "source": "https://www.royal-house.nl"
+    },
+    {
+      "type": "instagram",
+      "label": "Royal House of the Netherlands Official Instagram",
+      "value": "@koninklijkhuis",
+      "source": "https://www.royal-house.nl"
+    },
+    {
+      "type": "linkedin",
+      "label": "Royal House of the Netherlands Official LinkedIn",
+      "value": "koninklijkhuis",
+      "source": "https://www.royal-house.nl"
+    },
+    {
+      "type": "youtube",
+      "label": "Royal House of the Netherlands Official YouTube",
+      "value": "koninklijkhuis",
+      "source": "https://www.royal-house.nl"
+    },
+    {
+      "type": "bluesky",
+      "label": "Royal House of the Netherlands Official Bluesky",
+      "value": "koninklijkhuis.bsky.social",
+      "source": "https://www.royal-house.nl"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Social Media Handle",
+      "value": "MinBZ (multiple platforms including X, Instagram, LinkedIn, Flickr, YouTube, Bluesky)",
+      "source": "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken"
+    },
+    {
+      "type": "other",
+      "label": "Contact Methods Available",
+      "value": "Phone (1400), Email (contact form), X/Twitter, Facebook, WhatsApp",
+      "source": "https://www.rijksoverheid.nl/contact"
+    }
+  ]
+}

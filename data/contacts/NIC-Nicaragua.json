@@ -1,0 +1,66 @@
+{
+  "iso": "NIC",
+  "country_name": "Nicaragua",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "National Assembly (Asamblea Nacional)",
+      "value": "asambleanacional@asamblea.gob.ni",
+      "source": "IPU Parline (Inter-Parliamentary Union)"
+    },
+    {
+      "type": "email",
+      "label": "PRONicaragua - Investment Promotion Agency",
+      "value": "info@pronicaragua.gob.ni",
+      "source": "U.S. State Department Investment Climate Statement & ConnectAmericas"
+    },
+    {
+      "type": "phone",
+      "label": "National Assembly",
+      "value": "+505-2768472, +505-2768482",
+      "source": "IPU Parline"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - NGO Department",
+      "value": "(505) 2244-8991",
+      "source": "Official government contact"
+    },
+    {
+      "type": "phone",
+      "label": "U.S. Commercial Service at U.S. Embassy (Business Development)",
+      "value": "(505) 2252-7100",
+      "source": "U.S. Embassy in Nicaragua"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "http://www.presidencia.gob.ni/",
+      "source": "U.S. State Department & globalEDGE"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (Cancillería)",
+      "url": "http://www.cancilleria.gob.ni/",
+      "source": "Search results"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly",
+      "value": "Asamblea Nacional, Managua, Nicaragua",
+      "source": "IPU Parline"
+    },
+    {
+      "type": "address",
+      "label": "U.S. Embassy (contains commercial relations office)",
+      "value": "Carretera Sur Km. 5.5, Managua, Nicaragua",
+      "source": "U.S. State Department"
+    },
+    {
+      "type": "twitter",
+      "label": "Nicaragua Tourism",
+      "url": "https://twitter.com/visitnicaragua",
+      "source": "Twitter/X"
+    }
+  ]
+}

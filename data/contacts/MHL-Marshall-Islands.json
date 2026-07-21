@@ -1,0 +1,24 @@
+{
+  "iso": "MHL",
+  "country_name": "Marshall Islands",
+  "contacts": [
+    {
+      "type": "phone",
+      "label": "Country Code",
+      "value": "+692",
+      "source": "Wikipedia - Marshall Islands"
+    },
+    {
+      "type": "website",
+      "label": "Internet Domain",
+      "value": ".mh",
+      "source": "Wikipedia - Marshall Islands"
+    },
+    {
+      "type": "other",
+      "label": "UN Permanent Mission Contact Directory",
+      "value": "UN Blue Book (https://bluebook.e-delegate.un.org/) - Contains Marshall Islands mission contact information but requires direct database access",
+      "source": "UN Official Member States Directory"
+    }
+  ]
+}

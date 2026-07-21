@@ -1,0 +1,90 @@
+{
+  "iso": "LTU",
+  "country_name": "Lithuania",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Government of Lithuania (Official Portal)",
+      "url": "https://lrv.lt",
+      "source": "Wikipedia: Government of Lithuania"
+    },
+    {
+      "type": "website",
+      "label": "Lithuanian Parliament (Seimas)",
+      "url": "https://lrs.lt",
+      "source": "Wikipedia: Seimas"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://urm.lt",
+      "source": "Wikipedia: Ministry of Foreign Affairs (Lithuania)"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.lrp.lt",
+      "source": "Wikipedia: President of Lithuania"
+    },
+    {
+      "type": "website",
+      "label": "EU Permanent Representation",
+      "url": "https://eu.mfa.lt/en",
+      "source": "European Union official sources"
+    },
+    {
+      "type": "email",
+      "label": "Parliamentary Reception/Inquiries",
+      "value": "priim@lrs.lt",
+      "source": "Wikipedia: Seimas - Lithuanian Parliament"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament Main Line",
+      "value": "+370 5 239 6060",
+      "source": "Wikipedia: Seimas"
+    },
+    {
+      "type": "address",
+      "label": "Government Headquarters",
+      "value": "Gediminas Avenue 11, Vilnius, Lithuania",
+      "source": "Wikipedia: Government of Lithuania"
+    },
+    {
+      "type": "address",
+      "label": "Parliament (Seimas) Palace",
+      "value": "Gediminas Avenue 53, 01109 Vilnius, Lithuania",
+      "source": "Wikipedia: Seimas"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "J. Tumo-Vaižganto 2, Naujamiestis, Vilnius 01511, Lithuania",
+      "source": "Wikipedia: Ministry of Foreign Affairs (Lithuania)"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Lithuania Official Account",
+      "url": "https://x.com/LithuanianGovt",
+      "source": "Wikipedia: Cabinet of Lithuania"
+    },
+    {
+      "type": "facebook",
+      "label": "Parliament (Seimas) - Multiple Official Pages",
+      "url": "https://www.facebook.com/search/pages/?q=seimas.lt",
+      "source": "Wikipedia: Seimas - maintains active social media"
+    },
+    {
+      "type": "phone",
+      "label": "Country Calling Code",
+      "value": "+370",
+      "source": "Wikipedia: Communications in Lithuania"
+    },
+    {
+      "type": "other",
+      "label": "Vilnius City Government",
+      "value": "vilnius.lt | Mayor: Valdas Benkunskas | Phone area code: +370 5",
+      "source": "Wikipedia: Vilnius"
+    }
+  ]
+}

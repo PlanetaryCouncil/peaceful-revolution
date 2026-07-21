@@ -1,0 +1,114 @@
+{
+  "iso": "ROU",
+  "country_name": "Romania",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pm@gov.ro",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "email",
+      "label": "Department for Petitions and Complaints",
+      "value": "drp@gov.ro",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office and Government",
+      "url": "https://gov.ro/en",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "website",
+      "label": "Office of the President",
+      "url": "https://www.presidency.ro/",
+      "source": "Official Presidential Website"
+    },
+    {
+      "type": "phone",
+      "label": "Victoria Palace (Government Headquarters) - Main",
+      "value": "+40 21 314 3400 / +40 21 319 1564",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "phone",
+      "label": "Department for Petitions and Complaints",
+      "value": "+40 21 314 3400 ext. 1903",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "phone",
+      "label": "Public Relations Department",
+      "value": "+40 21 314 3400 ext. 1006",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "phone",
+      "label": "Department for Petitions and Complaints - Fax",
+      "value": "+40 21 313 98 46",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "address",
+      "label": "Victoria Palace (Government Headquarters)",
+      "value": "Palatul Victoria, Piaţa Victoriei nr. 1, Sector 1, Bucureşti, Cod Poștal 011791",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "address",
+      "label": "Office of the President (Cotroceni Palace)",
+      "value": "Cotroceni Palace, Bucharest, Romania",
+      "source": "Official Presidential Website"
+    },
+    {
+      "type": "facebook",
+      "label": "Romanian Government Official",
+      "url": "https://www.facebook.com/guv.ro",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "linkedin",
+      "label": "Romanian Government Official",
+      "url": "https://www.linkedin.com/company/guvernul-rom-niei",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "youtube",
+      "label": "Romanian Government Official",
+      "url": "https://www.youtube.com/user/guvernulromaniei",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "newsletter",
+      "label": "Government Newsletter",
+      "url": "https://newsletter.gov.ro/",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "other",
+      "label": "General Registrature Office Hours",
+      "value": "08:00-18:30 Mon/Wed/Thu/Fri, 08:00-19:00 Tue",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "other",
+      "label": "Public Relations Department Hours",
+      "value": "08:30-16:30 Monday-Friday",
+      "source": "Official Romanian Government Portal (gov.ro)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health",
+      "value": "+40 21 312 2212 / +40 21 317 4008",
+      "source": "Official Ministry of Health Website (ms.ro)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Health",
+      "value": "Strada Cristian Popişteanu, nr. 1-3, Sector 1, Bucureşti",
+      "source": "Official Ministry of Health Website (ms.ro)"
+    }
+  ]
+}

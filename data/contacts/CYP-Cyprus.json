@@ -1,0 +1,138 @@
+{
+  "iso": "CYP",
+  "country_name": "Cyprus",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "info@mfa.gov.cy",
+      "source": "https://www.gov.cy/mfa/en/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Trade Service (Commerce & Business Development)",
+      "value": "ts@meci.gov.cy",
+      "source": "https://www.trade.gov.cy/en/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Export Helpdesk",
+      "value": "exporthelpdeskcyprus@meci.gov.cy",
+      "source": "https://www.trade.gov.cy/en/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Presidential Office",
+      "value": "info@presidency.gov.cy",
+      "source": "https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/contact_en/contact_en?OpenDocument="
+    },
+    {
+      "type": "email",
+      "label": "Presidential Press Office",
+      "value": "press@presidency.gov.cy",
+      "source": "https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/contact_en/contact_en?OpenDocument="
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+357 22 651000",
+      "source": "https://www.gov.cy/mfa/en/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Fax",
+      "value": "+357 22 661881",
+      "source": "https://www.gov.cy/mfa/en/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Trade Service",
+      "value": "+357 22 867123",
+      "source": "https://www.trade.gov.cy/en/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office",
+      "value": "+357 22 867400",
+      "source": "https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/contact_en/contact_en?OpenDocument="
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office Fax",
+      "value": "+357 22 663799",
+      "source": "https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/contact_en/contact_en?OpenDocument="
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Presidential Palace Avenue, 1447 Nicosia, Cyprus",
+      "source": "https://www.gov.cy/mfa/en/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Palace",
+      "value": "1400 Nicosia, Cyprus",
+      "source": "https://www.presidency.gov.cy/cypresidency/cypresidency.nsf/contact_en/contact_en?OpenDocument="
+    },
+    {
+      "type": "address",
+      "label": "Trade Service",
+      "value": "6 Andrea Araouzou, 1421 Nicosia, Cyprus",
+      "source": "https://www.trade.gov.cy/en/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.gov.cy/mfa/en/",
+      "source": "https://www.gov.cy/mfa/en/"
+    },
+    {
+      "type": "website",
+      "label": "Presidential Office",
+      "url": "https://www.gov.cy/presidency/en/",
+      "source": "https://www.gov.cy/presidency/en/"
+    },
+    {
+      "type": "website",
+      "label": "Trade Service (Commerce & Industry)",
+      "url": "https://www.trade.gov.cy/en/",
+      "source": "https://www.trade.gov.cy/en/"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "https://www.gov.cy/en/",
+      "source": "https://www.gov.cy/en/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/CyprusMFA/",
+      "source": "https://www.facebook.com/CyprusMFA/"
+    },
+    {
+      "type": "facebook",
+      "label": "Cyprus Government",
+      "url": "https://www.facebook.com/CyprusGovernment/",
+      "source": "https://www.facebook.com/CyprusGovernment/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/CyprusMFA",
+      "source": "https://x.com/CyprusMFA"
+    },
+    {
+      "type": "twitter",
+      "label": "Cyprus Government",
+      "url": "https://x.com/govcyprus",
+      "source": "https://x.com/govcyprus"
+    },
+    {
+      "type": "twitter",
+      "label": "Press and Information Office",
+      "url": "https://x.com/CyprusPIO",
+      "source": "https://x.com/CyprusPIO"
+    }
+  ]
+}

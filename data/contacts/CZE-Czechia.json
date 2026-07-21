@@ -1,0 +1,234 @@
+{
+  "iso": "CZE",
+  "country_name": "Czechia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "wwwadmin@mzv.cz",
+      "source": "https://mzv.gov.cz/"
+    },
+    {
+      "type": "email",
+      "label": "Government Office (Office of the Prime Minister)",
+      "value": "posta@vlada.gov.cz",
+      "source": "https://vlada.gov.cz/cz/urad-vlady/adresa-uradu-vlady/sidlo-uradu-3894/"
+    },
+    {
+      "type": "email",
+      "label": "Chamber of Deputies (Parliament)",
+      "value": "posta@psp.cz",
+      "source": "https://www.psp.cz/sqw/hp.sqw?k=670"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior - General",
+      "value": "posta@mv.gov.cz",
+      "source": "https://mv.gov.cz/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior - Public Information",
+      "value": "public@mv.gov.cz",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior - Press/Media",
+      "value": "press@mv.gov.cz",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior - Identity Documents & Passports",
+      "value": "osc@mv.gov.cz",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior - Immigration & Residence",
+      "value": "pobyty@mv.gov.cz",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Interior - Temporary Protection (Ukraine)",
+      "value": "ukrajina@mv.gov.cz",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Switchboard",
+      "value": "+420 224 181 111",
+      "source": "https://mzv.gov.cz/jnp/cz/kontakty.html"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Travel Information Line",
+      "value": "+420 222 264 222",
+      "source": "https://mzv.gov.cz/jnp/cz/kontakty.html"
+    },
+    {
+      "type": "phone",
+      "label": "Government Office (Office of the Prime Minister) - Switchboard",
+      "value": "+420 224 002 111",
+      "source": "https://vlada.gov.cz/cz/urad-vlady/adresa-uradu-vlady/sidlo-uradu-3894/"
+    },
+    {
+      "type": "phone",
+      "label": "Chamber of Deputies (Parliament) - Switchboard",
+      "value": "+420 257 171 111",
+      "source": "https://www.psp.cz/sqw/hp.sqw?k=670"
+    },
+    {
+      "type": "phone",
+      "label": "Chamber of Deputies - Information Provision",
+      "value": "+420 257 171 717",
+      "source": "https://www.psp.cz/sqw/hp.sqw?k=670"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Main Switchboard",
+      "value": "+420 974 811 111",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Identity Documents & Passports",
+      "value": "+420 974 849 788",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Immigration & Residence",
+      "value": "+420 974 801 801",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Temporary Protection (Ukraine) Information",
+      "value": "+420 974 801 802",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Czech Police - Emergency (non-life-threatening)",
+      "value": "+420 158",
+      "source": "https://policie.gov.cz/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main Building (Černínský palác)",
+      "value": "Loretánské náměstí 5, 118 00 Praha 1 – Hradčany, Czech Republic",
+      "source": "https://mzv.gov.cz/jnp/cz/kontakty.html"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Consular Department (Toskánský palác)",
+      "value": "Hradčanské nám. 5, 118 00 Praha 1, Czech Republic",
+      "source": "https://mzv.gov.cz/jnp/cz/kontakty.html"
+    },
+    {
+      "type": "address",
+      "label": "Government Office (Office of the Prime Minister)",
+      "value": "Nábřeží Edvarda Beneše 128/4, Praha 1 - Malá Strana, 118 00 Prague, Czech Republic",
+      "source": "https://vlada.gov.cz/cz/urad-vlady/adresa-uradu-vlady/sidlo-uradu-3894/"
+    },
+    {
+      "type": "address",
+      "label": "Chamber of Deputies (Parliament)",
+      "value": "Snemovna 176/4, 118 26 Praha 1 - Malá Strana, Czech Republic",
+      "source": "https://www.psp.cz/sqw/hp.sqw?k=670"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Interior - Prague 7 Location",
+      "value": "Nad Štolou 3, P.O. Box 21, 170 34 Praha 7, Czech Republic",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Interior - Prague 4 Location",
+      "value": "Náměstí Hrdinů 1634/3, P.O. Box 155, 140 21 Praha 4, Czech Republic",
+      "source": "https://mv.gov.cz/clanek/dotaky.aspx"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://portal.gov.cz/",
+      "source": "https://portal.gov.cz/"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Government (Prime Minister)",
+      "url": "https://vlada.gov.cz/",
+      "source": "https://vlada.gov.cz/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mzv.gov.cz/",
+      "source": "https://mzv.gov.cz/"
+    },
+    {
+      "type": "website",
+      "label": "Chamber of Deputies (Parliament)",
+      "url": "https://www.psp.cz/",
+      "source": "https://www.psp.cz/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior",
+      "url": "https://mv.gov.cz/",
+      "source": "https://mv.gov.cz/"
+    },
+    {
+      "type": "website",
+      "label": "Czech Police",
+      "url": "https://policie.gov.cz/",
+      "source": "https://policie.gov.cz/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/Ministerstvo-zahraničních-věcí-České-republiky",
+      "source": "https://mzv.gov.cz/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/mzvcr",
+      "source": "https://mzv.gov.cz/"
+    },
+    {
+      "type": "twitter",
+      "label": "Government Office (Straková akademie)",
+      "url": "https://twitter.com/strakovka",
+      "source": "https://vlada.gov.cz/"
+    },
+    {
+      "type": "facebook",
+      "label": "Government Office (Straková akademie)",
+      "url": "https://www.facebook.com/strakovka",
+      "source": "https://vlada.gov.cz/"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Interior - Data Box ID",
+      "value": "6bnaawp",
+      "source": "https://mv.gov.cz/clanek/dotazy.aspx"
+    },
+    {
+      "type": "other",
+      "label": "Government Office - Data Box ID",
+      "value": "trfaa33",
+      "source": "https://vlada.gov.cz/"
+    },
+    {
+      "type": "other",
+      "label": "Chamber of Deputies - Data Box ID",
+      "value": "bykaigw",
+      "source": "https://www.psp.cz/sqw/hp.sqw?k=670"
+    }
+  ]
+}

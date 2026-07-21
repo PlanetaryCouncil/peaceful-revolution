@@ -1,0 +1,120 @@
+{
+  "iso": "ISR",
+  "country_name": "Israel",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "pniot@mfa.gov.il",
+      "source": "https://www.gov.il/en/pages/contact_us_mfa"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pm_eng@pmo.gov.il",
+      "source": "https://www.habitants.org/content/download/35605/398627/version/2/file/Israeli+government+contact+information.pdf"
+    },
+    {
+      "type": "email",
+      "label": "President's Office",
+      "value": "benjaminl@president.gov.il",
+      "source": "https://www.president.gov.il/en/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+972-2-5303111",
+      "source": "https://www.gov.il/en/pages/contact_us_mfa"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+972-2-6705555",
+      "source": "https://www.habitants.org/content/download/35605/398627/version/2/file/Israeli+government+contact+information.pdf"
+    },
+    {
+      "type": "phone",
+      "label": "Government Central Support Center",
+      "value": "1299",
+      "source": "https://www.gov.il/en"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.gov.il/en/departments/ministry_of_foreign_affairs/govil-landing-page",
+      "source": "https://www.gov.il"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gov.il/en",
+      "source": "https://www.gov.il"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://gov.il/en/departments/prime_ministers_office/govil-landing-page",
+      "source": "https://www.gov.il"
+    },
+    {
+      "type": "website",
+      "label": "President's Office",
+      "url": "https://www.president.gov.il/en/",
+      "source": "https://www.president.gov.il"
+    },
+    {
+      "type": "website",
+      "label": "Israeli Trade Administration",
+      "url": "https://itrade.gov.il/usa/",
+      "source": "https://itrade.gov.il"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/IsraelMFA/",
+      "source": "https://www.facebook.com/IsraelMFA/"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office",
+      "url": "https://www.facebook.com/IsraeliPM/",
+      "source": "https://www.facebook.com/IsraeliPM/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/IsraelMFA",
+      "source": "https://x.com/IsraelMFA"
+    },
+    {
+      "type": "twitter",
+      "label": "President's Office",
+      "url": "https://x.com/IsraelPresident",
+      "source": "https://x.com/IsraelPresident"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office",
+      "url": "https://x.com/IsraeliPM",
+      "source": "https://x.com/IsraeliPM"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Yitzhak Rabin Boulevard, Kiryat HaLeom, Jerusalem 9103001, Israel",
+      "source": "https://www.gov.il/en/pages/contact_us_mfa"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "3 Kaplan Street, Kiryat Ben-Gurion, Jerusalem 91919, Israel",
+      "source": "https://www.habitants.org/content/download/35605/398627/version/2/file/Israeli+government+contact+information.pdf"
+    },
+    {
+      "type": "address",
+      "label": "President's Office",
+      "value": "3 Hanasi Street, The President's Residence, Jerusalem, Israel",
+      "source": "https://www.president.gov.il/en/"
+    }
+  ]
+}

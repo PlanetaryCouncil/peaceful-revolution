@@ -1,0 +1,42 @@
+{
+  "iso": "SLB",
+  "country_name": "Solomon Islands",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "National Parliament of Solomon Islands - ICT/General Inquiries",
+      "value": "ict@parliament.gov.sb",
+      "source": "https://parliament.gov.sb/about/contact_us/"
+    },
+    {
+      "type": "phone",
+      "label": "National Parliament of Solomon Islands",
+      "value": "+677 28520",
+      "source": "https://parliament.gov.sb/about/contact_us/"
+    },
+    {
+      "type": "address",
+      "label": "National Parliament of Solomon Islands",
+      "value": "PO Box G19, Vavaya Ridge, Honiara, Solomon Islands",
+      "source": "https://parliament.gov.sb/about/contact_us/"
+    },
+    {
+      "type": "website",
+      "label": "National Parliament of Solomon Islands - Official Website",
+      "url": "https://parliament.gov.sb/",
+      "source": "https://parliament.gov.sb/"
+    },
+    {
+      "type": "facebook",
+      "label": "National Parliament of Solomon Islands",
+      "url": "https://www.facebook.com/npomedia",
+      "source": "https://parliament.gov.sb/"
+    },
+    {
+      "type": "twitter",
+      "label": "National Parliament of Solomon Islands",
+      "url": "https://x.com/OfficialParl_SI",
+      "source": "https://parliament.gov.sb/"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "iso": "HTI",
+  "country_name": "Haiti",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Worship",
+      "value": "maec@diplomatie.ht",
+      "source": "https://mae.gouv.ht/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "info@primature.gouv.ht",
+      "source": "https://www.primature.gouv.ht/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Haiti - Washington DC (Diplomatic)",
+      "value": "amb.washington@diplomatie.ht",
+      "source": "https://www.haiti.org/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Haiti - Washington DC (Consular)",
+      "value": "cons.wash@diplomatie.ht",
+      "source": "https://www.haiti.org/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+509 2813-1460, +509 2813-1468",
+      "source": "https://mae.gouv.ht/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+509 2221-0014",
+      "source": "https://www.primature.gouv.ht/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Haiti - Washington DC",
+      "value": "+1 202-332-4090",
+      "source": "https://www.haiti.org/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Worship",
+      "value": "15, rue Mangonèse Berthé, Pétion-ville, Haïti, HT6140",
+      "source": "https://mae.gouv.ht/"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office (Primature)",
+      "value": "31, Boulevard Harry Truman, Bicentenaire, Port-au-Prince, Haïti",
+      "source": "https://www.primature.gouv.ht/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Haiti - Washington DC",
+      "value": "2311 Massachusetts Ave., N.W., Washington, D.C. 20008",
+      "source": "https://www.haiti.org/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Worship",
+      "url": "https://mae.gouv.ht/",
+      "source": "https://mae.gouv.ht/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office (Primature)",
+      "url": "https://www.primature.gouv.ht/",
+      "source": "https://www.primature.gouv.ht/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Information Portal",
+      "url": "https://communication.gouv.ht/",
+      "source": "https://communication.gouv.ht/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MAECHaiti",
+      "source": "https://mae.gouv.ht/"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency of Haiti",
+      "url": "https://www.facebook.com/presidencehaiti/",
+      "source": "https://www.facebook.com/presidencehaiti/"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Communication (McHaiti)",
+      "url": "https://www.facebook.com/mchaiti",
+      "source": "https://communication.gouv.ht/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/mae_haiti",
+      "source": "https://mae.gouv.ht/"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office",
+      "url": "https://x.com/PrimatureHT",
+      "source": "https://x.com/PrimatureHT"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Communication",
+      "url": "https://x.com/mchaiti",
+      "source": "https://communication.gouv.ht/"
+    }
+  ]
+}

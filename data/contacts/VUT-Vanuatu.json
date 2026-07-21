@@ -1,0 +1,66 @@
+{
+  "iso": "VUT",
+  "country_name": "Vanuatu",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Permanent Mission to the United Nations",
+      "value": "vanunmis@aol.com",
+      "source": "UN.int Vanuatu Mission About page"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to the United Nations - Primary",
+      "value": "+1 212-661-4303",
+      "source": "UN.int Vanuatu Mission About page"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to the United Nations - Alternative 1",
+      "value": "+1 212-422-3427",
+      "source": "UN.int Vanuatu Mission About page"
+    },
+    {
+      "type": "phone",
+      "label": "Permanent Mission to the United Nations - Alternative 2",
+      "value": "+1 212-661-5544",
+      "source": "UN.int Vanuatu Mission About page"
+    },
+    {
+      "type": "address",
+      "label": "Permanent Mission to the United Nations",
+      "value": "800 Second Avenue, Suite 400B, New York, N.Y. 10017, USA",
+      "source": "UN.int Vanuatu Mission About page"
+    },
+    {
+      "type": "website",
+      "label": "Permanent Mission to the United Nations",
+      "url": "http://www.un.int/vanuatu/",
+      "source": "Verified official UN mission website"
+    },
+    {
+      "type": "other",
+      "label": "Country Calling Code",
+      "value": "+678",
+      "source": "Wikipedia - Vanuatu"
+    },
+    {
+      "type": "other",
+      "label": "President",
+      "value": "Nikenike Vurobaravu (since July 23, 2022)",
+      "source": "Wikipedia - Government of Vanuatu"
+    },
+    {
+      "type": "other",
+      "label": "Prime Minister",
+      "value": "Jotham Napat (since February 11, 2025)",
+      "source": "Wikipedia - Vanuatu Government"
+    },
+    {
+      "type": "other",
+      "label": "Capital",
+      "value": "Port Vila",
+      "source": "Wikipedia - Vanuatu"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "iso": "MCO",
+  "country_name": "Monaco",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gouv.mc",
+      "source": "https://www.gouv.mc"
+    },
+    {
+      "type": "website",
+      "label": "Government Contact Portal",
+      "url": "https://contacts.gouv.mc/contactez-l-administration",
+      "source": "https://www.gouv.mc/contact"
+    },
+    {
+      "type": "website",
+      "label": "Prince's Palace Official Website",
+      "url": "https://www.palais.mc",
+      "source": "https://www.palais.mc"
+    },
+    {
+      "type": "phone",
+      "label": "Prince's Palace Main Line",
+      "value": "+377 93 25 18 31",
+      "source": "https://www.palais.mc/fr/contact-3-3.html"
+    },
+    {
+      "type": "address",
+      "label": "Prince's Palace Mailing Address",
+      "value": "B.P. 518, MC 98015 Monaco Cedex",
+      "source": "https://www.palais.mc/fr/contact-3-3.html"
+    },
+    {
+      "type": "facebook",
+      "label": "Government Official Account",
+      "url": "https://www.facebook.com/GvtMonaco",
+      "source": "https://www.gouv.mc/contact"
+    },
+    {
+      "type": "facebook",
+      "label": "Prince's Palace Official Account",
+      "url": "https://fr-fr.facebook.com/palaismonaco",
+      "source": "https://www.palais.mc"
+    },
+    {
+      "type": "twitter",
+      "label": "Government Official X/Twitter Account",
+      "url": "https://twitter.com/GvtMonaco",
+      "source": "https://www.gouv.mc/contact"
+    },
+    {
+      "type": "instagram",
+      "label": "Government Official Account",
+      "url": "https://www.instagram.com/gvt_monaco",
+      "source": "https://www.gouv.mc/contact"
+    },
+    {
+      "type": "instagram",
+      "label": "Prince's Palace Official Account",
+      "url": "https://www.instagram.com/palaisprincierdemonaco",
+      "source": "https://www.palais.mc"
+    },
+    {
+      "type": "youtube",
+      "label": "Government Official Channel",
+      "url": "https://www.youtube.com/@GouvMonaco",
+      "source": "https://www.gouv.mc/contact"
+    },
+    {
+      "type": "linkedin",
+      "label": "Government Official Account",
+      "url": "https://www.linkedin.com/company/GvtMonaco",
+      "source": "https://www.gouv.mc/contact"
+    },
+    {
+      "type": "website",
+      "label": "Administrative Services Portal - Citizens",
+      "url": "https://monservicepublic.gouv.mc",
+      "source": "https://www.gouv.mc"
+    },
+    {
+      "type": "website",
+      "label": "Administrative Services Portal - Businesses",
+      "url": "https://monentreprise.gouv.mc",
+      "source": "https://www.gouv.mc"
+    },
+    {
+      "type": "website",
+      "label": "Online Administrative Procedures Portal",
+      "url": "https://monguichet.mc",
+      "source": "https://www.gouv.mc"
+    },
+    {
+      "type": "website",
+      "label": "Official Legislative Database",
+      "url": "https://legimonaco.mc",
+      "source": "https://www.gouv.mc"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Journal",
+      "url": "https://journaldemonaco.gouv.mc",
+      "source": "https://www.gouv.mc"
+    }
+  ]
+}

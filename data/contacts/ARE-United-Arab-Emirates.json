@@ -1,0 +1,180 @@
+{
+  "iso": "ARE",
+  "country_name": "United Arab Emirates",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Complaints & Inquiries",
+      "value": "Complaints@mofa.gov.ae",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Toll-free Hotline",
+      "value": "+971 800 44 444",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Service Line (Tawasul)",
+      "value": "171",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "phone",
+      "label": "UAE Government - General Inquiry Hotline",
+      "value": "80012",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "phone",
+      "label": "Government Centralized Feedback Service (171 Tawasul)",
+      "value": "171",
+      "source": "Official 171.ae portal"
+    },
+    {
+      "type": "phone",
+      "label": "Government Centralized Feedback - WhatsApp",
+      "value": "+971 4 777 1777",
+      "source": "Official 171.ae portal"
+    },
+    {
+      "type": "address",
+      "label": "UAE Government - Mailing Address",
+      "value": "P.O. Box 26662, Abu Dhabi, United Arab Emirates",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Abu Dhabi Office",
+      "value": "Abu Al Abyad Street, Abu Dhabi, UAE",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Dubai Office",
+      "value": "12 Beniyas Road, Dubai, UAE",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Sharjah Office",
+      "value": "Al Dafeen Area, Sharjah, UAE",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official Website",
+      "url": "https://www.mofa.gov.ae/en/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "UAE Government Official Portal",
+      "url": "https://u.ae/en/",
+      "source": "Official government domain"
+    },
+    {
+      "type": "website",
+      "label": "Centralized Feedback Portal (171 Tawasul)",
+      "url": "https://171.ae/en/",
+      "source": "Official government service portal"
+    },
+    {
+      "type": "website",
+      "label": "UAE Contact Form (U.Ask Platform)",
+      "url": "https://u.ae/en/Help/Contact-Us",
+      "source": "Official UAE Government Portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Facebook",
+      "url": "https://www.facebook.com/Mofauae/",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "facebook",
+      "label": "UAE Government - Facebook",
+      "url": "https://www.facebook.com/uaedgov",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs - Twitter/X",
+      "url": "https://twitter.com/MOFAUAE",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "twitter",
+      "label": "UAE Government - Twitter/X",
+      "url": "https://twitter.com/uaedgov",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs - Instagram",
+      "url": "https://www.instagram.com/mofauae/",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "instagram",
+      "label": "UAE Government - Instagram",
+      "url": "https://www.instagram.com/uaemgov/",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs - YouTube",
+      "url": "https://www.youtube.com/channel/UCaLi43UPoOiV7t3w17uQsxA",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "youtube",
+      "label": "UAE Government - YouTube (Emirates eGovernment)",
+      "url": "https://www.youtube.com/@uaedgov",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "linkedin",
+      "label": "Ministry of Foreign Affairs - LinkedIn",
+      "url": "https://www.linkedin.com/company/mofauae/",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "phone",
+      "label": "Emergency - Police",
+      "value": "999",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "phone",
+      "label": "Emergency - Fire & Rescue",
+      "value": "997",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "phone",
+      "label": "Emergency - Ambulance",
+      "value": "998",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "fax",
+      "label": "UAE Government - Fax",
+      "value": "+971 2 611 8229",
+      "source": "Official UAE Government Portal (u.ae)"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - WhatsApp Service",
+      "value": "+971 800 44 444",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    },
+    {
+      "type": "other",
+      "label": "Leadership - Deputy Prime Minister & Minister of Foreign Affairs",
+      "value": "H.H. Sheikh Abdullah bin Zayed Al Nahyan",
+      "source": "Official Ministry of Foreign Affairs website (mofa.gov.ae)"
+    }
+  ]
+}

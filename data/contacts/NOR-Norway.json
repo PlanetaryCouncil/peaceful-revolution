@@ -1,0 +1,216 @@
+{
+  "iso": "NOR",
+  "country_name": "Norway",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (Main)",
+      "value": "post@mfa.no",
+      "source": "Official Norwegian Ministry of Foreign Affairs website (norway.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+47 23 95 00 00",
+      "source": "Official Norwegian Ministry of Foreign Affairs website (norway.no)"
+    },
+    {
+      "type": "website",
+      "label": "Norwegian Government Main Portal",
+      "url": "https://www.regjeringen.no",
+      "source": "Official Norwegian government website"
+    },
+    {
+      "type": "website",
+      "label": "Government of Norway Official Site",
+      "url": "https://www.norge.no",
+      "source": "Official Norwegian public services portal"
+    },
+    {
+      "type": "email",
+      "label": "Royal Court / Head of State Office",
+      "value": "post@slottet.no",
+      "source": "Official Norwegian Royal Court website (royalcourt.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Royal Court / Head of State Office",
+      "value": "+47 22 04 87 00",
+      "source": "Official Norwegian Royal Court website (royalcourt.no)"
+    },
+    {
+      "type": "email",
+      "label": "Royal Court Press/Media",
+      "value": "presse@slottet.no",
+      "source": "Official Norwegian Royal Court website (royalcourt.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Royal Court Press/Media",
+      "value": "+47 911 73 952",
+      "source": "Official Norwegian Royal Court website (royalcourt.no)"
+    },
+    {
+      "type": "address",
+      "label": "Royal Court / Head of State",
+      "value": "Slottsplassen 1, 0010 Oslo, Norway",
+      "source": "Official Norwegian Royal Court website (royalcourt.no)"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Victoria Terrasse, Oslo, Norway",
+      "source": "Official Wikipedia article on Norwegian Ministry of Foreign Affairs"
+    },
+    {
+      "type": "address",
+      "label": "Government Quarter - Prime Minister's Office",
+      "value": "Akersgata 42, Oslo, Norway",
+      "source": "Official Wikipedia article on Government Quarter Oslo (Regjeringskvartalet)"
+    },
+    {
+      "type": "phone",
+      "label": "Norwegian Parliament (Storting)",
+      "value": "+47 23 31 30 50",
+      "source": "Official Storting website (stortinget.no)"
+    },
+    {
+      "type": "address",
+      "label": "Norwegian Parliament (Storting)",
+      "value": "Postboks 1700 Sentrum, N-0026 Oslo, Norway",
+      "source": "Official Storting website (stortinget.no)"
+    },
+    {
+      "type": "website",
+      "label": "Norwegian Parliament",
+      "url": "https://www.stortinget.no/en/",
+      "source": "Official Norwegian Parliament website"
+    },
+    {
+      "type": "email",
+      "label": "Norwegian Public Health Institute (FHI)",
+      "value": "folkehelseinstituttet@fhi.no",
+      "source": "Official Norwegian Public Health Institute website (fhi.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Norwegian Public Health Institute (FHI)",
+      "value": "+47 21 07 70 00",
+      "source": "Official Norwegian Public Health Institute website (fhi.no)"
+    },
+    {
+      "type": "address",
+      "label": "Norwegian Public Health Institute (FHI)",
+      "value": "Lovisenberggata 8, 0213 Oslo, Norway",
+      "source": "Official Norwegian Public Health Institute website (fhi.no)"
+    },
+    {
+      "type": "email",
+      "label": "Norwegian Digitalisation Agency (Digdir)",
+      "value": "postmottak@digdir.no",
+      "source": "Official Digitaliseringsdirektoratet website (digdir.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Norwegian Digitalisation Agency (Digdir)",
+      "value": "+47 22 45 10 00",
+      "source": "Official Digitaliseringsdirektoratet website (digdir.no)"
+    },
+    {
+      "type": "address",
+      "label": "Norwegian Digitalisation Agency (Digdir) - Oslo",
+      "value": "Lørenfaret 1C, 0580 Oslo, Norway",
+      "source": "Official Digitaliseringsdirektoratet website (digdir.no)"
+    },
+    {
+      "type": "email",
+      "label": "Statistics Norway (SSB)",
+      "value": "ssb@ssb.no",
+      "source": "Official Statistics Norway website (ssb.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Statistics Norway (SSB)",
+      "value": "+47 62 88 50 00",
+      "source": "Official Statistics Norway website (ssb.no)"
+    },
+    {
+      "type": "address",
+      "label": "Statistics Norway (SSB) - Oslo",
+      "value": "Akersveien 26, 0177 Oslo, Norway",
+      "source": "Official Statistics Norway website (ssb.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Police Emergency",
+      "value": "112",
+      "source": "Official Norwegian Police website (politiet.no)"
+    },
+    {
+      "type": "phone",
+      "label": "Police General Inquiries",
+      "value": "+47 02800",
+      "source": "Official Norwegian Police website (politiet.no)"
+    },
+    {
+      "type": "website",
+      "label": "Norwegian Police",
+      "url": "https://www.politiet.no/en/",
+      "source": "Official Norwegian Police website"
+    },
+    {
+      "type": "phone",
+      "label": "Norwegian Broadcasting Corporation (NRK)",
+      "value": "+47 23 04 70 00",
+      "source": "Official NRK website (nrk.no)"
+    },
+    {
+      "type": "phone",
+      "label": "NRK News Tips Hotline",
+      "value": "+47 03030",
+      "source": "Official NRK website (nrk.no)"
+    },
+    {
+      "type": "website",
+      "label": "Norwegian Broadcasting Corporation (NRK)",
+      "url": "https://www.nrk.no",
+      "source": "Official NRK website"
+    },
+    {
+      "type": "website",
+      "label": "Royal Court / Head of State",
+      "url": "https://www.royalcourt.no/en/",
+      "source": "Official Norwegian Royal Court website"
+    },
+    {
+      "type": "twitter",
+      "label": "Norwegian Government Official Account",
+      "url": "https://x.com/regjeringen",
+      "source": "Official Norwegian Government X/Twitter account (verified as regjeringen)"
+    },
+    {
+      "type": "instagram",
+      "label": "Norwegian Government Official Account",
+      "url": "https://www.instagram.com/regjeringen/",
+      "source": "Official Norwegian Government Instagram account (@regjeringen)"
+    },
+    {
+      "type": "website",
+      "label": "Norwegian Digitalisation Agency",
+      "url": "https://www.digdir.no",
+      "source": "Official Digitaliseringsdirektoratet website"
+    },
+    {
+      "type": "website",
+      "label": "Statistics Norway",
+      "url": "https://www.ssb.no/en",
+      "source": "Official Statistics Norway website"
+    },
+    {
+      "type": "website",
+      "label": "Norwegian Public Health Institute",
+      "url": "https://www.fhi.no/",
+      "source": "Official Norwegian Public Health Institute website"
+    }
+  ]
+}

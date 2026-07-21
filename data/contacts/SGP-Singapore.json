@@ -1,0 +1,240 @@
+{
+  "iso": "SGP",
+  "country_name": "Singapore",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "mfa@mfa.gov.sg",
+      "source": "https://www.mfa.gov.sg"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pmo_hq@pmo.gov.sg",
+      "source": "https://www.pmo.gov.sg/contact-info"
+    },
+    {
+      "type": "email",
+      "label": "President's Office (Istana)",
+      "value": "istana_feedback@istana.gov.sg",
+      "source": "https://www.istana.gov.sg/contact-info"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Trade and Industry (General)",
+      "value": "haze@mti.gov.sg",
+      "source": "https://www.mti.gov.sg/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Trade and Industry (HR)",
+      "value": "mti_hr@mti.gov.sg",
+      "source": "https://www.mti.gov.sg/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Culture Community and Youth (Charities)",
+      "value": "MCCY_Charities@mccy.gov.sg",
+      "source": "https://www.mccy.gov.sg/contact-us"
+    },
+    {
+      "type": "website",
+      "label": "Official Singapore Government Portal",
+      "url": "https://www.gov.sg",
+      "source": "https://www.gov.sg"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.sg",
+      "source": "https://www.mfa.gov.sg"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.pmo.gov.sg",
+      "source": "https://www.pmo.gov.sg"
+    },
+    {
+      "type": "website",
+      "label": "President's Office (Istana)",
+      "url": "https://www.istana.gov.sg",
+      "source": "https://www.istana.gov.sg"
+    },
+    {
+      "type": "website",
+      "label": "REACH Singapore Citizen Feedback Portal",
+      "url": "https://www.reach.gov.sg",
+      "source": "https://www.reach.gov.sg"
+    },
+    {
+      "type": "facebook",
+      "label": "Singapore Government Official",
+      "url": "https://www.facebook.com/gov.sg",
+      "source": "https://www.gov.sg"
+    },
+    {
+      "type": "facebook",
+      "label": "REACH Singapore",
+      "url": "https://www.facebook.com/REACHSingapore",
+      "source": "https://www.reach.gov.sg"
+    },
+    {
+      "type": "twitter",
+      "label": "Singapore Government Official (@govsingapore)",
+      "url": "https://x.com/govsingapore",
+      "source": "https://www.gov.sg"
+    },
+    {
+      "type": "instagram",
+      "label": "Singapore Government Official (@gov.sg)",
+      "url": "https://www.instagram.com/gov.sg",
+      "source": "https://www.gov.sg"
+    },
+    {
+      "type": "instagram",
+      "label": "REACH Singapore (@reachsg)",
+      "url": "https://www.instagram.com/reachsg",
+      "source": "https://www.reach.gov.sg"
+    },
+    {
+      "type": "linkedin",
+      "label": "Singapore Government",
+      "url": "https://www.linkedin.com/company/govsg",
+      "source": "https://www.gov.sg"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office Quality Service Line (24/7)",
+      "value": "1800 2229 986",
+      "source": "https://www.pmo.gov.sg/contact-info"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office (Istana)",
+      "value": "8720 6021",
+      "source": "https://www.istana.gov.sg/contact-info"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Education (Edusave Hotline 24hr)",
+      "value": "6260 0777",
+      "source": "https://www.moe.gov.sg/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Health General Line",
+      "value": "+65 6325 9220",
+      "source": "https://www.moh.gov.sg/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Immigration and Checkpoints Authority",
+      "value": "6391 6100",
+      "source": "https://www.ica.gov.sg/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Manpower",
+      "value": "6438 5122",
+      "source": "https://www.mom.gov.sg/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Home Affairs",
+      "value": "64787010",
+      "source": "https://www.mha.gov.sg/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Culture Community and Youth",
+      "value": "+65 6338 3632",
+      "source": "https://www.mccy.gov.sg/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "ScamShield Helpline (Government - 24/7)",
+      "value": "1799",
+      "source": "https://www.gov.sg/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Emergency Police",
+      "value": "999",
+      "source": "https://www.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "General Government Contact Centre",
+      "value": "140 Hill Street #01-01A, Old Hill Street Police Station, Singapore 179369",
+      "source": "https://www.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Orchard Road, Istana, Singapore 238823",
+      "source": "https://www.pmo.gov.sg/contact-info"
+    },
+    {
+      "type": "address",
+      "label": "President's Office (Istana)",
+      "value": "Orchard Road, Singapore 238823 (Near Dhoby Ghaut MRT Station)",
+      "source": "https://www.istana.gov.sg/contact-info"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Health",
+      "value": "16 College Road, College of Medicine Building, Singapore 169854",
+      "source": "https://www.moh.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Immigration and Checkpoints Authority Services Centre",
+      "value": "2 Crawford Street, Singapore 207218 (Adjacent to Lavender MRT station)",
+      "source": "https://www.ica.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Trade and Industry",
+      "value": "100 High Street #09-01, The Treasury, Singapore 179434",
+      "source": "https://www.mti.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Manpower Services Centre",
+      "value": "1500 Bendemeer Road, Singapore 339946",
+      "source": "https://www.mom.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Home Affairs",
+      "value": "New Phoenix Park, 28 Irrawaddy Road, Singapore 329560",
+      "source": "https://www.mha.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Culture Community and Youth",
+      "value": "140 Hill Street #01-01A, Singapore 179369",
+      "source": "https://www.mccy.gov.sg/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "REACH Singapore",
+      "value": "140 Hill Street #01-01A, Old Hill Street Police Station, Singapore 179369",
+      "source": "https://www.reach.gov.sg/contact-us"
+    },
+    {
+      "type": "other",
+      "label": "Online Government Directory",
+      "value": "Singapore Government Directory Interactive - searchable directory of ministries and agencies",
+      "source": "https://www.gov.sg"
+    },
+    {
+      "type": "other",
+      "label": "Online Feedback Form",
+      "value": "https://form.gov.sg - Government feedback portal for all agencies",
+      "source": "https://www.gov.sg"
+    }
+  ]
+}

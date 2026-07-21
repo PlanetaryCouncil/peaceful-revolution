@@ -1,0 +1,132 @@
+{
+  "iso": "GBR",
+  "country_name": "United Kingdom",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Official UK Government Portal",
+      "url": "https://www.gov.uk/",
+      "source": "gov.uk"
+    },
+    {
+      "type": "email",
+      "label": "Foreign, Commonwealth & Development Office - News Desk",
+      "value": "newsdesk@fcdo.gov.uk",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "email",
+      "label": "Foreign, Commonwealth & Development Office - Information Rights/FOI",
+      "value": "information.rights@fcdo.gov.uk",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "email",
+      "label": "Foreign, Commonwealth & Development Office - Legalisation Services",
+      "value": "legalisation@fcdo.gov.uk",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "email",
+      "label": "Foreign, Commonwealth & Development Office - Concerns/Fraud Hotline",
+      "value": "reportingconcerns@fcdo.gov.uk",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "email",
+      "label": "Cabinet Office - Press Office",
+      "value": "pressoffice@cabinetoffice.gov.uk",
+      "source": "gov.uk/government/organisations/cabinet-office"
+    },
+    {
+      "type": "email",
+      "label": "Cabinet Office - Freedom of Information",
+      "value": "foi-team@cabinetoffice.gov.uk",
+      "source": "gov.uk/government/organisations/cabinet-office"
+    },
+    {
+      "type": "email",
+      "label": "Cabinet Office - Subject Access Requests",
+      "value": "subject.access@cabinetoffice.gov.uk",
+      "source": "gov.uk/government/organisations/cabinet-office"
+    },
+    {
+      "type": "email",
+      "label": "Home Office - Freedom of Information Requests",
+      "value": "foirequests@homeoffice.gov.uk",
+      "source": "gov.uk/government/organisations/home-office"
+    },
+    {
+      "type": "phone",
+      "label": "Cabinet Office - General Telephone",
+      "value": "+44 20 7276 1234",
+      "source": "gov.uk/government/organisations/cabinet-office"
+    },
+    {
+      "type": "phone",
+      "label": "Foreign, Commonwealth & Development Office - Main Line",
+      "value": "+44 20 7008 5000",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "phone",
+      "label": "Foreign, Commonwealth & Development Office - Media Desk (24-hour)",
+      "value": "+44 20 7008 3100",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "phone",
+      "label": "Foreign, Commonwealth & Development Office - Document Legalisation (24-hour)",
+      "value": "+44 20 4623 3100",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "phone",
+      "label": "Home Office - Immigration Enforcement Hotline",
+      "value": "+44 300 123 7000",
+      "source": "gov.uk/government/organisations/home-office"
+    },
+    {
+      "type": "address",
+      "label": "Cabinet Office",
+      "value": "70 Whitehall, London, SW1A 2AS, United Kingdom",
+      "source": "gov.uk/government/organisations/cabinet-office"
+    },
+    {
+      "type": "address",
+      "label": "Foreign, Commonwealth & Development Office - London Headquarters",
+      "value": "King Charles Street, London SW1A 2AH, United Kingdom",
+      "source": "gov.uk/government/organisations/foreign-commonwealth-development-office"
+    },
+    {
+      "type": "address",
+      "label": "Home Office",
+      "value": "2 Marsham Street, London, SW1P 4DF, United Kingdom",
+      "source": "gov.uk/government/organisations/home-office"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office Contact Form",
+      "url": "https://contact.no10.gov.uk/",
+      "source": "gov.uk/government/organisations/prime-ministers-office-10-downing-street"
+    },
+    {
+      "type": "website",
+      "label": "Royal Household (Head of State Office)",
+      "url": "https://www.royal.uk/",
+      "source": "royal.uk"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office Official Account",
+      "url": "https://x.com/10DowningStreet",
+      "source": "gov.uk/government/organisations/prime-ministers-office-10-downing-street"
+    },
+    {
+      "type": "facebook",
+      "label": "Royal Family Official Account",
+      "url": "https://www.facebook.com/RoyalFamily",
+      "source": "royal.uk"
+    }
+  ]
+}

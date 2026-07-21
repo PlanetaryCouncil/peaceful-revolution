@@ -1,0 +1,162 @@
+{
+  "iso": "STP",
+  "country_name": "São Tomé and Príncipe",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Government General Contact",
+      "value": "geral@gpm.gov.st",
+      "source": "Official Government Website (stp.gov.st)"
+    },
+    {
+      "type": "email",
+      "label": "Embassy in Washington DC",
+      "value": "embstpusa@verizon.net",
+      "source": "Official Embassy Contact Information"
+    },
+    {
+      "type": "email",
+      "label": "Embassy in Lisbon, Portugal",
+      "value": "embaixada.lisboa@mne.gov.st",
+      "source": "Official Embassy Contact Information"
+    },
+    {
+      "type": "email",
+      "label": "UN Permanent Mission New York",
+      "value": "rdstppmun@gmail.com",
+      "source": "UN Mission Contact Directory"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Website",
+      "url": "https://stp.gov.st/",
+      "source": "Government of São Tomé and Príncipe"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mne.gov.st/en",
+      "source": "Ministry of Foreign Affairs, Cooperation and Communities"
+    },
+    {
+      "type": "website",
+      "label": "Presidency Office",
+      "url": "https://presidencia.st",
+      "source": "Presidency of the Democratic Republic"
+    },
+    {
+      "type": "website",
+      "label": "Government Citizen Portal",
+      "url": "https://gov.st/",
+      "source": "Government Services Portal"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency Official",
+      "url": "https://www.facebook.com/presidenciadarepublicastp/",
+      "source": "Official Government Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "National Assembly",
+      "url": "https://www.facebook.com/parlamentostp/",
+      "source": "Official Government Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Embassy in Lisbon",
+      "url": "https://www.facebook.com/embaixada.stpportugal/",
+      "source": "Embassy Official Facebook"
+    },
+    {
+      "type": "phone",
+      "label": "Government General",
+      "value": "+239 224-2150",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+239 222309 / +239 224841",
+      "source": "Ministry Contact Directory"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Fax",
+      "value": "+239 223237",
+      "source": "Ministry Contact Directory"
+    },
+    {
+      "type": "phone",
+      "label": "Presidency Office",
+      "value": "+239 222-1284",
+      "source": "Presidential Office"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy Washington DC",
+      "value": "+1-202-775-2075",
+      "source": "Official Embassy Contact"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy Washington DC Fax",
+      "value": "+1-202-775-2077",
+      "source": "Official Embassy Contact"
+    },
+    {
+      "type": "phone",
+      "label": "UN Permanent Mission New York",
+      "value": "+1-212-651-8116",
+      "source": "UN Mission Directory"
+    },
+    {
+      "type": "phone",
+      "label": "UN Permanent Mission Fax",
+      "value": "+1-212-651-8117",
+      "source": "UN Mission Directory"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy Lisbon",
+      "value": "+351-21-8461917",
+      "source": "Official Embassy Contact"
+    },
+    {
+      "type": "address",
+      "label": "Government Headquarters",
+      "value": "Rua do Município, São Tomé, 302 São Tomé, São Tomé and Príncipe",
+      "source": "Official Government Website"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Avenida Amilcar Cabral CP 201, São Tomé, São Tomé and Príncipe",
+      "source": "Ministry Contact Directory"
+    },
+    {
+      "type": "address",
+      "label": "National Assembly",
+      "value": "Palácio dos Congressos, C.P. No 181, São Tomé, São Tomé and Príncipe",
+      "source": "IPU Parline Parliament Directory"
+    },
+    {
+      "type": "address",
+      "label": "Embassy Washington DC",
+      "value": "1211 Connecticut Avenue NW, Suite 300, Washington, DC 20036, United States",
+      "source": "Official Embassy Contact"
+    },
+    {
+      "type": "address",
+      "label": "UN Permanent Mission New York",
+      "value": "675 Third Avenue, Suite 1807, New York, NY 10017, United States",
+      "source": "UN Mission Directory"
+    },
+    {
+      "type": "address",
+      "label": "Embassy Lisbon",
+      "value": "Rua Laura Alves, 12 - 3º, 1050-138 Lisbon, Portugal",
+      "source": "Official Embassy Contact"
+    }
+  ]
+}

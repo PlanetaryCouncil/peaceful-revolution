@@ -1,0 +1,168 @@
+{
+  "iso": "BHS",
+  "country_name": "Bahamas",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs",
+      "value": "mofabahamas@bahamas.gov.bs",
+      "source": "mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "+1-242-356-5956",
+      "source": "mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Alternative",
+      "value": "+1-242-322-7624/5",
+      "source": "mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergency (Non-Office Hours)",
+      "value": "+1-242-827-3106",
+      "source": "mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Goodman's Bay Corporate Centre, 2nd Floor, West Bay Street, Nassau City, New Providence, Bahamas",
+      "source": "mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Fax",
+      "value": "+1-242-356-3967",
+      "source": "mofa.gov.bs/about-us-mofa/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mofa.gov.bs/",
+      "source": "mofa.gov.bs"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/p/Ministry-of-Foreign-Affairs-of-The-Commonwealth-of-The-Bahamas-100064677941030/",
+      "source": "facebook.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MOFABahamas",
+      "source": "x.com"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mofabahamas/",
+      "source": "instagram.com"
+    },
+    {
+      "type": "phone",
+      "label": "Office of the Prime Minister",
+      "value": "+1-242-702-5500",
+      "source": "opm.gov.bs"
+    },
+    {
+      "type": "address",
+      "label": "Office of the Prime Minister",
+      "value": "Cecil Wallace-Whitfield Centre, P.O. Box CB-10980, Nassau, Bahamas",
+      "source": "opm.gov.bs"
+    },
+    {
+      "type": "website",
+      "label": "Office of the Prime Minister",
+      "url": "https://opm.gov.bs/",
+      "source": "opm.gov.bs"
+    },
+    {
+      "type": "facebook",
+      "label": "Office of the Prime Minister",
+      "url": "https://www.facebook.com/opmbs/",
+      "source": "facebook.com"
+    },
+    {
+      "type": "twitter",
+      "label": "Office of the Prime Minister",
+      "url": "https://x.com/opmthebahamas",
+      "source": "x.com"
+    },
+    {
+      "type": "phone",
+      "label": "Governor-General Office - Main",
+      "value": "+1-242-322-1875/6",
+      "source": "bahamas.gov.bs"
+    },
+    {
+      "type": "phone",
+      "label": "Governor-General Office - Alternative",
+      "value": "+1-242-356-0254/5",
+      "source": "bahamas.gov.bs"
+    },
+    {
+      "type": "address",
+      "label": "Governor-General Office",
+      "value": "Government House, Mount Fitzwilliam, P.O. Box N 8301, Nassau, N.P, Bahamas",
+      "source": "bahamas.gov.bs"
+    },
+    {
+      "type": "phone",
+      "label": "Governor-General Office - Fax",
+      "value": "+1-242-322-4659",
+      "source": "bahamas.gov.bs"
+    },
+    {
+      "type": "website",
+      "label": "Governor-General Office",
+      "url": "https://www.gg.gov.bs/",
+      "source": "gg.gov.bs"
+    },
+    {
+      "type": "website",
+      "label": "Official Bahamas Government Portal",
+      "url": "https://www.bahamas.gov.bs/",
+      "source": "bahamas.gov.bs"
+    },
+    {
+      "type": "email",
+      "label": "Government Support",
+      "value": "support@bahamas.gov.bs",
+      "source": "bahamas.gov.bs"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of the Bahamas (Washington, DC)",
+      "value": "embassy@bahamasembdc.org",
+      "source": "bahamasembdc.org"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Bahamas (Washington, DC)",
+      "value": "+1-202-319-2660",
+      "source": "bahamasembdc.org"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of the Bahamas (Washington, DC) - Fax",
+      "value": "+1-202-319-2668",
+      "source": "bahamasembdc.org"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of the Bahamas (Washington, DC)",
+      "value": "2220 Massachusetts Avenue, NW, Washington, DC 20008, USA",
+      "source": "bahamasembdc.org"
+    },
+    {
+      "type": "website",
+      "label": "Embassy of the Bahamas",
+      "url": "https://www.bahamasembdc.org/",
+      "source": "bahamasembdc.org"
+    }
+  ]
+}

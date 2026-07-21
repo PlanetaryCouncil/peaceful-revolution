@@ -1,0 +1,222 @@
+{
+  "iso": "LKA",
+  "country_name": "Sri Lanka",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Main",
+      "value": "cypher@mfa.gov.lk",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "consular@mfa.gov.lk",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Employment",
+      "value": "info@mfe.gov.lk",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Tourism",
+      "value": "secretary@tourismmin.gov.lk",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Line",
+      "value": "+94 112 325 373",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Alternate",
+      "value": "+94 112 325 375",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - General",
+      "value": "+94 112 207 200",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Inquiries",
+      "value": "+94 112 207 207",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Division",
+      "value": "+94 112 275 575",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Employment",
+      "value": "+94 112 331 200",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Tourism",
+      "value": "+94 112 381 798",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Tourism - Alternate",
+      "value": "+94 112 321 222",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Sri Lanka",
+      "value": "+94 11 2777100",
+      "source": "parliament.lk/en/get-involved/contact-secretariat"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Sri Lanka - Fax",
+      "value": "+94 11 2777227",
+      "source": "parliament.lk/en/get-involved/contact-secretariat"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Republic Building, Sir Baron Jayathilake Mawatha, Colombo 01, Sri Lanka",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Consular Affairs Division",
+      "value": "16th Floor, Suhurupaya, Sri Subhuthipura Road, Battaramulla, Sri Lanka",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Employment",
+      "value": "17th Floor, Mehewara Piyasa, Narahenpita, Colombo 5, Sri Lanka",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Tourism",
+      "value": "No. 03, Old Times Building, Bristol Street (Razik Fareed Mw), Colombo 1, Sri Lanka",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "address",
+      "label": "Parliament of Sri Lanka",
+      "value": "Sri Jayewardenepura Kotte, Sri Lanka",
+      "source": "parliament.lk/en/get-involved/contact-secretariat"
+    },
+    {
+      "type": "address",
+      "label": "Sri Lanka Police Headquarters",
+      "value": "Church Street, Colombo 1, Sri Lanka",
+      "source": "en.wikipedia.org/wiki/Sri_Lanka_Police"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.lk",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Sri Lanka",
+      "url": "https://parliament.lk",
+      "source": "Official parliament website"
+    },
+    {
+      "type": "website",
+      "label": "Central Bank of Sri Lanka",
+      "url": "https://www.cbsl.gov.lk",
+      "source": "Official central bank website"
+    },
+    {
+      "type": "website",
+      "label": "Colombo Municipal Council",
+      "url": "https://colombo.mc.gov.lk",
+      "source": "Official municipal website"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MFA_SriLanka",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "twitter",
+      "label": "Parliament of Sri Lanka",
+      "url": "https://x.com/ParliamentLK",
+      "source": "parliament.lk/en"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MFASriLanka",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "facebook",
+      "label": "Parliament of Sri Lanka",
+      "url": "https://www.facebook.com/SriLankanParliament",
+      "source": "parliament.lk/en"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mfa_srilanka/",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "instagram",
+      "label": "Parliament of Sri Lanka",
+      "url": "https://www.instagram.com/slparliament/",
+      "source": "parliament.lk/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Jaffna",
+      "value": "+94 212 215 972",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Jaffna",
+      "value": "jaffna.consular@mfa.gov.lk",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Matara",
+      "value": "+94 412 226 697",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Matara",
+      "value": "matara.consular@mfa.gov.lk",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Kandy",
+      "value": "+94 812 384 410",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Kandy",
+      "value": "kandy.consular@mfa.gov.lk",
+      "source": "mfa.gov.lk/en/contact/contact-us"
+    }
+  ]
+}

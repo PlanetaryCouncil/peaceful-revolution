@@ -1,0 +1,126 @@
+{
+  "iso": "BRN",
+  "country_name": "Brunei Darussalam",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Protocol & Consular Affairs",
+      "value": "dprocon@mfa.gov.bn",
+      "source": "https://www.mfa.gov.bn/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - International Organisations Department",
+      "value": "dio@mfa.gov.bn",
+      "source": "https://www.mfa.gov.bn/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Security Operations Room",
+      "value": "opsroom@mfa.gov.bn",
+      "source": "https://www.mfa.gov.bn/Pages/Hotlines.aspx"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "info@jpm.gov.bn",
+      "source": "https://www.pmo.gov.bn/"
+    },
+    {
+      "type": "email",
+      "label": "Brunei Investment Agency - General Enquiries",
+      "value": "general.enquiries@bia.com.bn",
+      "source": "https://www.mofe.gov.bn/sb_bia_contactus/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Line (HQ)",
+      "value": "+673 2261177",
+      "source": "https://www.mfa.gov.bn/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - ICC Location",
+      "value": "+673 2383374",
+      "source": "https://www.mfa.gov.bn/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Emergency Consular Hotline",
+      "value": "+673 8716001",
+      "source": "https://www.mfa.gov.bn/Pages/Hotlines.aspx"
+    },
+    {
+      "type": "phone",
+      "label": "Brunei Investment Agency",
+      "value": "+673 238 3535",
+      "source": "https://www.mofe.gov.bn/sb_bia_contactus/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.mfa.gov.bn/",
+      "source": "https://www.mfa.gov.bn/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://www.pmo.gov.bn/",
+      "source": "https://www.pmo.gov.bn/"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "https://www.gov.bn/",
+      "source": "https://www.gov.bn/"
+    },
+    {
+      "type": "website",
+      "label": "Brunei Investment Agency",
+      "url": "https://www.mofe.gov.bn/sb_bia_contactus/",
+      "source": "https://www.mofe.gov.bn/sb_bia_contactus/"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office Brunei",
+      "url": "https://www.facebook.com/bnpmo",
+      "source": "https://www.pmo.gov.bn/"
+    },
+    {
+      "type": "facebook",
+      "label": "GOV.BN Official",
+      "url": "https://www.facebook.com/138274376305032",
+      "source": "https://www.facebook.com/138274376305032"
+    },
+    {
+      "type": "twitter",
+      "label": "GOV.BN Official",
+      "url": "https://twitter.com/gov_bn",
+      "source": "https://twitter.com/gov_bn"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Jalan Subok Location",
+      "value": "Jalan Subok, Bandar Seri Begawan BD2710, Brunei Darussalam",
+      "source": "https://www.mfa.gov.bn/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - International Convention Center",
+      "value": "Jalan Berakas, Bandar Seri Begawan BB3910, Brunei Darussalam",
+      "source": "https://www.mfa.gov.bn/"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Jalan Kebangsaan BB3910, Bandar Seri Begawan, Brunei Darussalam",
+      "source": "https://www.pmo.gov.bn/"
+    },
+    {
+      "type": "address",
+      "label": "Brunei Investment Agency",
+      "value": "9th Floor, Ministry of Finance and Economy Building, Commonwealth Drive, Jalan Kebangsaan BB3910, Bandar Seri Begawan, Brunei Darussalam",
+      "source": "https://www.mofe.gov.bn/sb_bia_contactus/"
+    }
+  ]
+}

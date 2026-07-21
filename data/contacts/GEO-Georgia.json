@@ -1,0 +1,114 @@
+{
+  "iso": "GEO",
+  "country_name": "Georgia",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.ge",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - General Line",
+      "value": "(+995 32) 294 0000",
+      "source": "mfa.gov.ge/en"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Alternative Number",
+      "value": "(+995 32) 2 94 50 00",
+      "source": "geoconsul.gov.ge"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Fax",
+      "value": "(+995 32) 2 94 50 01",
+      "source": "geoconsul.gov.ge"
+    },
+    {
+      "type": "phone",
+      "label": "Consular Department Hotline",
+      "value": "(+995 32) 2 94 50 50",
+      "source": "geoconsul.gov.ge"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Postal Address",
+      "value": "Sulkhan-Saba Street 1 / Giorgi Leonidze Street 3-5, Tbilisi 0108, Georgia",
+      "source": "mfa.gov.ge/en"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/mfageorgia",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://twitter.com/MFAgovge",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.youtube.com/@MFAGEO",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mfa.georgia",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "website",
+      "label": "Consular Services Portal",
+      "url": "https://geoconsul.gov.ge",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "website",
+      "label": "E-visa Portal",
+      "url": "https://evisa.gov.ge/GeoVisa/",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "website",
+      "label": "Diaspora Portal",
+      "url": "https://gda.ge",
+      "source": "mfa.gov.ge"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Environmental Protection and Agriculture",
+      "url": "https://www.mepa.gov.ge",
+      "source": "mepa.gov.ge"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Environmental Protection and Agriculture",
+      "value": "info@mepa.gov.ge",
+      "source": "mepa.gov.ge"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Environmental Protection and Agriculture - Hotline",
+      "value": "1501",
+      "source": "mepa.gov.ge"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Environmental Protection and Agriculture",
+      "url": "https://www.facebook.com/MEPAgeorgia",
+      "source": "mepa.gov.ge"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Environmental Protection and Agriculture",
+      "url": "https://twitter.com/agricultureGEO",
+      "source": "mepa.gov.ge"
+    }
+  ]
+}

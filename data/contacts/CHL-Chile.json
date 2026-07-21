@@ -1,0 +1,150 @@
+{
+  "iso": "CHL",
+  "country_name": "Chile",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Assistance",
+      "value": "asistenciaconsular@minrel.gov.cl",
+      "source": "minrel.gob.cl official website"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Translations",
+      "value": "publicotraducciones@minrel.gob.cl",
+      "source": "minrel.gob.cl official website"
+    },
+    {
+      "type": "email",
+      "label": "Embassy of Chile - Washington DC",
+      "value": "echile.eeuu@minrel.gob.cl",
+      "source": "Official Embassy contact information"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Call Center",
+      "value": "+56 2 2827 4202 (also 2827 4300)",
+      "source": "minrel.gob.cl"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Toll Free",
+      "value": "800 364 600",
+      "source": "minrel.gob.cl"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry General Secretariat of Presidency",
+      "value": "+56 2 2636 3600",
+      "source": "minsegpres.gob.cl"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry Secretariat-General of Government",
+      "value": "+56 2 2690 4000",
+      "source": "msgg.gob.cl"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main Office",
+      "value": "Teatinos 180, First Floor, Santiago, Chile",
+      "source": "minrel.gob.cl"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - In-Person Services",
+      "value": "Agustinas 1320, First Floor, Santiago, Chile",
+      "source": "minrel.gob.cl"
+    },
+    {
+      "type": "address",
+      "label": "Ministry General Secretariat of Presidency",
+      "value": "Teatinos 92, Pisos 2 y 3, Santiago, Chile",
+      "source": "minsegpres.gob.cl"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office - Palacio de La Moneda",
+      "value": "Teatinos and Morandé Streets, Santiago, Chile",
+      "source": "Official Government Palace location"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://www.gob.cl",
+      "source": "Chilean Government"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.minrel.gob.cl",
+      "source": "minrel.gob.cl"
+    },
+    {
+      "type": "website",
+      "label": "Ministry General Secretariat of Presidency",
+      "url": "https://www.minsegpres.gob.cl",
+      "source": "minsegpres.gob.cl"
+    },
+    {
+      "type": "website",
+      "label": "Ministry Secretariat-General of Government",
+      "url": "https://www.msgg.gob.cl",
+      "source": "msgg.gob.cl"
+    },
+    {
+      "type": "facebook",
+      "label": "Gobierno de Chile - Official Government",
+      "url": "https://www.facebook.com/gobiernodechile/",
+      "source": "Official government Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "ChileAtiende - Citizen Services",
+      "url": "https://www.facebook.com/ChileAtiende/",
+      "source": "Official ChileAtiende Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Secretaría General de Gobierno",
+      "url": "https://www.facebook.com/VoceriaDeGobierno/",
+      "source": "Official MSGG Facebook"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs - Cancillería Chile",
+      "url": "https://www.facebook.com/MinrelChile/",
+      "source": "Official Minrel Facebook"
+    },
+    {
+      "type": "twitter",
+      "label": "Chilean Government Official (@GobiernodeChile)",
+      "url": "https://x.com/GobiernodeChile",
+      "source": "Official government X/Twitter account"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs (@ChileMFA)",
+      "url": "https://x.com/ChileMFA",
+      "source": "Official Minrel X/Twitter account"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs - Cancillería Chile",
+      "url": "https://www.instagram.com/cancilleriachile/",
+      "source": "Official Minrel Instagram account"
+    },
+    {
+      "type": "phone",
+      "label": "Embassy of Chile - Washington DC",
+      "value": "+1 202 530 4104, 4106, 4107",
+      "source": "Official Embassy contact"
+    },
+    {
+      "type": "address",
+      "label": "Embassy of Chile - Washington DC",
+      "value": "1732 Massachusetts Avenue NW, Washington DC 20036, USA",
+      "source": "Official Embassy location"
+    }
+  ]
+}

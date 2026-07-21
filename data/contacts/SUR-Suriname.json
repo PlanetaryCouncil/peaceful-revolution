@@ -1,0 +1,114 @@
+{
+  "iso": "SUR",
+  "country_name": "Suriname",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Minister's Secretariat",
+      "value": "sec.minister@mofa.gov.sr",
+      "source": "gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Consular Affairs",
+      "value": "cons@mofa.gov.sr",
+      "source": "gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/contact/"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Secretary",
+      "value": "secpres@kabinetpresident.gov.sr",
+      "source": "gov.sr/ministeries/kabinet-van-de-president/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance - Secretariat",
+      "value": "secretariat@minfin.gov.sr",
+      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Finance - Planning & Development Financing",
+      "value": "planning@minfin.gov.sr",
+      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs",
+      "value": "+597 477030",
+      "source": "gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office",
+      "value": "+597 472841/420768",
+      "source": "gov.sr/ministeries/kabinet-van-de-president/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Finance",
+      "value": "+597 472610/451139/453039",
+      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Portal",
+      "url": "https://gov.sr/",
+      "source": "Government of Suriname"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/",
+      "source": "Government of Suriname"
+    },
+    {
+      "type": "website",
+      "label": "President's Office",
+      "url": "https://gov.sr/ministeries/kabinet-van-de-president/",
+      "source": "Government of Suriname"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Finance",
+      "url": "https://gov.sr/ministeries/ministerie-van-financien-en-planning/",
+      "source": "Government of Suriname"
+    },
+    {
+      "type": "twitter",
+      "label": "Government of Suriname Official",
+      "url": "https://x.com/govsuriname",
+      "source": "Twitter/X"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/mofasur",
+      "source": "Twitter/X"
+    },
+    {
+      "type": "facebook",
+      "label": "e-Government Suriname",
+      "url": "https://www.facebook.com/eGovernmentSuriname/",
+      "source": "Facebook"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Henck Arronstraat #8, Paramaribo, Suriname",
+      "source": "gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/contact/"
+    },
+    {
+      "type": "address",
+      "label": "President's Office",
+      "value": "Kleine Combéweg no. 2-4, Paramaribo, Suriname",
+      "source": "gov.sr/ministeries/kabinet-van-de-president/contact/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Finance",
+      "value": "S.M. Jamaludinstraat 26, Paramaribo, Suriname",
+      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/"
+    }
+  ]
+}

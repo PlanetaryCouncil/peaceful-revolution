@@ -1,0 +1,162 @@
+{
+  "iso": "PER",
+  "country_name": "Peru",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ombudsman Office (Defensoría del Pueblo) - General Inquiries",
+      "value": "consulta@defensoria.gob.pe",
+      "source": "defensoria.gob.pe"
+    },
+    {
+      "type": "email",
+      "label": "Central Reserve Bank (BCRP) - Virtual Document Services",
+      "value": "mesadepartesvirtual@bcrp.gob.pe",
+      "source": "bcrp.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "Congress of Peru - Central Line",
+      "value": "+51 1 311-7777",
+      "source": "congreso.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "Ombudsman Office - Hotline (toll-free)",
+      "value": "0-800-15-170",
+      "source": "defensoria.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "Ombudsman Office - Main Office",
+      "value": "+51 1 311-0300",
+      "source": "defensoria.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "Central Reserve Bank (BCRP)",
+      "value": "+51 1 613-2000",
+      "source": "bcrp.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "Financial Supervisory Authority (SBS) - Main Line",
+      "value": "+51 1 630-9000",
+      "source": "sbs.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "Financial Supervisory Authority (SBS) - Toll-free",
+      "value": "0800-10840",
+      "source": "sbs.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "National Tax Administration (SUNAT) - Support Line",
+      "value": "+51 1 315-0730",
+      "source": "sunat.gob.pe"
+    },
+    {
+      "type": "phone",
+      "label": "National Tax Administration (SUNAT) - Toll-free",
+      "value": "0 801 12 100",
+      "source": "sunat.gob.pe"
+    },
+    {
+      "type": "whatsapp",
+      "label": "Ombudsman Office (Defensoría del Pueblo)",
+      "value": "+51 947-951-412",
+      "source": "defensoria.gob.pe"
+    },
+    {
+      "type": "whatsapp",
+      "label": "Financial Supervisory Authority (SBS)",
+      "value": "+51 976-263-333",
+      "source": "sbs.gob.pe"
+    },
+    {
+      "type": "address",
+      "label": "Congress of Peru",
+      "value": "Plaza Constitución, Av. Abancay s/n, Lima, Perú",
+      "source": "congreso.gob.pe"
+    },
+    {
+      "type": "address",
+      "label": "Ombudsman Office (Defensoría del Pueblo)",
+      "value": "Jirón Ucayali 394-398, Lima 1, Perú",
+      "source": "defensoria.gob.pe"
+    },
+    {
+      "type": "address",
+      "label": "Central Reserve Bank (BCRP)",
+      "value": "Jr. Santa Rosa 441-445, Lima-1, Perú",
+      "source": "bcrp.gob.pe"
+    },
+    {
+      "type": "address",
+      "label": "Financial Supervisory Authority (SBS)",
+      "value": "Los Laureles 214, San Isidro, Lima, Perú",
+      "source": "sbs.gob.pe"
+    },
+    {
+      "type": "address",
+      "label": "National Tax Administration (SUNAT) - Lima Office",
+      "value": "Jr. Augusto Wiese N° 498, corner with Jr. Santa Rosa, Lima, Perú",
+      "source": "sunat.gob.pe"
+    },
+    {
+      "type": "website",
+      "label": "Congress of Peru",
+      "url": "https://www.congreso.gob.pe",
+      "source": "congreso.gob.pe"
+    },
+    {
+      "type": "website",
+      "label": "Ombudsman Office (Defensoría del Pueblo)",
+      "url": "https://www.defensoria.gob.pe",
+      "source": "defensoria.gob.pe"
+    },
+    {
+      "type": "website",
+      "label": "Central Reserve Bank (BCRP)",
+      "url": "https://www.bcrp.gob.pe",
+      "source": "bcrp.gob.pe"
+    },
+    {
+      "type": "website",
+      "label": "Financial Supervisory Authority (SBS)",
+      "url": "https://www.sbs.gob.pe",
+      "source": "sbs.gob.pe"
+    },
+    {
+      "type": "website",
+      "label": "National Tax Administration (SUNAT)",
+      "url": "https://www.sunat.gob.pe",
+      "source": "sunat.gob.pe"
+    },
+    {
+      "type": "facebook",
+      "label": "Congress of Peru",
+      "url": "https://www.facebook.com/CongresodelPeru",
+      "source": "congreso.gob.pe"
+    },
+    {
+      "type": "twitter",
+      "label": "Congress of Peru",
+      "url": "https://x.com/congreso_pe",
+      "source": "congreso.gob.pe"
+    },
+    {
+      "type": "instagram",
+      "label": "Congress of Peru",
+      "url": "https://www.instagram.com/congreso.pe",
+      "source": "congreso.gob.pe"
+    },
+    {
+      "type": "youtube",
+      "label": "Congress of Peru",
+      "url": "https://www.youtube.com/c/CongresoDeLaRepublicaDelPeru",
+      "source": "congreso.gob.pe"
+    }
+  ]
+}

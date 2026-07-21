@@ -1,0 +1,204 @@
+{
+  "iso": "BEL",
+  "country_name": "Belgium",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Jobs/Employment",
+      "value": "jobs@diplobel.fed.be",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Spokesperson David Jordens",
+      "value": "david.jordens@diplobel.fed.be",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Spokesperson Pierre Steverlynck",
+      "value": "pierre.steverlynck@diplobel.fed.be",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Spokesperson Florinda Baleci",
+      "value": "florinda.baleci@diplobel.fed.be",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - General inquiries",
+      "value": "+32 (0)2 501 81 11",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Assistance abroad and passport services",
+      "value": "+32 (0)2 501 32 00",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Medical Centre travel advice",
+      "value": "+32 2 501 35 23",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Spokesperson David Jordens",
+      "value": "+32 2 501 80 50",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Spokesperson Pierre Steverlynck",
+      "value": "+32 2 501 44 16",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Spokesperson Florinda Baleci",
+      "value": "+32 2 501 84 29",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Main office",
+      "value": "rue des Petits Carmes / Karmelietenstraat 15, 1000 Brussels, Belgium",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Legalisation department",
+      "value": "rue des Petits Carmes / Karmelietenstraat 27, 1000 Brussels (9am-12pm by appointment)",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs - Protocol Directorate counter",
+      "value": "Kleine Zavel/Petit Sablon 8, 1000 Brussels (Mon/Wed/Fri 9am-noon)",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Royal Palace - Head of State contact",
+      "value": "+32 (0)2-551.20.20",
+      "source": "monarchie.be"
+    },
+    {
+      "type": "address",
+      "label": "Royal Palace - Head of State office",
+      "value": "Royal Palace, Rue Brederode 16, 1000 Brussels",
+      "source": "monarchie.be"
+    },
+    {
+      "type": "address",
+      "label": "Royal Palace - Mail address",
+      "value": "His Majesty the King, Royal Palace, 1000 Brussels (postage not required)",
+      "source": "monarchie.be"
+    },
+    {
+      "type": "website",
+      "label": "Official Belgian Government Portal",
+      "url": "https://www.belgium.be",
+      "source": "belgium.be"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://diplomatie.belgium.be",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "website",
+      "label": "Belgian Monarchy",
+      "url": "https://www.monarchie.be",
+      "source": "monarchie.be"
+    },
+    {
+      "type": "facebook",
+      "label": "Official Belgian Government",
+      "url": "https://www.facebook.com/BelgiumBe",
+      "source": "belgium.be"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/Diplomatie.Belgium",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "twitter",
+      "label": "Official Belgian Government",
+      "url": "https://x.com/belgiumbe",
+      "source": "belgium.be"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/BelgiumMFA",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/belgiummfa",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - LinkedIn",
+      "value": "Company ID: 266926",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs - Bluesky",
+      "value": "@belgiummfa.bsky.social",
+      "source": "diplomatie.belgium.be"
+    },
+    {
+      "type": "other",
+      "label": "Government contact form",
+      "value": "Available at belgium.be (multiple language versions: FR, NL, DE)",
+      "source": "belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Federal Public Service - Finance",
+      "value": "+32 2 572 57 57",
+      "source": "belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Federal Public Service - Interior",
+      "value": "+32 2 488 10 00",
+      "source": "belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Federal Public Service - Justice",
+      "value": "+32 2 542 65 11",
+      "source": "belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Federal Public Service - Social Security",
+      "value": "+32 2 545 50 70",
+      "source": "belgium.be"
+    },
+    {
+      "type": "phone",
+      "label": "Federal Public Service - Health",
+      "value": "+32 2 524 97 97",
+      "source": "belgium.be"
+    },
+    {
+      "type": "other",
+      "label": "Government Bluesky",
+      "value": "@belgium.be",
+      "source": "belgium.be"
+    }
+  ]
+}

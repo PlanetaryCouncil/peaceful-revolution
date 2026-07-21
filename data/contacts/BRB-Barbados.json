@@ -1,0 +1,204 @@
+{
+  "iso": "BRB",
+  "country_name": "Barbados",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "value": "barbados@foreign.gov.bb",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "value": "+1 (246) 535-6620",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "value": "1 Culloden Road, St. Michael, BB14018, Barbados",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://www.foreign.gov.bb",
+      "source": "https://www.foreign.gov.bb"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://www.facebook.com/barbadosministryofforeignaffairs/",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://x.com/mfa_barbados",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "youtube",
+      "label": "Ministry of Foreign Affairs and Foreign Trade",
+      "url": "https://www.youtube.com/@MFA_Barbados",
+      "source": "https://www.foreign.gov.bb/contact-us/"
+    },
+    {
+      "type": "email",
+      "label": "Prime Minister's Office",
+      "value": "pmo@barbados.gov.bb",
+      "source": "https://pmo.gov.bb/"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office",
+      "value": "+1 (246) 535-5300, +1 (246) 535-5348, +1 (246) 535-5350",
+      "source": "https://pmo.gov.bb/contact-us/"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office",
+      "value": "Bay Street, St. Michael, Bridgetown, Barbados",
+      "source": "https://pmo.gov.bb/contact-us/"
+    },
+    {
+      "type": "website",
+      "label": "Prime Minister's Office",
+      "url": "https://pmo.gov.bb",
+      "source": "https://pmo.gov.bb"
+    },
+    {
+      "type": "website",
+      "label": "Government of Barbados - Official Portal",
+      "url": "https://www.gov.bb",
+      "source": "https://www.gov.bb"
+    },
+    {
+      "type": "email",
+      "label": "Government Information Service (BGIS)",
+      "value": "bgis@barbados.gov.bb",
+      "source": "https://gisbarbados.gov.bb/"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Barbados - General Inquiries",
+      "value": "parliamentbarbados@caribsurf.com",
+      "source": "https://www.barbadosparliament.com/main_page_content/show_content/10"
+    },
+    {
+      "type": "email",
+      "label": "Parliament of Barbados - Clerk's Office",
+      "value": "clerk@barbadosparliament.com",
+      "source": "https://www.barbadosparliament.com/main_page_content/show_content/10"
+    },
+    {
+      "type": "phone",
+      "label": "Parliament of Barbados",
+      "value": "+1 (246) 426-3712, +1 (246) 426-3717",
+      "source": "https://www.barbadosparliament.com"
+    },
+    {
+      "type": "address",
+      "label": "Parliament of Barbados",
+      "value": "Parliament Buildings, Bridgetown, Barbados",
+      "source": "https://www.barbadosparliament.com"
+    },
+    {
+      "type": "website",
+      "label": "Parliament of Barbados",
+      "url": "https://www.barbadosparliament.com",
+      "source": "https://www.barbadosparliament.com"
+    },
+    {
+      "type": "email",
+      "label": "Barbados Revenue Authority",
+      "value": "bramail@bra.gov.bb",
+      "source": "https://bra.gov.bb/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Barbados Revenue Authority - ETAX Contact Centre",
+      "value": "+1 (246) 429-3829",
+      "source": "https://bra.gov.bb/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Barbados Revenue Authority",
+      "url": "https://bra.gov.bb",
+      "source": "https://bra.gov.bb"
+    },
+    {
+      "type": "email",
+      "label": "Customs and Excise Department",
+      "value": "comptroller@customs.gov.bb",
+      "source": "https://asycuda.customs.gov.bb/"
+    },
+    {
+      "type": "phone",
+      "label": "Customs and Excise Department",
+      "value": "+1 (246) 535-8700",
+      "source": "https://asycuda.customs.gov.bb/"
+    },
+    {
+      "type": "address",
+      "label": "Customs and Excise Department",
+      "value": "2nd Floor West Wing, Warrens Office Complex, Warrens, St. Michael, Barbados",
+      "source": "https://asycuda.customs.gov.bb/"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Tourism and International Transport",
+      "value": "ps@tourism.gov.bb",
+      "source": "https://www.tourism.gov.bb/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Tourism and International Transport",
+      "value": "+1 (246) 535-7500",
+      "source": "https://www.tourism.gov.bb/contact"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Tourism and International Transport",
+      "value": "4th and 5th Floors, One Barbados Place, Warrens, St. Michael BB12001, Barbados",
+      "source": "https://www.tourism.gov.bb/contact"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Tourism and International Transport",
+      "url": "https://www.tourism.gov.bb",
+      "source": "https://www.tourism.gov.bb"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Education, Technological and Vocational Training",
+      "value": "info@mes.gov.bb",
+      "source": "https://education.gov.bb/contact/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Education, Technological and Vocational Training",
+      "value": "+1 (246) 535-0600",
+      "source": "https://education.gov.bb/contact/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Education",
+      "url": "https://education.gov.bb",
+      "source": "https://education.gov.bb"
+    },
+    {
+      "type": "facebook",
+      "label": "Government Information Service (BGIS)",
+      "url": "https://www.facebook.com/gisbarbados/",
+      "source": "https://gisbarbados.gov.bb/"
+    },
+    {
+      "type": "website",
+      "label": "Barbados Government Information Service",
+      "url": "https://gisbarbados.gov.bb",
+      "source": "https://gisbarbados.gov.bb"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "iso": "ITA",
+  "country_name": "Italy",
+  "contacts": [
+    {
+      "type": "website",
+      "label": "Government Portal - Office of Prime Minister",
+      "url": "https://www.governo.it",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "phone",
+      "label": "Prime Minister's Office (Palazzo Chigi) - Main Switchboard",
+      "value": "+39 06 6779 1",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "address",
+      "label": "Prime Minister's Office (Palazzo Chigi)",
+      "value": "Piazza Colonna 370, 00187 Roma, Italy",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "address",
+      "label": "Government Mailing Address",
+      "value": "Via dell'Impresa 89, 00186 Roma, Italy",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "facebook",
+      "label": "Prime Minister's Office - Facebook",
+      "url": "https://www.facebook.com/palazzochigi.it",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister's Office - Twitter/X",
+      "url": "https://twitter.com/Palazzo_Chigi",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "instagram",
+      "label": "Prime Minister's Office - Instagram",
+      "url": "https://www.instagram.com/palazzo_chigi",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "youtube",
+      "label": "Prime Minister's Office - YouTube",
+      "url": "https://www.youtube.com/user/palazzochigi",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "linkedin",
+      "label": "Prime Minister's Office - LinkedIn",
+      "url": "https://www.linkedin.com/company/presidenza-del-consiglio-dei-ministri",
+      "source": "Verified from governo.it"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Interior",
+      "url": "https://www.interno.gov.it",
+      "source": "Verified from interno.gov.it"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Interior - Main Switchboard",
+      "value": "+39 06 4651",
+      "source": "Verified from interno.gov.it"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Interior",
+      "value": "Piazza del Viminale, 1 - 00184 Roma, Italy",
+      "source": "Verified from interno.gov.it"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Justice",
+      "url": "https://www.giustizia.it",
+      "source": "Verified from giustizia.it"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Justice - Main Switchboard",
+      "value": "+39 06 68851",
+      "source": "Verified from giustizia.it"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Justice - Citizen Assistance",
+      "value": "callcenter@giustizia.it",
+      "source": "Verified from giustizia.it"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Justice",
+      "value": "Via Arenula, 70 - 00186 Roma, Italy",
+      "source": "Verified from giustizia.it"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Economy and Finance",
+      "url": "https://www.mef.gov.it",
+      "source": "Verified from mef.gov.it"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Economy and Finance - Main Switchboard",
+      "value": "+39 06 476111",
+      "source": "Verified from mef.gov.it"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Economy and Finance",
+      "value": "Via Venti Settembre, 97 - 00187 Roma, Italy",
+      "source": "Verified from mef.gov.it"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Agriculture (MASAF)",
+      "url": "https://www.masaf.gov.it",
+      "source": "Verified from masaf.gov.it"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Agriculture - Main Switchboard",
+      "value": "+39 06 46651",
+      "source": "Verified from masaf.gov.it"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Agriculture - Public Relations Office",
+      "value": "urp@masaf.gov.it",
+      "source": "Verified from masaf.gov.it"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Agriculture - Certified Email (PEC)",
+      "value": "urp@pec.masaf.gov.it",
+      "source": "Verified from masaf.gov.it"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Agriculture",
+      "value": "Via XX Settembre, 20 - 00187 Roma, Italy",
+      "source": "Verified from masaf.gov.it"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Business and Made in Italy",
+      "url": "https://www.mimit.gov.it",
+      "source": "Verified from mimit.gov.it"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Business and Made in Italy - Main Switchboard",
+      "value": "+39 06 4705 1",
+      "source": "Verified from mimit.gov.it"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Business and Made in Italy",
+      "value": "Via Veneto, 33 - 00187 Roma, Italy",
+      "source": "Verified from mimit.gov.it"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Business and Made in Italy - Twitter/X",
+      "url": "https://twitter.com/mimit_gov",
+      "source": "Verified from mimit.gov.it"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Defense",
+      "url": "https://www.difesa.it",
+      "source": "Verified from difesa.it"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Defense",
+      "value": "Palazzo Baracchini, Via XX Settembre 8 - 00187 Roma, Italy",
+      "source": "Verified from difesa.it"
+    }
+  ]
+}

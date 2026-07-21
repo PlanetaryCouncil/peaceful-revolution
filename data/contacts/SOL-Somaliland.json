@@ -1,0 +1,42 @@
+{
+  "iso": "SOL",
+  "country_name": "Somaliland",
+  "contacts": [
+    {
+      "type": "social_media",
+      "label": "Official Facebook Page",
+      "value": "@somaliland.gov",
+      "source": "Confirmed via UNPO and Wikipedia references"
+    },
+    {
+      "type": "social_media",
+      "label": "Official X/Twitter Account",
+      "value": "@SomalilandGov",
+      "source": "Confirmed via social media redirect verification"
+    },
+    {
+      "type": "website",
+      "label": "Official Government Website",
+      "url": "https://somalilandgov.com",
+      "source": "Unrepresented Nations and Peoples Organization (UNPO) member profile"
+    },
+    {
+      "type": "organization",
+      "label": "UNPO (Representation Organization)",
+      "value": "Fluwelen Burgwal 58, 2511CJ The Hague, Netherlands",
+      "source": "UNPO official page - Somaliland has been a member since 2004"
+    },
+    {
+      "type": "organization",
+      "label": "UNPO Phone",
+      "value": "+32 2 513 20 39",
+      "source": "UNPO official contact"
+    },
+    {
+      "type": "email",
+      "label": "News Portal Editorial (not official government)",
+      "value": "Editorial@Somaliland.com",
+      "source": "Somaliland.com - news portal based in London and Hargeisa"
+    }
+  ]
+}

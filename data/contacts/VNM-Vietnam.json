@@ -1,0 +1,120 @@
+{
+  "iso": "VNM",
+  "country_name": "Vietnam",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Editorial Office",
+      "value": "Banbientap@mofa.gov.vn",
+      "source": "https://mofa.gov.vn"
+    },
+    {
+      "type": "email",
+      "label": "Government Information and Communications",
+      "value": "thongtinchinhphu@chinhphu.vn",
+      "source": "https://chinhphu.vn"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Industry and Trade",
+      "value": "BaoCT@moit.gov.vn",
+      "source": "https://moit.gov.vn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Line",
+      "value": "+84 24 37992000",
+      "source": "https://mofa.gov.vn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Secondary Line",
+      "value": "+84 24 37992682",
+      "source": "https://mofa.gov.vn"
+    },
+    {
+      "type": "phone",
+      "label": "Government Communications Department - Office",
+      "value": "+84 80 43162",
+      "source": "https://chinhphu.vn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Industry and Trade - Main",
+      "value": "+84 243 936 6400",
+      "source": "https://moit.gov.vn"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Industry and Trade - Hotline",
+      "value": "+84 866 59 4498",
+      "source": "https://moit.gov.vn"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "01 Tôn Thất Đàm, Ba Đình District, Hanoi, Vietnam",
+      "source": "https://mofa.gov.vn"
+    },
+    {
+      "type": "address",
+      "label": "Government Information and Communications Department",
+      "value": "16 Lê Hồng Phong, Ba Đình District, Hanoi, Vietnam",
+      "source": "https://chinhphu.vn"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Industry and Trade",
+      "value": "23 Ngô Quyền, Hanoi, Vietnam",
+      "source": "https://moit.gov.vn"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mofa.gov.vn",
+      "source": "Official MOFA website"
+    },
+    {
+      "type": "website",
+      "label": "Vietnamese Government Portal",
+      "url": "https://chinhphu.vn",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Government Press Portal",
+      "url": "https://baochinhphu.vn",
+      "source": "Official government press outlet"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Industry and Trade",
+      "url": "https://moit.gov.vn",
+      "source": "Official ministry website"
+    },
+    {
+      "type": "facebook",
+      "label": "Vietnam Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MofaVietnam",
+      "source": "Verified from MOFA official page"
+    },
+    {
+      "type": "twitter",
+      "label": "Vietnam Ministry of Foreign Affairs X/Twitter",
+      "url": "https://x.com/mofa_vn",
+      "source": "MOFA official social media"
+    },
+    {
+      "type": "other",
+      "label": "Government Email System",
+      "value": "mail.chinhphu.vn",
+      "source": "https://chinhphu.vn"
+    },
+    {
+      "type": "fax",
+      "label": "Government Communications Department",
+      "value": "+84 80 48924",
+      "source": "https://chinhphu.vn"
+    }
+  ]
+}

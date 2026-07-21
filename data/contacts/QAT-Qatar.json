@@ -1,0 +1,90 @@
+{
+  "iso": "QAT",
+  "country_name": "Qatar",
+  "contacts": [
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs Main Line",
+      "value": "+974 4011 11 11",
+      "source": "https://mofa.gov.qa"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs Official Portal",
+      "url": "https://mofa.gov.qa",
+      "source": "Official government website"
+    },
+    {
+      "type": "website",
+      "label": "Diplomatic Portal for Accredited Missions",
+      "url": "https://dp.mofa.gov.qa",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "E-Services Email Portal",
+      "url": "https://sdr.mofa.gov.qa/owa/",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs Headquarters",
+      "value": "Almirqab Tower, West Bay, Doha, Qatar (Location: 8GHH+233 Doha)",
+      "source": "https://mofa.gov.qa"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs Official Account",
+      "value": "@MofaQatar_AR",
+      "source": "https://mofa.gov.qa"
+    },
+    {
+      "type": "twitter",
+      "label": "Prime Minister and Minister of Foreign Affairs",
+      "value": "@MBA_AlThani_",
+      "source": "Ministry of Foreign Affairs leadership"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs Official Account",
+      "value": "@mofa.qatar",
+      "source": "https://mofa.gov.qa"
+    },
+    {
+      "type": "telegram",
+      "label": "Ministry of Foreign Affairs Official Channel",
+      "value": "@MofaQatar",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Government Online Contact Form",
+      "url": "https://mofa.gov.qa (contact form available on homepage)",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Mobile App - iOS",
+      "url": "Available on Apple App Store",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "website",
+      "label": "Mobile App - Android",
+      "url": "Available on Google Play",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "type": "other",
+      "label": "Head of State",
+      "value": "His Highness Sheikh Tamim bin Hamad bin Khalifa Al-Thani (Emir of Qatar, since 2013)",
+      "source": "Ministry of Foreign Affairs official information"
+    },
+    {
+      "type": "other",
+      "label": "Government System",
+      "value": "Constitutional hereditary monarchy",
+      "source": "Ministry of Foreign Affairs official information"
+    }
+  ]
+}

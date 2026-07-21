@@ -1,0 +1,108 @@
+{
+  "iso": "DOM",
+  "country_name": "Dominican Republic",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs (MIREX)",
+      "value": "relexteriores@mirex.gob.do",
+      "source": "https://mirex.gob.do/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (MIREX) Main",
+      "value": "+1 809-987-7001",
+      "source": "https://mirex.gob.do/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (MIREX) Secondary",
+      "value": "+1 809-535-6280",
+      "source": "https://mirex.gob.do/"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs (MIREX) WhatsApp",
+      "value": "+1 829-748-2832",
+      "source": "https://mirex.gob.do/"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs (MIREX) Headquarters",
+      "value": "Avenida Independencia No. 752, Estancia San Gerónimo, Santo Domingo, R.D.",
+      "source": "https://mirex.gob.do/"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs (MIREX) Official Portal",
+      "url": "https://mirex.gob.do/",
+      "source": "https://mirex.gob.do/"
+    },
+    {
+      "type": "phone",
+      "label": "Presidential Office (Presidencia)",
+      "value": "+1 809-695-8000",
+      "source": "https://presidencia.gob.do"
+    },
+    {
+      "type": "address",
+      "label": "Presidential Office (Palacio Nacional)",
+      "value": "Avenida México esquina Dr. Delgado, Gascue, Santo Domingo",
+      "source": "https://presidencia.gob.do"
+    },
+    {
+      "type": "website",
+      "label": "Presidency Official Website",
+      "url": "https://presidencia.gob.do",
+      "source": "https://presidencia.gob.do"
+    },
+    {
+      "type": "facebook",
+      "label": "Presidency Official Facebook",
+      "url": "https://www.facebook.com/presidenciard",
+      "source": "https://presidencia.gob.do"
+    },
+    {
+      "type": "twitter",
+      "label": "Presidency Official X (Twitter)",
+      "url": "https://twitter.com/presidenciard",
+      "source": "https://presidencia.gob.do"
+    },
+    {
+      "type": "instagram",
+      "label": "Presidency Official Instagram",
+      "url": "https://www.instagram.com/presidenciard",
+      "source": "https://presidencia.gob.do"
+    },
+    {
+      "type": "youtube",
+      "label": "Presidency Official YouTube",
+      "url": "https://www.youtube.com/c/presidenciard",
+      "source": "https://presidencia.gob.do"
+    },
+    {
+      "type": "email",
+      "label": "Passport Services",
+      "value": "comunicaciones@pasaportes.gob.do",
+      "source": "Dominican Republic government services"
+    },
+    {
+      "type": "phone",
+      "label": "Passport Services",
+      "value": "+1 809-532-4233",
+      "source": "Dominican Republic government services"
+    },
+    {
+      "type": "phone",
+      "label": "Government Contact Center (*GOB)",
+      "value": "*462",
+      "source": "Dominican Republic government portal"
+    },
+    {
+      "type": "other",
+      "label": "Ministry of Foreign Affairs Social Media",
+      "value": "@MIREXRD on Facebook, Instagram, X (Twitter), YouTube, LinkedIn",
+      "source": "https://mirex.gob.do/"
+    }
+  ]
+}

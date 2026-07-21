@@ -1,0 +1,228 @@
+{
+  "iso": "MKD",
+  "country_name": "North Macedonia",
+  "contacts": [
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Main Email",
+      "value": "mailmnr@mfa.gov.mk",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Foreign Affairs - Visa Center",
+      "value": "vizencentar@mfa.gov.mk",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "email",
+      "label": "Government of North Macedonia - General Contact",
+      "value": "info@vlada.gov.mk",
+      "source": "https://vlada.mk"
+    },
+    {
+      "type": "email",
+      "label": "President's Cabinet - Main Email",
+      "value": "kabinet@pretsedatel.mk",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Free Access to Public Information",
+      "value": "pristap@pretsedatel.mk",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Data Protection Officer",
+      "value": "zasistitak@pretsedatel.mk",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Disability Services",
+      "value": "dostapnost@pretsedatel.mk",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "President's Office - Whistleblower Protection",
+      "value": "prijavuvac@pretsedatel.mk",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "email",
+      "label": "Ministry of Digital Transformation",
+      "value": "cabinet@mdt.gov.mk",
+      "source": "https://mdt.gov.mk"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Main Phone",
+      "value": "+389 2 3115 266",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Foreign Affairs - Consular Services Survey Hotline",
+      "value": "+389 75 446 647",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "phone",
+      "label": "President's Cabinet - General Phone",
+      "value": "+389 2 3253 150",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office - Free Access to Public Information",
+      "value": "+389 2 3253 116",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office - Data Protection Officer",
+      "value": "+389 75 210 390",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office - Disability Services",
+      "value": "+389 2 3253 171",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "President's Office - Whistleblower Protection",
+      "value": "+389 2 3253 160",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "phone",
+      "label": "Ministry of Digital Transformation",
+      "value": "+389 2 3200 999",
+      "source": "https://mdt.gov.mk"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Foreign Affairs",
+      "value": "Boulevard Philip II of Macedon No. 7, 1000 Skopje, Republic of North Macedonia",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "address",
+      "label": "President's Cabinet (Villa Vodno)",
+      "value": "Villa Vodno, 33A Aco Karamanov, Skopje, Republic of North Macedonia",
+      "source": "https://pretsedatel.mk/en/contact"
+    },
+    {
+      "type": "address",
+      "label": "Government of North Macedonia",
+      "value": "Boulevard Ilinden No. 2, 1000 Skopje, Republic of North Macedonia",
+      "source": "https://vlada.mk"
+    },
+    {
+      "type": "address",
+      "label": "Ministry of Digital Transformation",
+      "value": "Philip II of Macedon No. 11, 1000 Skopje, Republic of North Macedonia",
+      "source": "https://mdt.gov.mk"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://mfa.gov.mk",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "website",
+      "label": "Government Portal",
+      "url": "https://vlada.mk",
+      "source": "https://vlada.mk"
+    },
+    {
+      "type": "website",
+      "label": "President's Office",
+      "url": "https://pretsedatel.mk",
+      "source": "https://pretsedatel.mk"
+    },
+    {
+      "type": "website",
+      "label": "E-Services Portal",
+      "url": "https://uslugi.gov.mk",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "website",
+      "label": "E-Consulate",
+      "url": "https://ekonzulat.mfa.gov.mk",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "website",
+      "label": "Open Data Portal",
+      "url": "https://data.gov.mk",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "website",
+      "label": "Ministry of Digital Transformation",
+      "url": "https://mdt.gov.mk",
+      "source": "https://mdt.gov.mk"
+    },
+    {
+      "type": "facebook",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.facebook.com/MFA.North.Macedonia",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "facebook",
+      "label": "President Siljanovska-Davkova",
+      "url": "https://www.facebook.com/siljanovskadavkova",
+      "source": "https://pretsedatel.mk"
+    },
+    {
+      "type": "twitter",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://x.com/MFA_MKD",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "twitter",
+      "label": "President Siljanovska-Davkova",
+      "url": "https://x.com/gogamkd",
+      "source": "https://pretsedatel.mk"
+    },
+    {
+      "type": "instagram",
+      "label": "Ministry of Foreign Affairs",
+      "url": "https://www.instagram.com/mfa_mkd",
+      "source": "https://mfa.gov.mk"
+    },
+    {
+      "type": "instagram",
+      "label": "President Siljanovska-Davkova",
+      "url": "https://www.instagram.com/gordana_siljanovska_davkova",
+      "source": "https://pretsedatel.mk"
+    },
+    {
+      "type": "social_media",
+      "label": "Ministry of Digital Transformation - Facebook",
+      "url": "https://www.facebook.com/mdt.mk",
+      "source": "https://mdt.gov.mk"
+    },
+    {
+      "type": "social_media",
+      "label": "Ministry of Digital Transformation - Instagram",
+      "url": "https://www.instagram.com/mdt_mk",
+      "source": "https://mdt.gov.mk"
+    },
+    {
+      "type": "social_media",
+      "label": "E-Services Portal - YouTube",
+      "url": "https://www.youtube.com/channel/uslugigovmk7781",
+      "source": "https://mdt.gov.mk"
+    }
+  ]
+}
