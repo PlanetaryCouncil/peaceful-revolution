@@ -1,0 +1,640 @@
+{
+  "AGO": {
+    "file": "AGO-Angola.json",
+    "country_name": "Angola",
+    "total": 17,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "BDI": {
+    "file": "BDI-Burundi.json",
+    "country_name": "Burundi",
+    "total": 15,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "address": 2,
+      "website": 3,
+      "twitter": 1,
+      "facebook": 1
+    }
+  },
+  "BEN": {
+    "file": "BEN-Benin.json",
+    "country_name": "Benin",
+    "total": 17,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "website": 3,
+      "facebook": 3,
+      "twitter": 2,
+      "address": 2
+    }
+  },
+  "BFA": {
+    "file": "BFA-Burkina-Faso.json",
+    "country_name": "Burkina Faso",
+    "total": 20,
+    "types": {
+      "email": 3,
+      "phone": 4,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 5
+    }
+  },
+  "BWA": {
+    "file": "BWA-Botswana.json",
+    "country_name": "Botswana",
+    "total": 15,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "website": 1,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "CAF": {
+    "file": "CAF-Central-African-Republic.json",
+    "country_name": "Central African Republic",
+    "total": 18,
+    "types": {
+      "email": 2,
+      "phone": 3,
+      "website": 4,
+      "facebook": 3,
+      "twitter": 2,
+      "address": 3,
+      "other": 1
+    }
+  },
+  "CIV": {
+    "file": "CIV-Cte-dIvoire.json",
+    "country_name": "Côte d'Ivoire",
+    "total": 13,
+    "types": {
+      "email": 2,
+      "phone": 1,
+      "website": 5,
+      "facebook": 1,
+      "twitter": 2,
+      "address": 2
+    }
+  },
+  "CMR": {
+    "file": "CMR-Cameroon.json",
+    "country_name": "Cameroon",
+    "total": 18,
+    "types": {
+      "email": 3,
+      "phone": 4,
+      "website": 3,
+      "facebook": 3,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "COD": {
+    "file": "COD-Democratic-Republic-of-the-Congo.json",
+    "country_name": "Democratic Republic of the Congo",
+    "total": 17,
+    "types": {
+      "email": 3,
+      "phone": 2,
+      "website": 3,
+      "facebook": 3,
+      "twitter": 3,
+      "address": 3
+    }
+  },
+  "COG": {
+    "file": "COG-Congo.json",
+    "country_name": "Congo",
+    "total": 27,
+    "types": {
+      "email": 6,
+      "phone": 7,
+      "website": 5,
+      "twitter": 2,
+      "facebook": 1,
+      "address": 6
+    }
+  },
+  "COM": {
+    "file": "COM-Comoros.json",
+    "country_name": "Comoros",
+    "total": 24,
+    "types": {
+      "email": 6,
+      "phone": 6,
+      "website": 4,
+      "twitter": 1,
+      "facebook": 1,
+      "address": 6
+    }
+  },
+  "CPV": {
+    "file": "CPV-Cabo-Verde.json",
+    "country_name": "Cabo Verde",
+    "total": 20,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 1,
+      "address": 3,
+      "other": 1
+    }
+  },
+  "DJI": {
+    "file": "DJI-Djibouti.json",
+    "country_name": "Djibouti",
+    "total": 27,
+    "types": {
+      "email": 6,
+      "phone": 7,
+      "website": 6,
+      "facebook": 1,
+      "address": 7
+    }
+  },
+  "DZA": {
+    "file": "DZA-Algeria.json",
+    "country_name": "Algeria",
+    "total": 13,
+    "types": {
+      "email": 1,
+      "phone": 3,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 1,
+      "address": 3
+    }
+  },
+  "EGY": {
+    "file": "EGY-Egypt.json",
+    "country_name": "Egypt",
+    "total": 22,
+    "types": {
+      "email": 3,
+      "phone": 4,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 4,
+      "address": 4
+    }
+  },
+  "ERI": {
+    "file": "ERI-Eritrea.json",
+    "country_name": "Eritrea",
+    "total": 20,
+    "types": {
+      "email": 5,
+      "phone": 4,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 4
+    }
+  },
+  "ETH": {
+    "file": "ETH-Ethiopia.json",
+    "country_name": "Ethiopia",
+    "total": 18,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "GAB": {
+    "file": "GAB-Gabon.json",
+    "country_name": "Gabon",
+    "total": 16,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 1,
+      "address": 3
+    }
+  },
+  "GHA": {
+    "file": "GHA-Ghana.json",
+    "country_name": "Ghana",
+    "total": 17,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "address": 3,
+      "website": 3,
+      "facebook": 1,
+      "twitter": 3
+    }
+  },
+  "GIN": {
+    "file": "GIN-Guinea.json",
+    "country_name": "Guinea",
+    "total": 22,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "website": 5,
+      "facebook": 4,
+      "twitter": 3,
+      "address": 3
+    }
+  },
+  "GMB": {
+    "file": "GMB-Gambia.json",
+    "country_name": "Gambia",
+    "total": 16,
+    "types": {
+      "email": 5,
+      "phone": 1,
+      "address": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "website": 3
+    }
+  },
+  "GNB": {
+    "file": "GNB-Guinea-Bissau.json",
+    "country_name": "Guinea-Bissau",
+    "total": 10,
+    "types": {
+      "email": 2,
+      "phone": 2,
+      "address": 2,
+      "website": 2,
+      "facebook": 1,
+      "twitter": 1
+    }
+  },
+  "GNQ": {
+    "file": "GNQ-Equatorial-Guinea.json",
+    "country_name": "Equatorial Guinea",
+    "total": 18,
+    "types": {
+      "email": 5,
+      "phone": 4,
+      "website": 4,
+      "twitter": 1,
+      "facebook": 1,
+      "address": 3
+    }
+  },
+  "KEN": {
+    "file": "KEN-Kenya.json",
+    "country_name": "Kenya",
+    "total": 15,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "website": 4,
+      "twitter": 1,
+      "facebook": 1,
+      "address": 3
+    }
+  },
+  "LBR": {
+    "file": "LBR-Liberia.json",
+    "country_name": "Liberia",
+    "total": 15,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "website": 2,
+      "address": 3,
+      "facebook": 2,
+      "twitter": 1,
+      "other": 1
+    }
+  },
+  "LBY": {
+    "file": "LBY-Libya.json",
+    "country_name": "Libya",
+    "total": 16,
+    "types": {
+      "email": 5,
+      "phone": 5,
+      "address": 3,
+      "website": 1,
+      "facebook": 1,
+      "twitter": 1
+    }
+  },
+  "LSO": {
+    "file": "LSO-Lesotho.json",
+    "country_name": "Lesotho",
+    "total": 17,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 1,
+      "address": 2,
+      "other": 1
+    }
+  },
+  "MAR": {
+    "file": "MAR-Morocco.json",
+    "country_name": "Morocco",
+    "total": 22,
+    "types": {
+      "email": 4,
+      "phone": 5,
+      "website": 5,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 4
+    }
+  },
+  "MDG": {
+    "file": "MDG-Madagascar.json",
+    "country_name": "Madagascar",
+    "total": 15,
+    "types": {
+      "email": 4,
+      "phone": 3,
+      "address": 2,
+      "website": 3,
+      "facebook": 3
+    }
+  },
+  "MLI": {
+    "file": "MLI-Mali.json",
+    "country_name": "Mali",
+    "total": 19,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "address": 3,
+      "website": 4,
+      "twitter": 2,
+      "facebook": 2
+    }
+  },
+  "MOZ": {
+    "file": "MOZ-Mozambique.json",
+    "country_name": "Mozambique",
+    "total": 14,
+    "types": {
+      "email": 4,
+      "phone": 2,
+      "website": 4,
+      "twitter": 1,
+      "facebook": 1,
+      "address": 2
+    }
+  },
+  "MRT": {
+    "file": "MRT-Mauritania.json",
+    "country_name": "Mauritania",
+    "total": 12,
+    "types": {
+      "email": 2,
+      "phone": 2,
+      "website": 4,
+      "facebook": 1,
+      "twitter": 1,
+      "address": 2
+    }
+  },
+  "MUS": {
+    "file": "MUS-Mauritius.json",
+    "country_name": "Mauritius",
+    "total": 19,
+    "types": {
+      "email": 6,
+      "phone": 4,
+      "address": 4,
+      "facebook": 2,
+      "twitter": 1,
+      "website": 2
+    }
+  },
+  "MWI": {
+    "file": "MWI-Malawi.json",
+    "country_name": "Malawi",
+    "total": 15,
+    "types": {
+      "email": 2,
+      "phone": 3,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "NER": {
+    "file": "NER-Niger.json",
+    "country_name": "Niger",
+    "total": 12,
+    "types": {
+      "email": 2,
+      "phone": 3,
+      "website": 2,
+      "twitter": 1,
+      "facebook": 2,
+      "address": 2
+    }
+  },
+  "NGA": {
+    "file": "NGA-Nigeria.json",
+    "country_name": "Nigeria",
+    "total": 19,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "website": 4,
+      "twitter": 3,
+      "facebook": 3,
+      "address": 3
+    }
+  },
+  "RWA": {
+    "file": "RWA-Rwanda.json",
+    "country_name": "Rwanda",
+    "total": 18,
+    "types": {
+      "email": 6,
+      "phone": 4,
+      "address": 2,
+      "website": 4,
+      "twitter": 1,
+      "facebook": 1
+    }
+  },
+  "SDN": {
+    "file": "SDN-Sudan.json",
+    "country_name": "Sudan",
+    "total": 18,
+    "types": {
+      "email": 6,
+      "phone": 4,
+      "website": 4,
+      "facebook": 1,
+      "twitter": 1,
+      "address": 2
+    }
+  },
+  "SEN": {
+    "file": "SEN-Senegal.json",
+    "country_name": "Senegal",
+    "total": 20,
+    "types": {
+      "email": 2,
+      "phone": 4,
+      "website": 5,
+      "facebook": 4,
+      "twitter": 1,
+      "address": 4
+    }
+  },
+  "SLE": {
+    "file": "SLE-Sierra-Leone.json",
+    "country_name": "Sierra Leone",
+    "total": 27,
+    "types": {
+      "email": 8,
+      "phone": 5,
+      "website": 4,
+      "facebook": 4,
+      "twitter": 2,
+      "address": 4
+    }
+  },
+  "SOM": {
+    "file": "SOM-Somalia.json",
+    "country_name": "Somalia",
+    "total": 17,
+    "types": {
+      "email": 3,
+      "phone": 4,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 3,
+      "address": 2
+    }
+  },
+  "SSD": {
+    "file": "SSD-South-Sudan.json",
+    "country_name": "South Sudan",
+    "total": 9,
+    "types": {
+      "email": 1,
+      "website": 2,
+      "address": 2,
+      "facebook": 2,
+      "twitter": 2
+    }
+  },
+  "SWZ": {
+    "file": "SWZ-Eswatini.json",
+    "country_name": "Eswatini",
+    "total": 28,
+    "types": {
+      "email": 8,
+      "phone": 8,
+      "website": 1,
+      "facebook": 1,
+      "twitter": 2,
+      "address": 8
+    }
+  },
+  "SYC": {
+    "file": "SYC-Seychelles.json",
+    "country_name": "Seychelles",
+    "total": 20,
+    "types": {
+      "email": 6,
+      "phone": 3,
+      "website": 4,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "TCD": {
+    "file": "TCD-Chad.json",
+    "country_name": "Chad",
+    "total": 18,
+    "types": {
+      "email": 3,
+      "phone": 5,
+      "website": 3,
+      "facebook": 2,
+      "twitter": 2,
+      "address": 3
+    }
+  },
+  "TUN": {
+    "file": "TUN-Tunisia.json",
+    "country_name": "Tunisia",
+    "total": 21,
+    "types": {
+      "email": 4,
+      "phone": 4,
+      "address": 2,
+      "website": 4,
+      "facebook": 3,
+      "twitter": 4
+    }
+  },
+  "TZA": {
+    "file": "TZA-Tanzania.json",
+    "country_name": "Tanzania",
+    "total": 17,
+    "types": {
+      "email": 3,
+      "phone": 4,
+      "website": 3,
+      "twitter": 2,
+      "facebook": 2,
+      "address": 3
+    }
+  },
+  "ZAF": {
+    "file": "ZAF-South-Africa.json",
+    "country_name": "South Africa",
+    "total": 23,
+    "types": {
+      "email": 6,
+      "phone": 4,
+      "website": 3,
+      "facebook": 3,
+      "twitter": 3,
+      "address": 4
+    }
+  },
+  "ZMB": {
+    "file": "ZMB-Zambia.json",
+    "country_name": "Zambia",
+    "total": 17,
+    "types": {
+      "email": 3,
+      "phone": 3,
+      "address": 4,
+      "website": 3,
+      "twitter": 2,
+      "facebook": 2
+    }
+  }
+}

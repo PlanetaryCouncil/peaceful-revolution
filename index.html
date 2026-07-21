@@ -505,23 +505,24 @@ let ALL_CONTACTS = {};  // keyed by ISO3, each value is the country's contact JS
 async function loadAssets(){
   try { FACTBOOK_SLUGS = await(await fetch("data/factbook-slugs.json")).json(); } catch(e){ console.warn("factbook-slugs not loaded:", e); }
 
-  // Eager load all country contacts in parallel. ORDER includes UN members + non-UN polities.
-  // Each file is named data/contacts/{ISO3}-{CountryName}.json
-  if(ORDER && ORDER.length > 0){
-    const contactFetches = ORDER.map(iso => {
-      const e = LOOKUP[iso];
-      const filename = `data/contacts/${iso}-${e.name.replace(/\s+/g, "-").replace(/[^\w-]/g, "")}.json`;
-      return fetch(filename)
-        .then(r => r.ok ? r.json().then(data => [iso, data]) : [iso, null])
-        .catch(() => [iso, null]);
-    });
-    const results = await Promise.all(contactFetches);
-    results.forEach(([iso, data]) => {
-      if(data && data.contacts) ALL_CONTACTS[iso] = data.contacts;
-    });
-    const loaded = Object.keys(ALL_CONTACTS).length;
-    console.log(`Loaded contacts for ${loaded}/${ORDER.length} countries`);
-  }
+  // Eager load every country's contacts. data/contacts/index.json is a manifest
+  // (ISO3 -> {file,...}) built by scripts/build-contacts-index.js — filenames carry
+  // the country name for human navigation, so we never guess them here.
+  let manifest = {};
+  try { manifest = await(await fetch("data/contacts/index.json")).json(); }
+  catch(e){ console.warn("contacts index not loaded:", e); return; }
+
+  const entries = Object.entries(manifest);
+  const loaded = await Promise.all(entries.map(([iso, meta]) =>
+    fetch(`data/contacts/${meta.file}`)
+      .then(r => r.ok ? r.json() : null)
+      .then(data => (data && Array.isArray(data.contacts)) ? [iso, data.contacts] : null)
+      .catch(() => null)
+  ));
+  loaded.forEach(hit => { if(hit) ALL_CONTACTS[hit[0]] = hit[1]; });
+
+  console.log(`Loaded contacts for ${Object.keys(ALL_CONTACTS).length}/${entries.length} countries`);
+  if(selected) renderPanel();   // refresh if a country was picked before load finished
 }
 
 function renderPanel(){
