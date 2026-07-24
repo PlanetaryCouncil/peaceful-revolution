@@ -40,3 +40,6 @@ Map colours are set in the JS `COLORSCALE` + the Plotly `geo` layout (land/ocean
 
 ## Note
 This repo is separate from the BaseX project (`/Users/m/Code/basex-polsia`) that a shared session may also have open. They are unrelated codebases.
+
+## Layer feed (`data/layer/`)
+Machine-readable Planetary Council membership for third-party maps: `planetary-council.geojson` + `.json`, generated from the rosters in `index.html` by `node scripts/build-layer-feed.js` — rerun it whenever the rosters change. Served CORS-open (`*`) on GitHub Pages. Docs + WorldMonitor upstream-proposal draft: `LAYER-FEED.md`.

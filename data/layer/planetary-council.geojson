@@ -1,0 +1,364 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "layer": "planetary-council",
+    "title": "Planetary Council — members & candidates",
+    "description": "Countries and peoples where a peaceful revolution has taken hold (members, counted toward the 51% activation threshold) or is developing now (candidates). Hand-curated, sourced, and challengeable.",
+    "source": "https://map.planetarycouncil.org/",
+    "data_license": "CC-BY-4.0",
+    "attribution": "Planetary Council — map.planetarycouncil.org",
+    "members": 19,
+    "candidates": 1,
+    "universe": 202,
+    "threshold_pct": 51
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7,
+          7.6
+        ]
+      },
+      "properties": {
+        "iso3": "LKA",
+        "name": "Sri Lanka",
+        "status": "member",
+        "counted": true,
+        "since": 2022,
+        "event": "2022 Sri Lankan protests"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4,
+          23.7
+        ]
+      },
+      "properties": {
+        "iso3": "BGD",
+        "name": "Bangladesh",
+        "status": "member",
+        "counted": true,
+        "since": 2024,
+        "event": "2024 Bangladesh quota reform movement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1,
+          28.3
+        ]
+      },
+      "properties": {
+        "iso3": "NPL",
+        "name": "Nepal",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9,
+          0.5
+        ]
+      },
+      "properties": {
+        "iso3": "KEN",
+        "name": "Kenya",
+        "status": "member",
+        "counted": true,
+        "since": 2024,
+        "event": "2024 Kenyan protests"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3,
+          -2.2
+        ]
+      },
+      "properties": {
+        "iso3": "IDN",
+        "name": "Indonesia",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7,
+          -19.4
+        ]
+      },
+      "properties": {
+        "iso3": "MDG",
+        "name": "Madagascar",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9,
+          -6.4
+        ]
+      },
+      "properties": {
+        "iso3": "TZA",
+        "name": "Tanzania",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4,
+          17.6
+        ]
+      },
+      "properties": {
+        "iso3": "MLI",
+        "name": "Mali",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9,
+          44
+        ]
+      },
+      "properties": {
+        "iso3": "SRB",
+        "name": "Serbia",
+        "status": "member",
+        "counted": true,
+        "since": 2024,
+        "event": "2024–2025 Serbian protests"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5,
+          42.2
+        ]
+      },
+      "properties": {
+        "iso3": "GEO",
+        "name": "Georgia",
+        "status": "member",
+        "counted": true,
+        "since": 2024,
+        "event": "2024 Georgian protests"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          45.8
+        ]
+      },
+      "properties": {
+        "iso3": "ROU",
+        "name": "Romania",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3,
+          32.6
+        ]
+      },
+      "properties": {
+        "iso3": "IRN",
+        "name": "Iran",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5,
+          -17.3
+        ]
+      },
+      "properties": {
+        "iso3": "MOZ",
+        "name": "Mozambique",
+        "status": "member",
+        "counted": true,
+        "since": 2024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2,
+          7.1
+        ]
+      },
+      "properties": {
+        "iso3": "VEN",
+        "name": "Venezuela",
+        "status": "member",
+        "counted": true,
+        "since": 2024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45,
+          40.3
+        ]
+      },
+      "properties": {
+        "iso3": "ARM",
+        "name": "Armenia",
+        "status": "member",
+        "counted": true,
+        "since": 2018,
+        "event": "2018 Armenian revolution"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5,
+          48.7
+        ]
+      },
+      "properties": {
+        "iso3": "SVK",
+        "name": "Slovakia",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5,
+          39
+        ]
+      },
+      "properties": {
+        "iso3": "TUR",
+        "name": "Türkiye",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5,
+          23.9
+        ]
+      },
+      "properties": {
+        "iso3": "MEX",
+        "name": "Mexico",
+        "status": "member",
+        "counted": true,
+        "since": 2025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71,
+          -35.7
+        ]
+      },
+      "properties": {
+        "iso3": "CHL",
+        "name": "Chile",
+        "status": "member",
+        "counted": true,
+        "since": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.05,
+          41.15
+        ]
+      },
+      "properties": {
+        "iso3": "ALB",
+        "name": "Albania",
+        "status": "candidate",
+        "counted": false,
+        "since": 2026,
+        "event": "the Flamingo Revolution"
+      }
+    }
+  ]
+}

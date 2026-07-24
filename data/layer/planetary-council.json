@@ -1,0 +1,154 @@
+{
+  "layer": "planetary-council",
+  "title": "Planetary Council — members & candidates",
+  "description": "Countries and peoples where a peaceful revolution has taken hold (members, counted toward the 51% activation threshold) or is developing now (candidates). Hand-curated, sourced, and challengeable.",
+  "source": "https://map.planetarycouncil.org/",
+  "data_license": "CC-BY-4.0",
+  "attribution": "Planetary Council — map.planetarycouncil.org",
+  "members": 19,
+  "candidates": 1,
+  "universe": 202,
+  "threshold_pct": 51,
+  "countries": [
+    {
+      "iso3": "ALB",
+      "name": "Albania",
+      "status": "candidate",
+      "counted": false,
+      "since": 2026
+    },
+    {
+      "iso3": "ARM",
+      "name": "Armenia",
+      "status": "member",
+      "counted": true,
+      "since": 2018
+    },
+    {
+      "iso3": "BGD",
+      "name": "Bangladesh",
+      "status": "member",
+      "counted": true,
+      "since": 2024
+    },
+    {
+      "iso3": "CHL",
+      "name": "Chile",
+      "status": "member",
+      "counted": true,
+      "since": 2019
+    },
+    {
+      "iso3": "GEO",
+      "name": "Georgia",
+      "status": "member",
+      "counted": true,
+      "since": 2024
+    },
+    {
+      "iso3": "IDN",
+      "name": "Indonesia",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "IRN",
+      "name": "Iran",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "KEN",
+      "name": "Kenya",
+      "status": "member",
+      "counted": true,
+      "since": 2024
+    },
+    {
+      "iso3": "LKA",
+      "name": "Sri Lanka",
+      "status": "member",
+      "counted": true,
+      "since": 2022
+    },
+    {
+      "iso3": "MDG",
+      "name": "Madagascar",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "MEX",
+      "name": "Mexico",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "MLI",
+      "name": "Mali",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "MOZ",
+      "name": "Mozambique",
+      "status": "member",
+      "counted": true,
+      "since": 2024
+    },
+    {
+      "iso3": "NPL",
+      "name": "Nepal",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "ROU",
+      "name": "Romania",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "SRB",
+      "name": "Serbia",
+      "status": "member",
+      "counted": true,
+      "since": 2024
+    },
+    {
+      "iso3": "SVK",
+      "name": "Slovakia",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "TUR",
+      "name": "Türkiye",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "TZA",
+      "name": "Tanzania",
+      "status": "member",
+      "counted": true,
+      "since": 2025
+    },
+    {
+      "iso3": "VEN",
+      "name": "Venezuela",
+      "status": "member",
+      "counted": true,
+      "since": 2024
+    }
+  ]
+}
