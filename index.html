@@ -129,6 +129,17 @@
   .tile-more{cursor:pointer;align-items:center;justify-content:center;font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--accent);background:var(--panel-2)}
   .tile-more:hover{border-color:var(--accent)}
 
+  /* live-signals section — World Monitor embed */
+  .wm-section{margin-top:22px}
+  .wm-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:10px}
+  .wm-open{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--accent);text-decoration:none;white-space:nowrap}
+  .wm-open:hover{text-decoration:underline}
+  .wm-frame{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+  .wm-frame iframe{width:100%;height:440px;border:0;display:block}
+  .wm-note{margin-top:8px;font-size:12px;color:var(--text-faint);line-height:1.5}
+  .wm-note a{color:var(--accent);text-decoration:none}
+  .wm-note a:hover{text-decoration:underline}
+
   /* panel (read-only) */
   .panel{background:linear-gradient(180deg,var(--panel),var(--panel-2));border:1px solid var(--line);border-radius:var(--radius);padding:18px;transition:background 1s ease,border-color 1s ease;min-height:340px}
   .panel .ph-empty{color:var(--text-faint);font-size:13px;line-height:1.6;margin-top:6px}
@@ -220,6 +231,24 @@
       <div id="panelBody"></div>
     </aside>
   </div>
+
+  <!-- LIVE SIGNALS — World Monitor public embed (map-only, attribution built in).
+       Selecting a country above recenters this live view on it. -->
+  <section class="wm-section" aria-label="Live signals from World Monitor">
+    <div class="wm-head">
+      <span class="cb-title" style="margin-bottom:0">Live signals — protests &amp; conflicts, right now</span>
+      <a class="wm-open" href="https://worldmonitor.app/" target="_blank" rel="noopener">open full dashboard ↗</a>
+    </div>
+    <div class="wm-frame">
+      <iframe id="wmEmbed"
+        src="https://www.worldmonitor.app/embed?layers=protests,conflicts&center=20,0&zoom=1&theme=light&variant=full"
+        title="World Monitor live map — protests and conflicts"
+        loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen></iframe>
+    </div>
+    <p class="wm-note">Live layer by <a href="https://worldmonitor.app/" target="_blank" rel="noopener">World Monitor</a> (open source, AGPL-3.0). Our map is the curated memory — theirs is the real-time pulse. Click a country above to focus this view on it.</p>
+  </section>
 
   <footer class="note">
     <b>Conceptual instrument, not a forecast.</b> The map is curated by hand: which places count as having had a peaceful revolution is contested, contestable, and editable at the top of the source. Each entry links to <b>Wikipedia</b> as a starting point — dig deeper from there. Peoples and de-facto or disputed polities that are not UN members (diamond markers) are included as <b>first-class</b> participants and counted — legitimacy here follows those <i>present</i>, not those recognized. Situations marked <b>developing</b> (blue) are unfolding now and are deliberately <b>not</b> counted until they cross the line. <b>Coups</b> (blue) and <b>wars</b> (red) are shown to illustrate the state of the world but are <b>not</b> counted toward the peaceful-revolution threshold — a military coup is not a peaceful revolution. Places marked <b>recent improvement</b> (blue) — a ceasefire, the fall of a dictator, a fragile transition — are turns for the better but also <b>not</b> counted, since they are not (yet) peaceful revolutions. The United Kingdom has its own <a href="uk.html">fractal page →</a>. The 51% “Charter rewrite” is an act of imagination about participatory, citizen-driven governance, not a legal claim.
@@ -478,7 +507,58 @@ function drawMap(){
    RENDER
    ============================================================ */
 let selected = null;
-function select(key){ selected = key; contactsExpanded = false; renderRoster(); renderPanel(); renderContacts(); document.getElementById("panel").scrollIntoView({block:"nearest"}); }
+function select(key){ selected = key; contactsExpanded = false; renderRoster(); renderPanel(); renderContacts(); focusEmbed(key); document.getElementById("panel").scrollIntoView({block:"nearest"}); }
+
+/* ── World Monitor embed focus ──────────────────────────────
+   Rough country centroids (±1-2° is fine at zoom 4 — this only
+   recenters the live embed, it makes no factual claim). Entries
+   with curated lat/lon (developing, non-UN) take precedence. */
+const CENTROIDS = {
+  DZA:[28,3],AGO:[-12,17.5],BEN:[9.5,2.3],BWA:[-22,24],BFA:[12.3,-1.7],BDI:[-3.4,29.9],
+  CPV:[16,-24],CMR:[5.7,12.7],CAF:[6.6,20.9],TCD:[15.4,18.7],COM:[-11.7,43.3],COG:[-0.7,15],
+  COD:[-2.9,23.6],DJI:[11.8,42.6],EGY:[26.6,29.8],GNQ:[1.6,10.3],ERI:[15.2,39],SWZ:[-26.5,31.5],
+  ETH:[9.1,40.5],GAB:[-0.6,11.6],GMB:[13.4,-15.4],GHA:[7.9,-1],GIN:[10.4,-11],GNB:[12,-15],
+  CIV:[7.5,-5.5],KEN:[0.5,37.9],LSO:[-29.6,28.2],LBR:[6.4,-9.3],LBY:[27,17],MDG:[-19.4,46.7],
+  MWI:[-13.2,34.3],MLI:[17.6,-4],MRT:[20.3,-10.3],MUS:[-20.2,57.5],MAR:[31.8,-7.1],MOZ:[-17.3,35.5],
+  NAM:[-22.1,17.2],NER:[17.6,8],NGA:[9.1,8.7],RWA:[-2,29.9],STP:[0.2,6.6],SEN:[14.4,-14.5],
+  SYC:[-4.7,55.5],SLE:[8.5,-11.8],SOM:[5.2,46.2],ZAF:[-29,25],SSD:[7.3,30.3],SDN:[15.6,30.2],
+  TZA:[-6.4,34.9],TGO:[8.5,1],TUN:[34.1,9.6],UGA:[1.3,32.4],ZMB:[-13.5,27.8],ZWE:[-19,29.9],
+  ATG:[17.1,-61.8],ARG:[-34,-64],BHS:[24.2,-76],BRB:[13.2,-59.5],BLZ:[17.2,-88.7],BOL:[-16.7,-64.7],
+  BRA:[-10.8,-53],CAN:[56,-106],CHL:[-35.7,-71],COL:[3.9,-73],CRI:[9.9,-84.2],CUB:[21.5,-79.5],
+  DMA:[15.4,-61.4],DOM:[18.9,-70.5],ECU:[-1.4,-78.4],SLV:[13.7,-88.9],GRD:[12.1,-61.7],GTM:[15.7,-90.4],
+  GUY:[4.8,-58.9],HTI:[18.9,-72.7],HND:[14.8,-86.6],JAM:[18.1,-77.3],MEX:[23.9,-102.5],NIC:[12.9,-85.2],
+  PAN:[8.5,-80.1],PRY:[-23.2,-58.4],PER:[-9.2,-74.4],KNA:[17.3,-62.7],LCA:[13.9,-61],VCT:[13.2,-61.2],
+  SUR:[4.1,-55.9],TTO:[10.5,-61.3],USA:[39.8,-98.6],URY:[-32.8,-56],VEN:[7.1,-66.2],
+  AFG:[33.8,66],ARM:[40.3,45],AZE:[40.3,47.5],BHR:[26,50.5],BGD:[23.7,90.4],BTN:[27.4,90.4],
+  BRN:[4.5,114.7],KHM:[12.7,104.9],CHN:[36.6,103.9],CYP:[35,33.2],GEO:[42.2,43.5],IND:[22.9,79.6],
+  IDN:[-2.2,117.3],IRN:[32.6,54.3],IRQ:[33,43.8],ISR:[31.4,35],JPN:[36.5,138],JOR:[31.3,36.8],
+  KAZ:[48.2,67.3],KWT:[29.3,47.6],KGZ:[41.5,74.5],LAO:[18.5,103.8],LBN:[33.9,35.9],MYS:[3.8,109.7],
+  MDV:[3.7,73.2],MNG:[46.8,103.1],MMR:[21,96.5],NPL:[28.3,84.1],PRK:[40.2,127.2],OMN:[20.6,56.1],
+  PAK:[29.9,69.4],PHL:[11.8,122.9],QAT:[25.3,51.2],SAU:[24,45],SGP:[1.35,103.8],KOR:[36.4,127.8],
+  LKA:[7.6,80.7],SYR:[35,38.5],TJK:[38.5,71],THA:[15.1,101],TLS:[-8.8,125.9],TUR:[39,35.5],
+  TKM:[39.1,59.4],ARE:[23.9,54.3],UZB:[41.7,63.7],VNM:[16.6,106.3],YEM:[15.9,47.6],
+  ALB:[41.1,20.1],AND:[42.5,1.6],AUT:[47.6,14.1],BLR:[53.5,28],BEL:[50.6,4.7],BIH:[44.2,17.8],
+  BGR:[42.8,25.2],HRV:[45.1,16.4],CZE:[49.8,15.3],DNK:[56,10],EST:[58.7,25.5],FIN:[64.5,26],
+  FRA:[46.6,2.5],DEU:[51.1,10.4],GRC:[39.1,22.9],HUN:[47.2,19.4],ISL:[65,-18.6],IRL:[53.2,-8.1],
+  ITA:[42.8,12.1],LVA:[56.9,24.9],LIE:[47.15,9.55],LTU:[55.3,23.9],LUX:[49.8,6.1],MLT:[35.9,14.4],
+  MDA:[47.2,28.5],MCO:[43.7,7.4],MNE:[42.8,19.2],NLD:[52.2,5.3],MKD:[41.6,21.7],NOR:[64.5,13],
+  POL:[52.1,19.4],PRT:[39.6,-8],ROU:[45.8,25],RUS:[61.5,99],SMR:[43.9,12.45],SRB:[44,20.9],
+  SVK:[48.7,19.5],SVN:[46.1,14.8],ESP:[40.2,-3.6],SWE:[62.8,16.7],CHE:[46.8,8.2],UKR:[49,31.4],
+  GBR:[54,-2.5],
+  AUS:[-25.7,134.5],FJI:[-17.8,178],KIR:[1.4,173],MHL:[7.1,171.2],FSM:[6.9,158.2],NRU:[-0.52,166.93],
+  NZL:[-41.8,172.8],PLW:[7.5,134.6],PNG:[-6.5,145],WSM:[-13.7,-172.1],SLB:[-9.6,160.1],TON:[-21.2,-175.2],
+  TUV:[-8.5,179.1],VUT:[-16.6,168],
+};
+let wmFocused = null;
+function focusEmbed(iso){
+  const f = document.getElementById("wmEmbed");
+  if(!f || iso === wmFocused) return;
+  const e = LOOKUP[iso];
+  const c = (e && e.lat != null) ? [e.lat, e.lon] : CENTROIDS[iso];
+  if(!c) return;
+  wmFocused = iso;
+  f.src = `https://www.worldmonitor.app/embed?layers=protests,conflicts&center=${c[0]},${c[1]}&zoom=4&theme=light&variant=full`;
+}
 
 function renderMeter(){
   const on = countOnline(), pct = on/N*100;
@@ -568,6 +648,7 @@ function renderPanel(){
   let links = `<a class="source-link" href="${wikiUrl(e)}" target="_blank" rel="noopener">Wikipedia <span class="arr">↗</span></a>`;
   const fbSlug = FACTBOOK_SLUGS[selected];
   if(fbSlug) links += `<a class="source-link" href="https://www.cia.gov/the-world-factbook/countries/${fbSlug}/" target="_blank" rel="noopener">CIA World Factbook <span class="arr">↗</span></a>`;
+  links += `<a class="source-link" href="https://worldmonitor.app/" target="_blank" rel="noopener">World Monitor — live signals <span class="arr">↗</span></a>`;
   if(e.event) links += `<a class="source-link" href="${eventUrl(e.event)}" target="_blank" rel="noopener">${e.event} <span class="arr">↗</span></a>`;
   if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
   if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
