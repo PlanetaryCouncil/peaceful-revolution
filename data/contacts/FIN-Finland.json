@@ -27,13 +27,13 @@
       "source": "Finnish government official portal"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Ministry for Foreign Affairs - Contact Form",
       "value": "Contact through official website form at formin.fi",
       "source": "formin.fi official contact page"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Government Inquiries",
       "value": "Contact through valtioneuvosto.fi official contact form",
       "source": "Finnish government official portal"

@@ -18,7 +18,8 @@
       "type": "email",
       "label": "Ministry of Justice",
       "value": "info@minjustg.com",
-      "source": "https://minojtog.com/contact.html"
+      "source": "https://minojtog.com/contact.html",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",

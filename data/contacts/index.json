@@ -16,15 +16,16 @@
   "AFG": {
     "file": "AFG-Afghanistan.json",
     "country_name": "Afghanistan",
-    "total": 15,
+    "total": 13,
     "types": {
-      "email": 3,
+      "email": 2,
       "phone": 2,
-      "website": 3,
+      "website": 2,
       "twitter": 2,
       "facebook": 1,
       "address": 4
-    }
+    },
+    "unresolved": 2
   },
   "AGO": {
     "file": "AGO-Angola.json",
@@ -90,16 +91,17 @@
   "ARG": {
     "file": "ARG-Argentina.json",
     "country_name": "Argentina",
-    "total": 35,
+    "total": 34,
     "types": {
-      "email": 6,
+      "email": 5,
       "phone": 7,
       "address": 7,
       "website": 6,
       "twitter": 5,
       "facebook": 3,
       "other": 1
-    }
+    },
+    "unresolved": 1
   },
   "ARM": {
     "file": "ARM-Armenia.json",
@@ -349,7 +351,8 @@
     "country_name": "Brazil",
     "total": 40,
     "types": {
-      "email": 7,
+      "email": 6,
+      "contact_form": 1,
       "phone": 5,
       "website": 6,
       "twitter": 7,
@@ -416,16 +419,17 @@
   "CAF": {
     "file": "CAF-Central-African-Republic.json",
     "country_name": "Central African Republic",
-    "total": 18,
+    "total": 17,
     "types": {
       "email": 2,
       "phone": 3,
-      "website": 4,
+      "website": 3,
       "facebook": 3,
       "twitter": 2,
       "address": 3,
       "other": 1
-    }
+    },
+    "unresolved": 1
   },
   "CAN": {
     "file": "CAN-Canada.json",
@@ -528,22 +532,23 @@
   "COG": {
     "file": "COG-Congo.json",
     "country_name": "Congo",
-    "total": 27,
+    "total": 26,
     "types": {
-      "email": 6,
+      "email": 5,
       "phone": 7,
       "website": 5,
       "twitter": 2,
       "facebook": 1,
       "address": 6
-    }
+    },
+    "unresolved": 1
   },
   "COL": {
     "file": "COL-Colombia.json",
     "country_name": "Colombia",
-    "total": 32,
+    "total": 31,
     "types": {
-      "email": 5,
+      "email": 4,
       "phone": 5,
       "address": 5,
       "website": 7,
@@ -555,15 +560,16 @@
   "COM": {
     "file": "COM-Comoros.json",
     "country_name": "Comoros",
-    "total": 24,
+    "total": 23,
     "types": {
-      "email": 6,
+      "email": 5,
       "phone": 6,
       "website": 4,
       "twitter": 1,
       "facebook": 1,
       "address": 6
-    }
+    },
+    "unresolved": 1
   },
   "CPV": {
     "file": "CPV-Cabo-Verde.json",
@@ -666,14 +672,15 @@
   "DJI": {
     "file": "DJI-Djibouti.json",
     "country_name": "Djibouti",
-    "total": 27,
+    "total": 26,
     "types": {
-      "email": 6,
+      "email": 5,
       "phone": 7,
       "website": 6,
       "facebook": 1,
       "address": 7
-    }
+    },
+    "unresolved": 1
   },
   "DMA": {
     "file": "DMA-Dominica.json",
@@ -820,15 +827,16 @@
   "ETH": {
     "file": "ETH-Ethiopia.json",
     "country_name": "Ethiopia",
-    "total": 18,
+    "total": 17,
     "types": {
       "email": 4,
       "phone": 3,
-      "website": 4,
+      "website": 3,
       "facebook": 2,
       "twitter": 2,
       "address": 3
-    }
+    },
+    "unresolved": 1
   },
   "FIN": {
     "file": "FIN-Finland.json",
@@ -836,7 +844,7 @@
     "total": 10,
     "types": {
       "website": 6,
-      "email": 2,
+      "contact_form": 2,
       "facebook": 1,
       "twitter": 1
     }
@@ -872,15 +880,16 @@
   "FSM": {
     "file": "FSM-Micronesia.json",
     "country_name": "Micronesia",
-    "total": 27,
+    "total": 25,
     "types": {
-      "email": 10,
+      "email": 8,
       "website": 6,
       "facebook": 1,
       "phone": 4,
       "address": 4,
       "other": 2
-    }
+    },
+    "unresolved": 2
   },
   "GAB": {
     "file": "GAB-Gabon.json",
@@ -911,9 +920,9 @@
   "GEO": {
     "file": "GEO-Georgia.json",
     "country_name": "Georgia",
-    "total": 18,
+    "total": 17,
     "types": {
-      "website": 5,
+      "website": 4,
       "phone": 5,
       "address": 1,
       "facebook": 2,
@@ -921,7 +930,8 @@
       "youtube": 1,
       "instagram": 1,
       "email": 1
-    }
+    },
+    "unresolved": 1
   },
   "GHA": {
     "file": "GHA-Ghana.json",
@@ -1005,9 +1015,9 @@
   "GRD": {
     "file": "GRD-Grenada.json",
     "country_name": "Grenada",
-    "total": 43,
+    "total": 42,
     "types": {
-      "email": 9,
+      "email": 8,
       "phone": 9,
       "address": 6,
       "website": 11,
@@ -1188,15 +1198,16 @@
   "ISR": {
     "file": "ISR-Israel.json",
     "country_name": "Israel",
-    "total": 19,
+    "total": 18,
     "types": {
       "email": 3,
       "phone": 3,
-      "website": 5,
+      "website": 4,
       "facebook": 2,
       "twitter": 3,
       "address": 3
-    }
+    },
+    "unresolved": 1
   },
   "ITA": {
     "file": "ITA-Italy.json",
@@ -1248,16 +1259,17 @@
   "JPN": {
     "file": "JPN-Japan.json",
     "country_name": "Japan",
-    "total": 39,
+    "total": 38,
     "types": {
       "email": 5,
-      "website": 10,
+      "website": 9,
       "twitter": 4,
       "facebook": 4,
       "phone": 6,
       "address": 6,
       "other": 4
-    }
+    },
+    "unresolved": 1
   },
   "KAZ": {
     "file": "KAZ-Kazakhstan.json",
@@ -1340,30 +1352,32 @@
   "KNA": {
     "file": "KNA-Saint-Kitts-and-Nevis.json",
     "country_name": "Saint Kitts and Nevis",
-    "total": 33,
+    "total": 32,
     "types": {
-      "email": 8,
+      "email": 7,
       "phone": 8,
       "fax": 3,
       "address": 5,
       "website": 4,
       "facebook": 4,
       "twitter": 1
-    }
+    },
+    "unresolved": 1
   },
   "KOR": {
     "file": "KOR-South-Korea.json",
     "country_name": "South Korea",
-    "total": 35,
+    "total": 34,
     "types": {
       "email": 7,
-      "website": 9,
+      "website": 8,
       "facebook": 3,
       "twitter": 3,
       "phone": 4,
       "address": 6,
       "other": 3
-    }
+    },
+    "unresolved": 1
   },
   "KWT": {
     "file": "KWT-Kuwait.json",
@@ -1383,16 +1397,17 @@
   "LAO": {
     "file": "LAO-Laos.json",
     "country_name": "Laos",
-    "total": 39,
+    "total": 38,
     "types": {
       "email": 9,
-      "website": 8,
+      "website": 7,
       "twitter": 1,
       "facebook": 2,
       "phone": 7,
       "address": 6,
       "other": 6
-    }
+    },
+    "unresolved": 1
   },
   "LBN": {
     "file": "LBN-Lebanon.json",
@@ -1425,9 +1440,9 @@
   "LBY": {
     "file": "LBY-Libya.json",
     "country_name": "Libya",
-    "total": 16,
+    "total": 15,
     "types": {
-      "email": 5,
+      "email": 4,
       "phone": 5,
       "address": 3,
       "website": 1,
@@ -1482,9 +1497,9 @@
   "LSO": {
     "file": "LSO-Lesotho.json",
     "country_name": "Lesotho",
-    "total": 17,
+    "total": 16,
     "types": {
-      "email": 4,
+      "email": 3,
       "phone": 4,
       "website": 3,
       "facebook": 2,
@@ -1601,44 +1616,47 @@
   "MDV": {
     "file": "MDV-Maldives.json",
     "country_name": "Maldives",
-    "total": 15,
+    "total": 10,
     "types": {
-      "website": 5,
-      "email": 3,
+      "website": 2,
       "phone": 3,
       "postal": 1,
       "facebook": 1,
       "twitter": 1,
+      "email": 1,
       "other": 1
-    }
+    },
+    "unresolved": 5
   },
   "MEX": {
     "file": "MEX-Mexico.json",
     "country_name": "Mexico",
-    "total": 26,
+    "total": 25,
     "types": {
       "email": 5,
       "phone": 3,
-      "website": 9,
+      "website": 8,
       "address": 1,
       "facebook": 1,
       "twitter": 3,
       "other": 4
-    }
+    },
+    "unresolved": 1
   },
   "MHL": {
     "file": "MHL-Marshall-Islands.json",
     "country_name": "Marshall Islands",
-    "total": 33,
+    "total": 31,
     "types": {
-      "email": 10,
+      "email": 8,
       "website": 6,
       "facebook": 1,
       "twitter": 1,
       "phone": 7,
       "address": 4,
       "other": 4
-    }
+    },
+    "unresolved": 2
   },
   "MKD": {
     "file": "MKD-North-Macedonia.json",
@@ -1698,16 +1716,17 @@
   "MNE": {
     "file": "MNE-Montenegro.json",
     "country_name": "Montenegro",
-    "total": 53,
+    "total": 49,
     "types": {
       "email": 15,
-      "website": 13,
+      "website": 9,
       "facebook": 2,
       "twitter": 4,
       "other": 3,
       "phone": 9,
       "address": 7
-    }
+    },
+    "unresolved": 4
   },
   "MNG": {
     "file": "MNG-Mongolia.json",
@@ -1726,15 +1745,16 @@
   "MOZ": {
     "file": "MOZ-Mozambique.json",
     "country_name": "Mozambique",
-    "total": 14,
+    "total": 13,
     "types": {
-      "email": 4,
+      "email": 3,
       "phone": 2,
       "website": 4,
       "twitter": 1,
       "facebook": 1,
       "address": 2
-    }
+    },
+    "unresolved": 1
   },
   "MRT": {
     "file": "MRT-Mauritania.json",
@@ -1754,10 +1774,11 @@
     "country_name": "Mauritius",
     "total": 19,
     "types": {
-      "email": 6,
+      "email": 5,
       "phone": 4,
       "address": 4,
       "facebook": 2,
+      "contact_form": 1,
       "twitter": 1,
       "website": 2
     }
@@ -1780,7 +1801,8 @@
     "country_name": "Malaysia",
     "total": 47,
     "types": {
-      "email": 10,
+      "email": 9,
+      "contact_form": 1,
       "phone": 7,
       "website": 9,
       "facebook": 4,
@@ -1833,21 +1855,23 @@
   "NIC": {
     "file": "NIC-Nicaragua.json",
     "country_name": "Nicaragua",
-    "total": 10,
+    "total": 9,
     "types": {
       "email": 2,
       "phone": 3,
-      "website": 2,
+      "website": 1,
       "address": 2,
       "twitter": 1
-    }
+    },
+    "unresolved": 1
   },
   "NLD": {
     "file": "NLD-Netherlands.json",
     "country_name": "Netherlands",
     "total": 28,
     "types": {
-      "email": 2,
+      "email": 1,
+      "contact_form": 1,
       "phone": 7,
       "address": 5,
       "website": 6,
@@ -1922,7 +1946,7 @@
     "total": 3,
     "types": {
       "website": 2,
-      "email": 1
+      "contact_form": 1
     }
   },
   "PAK": {
@@ -2043,7 +2067,8 @@
     "country_name": "Portugal",
     "total": 53,
     "types": {
-      "email": 13,
+      "contact_form": 1,
+      "email": 12,
       "phone": 17,
       "address": 6,
       "website": 10,
@@ -2057,9 +2082,9 @@
   "PRY": {
     "file": "PRY-Paraguay.json",
     "country_name": "Paraguay",
-    "total": 44,
+    "total": 43,
     "types": {
-      "email": 9,
+      "email": 8,
       "phone": 8,
       "website": 9,
       "facebook": 2,
@@ -2214,22 +2239,23 @@
   "SLE": {
     "file": "SLE-Sierra-Leone.json",
     "country_name": "Sierra Leone",
-    "total": 27,
+    "total": 26,
     "types": {
-      "email": 8,
+      "email": 7,
       "phone": 5,
       "website": 4,
       "facebook": 4,
       "twitter": 2,
       "address": 4
-    }
+    },
+    "unresolved": 1
   },
   "SLV": {
     "file": "SLV-El-Salvador.json",
     "country_name": "El Salvador",
-    "total": 31,
+    "total": 30,
     "types": {
-      "email": 5,
+      "email": 4,
       "phone": 7,
       "address": 5,
       "website": 8,
@@ -2330,22 +2356,23 @@
   "SUR": {
     "file": "SUR-Suriname.json",
     "country_name": "Suriname",
-    "total": 20,
+    "total": 16,
     "types": {
-      "email": 5,
+      "email": 3,
       "phone": 3,
-      "website": 6,
+      "website": 4,
       "twitter": 2,
       "facebook": 1,
       "address": 3
-    }
+    },
+    "unresolved": 4
   },
   "SVK": {
     "file": "SVK-Slovakia.json",
     "country_name": "Slovakia",
-    "total": 46,
+    "total": 45,
     "types": {
-      "email": 12,
+      "email": 11,
       "phone": 8,
       "address": 7,
       "website": 10,
@@ -2353,7 +2380,8 @@
       "twitter": 2,
       "instagram": 3,
       "youtube": 1
-    }
+    },
+    "unresolved": 1
   },
   "SVN": {
     "file": "SVN-Slovenia.json",
@@ -2386,15 +2414,16 @@
   "SWZ": {
     "file": "SWZ-Eswatini.json",
     "country_name": "Eswatini",
-    "total": 28,
+    "total": 27,
     "types": {
-      "email": 8,
+      "email": 7,
       "phone": 8,
       "website": 1,
       "facebook": 1,
       "twitter": 2,
       "address": 8
-    }
+    },
+    "unresolved": 1
   },
   "SYC": {
     "file": "SYC-Seychelles.json",
@@ -2439,9 +2468,9 @@
   "TGO": {
     "file": "TGO-Togo.json",
     "country_name": "Togo",
-    "total": 51,
+    "total": 50,
     "types": {
-      "email": 6,
+      "email": 5,
       "website": 12,
       "facebook": 3,
       "twitter": 6,
@@ -2449,7 +2478,8 @@
       "phone": 10,
       "address": 10,
       "other": 3
-    }
+    },
+    "unresolved": 1
   },
   "THA": {
     "file": "THA-Thailand.json",
@@ -2498,15 +2528,16 @@
   "TLS": {
     "file": "TLS-Timor-Leste.json",
     "country_name": "Timor-Leste",
-    "total": 29,
+    "total": 28,
     "types": {
-      "email": 11,
+      "email": 10,
       "website": 5,
       "facebook": 2,
       "phone": 5,
       "address": 5,
       "other": 1
-    }
+    },
+    "unresolved": 1
   },
   "TON": {
     "file": "TON-Tonga.json",
@@ -2524,31 +2555,33 @@
   "TRA": {
     "file": "TRA-Transnistria.json",
     "country_name": "Transnistria",
-    "total": 28,
+    "total": 27,
     "types": {
       "email": 6,
-      "website": 7,
+      "website": 6,
       "facebook": 2,
       "twitter": 2,
       "other": 2,
       "phone": 4,
       "address": 3,
       "note": 2
-    }
+    },
+    "unresolved": 1
   },
   "TTO": {
     "file": "TTO-Trinidad-and-Tobago.json",
     "country_name": "Trinidad and Tobago",
     "total": 25,
     "types": {
-      "email": 4,
+      "email": 3,
       "phone": 8,
       "address": 3,
       "twitter": 2,
       "facebook": 1,
       "website": 5,
       "instagram": 1,
-      "youtube": 1
+      "youtube": 1,
+      "contact_form": 1
     }
   },
   "TUN": {
@@ -2600,7 +2633,7 @@
     "country_name": "Taiwan",
     "total": 29,
     "types": {
-      "email": 2,
+      "contact_form": 2,
       "phone": 6,
       "address": 5,
       "website": 5,

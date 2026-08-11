@@ -234,7 +234,8 @@
       "type": "website",
       "label": "Japanese Diet (Parliament)",
       "url": "https://www.diet.go.jp",
-      "source": "Japanese government official portal - known public domain"
+      "source": "Japanese government official portal - known public domain",
+      "unresolved": "2026-08-11"
     }
   ]
 }

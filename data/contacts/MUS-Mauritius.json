@@ -69,7 +69,7 @@
       "source": "https://gis.govmu.org/"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Economic Development Board (Investment & Business)",
       "value": "Contact via online form at edbmauritius.org/contact",
       "source": "https://edbmauritius.org/contact"

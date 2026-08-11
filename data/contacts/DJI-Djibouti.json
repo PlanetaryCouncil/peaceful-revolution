@@ -36,7 +36,8 @@
       "type": "email",
       "label": "Embassy in Paris, France",
       "value": "webmaster@ambassadedjibouti.org",
-      "source": "https://www.embassypages.com/djibouti-embassy-paris-france"
+      "source": "https://www.embassypages.com/djibouti-embassy-paris-france",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "phone",

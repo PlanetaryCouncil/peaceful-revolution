@@ -21,7 +21,7 @@
       "source": "gov.br/planalto/en/service_channels"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "General Government Ombudsman",
       "value": "Contact via Fala.BR platform",
       "source": "falabr.cgu.gov.br"

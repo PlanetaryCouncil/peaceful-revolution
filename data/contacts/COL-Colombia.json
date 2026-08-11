@@ -124,12 +124,6 @@
     },
     {
       "type": "email",
-      "label": "House of Representatives (Cámara de Representantes)",
-      "value": "[email protected]",
-      "source": "Colombian Parliament official records"
-    },
-    {
-      "type": "email",
       "label": "Ministry of Foreign Affairs - Corruption Reporting",
       "value": "denuncias@cancilleria.gov.co",
       "source": "cancilleria.gov.co official contact page"

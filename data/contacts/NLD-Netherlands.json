@@ -9,7 +9,7 @@
       "source": "https://www.government.nl/ministries/ministry-of-foreign-affairs/contact"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Public Information Service - Online Contact Form",
       "value": "Contact form available at /service/contact/public-information-service/email",
       "source": "https://www.rijksoverheid.nl"

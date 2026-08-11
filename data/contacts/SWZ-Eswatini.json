@@ -42,7 +42,8 @@
       "type": "email",
       "label": "Consulate of Eswatini, Johannesburg",
       "value": "swaziconsul@swaziconsulatejhb.co.za",
-      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases"
+      "source": "https://www.un.int/eswatini/swaziland/diplomatic-missions-embassies-and-high-commissions-overseases",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",

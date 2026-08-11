@@ -268,7 +268,8 @@
       "type": "website",
       "label": "Ministry of Foreign Affairs",
       "url": "https://www.mfa.gov.me",
-      "source": "Official Montenegro Ministry of Foreign Affairs domain"
+      "source": "Official Montenegro Ministry of Foreign Affairs domain",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",
@@ -304,19 +305,22 @@
       "type": "website",
       "label": "Ministry of Interior - Official",
       "url": "https://www.mvr.gov.me",
-      "source": "Official Montenegro Ministry of Interior domain"
+      "source": "Official Montenegro Ministry of Interior domain",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",
       "label": "Ministry of Justice - Official",
       "url": "https://www.mpr.gov.me",
-      "source": "Official Montenegro Ministry of Justice domain"
+      "source": "Official Montenegro Ministry of Justice domain",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",
       "label": "Ministry of Defence - Official",
       "url": "https://www.mod.gov.me",
-      "source": "Official Montenegro Ministry of Defence domain"
+      "source": "Official Montenegro Ministry of Defence domain",
+      "unresolved": "2026-08-11"
     }
   ],
   "country_name": "Montenegro",

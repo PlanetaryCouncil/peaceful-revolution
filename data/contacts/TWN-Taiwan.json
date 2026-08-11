@@ -3,13 +3,13 @@
   "country_name": "Taiwan",
   "contacts": [
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Ministry of Foreign Affairs - Minister's Mailbox",
       "value": "https://eyes.mofa.gov.tw/System/en/Default.aspx",
       "source": "https://en.mofa.gov.tw"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Executive Yuan - Contact the Premier",
       "value": "https://eyemail.ey.gov.tw/WWW/MailToPremier.aspx",
       "source": "https://www.ey.gov.tw/en"

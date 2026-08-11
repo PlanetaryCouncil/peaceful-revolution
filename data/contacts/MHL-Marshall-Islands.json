@@ -36,7 +36,8 @@
       "type": "email",
       "label": "Ministry of Foreign Affairs and Trade, Majuro (administration) - secondary listing, phone/fax corroborated by HCCH",
       "value": "mofaadm@ntamar.net",
-      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=373 (authority listing; address published in multiple diplomatic directories)"
+      "source": "https://www.hcch.net/en/states/authorities/details3/?aid=373 (authority listing; address published in multiple diplomatic directories)",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",
@@ -60,7 +61,8 @@
       "type": "email",
       "label": "Embassy of the Marshall Islands, Suva, Fiji",
       "value": "rmisuva@sopacsun.sopac.org.fj",
-      "source": "https://www.un.int/marshallislands/marshallislands/embassies"
+      "source": "https://www.un.int/marshallislands/marshallislands/embassies",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",

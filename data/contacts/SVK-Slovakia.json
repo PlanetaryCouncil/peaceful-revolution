@@ -30,7 +30,8 @@
       "type": "email",
       "label": "Ministry of Interior",
       "value": "public@minv.slovensko.sk",
-      "source": "https://www.minv.sk"
+      "source": "https://www.minv.sk",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",

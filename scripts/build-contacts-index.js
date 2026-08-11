@@ -42,15 +42,19 @@ fs.readdirSync(DIR)
       skipped++;
       return;
     }
+    // Count only usable entries. Anything scripts/verify-contacts.js marked
+    // `unresolved` is hidden by the app, so counting it would overstate coverage.
+    const usable = data.contacts.filter((c) => !c.unresolved);
     const byType = {};
-    data.contacts.forEach((c) => {
+    usable.forEach((c) => {
       byType[c.type] = (byType[c.type] || 0) + 1;
     });
     index[iso] = {
       file,
       country_name: data.country_name || iso,
-      total: data.contacts.length,
+      total: usable.length,
       types: byType,
+      ...(usable.length !== data.contacts.length && { unresolved: data.contacts.length - usable.length }),
     };
   });
 

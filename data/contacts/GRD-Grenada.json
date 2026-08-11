@@ -4,12 +4,6 @@
   "contacts": [
     {
       "type": "email",
-      "label": "Main Government Portal",
-      "value": "[email protected]",
-      "source": "gov.gd - Official Government of Grenada Portal"
-    },
-    {
-      "type": "email",
       "label": "Parliament - Parliamentary Services",
       "value": "order.order@grenadaparliament.gd",
       "source": "grenadaparliament.gd - Official Parliament Website"

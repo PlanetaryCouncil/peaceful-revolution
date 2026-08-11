@@ -219,12 +219,6 @@
       "source": "https://www.mitic.gov.py"
     },
     {
-      "type": "email",
-      "label": "Senate (Cámara de Senadores) - General Inquiries",
-      "value": "[email protected]",
-      "source": "https://www.senado.gov.py/"
-    },
-    {
       "type": "website",
       "label": "Presidential Office (Presidencia de la República)",
       "url": "https://www.presidencia.gov.py/",

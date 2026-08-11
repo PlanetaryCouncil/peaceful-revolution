@@ -9,7 +9,7 @@
       "source": "https://www.malaysia.gov.my"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Ministry of Higher Education (KPT)",
       "value": "Contact via officer directory at app.mohe.gov.my/direktori/",
       "source": "https://www.mohe.gov.my"

@@ -34,7 +34,8 @@
       "type": "email",
       "label": "National Assembly",
       "value": "contact@assembleenationale.cg",
-      "source": "Official National Assembly contact information"
+      "source": "Official National Assembly contact information",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "phone",

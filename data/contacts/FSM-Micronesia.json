@@ -42,13 +42,15 @@
       "type": "email",
       "label": "FSM Embassy to Fiji (Suva)",
       "value": "fsmsuva@fsmsuva.org.fj",
-      "source": "https://www.fsmgov.org/ovmis.html"
+      "source": "https://www.fsmgov.org/ovmis.html",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",
       "label": "FSM Embassy to China (Beijing)",
       "value": "embassy@fsmembassy.cn",
-      "source": "https://www.fsmgov.org/ovmis.html"
+      "source": "https://www.fsmgov.org/ovmis.html",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",

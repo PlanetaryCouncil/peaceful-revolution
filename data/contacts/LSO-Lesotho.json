@@ -21,12 +21,6 @@
       "source": "https://www.gov.ls/contact-us-2/"
     },
     {
-      "type": "email",
-      "label": "Office of the King",
-      "value": "[email protected]",
-      "source": "Government of Lesotho Official Directory"
-    },
-    {
       "type": "phone",
       "label": "Ministry of Foreign Affairs",
       "value": "+266 2231 1150",

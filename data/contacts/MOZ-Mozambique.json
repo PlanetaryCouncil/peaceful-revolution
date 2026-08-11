@@ -18,7 +18,8 @@
       "type": "email",
       "label": "President's Office - Press",
       "value": "gabimprensa@teldata.mz",
-      "source": "mozambiqueexpert.com"
+      "source": "mozambiqueexpert.com",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",

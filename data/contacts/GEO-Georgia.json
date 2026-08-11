@@ -78,7 +78,8 @@
       "type": "website",
       "label": "Diaspora Portal",
       "url": "https://gda.ge",
-      "source": "mfa.gov.ge"
+      "source": "mfa.gov.ge",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",

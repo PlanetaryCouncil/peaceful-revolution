@@ -4,12 +4,6 @@
   "contacts": [
     {
       "type": "email",
-      "label": "Presidential Office",
-      "value": "[email protected]",
-      "source": "https://www.presidencia.gob.sv/contactenos/"
-    },
-    {
-      "type": "email",
       "label": "Ministry of Foreign Affairs",
       "value": "opina@rree.gob.sv",
       "source": "https://rree.gob.sv/"

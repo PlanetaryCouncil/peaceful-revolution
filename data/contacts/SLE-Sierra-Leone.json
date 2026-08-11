@@ -18,7 +18,8 @@
       "type": "email",
       "label": "Ministry of Foreign Affairs and International Cooperation",
       "value": "info@foreignaffairs.gov.sl",
-      "source": "https://www.sierraleoneembassy.brussels/about-sierra-leone/ministry-of-foreign-affairs/"
+      "source": "https://www.sierraleoneembassy.brussels/about-sierra-leone/ministry-of-foreign-affairs/",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",

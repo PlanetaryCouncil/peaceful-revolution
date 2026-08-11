@@ -15,7 +15,7 @@
       "source": "Oman Ministry of Foreign Affairs official website"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Ministry of Foreign Affairs General Inquiries",
       "value": "Contact through official website form",
       "source": "Unable to verify specific email without current access to official pages"

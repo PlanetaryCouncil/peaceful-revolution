@@ -3,7 +3,7 @@
   "country_name": "Portugal",
   "contacts": [
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Ministry of Foreign Affairs - General",
       "value": "Not publicly listed (contact via diplomatic portal)",
       "source": "https://portaldiplomatico.mne.gov.pt/"

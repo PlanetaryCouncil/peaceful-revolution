@@ -24,13 +24,15 @@
       "type": "email",
       "label": "Ministry of Finance - Secretariat",
       "value": "secretariat@minfin.gov.sr",
-      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/"
+      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",
       "label": "Ministry of Finance - Planning & Development Financing",
       "value": "planning@minfin.gov.sr",
-      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/"
+      "source": "gov.sr/ministeries/ministerie-van-financien-en-planning/contact/",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "phone",
@@ -114,13 +116,15 @@
       "type": "website",
       "label": "Official Government Portal",
       "url": "https://www.suriname.gov.sr",
-      "source": "Knowledge base - unable to verify current status due to web search budget exhaustion"
+      "source": "Knowledge base - unable to verify current status due to web search budget exhaustion",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",
       "label": "Ministry of Foreign Affairs",
       "url": "https://www.minbuza.gov.sr",
-      "source": "Knowledge base - unable to verify current status due to web search budget exhaustion"
+      "source": "Knowledge base - unable to verify current status due to web search budget exhaustion",
+      "unresolved": "2026-08-11"
     }
   ]
 }

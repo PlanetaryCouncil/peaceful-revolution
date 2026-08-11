@@ -6,7 +6,8 @@
       "type": "website",
       "label": "Ministry of Foreign Affairs Official Portal",
       "url": "https://mofa.gov.mv",
-      "source": "Official .gov.mv domain"
+      "source": "Official .gov.mv domain",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",
@@ -18,19 +19,22 @@
       "type": "website",
       "label": "Government of Maldives Official Portal",
       "url": "https://www.gov.mv",
-      "source": "Official government domain"
+      "source": "Official government domain",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",
       "label": "Ministry of Foreign Affairs General Inquiry",
       "value": "info@mofa.gov.mv",
-      "source": "Official ministry contact directory"
+      "source": "Official ministry contact directory",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",
       "label": "Ministry of Foreign Affairs Main Office",
       "value": "mofa@mofa.gov.mv",
-      "source": "Official ministry directory"
+      "source": "Official ministry directory",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "phone",
@@ -84,7 +88,8 @@
       "type": "website",
       "label": "Maldives Civil Service",
       "url": "https://www.civilservice.gov.mv",
-      "source": "Official government service portal"
+      "source": "Official government service portal",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "other",

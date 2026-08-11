@@ -30,7 +30,8 @@
       "type": "email",
       "label": "Attorney General's Office",
       "value": "attorneygeneral@govt.kn",
-      "source": "gov.kn"
+      "source": "gov.kn",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",

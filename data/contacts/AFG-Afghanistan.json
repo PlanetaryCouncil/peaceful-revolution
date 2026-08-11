@@ -12,7 +12,8 @@
       "type": "email",
       "label": "Office of the President",
       "value": "info@president.gov.af",
-      "source": "https://president.gov.af/en/office-of-the-spokesperson/1070"
+      "source": "https://president.gov.af/en/office-of-the-spokesperson/1070",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "email",
@@ -42,7 +43,8 @@
       "type": "website",
       "label": "Office of the President",
       "url": "https://president.gov.af",
-      "source": "https://president.gov.af/en/office-of-the-spokesperson/1070"
+      "source": "https://president.gov.af/en/office-of-the-spokesperson/1070",
+      "unresolved": "2026-08-11"
     },
     {
       "type": "website",

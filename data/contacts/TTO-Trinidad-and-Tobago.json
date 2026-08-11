@@ -147,7 +147,7 @@
       "source": "Official government portal (ttconnect.gov.tt redirects from gov.tt)"
     },
     {
-      "type": "email",
+      "type": "contact_form",
       "label": "Government of Trinidad and Tobago - Webmail Access",
       "value": "email.gov.tt/owa",
       "source": "foreign.gov.tt staff directory"

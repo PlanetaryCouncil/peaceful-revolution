@@ -703,11 +703,15 @@ function renderContacts(){
   const board = document.getElementById("contactsBoard");
   if(!selected){ board.hidden = true; return; }
   const e = LOOKUP[selected];
-  const list = (ALL_CONTACTS[selected] || []).slice()
+  const all = ALL_CONTACTS[selected] || [];
+  // Entries whose domain stopped resolving are kept in the data (a contributor
+  // can repair them) but never shown as if they were reachable.
+  const stale = all.filter(c => c.unresolved).length;
+  const list = all.filter(c => !c.unresolved)
     .sort((a,b) => typeRank(String(a.type).toLowerCase()) - typeRank(String(b.type).toLowerCase()));
   board.hidden = false;
 
-  const title = `<span class="cb-title">Official contacts — ${esc(e.name)}${list.length ? ` · ${list.length}` : ""}</span>`;
+  const title = `<span class="cb-title">Official contacts — ${esc(e.name)}${list.length ? ` · ${list.length}` : ""}${stale ? ` <span style="color:var(--text-faint)">· ${stale} unreachable, hidden</span>` : ""}</span>`;
   if(!list.length){
     board.innerHTML = title + `<div class="cb-grid"><div class="tile">
       <span class="t-type">none yet</span>
