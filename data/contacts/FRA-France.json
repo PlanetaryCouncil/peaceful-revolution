@@ -36,13 +36,15 @@
       "type": "email",
       "label": "Ministry Spokesperson (Pascal Confavreux)",
       "value": "pascal.confavreux@diplomatie.gouv.fr",
-      "source": "diplomatie.gouv.fr espace-presse"
+      "source": "diplomatie.gouv.fr espace-presse",
+      "personal": true
     },
     {
       "type": "email",
       "label": "Ministry Deputy Spokesperson (Glenn Salic)",
       "value": "glenn.salic@diplomatie.gouv.fr",
-      "source": "diplomatie.gouv.fr espace-presse"
+      "source": "diplomatie.gouv.fr espace-presse",
+      "personal": true
     },
     {
       "type": "phone",

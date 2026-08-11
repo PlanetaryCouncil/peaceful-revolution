@@ -58,9 +58,9 @@
   "AND": {
     "file": "AND-Andorra.json",
     "country_name": "Andorra",
-    "total": 35,
+    "total": 34,
     "types": {
-      "email": 7,
+      "email": 6,
       "website": 7,
       "twitter": 1,
       "facebook": 1,
@@ -68,7 +68,8 @@
       "address": 5,
       "other": 5,
       "contact_form": 2
-    }
+    },
+    "unresolved": 1
   },
   "ARE": {
     "file": "ARE-United-Arab-Emirates.json",
@@ -191,9 +192,9 @@
   "BEL": {
     "file": "BEL-Belgium.json",
     "country_name": "Belgium",
-    "total": 33,
+    "total": 30,
     "types": {
-      "email": 4,
+      "email": 1,
       "phone": 12,
       "address": 5,
       "website": 3,
@@ -201,7 +202,8 @@
       "twitter": 2,
       "instagram": 1,
       "other": 4
-    }
+    },
+    "unresolved": 3
   },
   "BEN": {
     "file": "BEN-Benin.json",
@@ -866,16 +868,17 @@
   "FRA": {
     "file": "FRA-France.json",
     "country_name": "France",
-    "total": 21,
+    "total": 19,
     "types": {
       "website": 4,
-      "email": 3,
+      "email": 1,
       "phone": 4,
       "address": 2,
       "twitter": 1,
       "facebook": 1,
       "other": 6
-    }
+    },
+    "unresolved": 2
   },
   "FSM": {
     "file": "FSM-Micronesia.json",
@@ -907,10 +910,10 @@
   "GBR": {
     "file": "GBR-United-Kingdom.json",
     "country_name": "United Kingdom",
-    "total": 21,
+    "total": 22,
     "types": {
+      "email": 9,
       "website": 3,
-      "email": 8,
       "phone": 5,
       "address": 3,
       "twitter": 1,
@@ -1142,16 +1145,17 @@
   "IRL": {
     "file": "IRL-Ireland.json",
     "country_name": "Ireland",
-    "total": 35,
+    "total": 34,
     "types": {
       "website": 8,
-      "email": 4,
+      "email": 3,
       "phone": 12,
       "address": 6,
       "twitter": 2,
       "facebook": 2,
       "instagram": 1
-    }
+    },
+    "unresolved": 1
   },
   "IRN": {
     "file": "IRN-Iran.json",
@@ -1352,9 +1356,9 @@
   "KNA": {
     "file": "KNA-Saint-Kitts-and-Nevis.json",
     "country_name": "Saint Kitts and Nevis",
-    "total": 32,
+    "total": 29,
     "types": {
-      "email": 7,
+      "email": 4,
       "phone": 8,
       "fax": 3,
       "address": 5,
@@ -1362,7 +1366,7 @@
       "facebook": 4,
       "twitter": 1
     },
-    "unresolved": 1
+    "unresolved": 4
   },
   "KOR": {
     "file": "KOR-South-Korea.json",
@@ -1916,13 +1920,14 @@
   "NRU": {
     "file": "NRU-Nauru.json",
     "country_name": "Nauru",
-    "total": 9,
+    "total": 8,
     "types": {
-      "email": 3,
+      "email": 2,
       "phone": 3,
       "website": 2,
       "address": 1
-    }
+    },
+    "unresolved": 1
   },
   "NZL": {
     "file": "NZL-New-Zealand.json",
@@ -2014,15 +2019,16 @@
   "PLW": {
     "file": "PLW-Palau.json",
     "country_name": "Palau",
-    "total": 18,
+    "total": 15,
     "types": {
       "website": 1,
       "phone": 9,
       "fax": 1,
       "address": 2,
-      "email": 4,
+      "email": 1,
       "twitter": 1
-    }
+    },
+    "unresolved": 3
   },
   "PNG": {
     "file": "PNG-Papua-New-Guinea.json",
@@ -2253,16 +2259,17 @@
   "SLV": {
     "file": "SLV-El-Salvador.json",
     "country_name": "El Salvador",
-    "total": 30,
+    "total": 29,
     "types": {
-      "email": 4,
+      "email": 3,
       "phone": 7,
       "address": 5,
       "website": 8,
       "facebook": 3,
       "twitter": 2,
       "instagram": 1
-    }
+    },
+    "unresolved": 1
   },
   "SMR": {
     "file": "SMR-San-Marino.json",
@@ -2528,16 +2535,16 @@
   "TLS": {
     "file": "TLS-Timor-Leste.json",
     "country_name": "Timor-Leste",
-    "total": 28,
+    "total": 27,
     "types": {
-      "email": 10,
+      "email": 9,
       "website": 5,
       "facebook": 2,
       "phone": 5,
       "address": 5,
       "other": 1
     },
-    "unresolved": 1
+    "unresolved": 2
   },
   "TON": {
     "file": "TON-Tonga.json",
@@ -2805,16 +2812,17 @@
   "XKK": {
     "file": "XKK-Kosovo.json",
     "country_name": "Kosovo",
-    "total": 31,
+    "total": 28,
     "types": {
-      "email": 10,
+      "email": 7,
       "phone": 9,
       "address": 3,
       "website": 4,
       "facebook": 2,
       "twitter": 2,
       "youtube": 1
-    }
+    },
+    "unresolved": 3
   },
   "YEM": {
     "file": "YEM-Yemen.json",

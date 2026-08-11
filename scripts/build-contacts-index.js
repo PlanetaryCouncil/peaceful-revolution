@@ -42,9 +42,10 @@ fs.readdirSync(DIR)
       skipped++;
       return;
     }
-    // Count only usable entries. Anything scripts/verify-contacts.js marked
-    // `unresolved` is hidden by the app, so counting it would overstate coverage.
-    const usable = data.contacts.filter((c) => !c.unresolved);
+    // Count only entries the app actually shows. verify-contacts.js marks
+    // `unresolved` (domain gone) and `personal` (an individual's address);
+    // both are hidden, so counting them would overstate coverage.
+    const usable = data.contacts.filter((c) => !c.unresolved && !c.personal);
     const byType = {};
     usable.forEach((c) => {
       byType[c.type] = (byType[c.type] || 0) + 1;

@@ -6,7 +6,8 @@
       "type": "email",
       "label": "Parliament Clerk",
       "value": "ann-marie.cain@nauru.gov.nr",
-      "source": "Official Government of Nauru Website (nauru.gov.nr)"
+      "source": "Official Government of Nauru Website (nauru.gov.nr)",
+      "personal": true
     },
     {
       "type": "email",

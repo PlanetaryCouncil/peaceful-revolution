@@ -66,19 +66,22 @@
       "type": "email",
       "label": "Ministry of Health - Human Resources Administrator",
       "value": "arnice.yuji@palauhealth.org",
-      "source": "palaugov.pw/human-resources"
+      "source": "palaugov.pw/human-resources",
+      "personal": true
     },
     {
       "type": "email",
       "label": "Ministry of Health - Administrative Specialist",
       "value": "maelee.sokau@palauhealth.org",
-      "source": "palaugov.pw/human-resources"
+      "source": "palaugov.pw/human-resources",
+      "personal": true
     },
     {
       "type": "email",
       "label": "Ministry of Health - Administrative Assistant",
       "value": "morisang.udui@palauhealth.org",
-      "source": "palaugov.pw/human-resources"
+      "source": "palaugov.pw/human-resources",
+      "personal": true
     },
     {
       "type": "phone",

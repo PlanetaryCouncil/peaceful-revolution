@@ -198,7 +198,8 @@
       "type": "email",
       "label": "European Parliament Liaison Office - Head of Office (Fearghas Ó Béara)",
       "value": "fearghas.obeara@ep.europa.eu",
-      "source": "dublin.europarl.europa.eu"
+      "source": "dublin.europarl.europa.eu",
+      "personal": true
     },
     {
       "type": "phone",

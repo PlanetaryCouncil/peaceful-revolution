@@ -120,7 +120,8 @@
       "type": "email",
       "label": "Invest in El Salvador - Direct Contact",
       "value": "karen.portillo@investelsalvador.com",
-      "source": "WebSearch results for investment agency"
+      "source": "WebSearch results for investment agency",
+      "personal": true
     },
     {
       "type": "phone",

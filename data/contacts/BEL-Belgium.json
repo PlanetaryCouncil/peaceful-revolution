@@ -12,19 +12,22 @@
       "type": "email",
       "label": "Ministry of Foreign Affairs - Spokesperson David Jordens",
       "value": "david.jordens@diplobel.fed.be",
-      "source": "diplomatie.belgium.be"
+      "source": "diplomatie.belgium.be",
+      "personal": true
     },
     {
       "type": "email",
       "label": "Ministry of Foreign Affairs - Spokesperson Pierre Steverlynck",
       "value": "pierre.steverlynck@diplobel.fed.be",
-      "source": "diplomatie.belgium.be"
+      "source": "diplomatie.belgium.be",
+      "personal": true
     },
     {
       "type": "email",
       "label": "Ministry of Foreign Affairs - Spokesperson Florinda Baleci",
       "value": "florinda.baleci@diplobel.fed.be",
-      "source": "diplomatie.belgium.be"
+      "source": "diplomatie.belgium.be",
+      "personal": true
     },
     {
       "type": "phone",

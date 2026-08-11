@@ -18,7 +18,8 @@
       "type": "email",
       "label": "Minister of Foreign Affairs and Cooperation (Bendito dos Santos Freitas)",
       "value": "bendito.freitas@timor-leste.gov.tl",
-      "source": "https://mnec.gov.tl/"
+      "source": "https://mnec.gov.tl/",
+      "personal": true
     },
     {
       "type": "email",

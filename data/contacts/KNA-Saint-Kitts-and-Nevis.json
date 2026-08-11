@@ -18,7 +18,8 @@
       "type": "email",
       "label": "Permanent Secretary, Ministry of Foreign Affairs",
       "value": "kaye.bass@mofa.gov.kn",
-      "source": "mofa.gov.kn"
+      "source": "mofa.gov.kn",
+      "personal": true
     },
     {
       "type": "email",
@@ -151,13 +152,15 @@
       "type": "email",
       "label": "Prime Minister's Office - Secretary",
       "value": "teresa.edwards@gov.kn",
-      "source": "https://www.gov.kn/contact-list/"
+      "source": "https://www.gov.kn/contact-list/",
+      "personal": true
     },
     {
       "type": "email",
       "label": "Prime Minister's Office - Executive Director",
       "value": "viera.galloway@gov.kn",
-      "source": "https://www.gov.kn/contact-list/"
+      "source": "https://www.gov.kn/contact-list/",
+      "personal": true
     },
     {
       "type": "phone",

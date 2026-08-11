@@ -712,10 +712,11 @@ function renderContacts(){
   if(!selected){ board.hidden = true; return; }
   const e = LOOKUP[selected];
   const all = ALL_CONTACTS[selected] || [];
-  // Entries whose domain stopped resolving are kept in the data (a contributor
-  // can repair them) but never shown as if they were reachable.
+  // Two kinds of entry are kept in the data but never rendered: ones whose
+  // domain stopped resolving (a contributor can repair them), and personal
+  // addresses of named individuals — this page is for reaching institutions.
   const stale = all.filter(c => c.unresolved).length;
-  const list = all.filter(c => !c.unresolved)
+  const list = all.filter(c => !c.unresolved && !c.personal)
     .sort((a,b) => typeRank(String(a.type).toLowerCase()) - typeRank(String(b.type).toLowerCase()));
   board.hidden = false;
 

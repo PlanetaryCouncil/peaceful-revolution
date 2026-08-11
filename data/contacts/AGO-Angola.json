@@ -4,9 +4,9 @@
   "contacts": [
     {
       "type": "email",
-      "label": "Ministry of External Relations (MIREX)",
-      "value": "mirex.gov.1@gmail.com",
-      "source": "Official MIREX Facebook page and multiple government sources"
+      "label": "Ministry of External Relations (MIREX) — general",
+      "value": "geral@mirex.gov.ao",
+      "source": "https://mirex.gov.ao/PortalMIREX/#!/contacto (ministry contact page, verified 2026-08-11)"
     },
     {
       "type": "email",

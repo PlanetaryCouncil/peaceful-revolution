@@ -30,7 +30,8 @@
       "type": "email",
       "label": "Office of the President - Information and Communication",
       "value": "florent.rrahmani@president-ksgov.net",
-      "source": "https://president-ksgov.net/en/administration-management-structure/"
+      "source": "https://president-ksgov.net/en/administration-management-structure/",
+      "personal": true
     },
     {
       "type": "email",
@@ -42,7 +43,8 @@
       "type": "email",
       "label": "Office of the President - Protocol Department",
       "value": "valbona.idrizaj@president-ksgov.net",
-      "source": "https://president-ksgov.net/en/administration-management-structure/"
+      "source": "https://president-ksgov.net/en/administration-management-structure/",
+      "personal": true
     },
     {
       "type": "email",
@@ -54,7 +56,8 @@
       "type": "email",
       "label": "Office of the Prime Minister - Public Document Requests",
       "value": "donika.krasniqi@rks-gov.net",
-      "source": "https://kryeministri.rks-gov.net/"
+      "source": "https://kryeministri.rks-gov.net/",
+      "personal": true
     },
     {
       "type": "email",

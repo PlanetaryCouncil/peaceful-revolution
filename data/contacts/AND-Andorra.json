@@ -42,7 +42,8 @@
       "type": "email",
       "label": "Permanent Mission to UN Geneva — Alba Noya (mission staff)",
       "value": "alba_noya@govern.ad",
-      "source": "UN Geneva Blue Book, Andorra — https://www.ungeneva.org/en/blue-book/missions/member-states/andorra"
+      "source": "UN Geneva Blue Book, Andorra — https://www.ungeneva.org/en/blue-book/missions/member-states/andorra",
+      "personal": true
     },
     {
       "type": "website",

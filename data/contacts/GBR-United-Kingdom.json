@@ -3,6 +3,12 @@
   "country_name": "United Kingdom",
   "contacts": [
     {
+      "type": "email",
+      "label": "Foreign, Commonwealth & Development Office — general enquiries",
+      "value": "fcdo.correspondence@fcdo.gov.uk",
+      "source": "https://www.gov.uk/guidance/contact-the-fcdo (verified 2026-08-11)"
+    },
+    {
       "type": "website",
       "label": "Official UK Government Portal",
       "url": "https://www.gov.uk/",
