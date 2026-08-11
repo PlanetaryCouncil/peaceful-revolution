@@ -674,10 +674,14 @@ function renderPanel(){
    here where there is width for a grid. Data is agent-collected,
    so everything is escaped and URLs are scheme-checked.
    ============================================================ */
-const TYPE_ORDER = ["email","website","facebook","twitter","instagram","phone","address"];
-const TYPE_LABELS = { email:"Email", website:"Website", facebook:"Facebook", twitter:"Twitter / X",
-  instagram:"Instagram", phone:"Phone", address:"Address", youtube:"YouTube", linkedin:"LinkedIn",
-  telegram:"Telegram", tiktok:"TikTok", fax:"Fax", whatsapp:"WhatsApp", other:"Other" };
+// contact_form ranks with email: for the countries that publish no address at
+// all (Finland, Oman, Taiwan) the form IS the way to reach them, so it must not
+// sort below six websites.
+const TYPE_ORDER = ["email","contact_form","website","facebook","twitter","instagram","phone","address"];
+const TYPE_LABELS = { email:"Email", contact_form:"Contact form", website:"Website",
+  facebook:"Facebook", twitter:"Twitter / X", instagram:"Instagram", phone:"Phone",
+  address:"Address", youtube:"YouTube", linkedin:"LinkedIn", telegram:"Telegram",
+  tiktok:"TikTok", fax:"Fax", whatsapp:"WhatsApp", other:"Other" };
 const TILE_LIMIT = 12;   // emails sort first, so the cap never hides one
 let contactsExpanded = false;
 
