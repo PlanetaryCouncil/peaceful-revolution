@@ -1,0 +1,57 @@
+{
+  "generated": "2026-08-31",
+  "totals": {
+    "chambers": 4,
+    "countries": 3,
+    "sitting_members": 2627,
+    "with_email": 2619,
+    "pending": 11
+  },
+  "chambers": [
+    {
+      "file": "EUR-European-Parliament.json",
+      "iso": "EUR",
+      "country": "European Union",
+      "chamber": "European Parliament",
+      "house": "supranational",
+      "sitting": 708,
+      "with_email": 708,
+      "pending": 11,
+      "retrieved": "2026-08-31",
+      "source_url": "https://data.europarl.europa.eu/"
+    },
+    {
+      "file": "GBR-House-of-Commons.json",
+      "iso": "GBR",
+      "country": "United Kingdom",
+      "chamber": "House of Commons",
+      "house": "lower",
+      "sitting": 650,
+      "with_email": 648,
+      "retrieved": "2026-08-31",
+      "source_url": "https://members-api.parliament.uk/"
+    },
+    {
+      "file": "GBR-House-of-Lords.json",
+      "iso": "GBR",
+      "country": "United Kingdom",
+      "chamber": "House of Lords",
+      "house": "upper",
+      "sitting": 809,
+      "with_email": 803,
+      "retrieved": "2026-08-31",
+      "source_url": "https://members-api.parliament.uk/"
+    },
+    {
+      "file": "POL-Sejm.json",
+      "iso": "POL",
+      "country": "Poland",
+      "chamber": "Sejm",
+      "house": "lower",
+      "sitting": 460,
+      "with_email": 460,
+      "retrieved": "2026-08-31",
+      "source_url": "https://api.sejm.gov.pl/"
+    }
+  ]
+}
