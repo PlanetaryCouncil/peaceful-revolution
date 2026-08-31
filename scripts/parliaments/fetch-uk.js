@@ -40,6 +40,15 @@ async function roster(house) {
       const emails = [...new Set(contact.map((c) => c.email).filter(Boolean))];
       const phones = [...new Set(contact.map((c) => c.phone).filter(Boolean))];
       const site = pick("Website")[0]?.line1 || null;
+      // Postal addresses, for the physical-letter channel. Nearly every member
+      // shares the chamber address ("House of Commons, London, SW1A 0AA");
+      // constituency offices are the only ones that vary.
+      const addresses = contact.filter((c) => c.line1 && !c.isWebAddress).map((c) => ({
+        type: c.type,
+        lines: [c.line1, c.line2, c.line3, c.line4, c.line5].filter(Boolean),
+        postcode: c.postcode || null,
+        country: "United Kingdom",
+      }));
       const x = pick("X (formerly Twitter)")[0]?.line1 || null;
 
       return {
@@ -53,6 +62,7 @@ async function roster(house) {
         group: p.latestParty?.name || null,
         emails,
         phones,
+        addresses,
         website: site,
         socials: x ? [x] : [],
         profile_url: `https://members.parliament.uk/member/${p.id}`,
