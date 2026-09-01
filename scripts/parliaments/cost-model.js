@@ -105,6 +105,25 @@ console.log(`  saving vs retail API    EUR ${Math.round(apiEur - bulkTotal).toLo
 console.log(`\nEMAIL — transactional provider at ~EUR 0.0004/send`);
 console.log(`  TOTAL                   EUR ${(seats * 0.0004).toFixed(2)}   (rounding error; the cost is deliverability, not money)`);
 
+// ---- Cadence -------------------------------------------------------------
+// One card per day so no mailroom ever sees a wave. The unit matters: one per
+// day *globally* never finishes, one per chamber finishes in a working year.
+// Dripping forfeits bulk postage — bulk rates need minimum volumes per posting,
+// and 1-2 items per country per day is retail by definition. That is the trade:
+// a drip costs the retail price, but spread over months rather than paid at once.
+const perDay = { "1/day global": 1, "1/day per country": Object.keys(byCountry).length,
+                 "1/day per chamber": CHAMBERS.length };
+console.log(`\nCADENCE — one card per day, never a wave`);
+for (const [label, rate] of Object.entries(perDay)) {
+  const days = Math.ceil(seats / rate);
+  const yrs = days / 365;
+  const span = yrs >= 1.5 ? `${yrs.toFixed(1)} years` : `${(days / 30.4).toFixed(1)} months`;
+  const monthly = (apiEur / seats) * rate * 30.4;
+  console.log(`  ${label.padEnd(20)} ${String(rate).padStart(3)}/day  ${String(days).padStart(6)} days  ${span.padStart(11)}` +
+    (yrs > 5 ? "   (does not finish)" : `   EUR ${Math.round(monthly).toLocaleString()}/month`));
+}
+console.log(`  Retail total either way  EUR ${Math.round(apiEur).toLocaleString()}  (bulk discount forfeited: +EUR ${Math.round(apiEur - bulkTotal).toLocaleString()})`);
+
 // The number that actually shapes the postal problem.
 console.log(`\nAddresses needed: ~${CHAMBERS.length} buildings, not ${seats.toLocaleString()} addresses.`);
 console.log(`  39 of 40 sampled UK MPs share "House of Commons, London, SW1A 0AA".`);
