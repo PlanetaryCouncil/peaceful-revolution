@@ -1,0 +1,26 @@
+{
+  "iso": "NZL",
+  "country": "New Zealand",
+  "retrieved": "2026-09-25",
+  "total": 1,
+  "upcoming": 1,
+  "next": {
+    "date": "2026-11-07",
+    "iso": "NZL",
+    "country": "New Zealand",
+    "type": "Parliament",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "last": null,
+  "elections": [
+    {
+      "date": "2026-11-07",
+      "iso": "NZL",
+      "country": "New Zealand",
+      "type": "Parliament",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "iso": "GUY",
+  "country": "Guyana",
+  "retrieved": "2026-09-25",
+  "total": 1,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-09-01",
+    "iso": "GUY",
+    "country": "Guyana",
+    "type": "President and Parliament",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-09-01",
+      "iso": "GUY",
+      "country": "Guyana",
+      "type": "President and Parliament",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

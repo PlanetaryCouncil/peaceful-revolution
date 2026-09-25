@@ -1,0 +1,41 @@
+{
+  "iso": "CPV",
+  "country": "Cape Verde",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 1,
+  "next": {
+    "date": "2026-11-15",
+    "iso": "CPV",
+    "country": "Cape Verde",
+    "type": "President",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "last": {
+    "date": "2026-05-17",
+    "iso": "CPV",
+    "country": "Cape Verde",
+    "type": "Parliament",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2026-05-17",
+      "iso": "CPV",
+      "country": "Cape Verde",
+      "type": "Parliament",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-11-15",
+      "iso": "CPV",
+      "country": "Cape Verde",
+      "type": "President",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

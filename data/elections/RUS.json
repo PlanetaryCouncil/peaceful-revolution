@@ -1,0 +1,28 @@
+{
+  "iso": "RUS",
+  "country": "Russia",
+  "retrieved": "2026-09-25",
+  "total": 1,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2026-09-18",
+    "date_end": "2026-09-20",
+    "iso": "RUS",
+    "country": "Russia",
+    "type": "State Duma",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2026-09-18",
+      "date_end": "2026-09-20",
+      "iso": "RUS",
+      "country": "Russia",
+      "type": "State Duma",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "iso": "ABK",
+  "country": "Abkhazia",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-03-01",
+    "iso": "ABK",
+    "country": "Abkhazia",
+    "type": "President (2nd round)",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-02-15",
+      "iso": "ABK",
+      "country": "Abkhazia",
+      "type": "President (1st round)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-03-01",
+      "iso": "ABK",
+      "country": "Abkhazia",
+      "type": "President (2nd round)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

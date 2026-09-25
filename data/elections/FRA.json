@@ -1,0 +1,34 @@
+{
+  "iso": "FRA",
+  "country": "France",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 2,
+  "next": {
+    "date": "2026-09-27",
+    "iso": "FRA",
+    "country": "France",
+    "type": "Senate (series 2)",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "last": null,
+  "elections": [
+    {
+      "date": "2026-09-27",
+      "iso": "FRA",
+      "country": "France",
+      "type": "Senate (series 2)",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2027-04-18",
+      "iso": "FRA",
+      "country": "France",
+      "type": "President",
+      "year": 2027,
+      "source": "https://en.wikipedia.org/wiki/2027_national_electoral_calendar"
+    }
+  ]
+}

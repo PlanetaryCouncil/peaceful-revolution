@@ -1,0 +1,35 @@
+{
+  "iso": "IRL",
+  "country": "Ireland",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-10-24",
+    "iso": "IRL",
+    "country": "Ireland",
+    "type": "President",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-01-29",
+      "date_end": "2025-01-30",
+      "iso": "IRL",
+      "country": "Ireland",
+      "type": "Seanad",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-10-24",
+      "iso": "IRL",
+      "country": "Ireland",
+      "type": "President",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

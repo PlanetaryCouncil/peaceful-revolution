@@ -1,0 +1,35 @@
+{
+  "iso": "PER",
+  "country": "Peru",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2026-06-07",
+    "iso": "PER",
+    "country": "Peru",
+    "type": "President (2nd round)",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2026-04-12",
+      "date_end": "2026-04-13",
+      "iso": "PER",
+      "country": "Peru",
+      "type": "President (1st round), Chamber of Deputies and Senate",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-06-07",
+      "iso": "PER",
+      "country": "Peru",
+      "type": "President (2nd round)",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

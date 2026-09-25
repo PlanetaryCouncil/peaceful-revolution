@@ -1,0 +1,34 @@
+{
+  "iso": "CIV",
+  "country": "Ivory Coast",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-12-27",
+    "iso": "CIV",
+    "country": "Ivory Coast",
+    "type": "Parliament",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-10-25",
+      "iso": "CIV",
+      "country": "Ivory Coast",
+      "type": "President",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-12-27",
+      "iso": "CIV",
+      "country": "Ivory Coast",
+      "type": "Parliament",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

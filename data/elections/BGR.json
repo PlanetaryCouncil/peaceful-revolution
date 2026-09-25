@@ -1,0 +1,41 @@
+{
+  "iso": "BGR",
+  "country": "Bulgaria",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 1,
+  "next": {
+    "date": "2026-10-25",
+    "iso": "BGR",
+    "country": "Bulgaria",
+    "type": "President",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "last": {
+    "date": "2026-04-19",
+    "iso": "BGR",
+    "country": "Bulgaria",
+    "type": "Parliament",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2026-04-19",
+      "iso": "BGR",
+      "country": "Bulgaria",
+      "type": "Parliament",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-10-25",
+      "iso": "BGR",
+      "country": "Bulgaria",
+      "type": "President",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

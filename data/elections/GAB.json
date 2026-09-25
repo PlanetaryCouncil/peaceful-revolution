@@ -1,0 +1,42 @@
+{
+  "iso": "GAB",
+  "country": "Gabon",
+  "retrieved": "2026-09-25",
+  "total": 3,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-10-11",
+    "iso": "GAB",
+    "country": "Gabon",
+    "type": "National Assembly (2nd round)",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-04-12",
+      "iso": "GAB",
+      "country": "Gabon",
+      "type": "President",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-09-27",
+      "iso": "GAB",
+      "country": "Gabon",
+      "type": "National Assembly (1st round)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-10-11",
+      "iso": "GAB",
+      "country": "Gabon",
+      "type": "National Assembly (2nd round)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

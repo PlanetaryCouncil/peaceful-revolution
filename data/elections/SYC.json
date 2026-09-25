@@ -1,0 +1,37 @@
+{
+  "iso": "SYC",
+  "country": "Seychelles",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-10-09",
+    "date_end": "2025-10-11",
+    "iso": "SYC",
+    "country": "Seychelles",
+    "type": "President (2nd round)",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-09-25",
+      "date_end": "2025-09-27",
+      "iso": "SYC",
+      "country": "Seychelles",
+      "type": "President (1st round) and Parliament",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-10-09",
+      "date_end": "2025-10-11",
+      "iso": "SYC",
+      "country": "Seychelles",
+      "type": "President (2nd round)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

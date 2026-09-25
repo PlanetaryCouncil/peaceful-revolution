@@ -1,0 +1,26 @@
+{
+  "iso": "ALB",
+  "country": "Albania",
+  "retrieved": "2026-09-25",
+  "total": 1,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-05-11",
+    "iso": "ALB",
+    "country": "Albania",
+    "type": "Parliament",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-05-11",
+      "iso": "ALB",
+      "country": "Albania",
+      "type": "Parliament",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

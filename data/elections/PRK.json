@@ -1,0 +1,34 @@
+{
+  "iso": "PRK",
+  "country": "North Korea",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2026-03-22",
+    "iso": "PRK",
+    "country": "North Korea",
+    "type": "President of the State Affairs",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2026-03-15",
+      "iso": "PRK",
+      "country": "North Korea",
+      "type": "Parliament",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-03-22",
+      "iso": "PRK",
+      "country": "North Korea",
+      "type": "President of the State Affairs",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

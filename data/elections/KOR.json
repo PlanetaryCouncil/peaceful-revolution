@@ -1,0 +1,26 @@
+{
+  "iso": "KOR",
+  "country": "South Korea",
+  "retrieved": "2026-09-25",
+  "total": 1,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-06-03",
+    "iso": "KOR",
+    "country": "South Korea",
+    "type": "President",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-06-03",
+      "iso": "KOR",
+      "country": "South Korea",
+      "type": "President",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

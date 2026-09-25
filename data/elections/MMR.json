@@ -1,0 +1,58 @@
+{
+  "iso": "MMR",
+  "country": "Myanmar",
+  "retrieved": "2026-09-25",
+  "total": 5,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2026-04-03",
+    "iso": "MMR",
+    "country": "Myanmar",
+    "type": "Vice President",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-12-28",
+      "iso": "MMR",
+      "country": "Myanmar",
+      "type": "Parliament (1st phase)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2026-01-11",
+      "iso": "MMR",
+      "country": "Myanmar",
+      "type": "Parliament (2nd phase)",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-01-25",
+      "iso": "MMR",
+      "country": "Myanmar",
+      "type": "Parliament (3rd phase)",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-03-30",
+      "iso": "MMR",
+      "country": "Myanmar",
+      "type": "President",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-04-03",
+      "iso": "MMR",
+      "country": "Myanmar",
+      "type": "Vice President",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "iso": "BDI",
+  "country": "Burundi",
+  "retrieved": "2026-09-25",
+  "total": 3,
+  "upcoming": 1,
+  "next": {
+    "date": "2027-05-03",
+    "iso": "BDI",
+    "country": "Burundi",
+    "type": "President",
+    "year": 2027,
+    "source": "https://en.wikipedia.org/wiki/2027_national_electoral_calendar"
+  },
+  "last": {
+    "date": "2025-07-23",
+    "iso": "BDI",
+    "country": "Burundi",
+    "type": "Senate [ fr ]",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-06-05",
+      "iso": "BDI",
+      "country": "Burundi",
+      "type": "National Assembly",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-07-23",
+      "iso": "BDI",
+      "country": "Burundi",
+      "type": "Senate [ fr ]",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2027-05-03",
+      "iso": "BDI",
+      "country": "Burundi",
+      "type": "President",
+      "year": 2027,
+      "source": "https://en.wikipedia.org/wiki/2027_national_electoral_calendar"
+    }
+  ]
+}

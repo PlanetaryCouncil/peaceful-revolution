@@ -1,0 +1,45 @@
+{
+  "iso": "CZE",
+  "country": "Czech Republic",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 1,
+  "next": {
+    "date": "2026-10-09",
+    "date_end": "2026-10-10",
+    "iso": "CZE",
+    "country": "Czech Republic",
+    "type": "Senate (1st round)",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "last": {
+    "date": "2025-10-03",
+    "date_end": "2025-10-04",
+    "iso": "CZE",
+    "country": "Czech Republic",
+    "type": "Chamber of Deputies",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-10-03",
+      "date_end": "2025-10-04",
+      "iso": "CZE",
+      "country": "Czech Republic",
+      "type": "Chamber of Deputies",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2026-10-09",
+      "date_end": "2026-10-10",
+      "iso": "CZE",
+      "country": "Czech Republic",
+      "type": "Senate (1st round)",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

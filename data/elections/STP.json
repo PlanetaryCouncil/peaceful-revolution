@@ -1,0 +1,41 @@
+{
+  "iso": "STP",
+  "country": "São Tomé and Príncipe",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 1,
+  "next": {
+    "date": "2026-09-27",
+    "iso": "STP",
+    "country": "São Tomé and Príncipe",
+    "type": "Parliament",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "last": {
+    "date": "2026-07-19",
+    "iso": "STP",
+    "country": "São Tomé and Príncipe",
+    "type": "President",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2026-07-19",
+      "iso": "STP",
+      "country": "São Tomé and Príncipe",
+      "type": "President",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    },
+    {
+      "date": "2026-09-27",
+      "iso": "STP",
+      "country": "São Tomé and Príncipe",
+      "type": "Parliament",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

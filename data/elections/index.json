@@ -1,0 +1,1287 @@
+{
+  "generated": "2026-09-25",
+  "years": [
+    2025,
+    2027
+  ],
+  "totals": {
+    "countries": 124,
+    "elections": 190,
+    "upcoming": 33
+  },
+  "countries": {
+    "COM": {
+      "country": "Comoros",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-01-12",
+        "type": "Parliament"
+      }
+    },
+    "HRV": {
+      "country": "Croatia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-01-12",
+        "type": "President (2nd round)"
+      }
+    },
+    "VUT": {
+      "country": "Vanuatu",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-01-16",
+        "type": "Parliament"
+      }
+    },
+    "BLR": {
+      "country": "Belarus",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-01-26",
+        "type": "President"
+      }
+    },
+    "ECU": {
+      "country": "Ecuador",
+      "total": 3,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-11-16",
+        "type": "Referendums [ es ]"
+      }
+    },
+    "XKX": {
+      "country": "Kosovo",
+      "total": 3,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-06-07",
+        "type": "Parliament"
+      }
+    },
+    "LIE": {
+      "country": "Liechtenstein",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-02-09",
+        "type": "Parliament"
+      }
+    },
+    "CHE": {
+      "country": "Switzerland",
+      "total": 8,
+      "upcoming": 2,
+      "next": {
+        "date": "2026-09-27",
+        "type": "Referendums"
+      },
+      "last": {
+        "date": "2026-06-14",
+        "type": "Referendums"
+      }
+    },
+    "ABK": {
+      "country": "Abkhazia",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-03-01",
+        "type": "President (2nd round)"
+      }
+    },
+    "DEU": {
+      "country": "Germany",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-01-30",
+        "type": "President"
+      },
+      "last": {
+        "date": "2025-02-23",
+        "type": "Bundestag"
+      }
+    },
+    "TJK": {
+      "country": "Tajikistan",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-03-28",
+        "type": "National Assembly"
+      }
+    },
+    "BLZ": {
+      "country": "Belize",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-03-12",
+        "type": "House of Representatives"
+      }
+    },
+    "GAB": {
+      "country": "Gabon",
+      "total": 3,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-11",
+        "type": "National Assembly (2nd round)"
+      }
+    },
+    "MHL": {
+      "country": "Marshall Islands",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-04-25",
+        "type": "Constitutional Referendum"
+      }
+    },
+    "CAN": {
+      "country": "Canada",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-04-28",
+        "type": "House of Commons"
+      }
+    },
+    "TTO": {
+      "country": "Trinidad and Tobago",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-04-28",
+        "type": "House of Representatives"
+      }
+    },
+    "AUS": {
+      "country": "Australia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-03",
+        "type": "House of Representatives and Senate"
+      }
+    },
+    "SGP": {
+      "country": "Singapore",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-03",
+        "type": "Parliament"
+      }
+    },
+    "ROU": {
+      "country": "Romania",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-18",
+        "type": "President (2nd round)"
+      }
+    },
+    "ALB": {
+      "country": "Albania",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-11",
+        "type": "Parliament"
+      }
+    },
+    "PHL": {
+      "country": "Philippines",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-12",
+        "type": "House of Representatives and Senate"
+      }
+    },
+    "POL": {
+      "country": "Poland",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-06-01",
+        "type": "President (2nd round)"
+      }
+    },
+    "PRT": {
+      "country": "Portugal",
+      "total": 3,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-02-08",
+        "type": "President (2nd round)"
+      }
+    },
+    "SUR": {
+      "country": "Suriname",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-07-06",
+        "type": "President [ fr ]"
+      }
+    },
+    "VEN": {
+      "country": "Venezuela",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-25",
+        "type": "Parliament"
+      }
+    },
+    "MEX": {
+      "country": "Mexico",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-06-06",
+        "type": "Chamber of Deputies"
+      },
+      "last": {
+        "date": "2025-06-01",
+        "type": "Judicial"
+      }
+    },
+    "KOR": {
+      "country": "South Korea",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-06-03",
+        "type": "President"
+      }
+    },
+    "BDI": {
+      "country": "Burundi",
+      "total": 3,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-05-03",
+        "type": "President"
+      },
+      "last": {
+        "date": "2025-07-23",
+        "type": "Senate [ fr ]"
+      }
+    },
+    "ITA": {
+      "country": "Italy",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-22",
+        "type": "Constitutional referendum"
+      }
+    },
+    "JPN": {
+      "country": "Japan",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-02-08",
+        "type": "House of Representatives"
+      }
+    },
+    "BOL": {
+      "country": "Bolivia",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-19",
+        "type": "President (2nd round)"
+      }
+    },
+    "TWN": {
+      "country": "Taiwan",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-08-23",
+        "type": "Referendum"
+      }
+    },
+    "WSM": {
+      "country": "Samoa",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-08-29",
+        "type": "Parliament"
+      }
+    },
+    "GUY": {
+      "country": "Guyana",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-09-01",
+        "type": "President and Parliament"
+      }
+    },
+    "JAM": {
+      "country": "Jamaica",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-09-03",
+        "type": "House of Representatives"
+      }
+    },
+    "NOR": {
+      "country": "Norway",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-09-08",
+        "type": "Parliament"
+      }
+    },
+    "MWI": {
+      "country": "Malawi",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-09-16",
+        "type": "President and Parliament"
+      }
+    },
+    "GIN": {
+      "country": "Guinea",
+      "total": 3,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-05-31",
+        "type": "National Assembly"
+      }
+    },
+    "SYC": {
+      "country": "Seychelles",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-09",
+        "type": "President (2nd round)"
+      }
+    },
+    "MDA": {
+      "country": "Moldova",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-09-28",
+        "type": "Parliament"
+      }
+    },
+    "CZE": {
+      "country": "Czech Republic",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-10-09",
+        "type": "Senate (1st round)"
+      },
+      "last": {
+        "date": "2025-10-03",
+        "type": "Chamber of Deputies"
+      }
+    },
+    "NRU": {
+      "country": "Nauru",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-14",
+        "type": "President"
+      }
+    },
+    "CMR": {
+      "country": "Cameroon",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-12",
+        "type": "President"
+      }
+    },
+    "CYN": {
+      "country": "Northern Cyprus",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-19",
+        "type": "President"
+      }
+    },
+    "IRL": {
+      "country": "Ireland",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-24",
+        "type": "President"
+      }
+    },
+    "CIV": {
+      "country": "Ivory Coast",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-12-27",
+        "type": "Parliament"
+      }
+    },
+    "ARG": {
+      "country": "Argentina",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-26",
+        "type": "Chamber of Deputies and Senate"
+      }
+    },
+    "NLD": {
+      "country": "Netherlands",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-29",
+        "type": "Parliament"
+      }
+    },
+    "TZA": {
+      "country": "Tanzania",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-29",
+        "type": "President and Parliament"
+      }
+    },
+    "EGY": {
+      "country": "Egypt",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-11-24",
+        "type": "House of Representatives (2nd round)"
+      }
+    },
+    "IRQ": {
+      "country": "Iraq",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-11",
+        "type": "President"
+      }
+    },
+    "CHL": {
+      "country": "Chile",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-12-14",
+        "type": "President (2nd round)"
+      }
+    },
+    "TON": {
+      "country": "Tonga",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-11-20",
+        "type": "Parliament"
+      }
+    },
+    "GNB": {
+      "country": "Guinea-Bissau",
+      "total": 3,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-12-06",
+        "type": "President and Parliament"
+      },
+      "last": {
+        "date": "2026-08-30",
+        "type": "Constitutional referendum"
+      }
+    },
+    "SVN": {
+      "country": "Slovenia",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-22",
+        "type": "National Assembly"
+      }
+    },
+    "VCT": {
+      "country": "Saint Vincent and the Grenadines",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-11-27",
+        "type": "Parliament"
+      }
+    },
+    "HND": {
+      "country": "Honduras",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-11-30",
+        "type": "President and Parliament"
+      }
+    },
+    "KGZ": {
+      "country": "Kyrgyzstan",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-01-27",
+        "type": "President"
+      },
+      "last": {
+        "date": "2025-11-30",
+        "type": "Parliament"
+      }
+    },
+    "PMR": {
+      "country": "Transnistria",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-12-13",
+        "type": "President"
+      },
+      "last": {
+        "date": "2025-11-30",
+        "type": "Parliament"
+      }
+    },
+    "LCA": {
+      "country": "Saint Lucia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-12-01",
+        "type": "House of Assembly"
+      }
+    },
+    "HKG": {
+      "country": "Hong Kong",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-12-07",
+        "type": "Legislative Council"
+      }
+    },
+    "CAF": {
+      "country": "Central African Republic",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-26",
+        "type": "National Assembly (second round)"
+      }
+    },
+    "MMR": {
+      "country": "Myanmar",
+      "total": 5,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-03",
+        "type": "Vice President"
+      }
+    },
+    "TGO": {
+      "country": "Togo",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-03",
+        "type": "President"
+      }
+    },
+    "TCD": {
+      "country": "Chad",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-02-25",
+        "type": "Senate [ fr ]"
+      }
+    },
+    "DZA": {
+      "country": "Algeria",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-07-02",
+        "type": "People's National Assembly"
+      }
+    },
+    "VAT": {
+      "country": "Vatican City",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-05-07",
+        "type": "Pope"
+      }
+    },
+    "IND": {
+      "country": "India",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-09-09",
+        "type": "Vice President"
+      }
+    },
+    "SYR": {
+      "country": "Syria",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2025-10-05",
+        "type": "Parliament"
+      }
+    },
+    "BRB": {
+      "country": "Barbados",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-02-11",
+        "type": "House of Assembly"
+      }
+    },
+    "BEN": {
+      "country": "Benin",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-12",
+        "type": "President"
+      }
+    },
+    "UGA": {
+      "country": "Uganda",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-01-15",
+        "type": "President and Parliament"
+      }
+    },
+    "CRI": {
+      "country": "Costa Rica",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-02-01",
+        "type": "President and Parliament"
+      }
+    },
+    "THA": {
+      "country": "Thailand",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-02-08",
+        "type": "House of Representatives and Constitutional referendum"
+      }
+    },
+    "BGD": {
+      "country": "Bangladesh",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-08-20",
+        "type": "President"
+      }
+    },
+    "LAO": {
+      "country": "Laos",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-23",
+        "type": "President"
+      }
+    },
+    "NPL": {
+      "country": "Nepal",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-05",
+        "type": "House of Representatives"
+      }
+    },
+    "COL": {
+      "country": "Colombia",
+      "total": 3,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-06-21",
+        "type": "President (2nd round)"
+      }
+    },
+    "KAZ": {
+      "country": "Kazakhstan",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-08-23",
+        "type": "Kurultai"
+      }
+    },
+    "PRK": {
+      "country": "North Korea",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-22",
+        "type": "President of the State Affairs"
+      }
+    },
+    "COG": {
+      "country": "Republic of the Congo",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-15",
+        "type": "President"
+      }
+    },
+    "VNM": {
+      "country": "Vietnam",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-07",
+        "type": "President"
+      }
+    },
+    "DNK": {
+      "country": "Denmark",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-24",
+        "type": "Parliament"
+      }
+    },
+    "MDV": {
+      "country": "Maldives",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-04",
+        "type": "Constitutional referendum"
+      }
+    },
+    "DJI": {
+      "country": "Djibouti",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-10",
+        "type": "President"
+      }
+    },
+    "HUN": {
+      "country": "Hungary",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-08-11",
+        "type": "President"
+      }
+    },
+    "PER": {
+      "country": "Peru",
+      "total": 2,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-06-07",
+        "type": "President (2nd round)"
+      }
+    },
+    "BGR": {
+      "country": "Bulgaria",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-10-25",
+        "type": "President"
+      },
+      "last": {
+        "date": "2026-04-19",
+        "type": "Parliament"
+      }
+    },
+    "ATG": {
+      "country": "Antigua and Barbuda",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-04-30",
+        "type": "House of Representatives"
+      }
+    },
+    "BHS": {
+      "country": "Bahamas",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-05-12",
+        "type": "House of Assembly"
+      }
+    },
+    "CPV": {
+      "country": "Cape Verde",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-11-15",
+        "type": "President"
+      },
+      "last": {
+        "date": "2026-05-17",
+        "type": "Parliament"
+      }
+    },
+    "CYP": {
+      "country": "Cyprus",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-05-24",
+        "type": "Parliament"
+      }
+    },
+    "MLT": {
+      "country": "Malta",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-05-30",
+        "type": "Parliament"
+      }
+    },
+    "ETH": {
+      "country": "Ethiopia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-06-01",
+        "type": "House of Peoples' Representatives"
+      }
+    },
+    "ARM": {
+      "country": "Armenia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-06-07",
+        "type": "Parliament"
+      }
+    },
+    "SVK": {
+      "country": "Slovakia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-07-04",
+        "type": "Referendum"
+      }
+    },
+    "STP": {
+      "country": "São Tomé and Príncipe",
+      "total": 2,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-09-27",
+        "type": "Parliament"
+      },
+      "last": {
+        "date": "2026-07-19",
+        "type": "President"
+      }
+    },
+    "ZMB": {
+      "country": "Zambia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-08-13",
+        "type": "President and Parliament"
+      }
+    },
+    "ISL": {
+      "country": "Iceland",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-08-29",
+        "type": "Referendum"
+      }
+    },
+    "SWE": {
+      "country": "Sweden",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-09-13",
+        "type": "Parliament"
+      }
+    },
+    "SOS": {
+      "country": "South Ossetia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-09-18",
+        "type": "President"
+      }
+    },
+    "RUS": {
+      "country": "Russia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-09-18",
+        "type": "State Duma"
+      }
+    },
+    "MAR": {
+      "country": "Morocco",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-09-23",
+        "type": "House of Representatives"
+      }
+    },
+    "LVA": {
+      "country": "Latvia",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-10-03",
+        "type": "Parliament"
+      },
+      "last": null
+    },
+    "BIH": {
+      "country": "Bosnia and Herzegovina",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-10-04",
+        "type": "Presidency and House of Representatives"
+      },
+      "last": null
+    },
+    "BRA": {
+      "country": "Brazil",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-10-04",
+        "type": "President, Chamber of Deputies and Senate"
+      },
+      "last": null
+    },
+    "SRB": {
+      "country": "Serbia",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-10-25",
+        "type": "Parliament"
+      },
+      "last": null
+    },
+    "ISR": {
+      "country": "Israel",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-10-27",
+        "type": "Knesset"
+      },
+      "last": null
+    },
+    "USA": {
+      "country": "United States",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-11-03",
+        "type": "House of Representatives and Senate"
+      },
+      "last": null
+    },
+    "NZL": {
+      "country": "New Zealand",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-11-07",
+        "type": "Parliament"
+      },
+      "last": null
+    },
+    "PSE": {
+      "country": "Palestine",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-11-28",
+        "type": "Parliament"
+      },
+      "last": null
+    },
+    "GMB": {
+      "country": "Gambia",
+      "total": 2,
+      "upcoming": 2,
+      "next": {
+        "date": "2026-12-05",
+        "type": "President"
+      },
+      "last": null
+    },
+    "HTI": {
+      "country": "Haiti",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-12-13",
+        "type": "President, Chamber of Deputies and Senate"
+      },
+      "last": null
+    },
+    "SSD": {
+      "country": "South Sudan",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2026-12-22",
+        "type": "President, Assembly and Council of States"
+      },
+      "last": null
+    },
+    "IRN": {
+      "country": "Iran",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-03-03",
+        "type": "Supreme Leader"
+      }
+    },
+    "EST": {
+      "country": "Estonia",
+      "total": 1,
+      "upcoming": 0,
+      "next": null,
+      "last": {
+        "date": "2026-09-02",
+        "type": "President"
+      }
+    },
+    "FRA": {
+      "country": "France",
+      "total": 2,
+      "upcoming": 2,
+      "next": {
+        "date": "2026-09-27",
+        "type": "Senate (series 2)"
+      },
+      "last": null
+    },
+    "NGA": {
+      "country": "Nigeria",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-01-16",
+        "type": "President, Senate and House of Representatives"
+      },
+      "last": null
+    },
+    "SLV": {
+      "country": "El Salvador",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-02-28",
+        "type": "President and Legislative Assembly"
+      },
+      "last": null
+    },
+    "FSM": {
+      "country": "Micronesia",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-03-02",
+        "type": "Parliament"
+      },
+      "last": null
+    },
+    "FIN": {
+      "country": "Finland",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-04-18",
+        "type": "Parliament"
+      },
+      "last": null
+    },
+    "GTM": {
+      "country": "Guatemala",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-06-27",
+        "type": "President and Congress"
+      },
+      "last": null
+    },
+    "KEN": {
+      "country": "Kenya",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-08-10",
+        "type": "President, National Assembly and Senate"
+      },
+      "last": null
+    },
+    "AGO": {
+      "country": "Angola",
+      "total": 1,
+      "upcoming": 1,
+      "next": {
+        "date": "2027-08-24",
+        "type": "Parliament"
+      },
+      "last": null
+    }
+  }
+}

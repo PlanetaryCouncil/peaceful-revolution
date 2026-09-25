@@ -42,5 +42,10 @@ Map colours are set in the JS `COLORSCALE` + the Plotly `geo` layout (land/ocean
 ## Note
 This repo is separate from the BaseX project (`/Users/m/Code/basex-polsia`) that a shared session may also have open. They are unrelated codebases.
 
+## Elections (`data/elections/`)
+National elections and referendums worldwide, from Wikipedia's national electoral calendars. `node scripts/elections/fetch-calendar.js 2025 2027` rebuilds; `index.json` is generated and carries `next`/`last` per country so the map loads one file, not 124. The panel shows the next election, falling back to the most recent one.
+
+**National only** — no by-elections, local or regional votes; a country with no line may simply have nothing scheduled inside the fetched years (the UK's next is 2029). Wikidata SPARQL and IFES ElectionGuide were both tried and rejected; `data/elections/README.md` records why, and the sibling-date parsing trap that silently dropped Brazil on the first pass.
+
 ## Layer feed (`data/layer/`)
 Machine-readable Planetary Council membership for third-party maps: `planetary-council.geojson` + `.json`, generated from the rosters in `index.html` by `node scripts/build-layer-feed.js` — rerun it whenever the rosters change. Served CORS-open (`*`) on GitHub Pages. Docs + WorldMonitor upstream-proposal draft: `LAYER-FEED.md`.

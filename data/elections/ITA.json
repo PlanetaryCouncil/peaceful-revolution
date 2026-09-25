@@ -1,0 +1,37 @@
+{
+  "iso": "ITA",
+  "country": "Italy",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2026-03-22",
+    "date_end": "2026-03-23",
+    "iso": "ITA",
+    "country": "Italy",
+    "type": "Constitutional referendum",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-06-08",
+      "date_end": "2025-06-09",
+      "iso": "ITA",
+      "country": "Italy",
+      "type": "Referendum",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2026-03-22",
+      "date_end": "2026-03-23",
+      "iso": "ITA",
+      "country": "Italy",
+      "type": "Constitutional referendum",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

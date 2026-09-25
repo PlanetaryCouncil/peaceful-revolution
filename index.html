@@ -160,6 +160,11 @@
   .pnl-status.improving .led{background:var(--gold-bright);box-shadow:0 0 8px var(--gold-bright)}
   .pnl-meta{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--text-dim);margin-top:11px;line-height:1.55}
   .pnl-meta b{color:var(--text)}
+  .pnl-election{margin-top:13px;padding:9px 11px;border:1px solid var(--line);border-left:2px solid var(--accent);
+    border-radius:3px;background:var(--panel-2,transparent);font-family:"IBM Plex Mono",monospace;font-size:11.5px;line-height:1.5}
+  .pnl-election .el-when{color:var(--accent);font-weight:600;letter-spacing:.02em}
+  .pnl-election .el-type{color:var(--text);display:block;margin-top:2px}
+  .pnl-election .el-more{color:var(--text-faint);display:block;margin-top:4px;font-size:10.5px}
   .sources{margin-top:16px;display:flex;flex-direction:column;gap:8px}
   .sources-label{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--text-faint)}
   .source-link{display:flex;align-items:center;justify-content:space-between;gap:8px;font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--accent);text-decoration:none;border:1px solid var(--line);border-radius:9px;padding:10px 12px;transition:all .2s ease}
@@ -602,9 +607,16 @@ const PLACEHOLDER = `<p class="ph-empty">Select a country — on the <b>map</b> 
 
 let FACTBOOK_SLUGS = {};
 let ALL_CONTACTS = {};  // keyed by ISO3, each value is the country's contact JSON
+let ELECTIONS = {};     // keyed by ISO3 -> {country,total,upcoming,next:{date,type}}
 
 async function loadAssets(){
   try { FACTBOOK_SLUGS = await(await fetch("data/factbook-slugs.json")).json(); } catch(e){ console.warn("factbook-slugs not loaded:", e); }
+
+  // National elections. The index alone carries the next election per country,
+  // so the panel needs one small file rather than 124 per-country ones; the
+  // full history stays in data/elections/{ISO3}.json for anything deeper.
+  try { ELECTIONS = (await(await fetch("data/elections/index.json")).json()).countries || {}; }
+  catch(e){ console.warn("elections index not loaded:", e); }
 
   // Eager load every country's contacts. data/contacts/index.json is a manifest
   // (ISO3 -> {file,...}) built by scripts/build-contacts-index.js — filenames carry
@@ -624,6 +636,32 @@ async function loadAssets(){
 
   console.log(`Loaded contacts for ${Object.keys(ALL_CONTACTS).length}/${entries.length} countries`);
   if(selected){ renderPanel(); renderContacts(); }   // refresh if a country was picked before load finished
+}
+
+/* Next national election for a country, if we have one.
+   Source is Wikipedia's national electoral calendar (see scripts/elections/),
+   which covers national elections and referendums only — not by-elections,
+   local, or regional votes. A country with no line here has no *national*
+   election scheduled in the years fetched, which is not the same as none. */
+function electionHtml(iso){
+  const rec = ELECTIONS[iso];
+  if(!rec) return "";
+  // Prefer the next election; fall back to the last one, because a country that
+  // just voted is exactly the one whose new government is worth knowing about.
+  const ev = rec.next || rec.last;
+  if(!ev) return "";
+  const today = new Date().toISOString().slice(0,10);
+  const days = Math.round((Date.parse(ev.date) - Date.parse(today)) / 86400000);
+  const when = days === 0 ? "today" : days === 1 ? "tomorrow" : days > 0 ? `in ${days} days`
+             : days === -1 ? "yesterday" : `${-days} days ago`;
+  const nice = new Date(ev.date + "T00:00:00Z").toLocaleDateString("en-GB",
+    { day:"numeric", month:"short", year:"numeric", timeZone:"UTC" });
+  const more = rec.upcoming > 1 ? `<span class="el-more">+ ${rec.upcoming - 1} more scheduled</span>` : "";
+  return `<div class="pnl-election">
+    <span class="el-when">${rec.next ? "NEXT" : "LAST"} ELECTION &middot; ${esc(nice)} &middot; ${esc(when)}</span>
+    <span class="el-type">${esc(ev.type || "national election")}</span>
+    ${more}
+  </div>`;
 }
 
 function renderPanel(){
@@ -662,6 +700,7 @@ function renderPanel(){
     <h2 class="pnl-name">${e.name}</h2>
     <span class="pnl-status ${STATUS.cls}"><span class="led"></span>${STATUS.label}</span>
     <div class="pnl-meta">${meta}</div>
+    ${electionHtml(selected)}
     <div class="sources">
       <div class="sources-label">Source · dig deeper</div>
       ${links}

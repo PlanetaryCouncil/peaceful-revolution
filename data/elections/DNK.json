@@ -1,0 +1,26 @@
+{
+  "iso": "DNK",
+  "country": "Denmark",
+  "retrieved": "2026-09-25",
+  "total": 1,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2026-03-24",
+    "iso": "DNK",
+    "country": "Denmark",
+    "type": "Parliament",
+    "year": 2026,
+    "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2026-03-24",
+      "iso": "DNK",
+      "country": "Denmark",
+      "type": "Parliament",
+      "year": 2026,
+      "source": "https://en.wikipedia.org/wiki/2026_national_electoral_calendar"
+    }
+  ]
+}

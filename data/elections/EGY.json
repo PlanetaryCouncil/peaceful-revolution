@@ -1,0 +1,37 @@
+{
+  "iso": "EGY",
+  "country": "Egypt",
+  "retrieved": "2026-09-25",
+  "total": 2,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-11-24",
+    "date_end": "2025-11-25",
+    "iso": "EGY",
+    "country": "Egypt",
+    "type": "House of Representatives (2nd round)",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-11-10",
+      "date_end": "2025-11-11",
+      "iso": "EGY",
+      "country": "Egypt",
+      "type": "House of Representatives (1st round)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    },
+    {
+      "date": "2025-11-24",
+      "date_end": "2025-11-25",
+      "iso": "EGY",
+      "country": "Egypt",
+      "type": "House of Representatives (2nd round)",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}

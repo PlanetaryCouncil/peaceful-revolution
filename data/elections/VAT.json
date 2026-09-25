@@ -1,0 +1,28 @@
+{
+  "iso": "VAT",
+  "country": "Vatican City",
+  "retrieved": "2026-09-25",
+  "total": 1,
+  "upcoming": 0,
+  "next": null,
+  "last": {
+    "date": "2025-05-07",
+    "date_end": "2025-05-08",
+    "iso": "VAT",
+    "country": "Vatican City",
+    "type": "Pope",
+    "year": 2025,
+    "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+  },
+  "elections": [
+    {
+      "date": "2025-05-07",
+      "date_end": "2025-05-08",
+      "iso": "VAT",
+      "country": "Vatican City",
+      "type": "Pope",
+      "year": 2025,
+      "source": "https://en.wikipedia.org/wiki/2025_national_electoral_calendar"
+    }
+  ]
+}
