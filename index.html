@@ -512,7 +512,29 @@ function drawMap(){
    RENDER
    ============================================================ */
 let selected = null;
-function select(key){ selected = key; contactsExpanded = false; renderRoster(); renderPanel(); renderContacts(); focusEmbed(key); document.getElementById("panel").scrollIntoView({block:"nearest"}); }
+/* Selecting a country writes it to the URL (#BRA) so any view can be linked,
+   shared and bookmarked, and so the browser's back button walks the countries
+   you looked at. `fromUrl` marks a selection that CAME from the URL, so we do
+   not push a duplicate entry back onto the history stack. */
+function select(key, fromUrl){
+  if(!LOOKUP[key]) return;
+  selected = key; contactsExpanded = false;
+  renderRoster(); renderPanel(); renderContacts(); focusEmbed(key);
+  if(!fromUrl && location.hash.slice(1) !== key) history.pushState({key}, "", "#" + key);
+  document.getElementById("panel").scrollIntoView({block:"nearest"});
+}
+
+/* Reads the country out of the URL. Unknown or absent codes leave the map in
+   its placeholder state rather than erroring — a stale link should degrade to
+   the world view, not a broken page. */
+function selectFromUrl(){
+  const key = decodeURIComponent(location.hash.slice(1)).trim().toUpperCase();
+  if(key && LOOKUP[key]){ select(key, true); return true; }
+  return false;
+}
+window.addEventListener("hashchange", () => {
+  if(!selectFromUrl()){ selected = null; renderRoster(); renderPanel(); renderContacts(); }
+});
 
 /* ── World Monitor embed focus ──────────────────────────────
    Rough country centroids (±1-2° is fine at zoom 4 — this only
@@ -786,6 +808,7 @@ drawMap();
 renderMeter();
 renderRoster();
 renderPanel();
+selectFromUrl();          // honour a shared link like map.planetarycouncil.org/#BRA
 window.addEventListener("resize", ()=>Plotly.Plots.resize("map"));
 </script>
 </body>
