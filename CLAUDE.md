@@ -42,6 +42,11 @@ Map colours are set in the JS `COLORSCALE` + the Plotly `geo` layout (land/ocean
 ## Note
 This repo is separate from the BaseX project (`/Users/m/Code/basex-polsia`) that a shared session may also have open. They are unrelated codebases.
 
+## Country pages
+`uk.html` and `brazil.html` are standalone per-country pages, same self-contained pattern as `index.html`, linked from the map header and from that country's panel. **`uk.html` still carries the old dark palette** and predates the white + UN-blue conversion — follow `index.html`, not `uk.html`, when adding a page.
+
+`brazil.html` reads its countdown from `data/elections/BRA.json` so the page and the map cannot drift. Images live in `data/images/` and are served as WebP with a PNG fallback (`<picture>`); `cwebp -q 82` took the two posters from 5.3 MB to 715 KB. Any AI-generated image of a candidate carries a visible "criada por inteligência artificial" label — [TSE Resolution 23.755/2026](https://www.tse.jus.br/) requires explicit, prominent disclosure, and bans *new* synthetic content depicting candidates from 72h before the vote until 24h after (for 4 Oct 2026: 1–5 Oct).
+
 ## Elections (`data/elections/`)
 National elections and referendums worldwide, from Wikipedia's national electoral calendars. `node scripts/elections/fetch-calendar.js 2025 2027` rebuilds; `index.json` is generated and carries `next`/`last` per country so the map loads one file, not 124. The panel shows the next election, falling back to the most recent one.
 

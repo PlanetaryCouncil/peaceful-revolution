@@ -183,7 +183,7 @@
 <div class="wrap">
 
   <header>
-    <div class="eyebrow">Conceptual activation instrument · curated &amp; sourced · <a href="uk.html">UK fractal →</a></div>
+    <div class="eyebrow">Conceptual activation instrument · curated &amp; sourced · <a href="uk.html">UK fractal →</a> &nbsp;·&nbsp; <a href="brazil.html">Brasil →</a></div>
     <h1>Peaceful Revolution — <span class="em">Activation Threshold</span></h1>
     <p class="sub">A curated situation map of the world — peaceful revolutions, coups, and wars. Dark blue marks any country with a situation, including where people have taken power <i>peacefully</i>; only peaceful revolutions count toward the 51% threshold that rewrites the Charter by those present. Wars are shown in red for context, deliberately not counted. Click any country for its status and a source to dig deeper.</p>
   </header>
@@ -694,6 +694,7 @@ function renderPanel(){
   if(e.event) links += `<a class="source-link" href="${eventUrl(e.event)}" target="_blank" rel="noopener">${e.event} <span class="arr">↗</span></a>`;
   if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
   if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
+  if(selected==="BRA") links += `<a class="source-link" href="brazil.html">Brasil — o voto que o mundo observa <span class="arr">→</span></a>`;
 
   body.innerHTML = `
     <div class="pnl-iso">${e.kind==="nonun"?"non-UN polity":selected}</div>

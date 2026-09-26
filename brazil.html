@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Peaceful Revolution — Brasil · O voto que o mundo observa</title>
+<meta name="description" content="Eleição brasileira de 4 de outubro de 2026: o clima, a Amazônia e a política externa que o mundo inteiro acompanha." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    /* Same White + UN-blue system as the map (index.html). */
+    --ink:#eef4fc; --ink-2:#e2ecf8; --panel:#ffffff; --panel-2:#f5f9fe; --line:#cbdcf1;
+    --slate:#3f6fb0; --slate-dim:#d8e6f6;
+    --text:#10294f; --text-dim:#3f5b86; --text-faint:#8195b5;
+    --deep:#103d8c; --accent:#1f72c4; --bright:#2d7dd2;
+    --war:#d64545;
+    --radius:14px; --maxw:1100px;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--ink); color:var(--text);
+    font-family:"Inter",system-ui,sans-serif; line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:26px 20px 70px}
+  a{color:var(--accent)}
+  a:focus-visible{outline:2px solid var(--accent); outline-offset:3px}
+
+  .eyebrow{
+    font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--text-faint); margin-bottom:18px;
+  }
+  .eyebrow a{text-decoration:none}
+  h1{
+    font-family:"Space Grotesk",sans-serif; font-weight:700;
+    font-size:clamp(28px,5.4vw,48px); line-height:1.08; letter-spacing:-.02em;
+    margin:0 0 14px; text-wrap:balance;
+  }
+  h1 .em{color:var(--accent)}
+  .stand{font-size:clamp(15px,2vw,17px); color:var(--text-dim); max-width:62ch; margin:0}
+  .stand-en{font-size:14px; color:var(--text-faint); max-width:62ch; margin:9px 0 0; font-style:italic}
+
+  h2{
+    font-family:"Space Grotesk",sans-serif; font-size:13px; font-weight:600;
+    letter-spacing:.13em; text-transform:uppercase; color:var(--text-dim);
+    margin:0 0 15px; padding-bottom:9px; border-bottom:1px solid var(--line);
+  }
+  section{margin-top:44px}
+
+  .card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:20px}
+
+  /* countdown + polling */
+  .race{display:grid; gap:18px; grid-template-columns:1fr}
+  @media(min-width:720px){.race{grid-template-columns:.85fr 1.15fr}}
+  .count{
+    background:var(--panel); border:1px solid var(--line); border-left:3px solid var(--deep);
+    border-radius:var(--radius); padding:20px; display:flex; flex-direction:column; justify-content:center;
+  }
+  .count .days{
+    font-family:"Space Grotesk",sans-serif; font-weight:700; font-size:clamp(42px,9vw,64px);
+    line-height:1; color:var(--deep); font-variant-numeric:tabular-nums;
+  }
+  .count .lbl{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.11em;
+    text-transform:uppercase; color:var(--text-faint); margin-top:9px}
+  .count .date{font-size:15px; color:var(--text); margin-top:7px; font-weight:500}
+
+  table{width:100%; border-collapse:collapse; font-size:14px}
+  th,td{text-align:left; padding:8px 6px; border-bottom:1px solid var(--line)}
+  th{font-family:"IBM Plex Mono",monospace; font-size:10.5px; letter-spacing:.1em;
+    text-transform:uppercase; color:var(--text-faint); font-weight:600}
+  td.n{text-align:right; font-variant-numeric:tabular-nums; font-family:"IBM Plex Mono",monospace}
+  tr.lead td{font-weight:600}
+  tr.lead td.n{color:var(--deep)}
+  .tie{
+    margin-top:12px; font-family:"IBM Plex Mono",monospace; font-size:11.5px;
+    color:var(--text-dim); background:var(--panel-2); border-radius:8px; padding:9px 11px;
+  }
+
+  /* images */
+  figure{margin:0 0 30px}
+  figure picture,figure img{display:block; width:100%; height:auto; border-radius:var(--radius);
+    border:1px solid var(--line); background:var(--panel-2)}
+  figcaption{margin-top:11px; font-size:13.5px; color:var(--text-dim); max-width:70ch}
+  .ai-note{
+    display:inline-flex; align-items:center; gap:7px; margin-top:10px;
+    font-family:"IBM Plex Mono",monospace; font-size:10.5px; letter-spacing:.07em;
+    text-transform:uppercase; color:var(--text-dim);
+    background:var(--panel-2); border:1px solid var(--line); border-radius:100px; padding:5px 11px;
+  }
+  .ai-note .dot{width:6px; height:6px; border-radius:50%; background:var(--accent); flex:none}
+
+  .why{display:grid; gap:18px; grid-template-columns:1fr}
+  @media(min-width:760px){.why{grid-template-columns:repeat(3,1fr)}}
+  .why .b{border-top:2px solid var(--accent); padding-top:12px}
+  .why h3{font-family:"Space Grotesk",sans-serif; font-size:16px; margin:0 0 6px; font-weight:600}
+  .why p{margin:0; font-size:14px; color:var(--text-dim)}
+
+  .srcs{display:flex; flex-direction:column; gap:8px}
+  .srcs a{
+    font-family:"IBM Plex Mono",monospace; font-size:12.5px; text-decoration:none;
+    background:var(--panel); border:1px solid var(--line); border-radius:9px; padding:10px 13px;
+  }
+  .srcs a:hover{border-color:var(--accent)}
+
+  footer{margin-top:52px; padding-top:18px; border-top:1px solid var(--line);
+    font-size:12.5px; color:var(--text-faint)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow"><a href="/">&larr; Mapa global</a> &nbsp;&middot;&nbsp; Planetary Council &nbsp;&middot;&nbsp; Brasil</div>
+
+  <header>
+    <h1>O voto no Brasil influencia <span class="em">o mundo inteiro</span></h1>
+    <p class="stand">Em 4 de outubro o Brasil escolhe presidente, Câmara e Senado. Clima, Amazônia e política externa estão na mesa — e são assunto de todos os povos, não só dos brasileiros.</p>
+    <p class="stand-en">Brazil votes on 4 October for president, Chamber and Senate. Climate, the Amazon and foreign policy are on the ballot — and they belong to everyone, not only to Brazilians.</p>
+  </header>
+
+  <section>
+    <h2>A corrida</h2>
+    <div class="race">
+      <div class="count">
+        <span class="days" id="days">&mdash;</span>
+        <span class="lbl" id="daysLabel">dias para a votação</span>
+        <span class="date" id="date">4 de outubro de 2026</span>
+      </div>
+      <div class="card">
+        <table>
+          <thead><tr><th>Primeiro turno &middot; Datafolha</th><th class="n">%</th></tr></thead>
+          <tbody>
+            <tr class="lead"><td>Lula (PT)</td><td class="n">40</td></tr>
+            <tr><td>Flávio Bolsonaro (PL)</td><td class="n">36</td></tr>
+            <tr><td>Augusto Cury</td><td class="n">5</td></tr>
+            <tr><td>Ronaldo Caiado</td><td class="n">4</td></tr>
+            <tr><td>Renan Santos</td><td class="n">3</td></tr>
+          </tbody>
+        </table>
+        <div class="tie">
+          SEGUNDO TURNO SIMULADO &middot; Lula 47 &times; 45 Bolsonaro &mdash;
+          empate técnico dentro da margem de erro de 2 pontos.
+          Datafolha, 2.002 entrevistas, 22&ndash;23 set 2026.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Os cartazes</h2>
+
+    <figure>
+      <picture>
+        <source srcset="data/images/brazil-lula-bolsonaro.webp" type="image/webp" />
+        <img src="data/images/brazil-lula-bolsonaro.png" width="1254" height="1254" loading="lazy"
+             alt="Cartaz em dois painéis: Lula com a floresta amazônica nas mãos sob o lema 'Brasil potência climática'; Flávio Bolsonaro sob o lema 'Alinhamento com Trump'. Rodapé: o voto no Brasil influencia o mundo inteiro." />
+      </picture>
+      <figcaption>Duas rotas para o mesmo país: o Brasil como potência climática, ou alinhado a Washington. A eleição decide qual delas o mundo recebe.</figcaption>
+      <span class="ai-note"><span class="dot"></span>Imagem criada por inteligência artificial (OpenAI DALL&middot;E)</span>
+    </figure>
+
+    <figure>
+      <picture>
+        <source srcset="data/images/brazil-amazon-rain.webp" type="image/webp" />
+        <img src="data/images/brazil-amazon-rain.png" width="1254" height="1254" loading="lazy"
+             alt="Infográfico em três painéis: 1) a umidade vem do mar e vira chuva sobre a floresta; 2) as árvores devolvem água ao ar e a mesma água cai como chuva várias vezes; 3) o desmate enfraquece esse ciclo, e calor e fogo pioram a situação. Abaixo, um quadro sobre economia: floresta em pé protege a chuva e a economia." />
+      </picture>
+      <figcaption>A floresta ajuda a fazer a própria chuva. Os rios voadores da Amazônia irrigam a agricultura do Centro-Sul e da bacia do Prata — derrubar a floresta é derrubar a chuva que alimenta a economia.</figcaption>
+      <span class="ai-note"><span class="dot"></span>Imagem criada por inteligência artificial (OpenAI DALL&middot;E)</span>
+    </figure>
+  </section>
+
+  <section>
+    <h2>Por que o planeta acompanha</h2>
+    <div class="why">
+      <div class="b">
+        <h3>A chuva não respeita fronteiras</h3>
+        <p>A Amazônia recicla a própria chuva e exporta umidade para o continente. O que o Brasil decide sobre a floresta chega ao prato e à conta de luz de países que não votam nesta eleição.</p>
+      </div>
+      <div class="b">
+        <h3>Um ponto de virada, não uma curva</h3>
+        <p>Perdida a capacidade de reciclar água, partes da floresta viram vegetação de savana. Esse tipo de mudança não se desfaz no mandato seguinte — é por isso que uma eleição de quatro anos carrega consequências de séculos.</p>
+      </div>
+      <div class="b">
+        <h3>Empate técnico</h3>
+        <p>47 &times; 45 no segundo turno simulado. Uma eleição decidida dentro da margem de erro é uma eleição decidida por quem aparece — motivo pelo qual esta página existe.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Fontes</h2>
+    <div class="srcs">
+      <a href="https://www.tse.jus.br/" target="_blank" rel="noopener">Tribunal Superior Eleitoral — calendário e resultados oficiais &nearr;</a>
+      <a href="https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll" target="_blank" rel="noopener">Datafolha, 24 set 2026 — Lula 40 &times; 36 Bolsonaro &nearr;</a>
+      <a href="https://en.wikipedia.org/wiki/2026_Brazilian_general_election" target="_blank" rel="noopener">2026 Brazilian general election — Wikipedia &nearr;</a>
+      <a href="https://www.cia.gov/the-world-factbook/countries/brazil/" target="_blank" rel="noopener">CIA World Factbook — Brazil &nearr;</a>
+      <a href="/">Mapa global — situação de 202 países &rarr;</a>
+    </div>
+  </section>
+
+  <footer>
+    Planetary Council &middot; instrumento conceitual, curado à mão, com fontes abertas.
+    As imagens desta página foram criadas por inteligência artificial e estão identificadas como tal,
+    conforme a Resolução TSE nº 23.755/2026. Não é propaganda eleitoral registrada
+    e não representa candidatura, partido ou órgão público.
+  </footer>
+
+</div>
+
+<script>
+  /* Countdown reads the election date from the dataset so the page and the map
+     can never disagree; the hardcoded date is only a fallback if the fetch fails. */
+  (async function(){
+    let date = "2026-10-04";
+    try {
+      const d = await (await fetch("data/elections/BRA.json")).json();
+      if (d && d.next && d.next.date) date = d.next.date;
+      else if (d && d.last && d.last.date) date = d.last.date;
+    } catch (e) { console.warn("election data not loaded, using fallback date:", e); }
+
+    const today = new Date().toISOString().slice(0,10);
+    const days = Math.round((Date.parse(date) - Date.parse(today)) / 86400000);
+    const el = document.getElementById("days"),
+          lb = document.getElementById("daysLabel"),
+          dt = document.getElementById("date");
+
+    el.textContent = Math.abs(days);
+    lb.textContent = days > 1  ? "dias para a votação"
+                   : days === 1 ? "dia para a votação"
+                   : days === 0 ? "é hoje"
+                   : days === -1 ? "dia desde a votação"
+                   : "dias desde a votação";
+    if (days === 0) el.textContent = "HOJE";
+    dt.textContent = new Date(date + "T00:00:00Z").toLocaleDateString("pt-BR",
+      { day:"numeric", month:"long", year:"numeric", timeZone:"UTC" });
+  })();
+</script>
+</body>
+</html>
