@@ -716,6 +716,7 @@ function renderPanel(){
   if(e.event) links += `<a class="source-link" href="${eventUrl(e.event)}" target="_blank" rel="noopener">${e.event} <span class="arr">↗</span></a>`;
   if(e.link) links += `<a class="source-link" href="${e.link}" target="_blank" rel="noopener">${e.linkLabel||"More"} <span class="arr">↗</span></a>`;
   if(selected==="GBR") links += `<a class="source-link" href="uk.html">Explore the UK fractal <span class="arr">→</span></a>`;
+  if(selected==="GBR") links += `<a class="source-link" href="uk-record.html">On the record — UK MPs in their own words <span class="arr">→</span></a>`;
   if(selected==="BRA") links += `<a class="source-link" href="brazil.html">Brasil — o voto que o mundo observa <span class="arr">→</span></a>`;
 
   body.innerHTML = `

@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>On the Record &middot; United Kingdom</title>
+<meta name="description" content="What UK parliamentarians said and how they voted, quoted verbatim and linked to Hansard and the Commons Votes record. No scores, no verdicts." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    /* Same White + UN-blue system as the map (index.html). */
+    --ink:#eef4fc; --ink-2:#e2ecf8; --panel:#ffffff; --panel-2:#f5f9fe; --line:#cbdcf1;
+    --slate:#3f6fb0; --slate-dim:#d8e6f6;
+    --text:#10294f; --text-dim:#3f5b86; --text-faint:#8195b5;
+    --deep:#103d8c; --accent:#1f72c4; --bright:#2d7dd2;
+    --war:#d64545;
+    --radius:14px; --maxw:1000px;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--ink); color:var(--text);
+    font-family:"Inter",system-ui,sans-serif; line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:26px 16px 70px}
+  a{color:var(--accent)}
+  a:focus-visible,summary:focus-visible{outline:2px solid var(--accent); outline-offset:3px}
+
+  .eyebrow{
+    font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--text-faint); margin-bottom:18px;
+  }
+  .eyebrow a{text-decoration:none}
+  h1{
+    font-family:"Space Grotesk",sans-serif; font-weight:700;
+    font-size:clamp(30px,5.8vw,50px); line-height:1.06; letter-spacing:-.02em;
+    margin:0 0 14px; text-wrap:balance;
+  }
+  h1 .em{color:var(--accent)}
+  .stand{font-size:clamp(15px,2vw,17px); color:var(--text-dim); max-width:64ch; margin:0}
+  .rules{display:flex; flex-wrap:wrap; gap:8px; margin-top:16px}
+  .rules span{
+    font-family:"IBM Plex Mono",monospace; font-size:10.5px; letter-spacing:.08em; text-transform:uppercase;
+    color:var(--text-dim); background:var(--panel); border:1px solid var(--line); border-radius:100px; padding:5px 11px;
+  }
+
+  h2{
+    font-family:"Space Grotesk",sans-serif; font-size:13px; font-weight:600;
+    letter-spacing:.13em; text-transform:uppercase; color:var(--text-dim);
+    margin:0 0 15px; padding-bottom:9px; border-bottom:1px solid var(--line);
+  }
+  section{margin-top:44px}
+
+  /* one member */
+  .member{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:20px; margin-bottom:18px}
+  .who{display:flex; gap:16px; align-items:center; margin-bottom:16px}
+  .who img{width:72px; height:72px; border-radius:50%; object-fit:cover; flex:none;
+    background:var(--slate-dim); border:1px solid var(--line)}
+  .who h3{font-family:"Space Grotesk",sans-serif; font-size:22px; margin:0; line-height:1.15}
+  .who .meta{font-size:14px; color:var(--text-dim)}
+  .who .links{font-family:"IBM Plex Mono",monospace; font-size:11.5px; margin-top:3px}
+  .who .links a{text-decoration:none; margin-right:12px}
+
+  .timeline{list-style:none; margin:0; padding:0; border-left:2px solid var(--slate-dim)}
+  .timeline li{position:relative; padding:0 0 18px 18px}
+  .timeline li:last-child{padding-bottom:2px}
+  .timeline li::before{content:""; position:absolute; left:-6px; top:7px; width:10px; height:10px;
+    border-radius:50%; background:var(--panel); border:2px solid var(--accent)}
+  .timeline li.vote::before{background:var(--deep); border-color:var(--deep)}
+  .head{display:flex; flex-wrap:wrap; gap:6px 10px; align-items:baseline}
+  .date{font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--text-faint); font-variant-numeric:tabular-nums}
+  .kind{font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:.09em; text-transform:uppercase;
+    color:var(--deep); background:var(--slate-dim); border-radius:4px; padding:1px 7px}
+  .title{font-weight:600; font-size:15px; flex-basis:100%}
+  blockquote{margin:8px 0 0; padding:8px 13px; border-left:3px solid var(--accent);
+    background:var(--panel-2); border-radius:0 8px 8px 0; font-size:15px; color:var(--text)}
+  blockquote.reply{border-left-color:var(--slate); color:var(--text-dim); font-size:14px}
+  blockquote cite{display:block; font-style:normal; font-family:"IBM Plex Mono",monospace;
+    font-size:11px; color:var(--text-faint); margin-bottom:3px}
+  .note{font-size:13.5px; color:var(--text-dim); margin:7px 0 0; max-width:70ch}
+  .srcs{display:flex; flex-wrap:wrap; gap:6px; margin-top:8px}
+  .srcs a{font-family:"IBM Plex Mono",monospace; font-size:11.5px; text-decoration:none;
+    border:1px solid var(--line); border-radius:7px; padding:3px 9px; background:var(--panel)}
+  .srcs a:hover{border-color:var(--accent)}
+  .srcs a.press{color:var(--text-dim); border-style:dashed}
+  .srcs a b{font-weight:600; font-size:9.5px; letter-spacing:.08em; text-transform:uppercase; margin-right:5px; color:var(--text-faint)}
+
+  /* the division */
+  .division{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:20px}
+  .division .tally{display:flex; flex-wrap:wrap; gap:10px 28px; margin:4px 0 12px}
+  .division .tally b{font-family:"Space Grotesk",sans-serif; font-size:30px; color:var(--deep); font-variant-numeric:tabular-nums}
+  .division .tally span{display:block; font-family:"IBM Plex Mono",monospace; font-size:10.5px;
+    letter-spacing:.1em; text-transform:uppercase; color:var(--text-faint)}
+  .names{display:grid; gap:4px 18px; grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+    font-size:14px; margin:10px 0 0; padding:0; list-style:none}
+  .names li small{color:var(--text-faint)}
+  .names li.profiled{font-weight:600}
+  details{margin-top:14px}
+  summary{cursor:pointer; font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--accent)}
+  .small{font-size:13px; color:var(--text-dim)}
+
+  .status{color:var(--text-faint); font-size:14px}
+  footer{margin-top:52px; padding-top:18px; border-top:1px solid var(--line);
+    font-size:12.5px; color:var(--text-faint)}
+  footer p{margin:0 0 6px}
+  code{font-family:"IBM Plex Mono",monospace; font-size:.92em}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow"><a href="/#GBR">&larr; World map</a> &nbsp;&middot;&nbsp; Planetary Council &nbsp;&middot;&nbsp; United Kingdom</div>
+
+  <header>
+    <h1>On the record. <span class="em">In their own words.</span></h1>
+    <p class="stand">What UK parliamentarians said and how they voted, quoted word for word and linked to the official record. You read it and you decide.</p>
+    <div class="rules"><span>Primary sources first</span><span>Verbatim quotes</span><span>Press labelled as press</span><span>No scores, no verdicts</span></div>
+  </header>
+
+  <section>
+    <h2>Members</h2>
+    <div id="members"><p class="status">Loading the record&hellip;</p></div>
+  </section>
+
+  <section>
+    <h2>The vote</h2>
+    <div id="divisions"></div>
+  </section>
+
+  <footer>
+    <p>Sources: <a href="https://hansard.parliament.uk/">Hansard</a>, <a href="https://votes.parliament.uk/">Commons Votes</a>, <a href="https://members.parliament.uk/">UK Parliament members</a>, and members&rsquo; own published channels. Portraits: UK Parliament (CC BY 3.0).</p>
+    <p>Data: <code>data/record/GBR.json</code> (curated entries) and <code>data/record/divisions/</code> (vote lists pulled from the official API). Spotted an error? Every entry has its source one click away, so check it and tell us.</p>
+  </footer>
+
+</div>
+<script>
+const KIND = { vote:"Vote", hansard:"Hansard", statement:"Statement", foi:"FOI reply", "op-ed":"Own article", event:"Event" };
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const day = (iso) => { const [y,m,d] = iso.split("-").map(Number); return `${d} ${MONTHS[m-1]} ${y}`; };
+const portrait = (id) => `https://members-api.parliament.uk/api/Members/${id}/Thumbnail`;
+
+function sourcesHtml(sources){
+  return `<div class="srcs">${sources.map((s) =>
+    `<a class="${s.type === "press" ? "press" : ""}" href="${esc(s.url)}" target="_blank" rel="noopener"><b>${s.type === "press" ? "press" : "source"}</b>${esc(s.label)}</a>`
+  ).join("")}</div>`;
+}
+
+function recordHtml(r){
+  return `<li class="${esc(r.kind)}">
+    <div class="head"><span class="date">${day(r.date)}</span><span class="kind">${esc(KIND[r.kind] || r.kind)}</span>
+      <span class="title">${esc(r.title)}</span></div>
+    ${r.quote ? `<blockquote>&ldquo;${esc(r.quote)}&rdquo;</blockquote>` : ""}
+    ${r.reply ? `<blockquote class="reply"><cite>${esc(r.reply.who)}</cite>&ldquo;${esc(r.reply.quote)}&rdquo;</blockquote>` : ""}
+    ${r.note ? `<p class="note">${esc(r.note)}</p>` : ""}
+    ${sourcesHtml(r.sources)}
+  </li>`;
+}
+
+function memberHtml(m){
+  const records = [...m.records].sort((a, b) => a.date.localeCompare(b.date));
+  return `<article class="member" id="${esc(m.id)}">
+    <div class="who">
+      <img src="${portrait(m.parliament_id)}" alt="${esc(m.name)}" loading="lazy" width="72" height="72" />
+      <div>
+        <h3>${esc(m.name)}</h3>
+        <div class="meta">${esc(m.constituency)} &middot; ${esc(m.party)}</div>
+        <div class="links">
+          <a href="https://members.parliament.uk/member/${m.parliament_id}" target="_blank" rel="noopener">Parliament profile &rarr;</a>
+          ${m.background_url ? `<a href="${esc(m.background_url)}" target="_blank" rel="noopener">Background &rarr;</a>` : ""}
+        </div>
+      </div>
+    </div>
+    <ol class="timeline">${records.map(recordHtml).join("")}</ol>
+  </article>`;
+}
+
+function divisionHtml(d, profiled){
+  const name = (m) => `<li class="${profiled.has(m.id) ? "profiled" : ""}">${esc(m.name)} <small>${esc(m.party)}</small></li>`;
+  return `<div class="division">
+    <div class="small">${day(d.date)} &middot; House of Commons &middot; division ${d.number}</div>
+    <h3 style="font-family:'Space Grotesk',sans-serif;margin:4px 0 8px;font-size:19px">${esc(d.title)}</h3>
+    <p class="small" style="margin:0 0 6px">The order proscribed Palestine Action together with two other groups, in a single vote.</p>
+    <div class="tally"><div><b>${d.aye_count}</b><span>Ayes</span></div><div><b>${d.no_count}</b><span>Noes</span></div></div>
+    <div class="small">Voted No (${d.noes.length}):</div>
+    <ul class="names">${d.noes.map(name).join("")}</ul>
+    <details><summary>Voted Aye (${d.ayes.length} names published)</summary>
+      <ul class="names">${d.ayes.map(name).join("")}</ul>
+      <p class="small">Parliament&rsquo;s published name list has ${d.ayes.length} Ayes against an official count of ${d.aye_count}. Both are shown exactly as published.</p>
+    </details>
+    ${sourcesHtml([{ label: "Commons Votes", url: d.source_url, type: "primary" }])}
+  </div>`;
+}
+
+(async () => {
+  const membersEl = document.getElementById("members");
+  try {
+    const rec = await (await fetch("data/record/GBR.json")).json();
+    membersEl.innerHTML = rec.members.map(memberHtml).join("");
+    const profiled = new Set(rec.members.map((m) => m.parliament_id));
+    const divs = await Promise.all(rec.divisions.map(async (id) =>
+      (await fetch(`data/record/divisions/${id}.json`)).json()));
+    document.getElementById("divisions").innerHTML = divs.map((d) => divisionHtml(d, profiled)).join("");
+  } catch (e) {
+    console.error(e);
+    membersEl.innerHTML = `<p class="status">The record could not be loaded. The data lives in <code>data/record/GBR.json</code>.</p>`;
+  }
+})();
+</script>
+</body>
+</html>

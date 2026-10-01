@@ -1,0 +1,2492 @@
+{
+  "house": "Commons",
+  "division_id": 2078,
+  "number": 252,
+  "date": "2025-07-02",
+  "title": "Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2025",
+  "aye_count": 385,
+  "no_count": 26,
+  "source_url": "https://votes.parliament.uk/votes/commons/division/2078",
+  "api_url": "https://commonsvotes-api.parliament.uk/data/division/2078.json",
+  "retrieved": "2026-10-01",
+  "ayes": [
+    {
+      "id": 4820,
+      "name": "Abena Oppong-Asare",
+      "party": "Labour",
+      "constituency": "Erith and Thamesmead"
+    },
+    {
+      "id": 5168,
+      "name": "Adam Jogee",
+      "party": "Labour",
+      "constituency": "Newcastle-under-Lyme"
+    },
+    {
+      "id": 5044,
+      "name": "Adam Thompson",
+      "party": "Labour",
+      "constituency": "Erewash"
+    },
+    {
+      "id": 5288,
+      "name": "Al Pinkerton",
+      "party": "Liberal Democrat",
+      "constituency": "Surrey Heath"
+    },
+    {
+      "id": 529,
+      "name": "Alan Campbell",
+      "party": "Labour",
+      "constituency": "Tynemouth"
+    },
+    {
+      "id": 5185,
+      "name": "Alan Gemmell",
+      "party": "Labour",
+      "constituency": "Central Ayrshire"
+    },
+    {
+      "id": 4484,
+      "name": "Alan Mak",
+      "party": "Conservative",
+      "constituency": "Havant"
+    },
+    {
+      "id": 5080,
+      "name": "Alan Strickland",
+      "party": "Labour",
+      "constituency": "Newton Aycliffe and Spennymoor"
+    },
+    {
+      "id": 4439,
+      "name": "Alberto Costa",
+      "party": "Conservative",
+      "constituency": "South Leicestershire"
+    },
+    {
+      "id": 5238,
+      "name": "Alex Ballinger",
+      "party": "Labour",
+      "constituency": "Halesowen"
+    },
+    {
+      "id": 5175,
+      "name": "Alex Barros-Curtis",
+      "party": "Labour",
+      "constituency": "Cardiff West"
+    },
+    {
+      "id": 4849,
+      "name": "Alex Davies-Jones",
+      "party": "Labour",
+      "constituency": "Pontypridd"
+    },
+    {
+      "id": 5141,
+      "name": "Alex Mayer",
+      "party": "Labour",
+      "constituency": "Dunstable and Leighton Buzzard"
+    },
+    {
+      "id": 5349,
+      "name": "Alex McIntyre",
+      "party": "Labour",
+      "constituency": "Gloucester"
+    },
+    {
+      "id": 4658,
+      "name": "Alex Sobel",
+      "party": "Labour",
+      "constituency": "Leeds Central and Headingley"
+    },
+    {
+      "id": 5133,
+      "name": "Alice Macdonald",
+      "party": "Labour",
+      "constituency": "Norwich North"
+    },
+    {
+      "id": 4805,
+      "name": "Alicia Kearns",
+      "party": "Conservative",
+      "constituency": "Rutland and Stamford"
+    },
+    {
+      "id": 5203,
+      "name": "Alison Griffiths",
+      "party": "Conservative",
+      "constituency": "Bognor Regis and Littlehampton"
+    },
+    {
+      "id": 5254,
+      "name": "Alison Hume",
+      "party": "Labour",
+      "constituency": "Scarborough and Whitby"
+    },
+    {
+      "id": 4083,
+      "name": "Alison McGovern",
+      "party": "Labour",
+      "constituency": "Birkenhead"
+    },
+    {
+      "id": 5093,
+      "name": "Alison Taylor",
+      "party": "Labour",
+      "constituency": "Paisley and Renfrewshire North"
+    },
+    {
+      "id": 5149,
+      "name": "Amanda Hack",
+      "party": "Labour",
+      "constituency": "North West Leicestershire"
+    },
+    {
+      "id": 5294,
+      "name": "Amanda Martin",
+      "party": "Labour",
+      "constituency": "Portsmouth North"
+    },
+    {
+      "id": 4601,
+      "name": "Andrew Bowie",
+      "party": "Conservative",
+      "constituency": "West Aberdeenshire and Kincardine"
+    },
+    {
+      "id": 5195,
+      "name": "Andrew Cooper",
+      "party": "Labour",
+      "constituency": "Mid Cheshire"
+    },
+    {
+      "id": 227,
+      "name": "Andrew George",
+      "party": "Liberal Democrat",
+      "constituency": "St Ives"
+    },
+    {
+      "id": 4874,
+      "name": "Andrew Griffith",
+      "party": "Conservative",
+      "constituency": "Arundel and South Downs"
+    },
+    {
+      "id": 1506,
+      "name": "Andrew Gwynne",
+      "party": "Independent",
+      "constituency": "Gorton and Denton"
+    },
+    {
+      "id": 5061,
+      "name": "Andrew Lewin",
+      "party": "Labour",
+      "constituency": "Welwyn Hatfield"
+    },
+    {
+      "id": 1466,
+      "name": "Andrew Murrison",
+      "party": "Conservative",
+      "constituency": "South West Wiltshire"
+    },
+    {
+      "id": 5046,
+      "name": "Andrew Ranger",
+      "party": "Labour",
+      "constituency": "Wrexham"
+    },
+    {
+      "id": 1447,
+      "name": "Andrew Rosindell",
+      "party": "Conservative",
+      "constituency": "Romford"
+    },
+    {
+      "id": 5072,
+      "name": "Andrew Snowden",
+      "party": "Conservative",
+      "constituency": "Fylde"
+    },
+    {
+      "id": 4979,
+      "name": "Andrew Western",
+      "party": "Labour",
+      "constituency": "Stretford and Urmston"
+    },
+    {
+      "id": 5134,
+      "name": "Andy MacNae",
+      "party": "Labour",
+      "constituency": "Rossendale and Darwen"
+    },
+    {
+      "id": 1516,
+      "name": "Andy Slaughter",
+      "party": "Labour",
+      "constituency": "Hammersmith and Chiswick"
+    },
+    {
+      "id": 491,
+      "name": "Angela Eagle",
+      "party": "Labour",
+      "constituency": "Wallasey"
+    },
+    {
+      "id": 5281,
+      "name": "Anna Dixon",
+      "party": "Labour",
+      "constituency": "Shipley"
+    },
+    {
+      "id": 5353,
+      "name": "Anna Gelderd",
+      "party": "Labour",
+      "constituency": "South East Cornwall"
+    },
+    {
+      "id": 4632,
+      "name": "Anna McMorrin",
+      "party": "Labour",
+      "constituency": "Cardiff North"
+    },
+    {
+      "id": 4449,
+      "name": "Anna Turley",
+      "party": "Labour",
+      "constituency": "Redcar"
+    },
+    {
+      "id": 4657,
+      "name": "Anneliese Dodds",
+      "party": "Labour",
+      "constituency": "Oxford East"
+    },
+    {
+      "id": 5048,
+      "name": "Antonia Bance",
+      "party": "Labour",
+      "constituency": "Tipton and Wednesbury"
+    },
+    {
+      "id": 5241,
+      "name": "Aphra Brandreth",
+      "party": "Conservative",
+      "constituency": "Chester South and Eddisbury"
+    },
+    {
+      "id": 4981,
+      "name": "Ashley Dalton",
+      "party": "Labour",
+      "constituency": "West Lancashire"
+    },
+    {
+      "id": 5101,
+      "name": "Ashley Fox",
+      "party": "Conservative",
+      "constituency": "Bridgwater"
+    },
+    {
+      "id": 5176,
+      "name": "Baggy Shanker",
+      "party": "Labour",
+      "constituency": "Derby South"
+    },
+    {
+      "id": 146,
+      "name": "Barry Gardiner",
+      "party": "Labour",
+      "constituency": "Brent West"
+    },
+    {
+      "id": 5307,
+      "name": "Beccy Cooper",
+      "party": "Labour",
+      "constituency": "Worthing West"
+    },
+    {
+      "id": 5181,
+      "name": "Becky Gittins",
+      "party": "Labour",
+      "constituency": "Clwyd East"
+    },
+    {
+      "id": 5344,
+      "name": "Ben Coleman",
+      "party": "Labour",
+      "constituency": "Chelsea and Fulham"
+    },
+    {
+      "id": 5205,
+      "name": "Ben Goldsborough",
+      "party": "Labour",
+      "constituency": "South Norfolk"
+    },
+    {
+      "id": 5089,
+      "name": "Ben Obese-Jecty",
+      "party": "Conservative",
+      "constituency": "Huntingdon"
+    },
+    {
+      "id": 4785,
+      "name": "Ben Spencer",
+      "party": "Conservative",
+      "constituency": "Runnymede and Weybridge"
+    },
+    {
+      "id": 40,
+      "name": "Bernard Jenkin",
+      "party": "Conservative",
+      "constituency": "Harwich and North Essex"
+    },
+    {
+      "id": 4061,
+      "name": "Bill Esterson",
+      "party": "Labour",
+      "constituency": "Sefton Central"
+    },
+    {
+      "id": 5100,
+      "name": "Blake Stephenson",
+      "party": "Conservative",
+      "constituency": "Mid Bedfordshire"
+    },
+    {
+      "id": 4005,
+      "name": "Bob Blackman",
+      "party": "Conservative",
+      "constituency": "Harrow East"
+    },
+    {
+      "id": 5186,
+      "name": "Bradley Thomas",
+      "party": "Conservative",
+      "constituency": "Bromsgrove"
+    },
+    {
+      "id": 4046,
+      "name": "Bridget Phillipson",
+      "party": "Labour",
+      "constituency": "Houghton and Sunderland South"
+    },
+    {
+      "id": 5193,
+      "name": "Callum Anderson",
+      "party": "Labour",
+      "constituency": "Buckingham and Bletchley"
+    },
+    {
+      "id": 5054,
+      "name": "Calvin Bailey",
+      "party": "Labour",
+      "constituency": "Leyton and Wanstead"
+    },
+    {
+      "id": 4008,
+      "name": "Caroline Dinenage",
+      "party": "Conservative",
+      "constituency": "Gosport"
+    },
+    {
+      "id": 4592,
+      "name": "Caroline Johnson",
+      "party": "Conservative",
+      "constituency": "Sleaford and North Hykeham"
+    },
+    {
+      "id": 5293,
+      "name": "Cat Eccles",
+      "party": "Labour",
+      "constituency": "Stourbridge"
+    },
+    {
+      "id": 4523,
+      "name": "Catherine West",
+      "party": "Labour",
+      "constituency": "Hornsey and Friern Barnet"
+    },
+    {
+      "id": 4799,
+      "name": "Charlotte Nichols",
+      "party": "Labour",
+      "constituency": "Warrington North"
+    },
+    {
+      "id": 4124,
+      "name": "Chi Onwurah",
+      "party": "Labour",
+      "constituency": "Newcastle upon Tyne Central and West"
+    },
+    {
+      "id": 5118,
+      "name": "Chris Curtis",
+      "party": "Labour",
+      "constituency": "Milton Keynes North"
+    },
+    {
+      "id": 4572,
+      "name": "Chris Elmore",
+      "party": "Labour",
+      "constituency": "Bridgend"
+    },
+    {
+      "id": 4040,
+      "name": "Chris Evans",
+      "party": "Labour",
+      "constituency": "Caerphilly"
+    },
+    {
+      "id": 5155,
+      "name": "Chris Kane",
+      "party": "Labour",
+      "constituency": "Stirling and Strathallan"
+    },
+    {
+      "id": 5116,
+      "name": "Chris McDonald",
+      "party": "Labour",
+      "constituency": "Stockton North"
+    },
+    {
+      "id": 5245,
+      "name": "Chris Murray",
+      "party": "Labour",
+      "constituency": "Edinburgh East and Musselburgh"
+    },
+    {
+      "id": 4503,
+      "name": "Chris Philp",
+      "party": "Conservative",
+      "constituency": "Croydon South"
+    },
+    {
+      "id": 5237,
+      "name": "Chris Vince",
+      "party": "Labour",
+      "constituency": "Harlow"
+    },
+    {
+      "id": 5276,
+      "name": "Chris Ward",
+      "party": "Labour",
+      "constituency": "Brighton Kemptown and Peacehaven"
+    },
+    {
+      "id": 5025,
+      "name": "Chris Webb",
+      "party": "Labour",
+      "constituency": "Blackpool South"
+    },
+    {
+      "id": 242,
+      "name": "Christopher Chope",
+      "party": "Conservative",
+      "constituency": "Christchurch"
+    },
+    {
+      "id": 4806,
+      "name": "Claire Coutinho",
+      "party": "Conservative",
+      "constituency": "East Surrey"
+    },
+    {
+      "id": 5306,
+      "name": "Claire Hazelgrove",
+      "party": "Labour",
+      "constituency": "Filton and Bradley Stoke"
+    },
+    {
+      "id": 394,
+      "name": "Clive Betts",
+      "party": "Labour",
+      "constituency": "Sheffield South East"
+    },
+    {
+      "id": 165,
+      "name": "Clive Efford",
+      "party": "Labour",
+      "constituency": "Eltham and Chislehurst"
+    },
+    {
+      "id": 5159,
+      "name": "Connor Rand",
+      "party": "Labour",
+      "constituency": "Altrincham and Sale West"
+    },
+    {
+      "id": 3969,
+      "name": "Damian Hinds",
+      "party": "Conservative",
+      "constituency": "East Hampshire"
+    },
+    {
+      "id": 5010,
+      "name": "Damien Egan",
+      "party": "Labour",
+      "constituency": "Bristol North East"
+    },
+    {
+      "id": 5172,
+      "name": "Dan Aldridge",
+      "party": "Labour",
+      "constituency": "Weston-super-Mare"
+    },
+    {
+      "id": 4243,
+      "name": "Dan Jarvis",
+      "party": "Labour",
+      "constituency": "Barnsley North"
+    },
+    {
+      "id": 221,
+      "name": "Dan Norris",
+      "party": "Independent",
+      "constituency": "North East Somerset and Hanham"
+    },
+    {
+      "id": 5282,
+      "name": "Dan Tomlinson",
+      "party": "Labour",
+      "constituency": "Chipping Barnet"
+    },
+    {
+      "id": 5184,
+      "name": "Daniel Francis",
+      "party": "Labour",
+      "constituency": "Bexleyheath and Crayford"
+    },
+    {
+      "id": 4382,
+      "name": "Daniel Zeichner",
+      "party": "Labour",
+      "constituency": "Cambridge"
+    },
+    {
+      "id": 5339,
+      "name": "Danny Beales",
+      "party": "Labour",
+      "constituency": "Uxbridge and South Ruislip"
+    },
+    {
+      "id": 4858,
+      "name": "Danny Kruger",
+      "party": "Conservative",
+      "constituency": "East Wiltshire"
+    },
+    {
+      "id": 5270,
+      "name": "Darren Paffey",
+      "party": "Labour",
+      "constituency": "Southampton Itchen"
+    },
+    {
+      "id": 5126,
+      "name": "Dave Robertson",
+      "party": "Labour",
+      "constituency": "Lichfield"
+    },
+    {
+      "id": 5092,
+      "name": "David Baines",
+      "party": "Labour",
+      "constituency": "St Helens North"
+    },
+    {
+      "id": 5106,
+      "name": "David Burton-Sampson",
+      "party": "Labour",
+      "constituency": "Southend West and Leigh"
+    },
+    {
+      "id": 1512,
+      "name": "David Mundell",
+      "party": "Conservative",
+      "constituency": "Dumfriesshire, Clydesdale and Tweeddale"
+    },
+    {
+      "id": 5360,
+      "name": "David Pinto-Duschinsky",
+      "party": "Labour",
+      "constituency": "Hendon"
+    },
+    {
+      "id": 5347,
+      "name": "David Reed",
+      "party": "Conservative",
+      "constituency": "Exmouth and Exeter East"
+    },
+    {
+      "id": 4872,
+      "name": "David Simmonds",
+      "party": "Conservative",
+      "constituency": "Ruislip, Northwood and Pinner"
+    },
+    {
+      "id": 5348,
+      "name": "David Taylor",
+      "party": "Labour",
+      "constituency": "Hemel Hempstead"
+    },
+    {
+      "id": 5151,
+      "name": "David Williams",
+      "party": "Labour",
+      "constituency": "Stoke-on-Trent North"
+    },
+    {
+      "id": 4212,
+      "name": "Debbie Abrahams",
+      "party": "Labour",
+      "constituency": "Oldham East and Saddleworth"
+    },
+    {
+      "id": 429,
+      "name": "Derek Twigg",
+      "party": "Labour",
+      "constituency": "Widnes and Halewood"
+    },
+    {
+      "id": 55,
+      "name": "Desmond Swayne",
+      "party": "Conservative",
+      "constituency": "New Forest West"
+    },
+    {
+      "id": 1533,
+      "name": "Diana Johnson",
+      "party": "Labour",
+      "constituency": "Kingston upon Hull North and Cottingham"
+    },
+    {
+      "id": 632,
+      "name": "Douglas Alexander",
+      "party": "Labour",
+      "constituency": "Lothian East"
+    },
+    {
+      "id": 5057,
+      "name": "Douglas McAllister",
+      "party": "Labour",
+      "constituency": "West Dunbartonshire"
+    },
+    {
+      "id": 4362,
+      "name": "Edward Argar",
+      "party": "Conservative",
+      "constituency": "Melton and Syston"
+    },
+    {
+      "id": 345,
+      "name": "Edward Leigh",
+      "party": "Conservative",
+      "constituency": "Gainsborough"
+    },
+    {
+      "id": 5206,
+      "name": "Elaine Stewart",
+      "party": "Labour",
+      "constituency": "Ayr, Carrick and Cumnock"
+    },
+    {
+      "id": 5139,
+      "name": "Emily Darlington",
+      "party": "Labour",
+      "constituency": "Milton Keynes Central"
+    },
+    {
+      "id": 5029,
+      "name": "Emma Foody",
+      "party": "Labour",
+      "constituency": "Cramlington and Killingworth"
+    },
+    {
+      "id": 4277,
+      "name": "Emma Lewell",
+      "party": "Labour",
+      "constituency": "South Shields"
+    },
+    {
+      "id": 4077,
+      "name": "Emma Reynolds",
+      "party": "Labour",
+      "constituency": "Wycombe"
+    },
+    {
+      "id": 4084,
+      "name": "Esther McVey",
+      "party": "Conservative",
+      "constituency": "Tatton"
+    },
+    {
+      "id": 5110,
+      "name": "Euan Stainbank",
+      "party": "Labour",
+      "constituency": "Falkirk"
+    },
+    {
+      "id": 4822,
+      "name": "Feryal Clark",
+      "party": "Labour",
+      "constituency": "Enfield North"
+    },
+    {
+      "id": 4788,
+      "name": "Fleur Anderson",
+      "party": "Labour",
+      "constituency": "Putney"
+    },
+    {
+      "id": 5183,
+      "name": "Frank McNally",
+      "party": "Labour",
+      "constituency": "Coatbridge and Bellshill"
+    },
+    {
+      "id": 4804,
+      "name": "Gagan Mohindra",
+      "party": "Conservative",
+      "constituency": "South West Hertfordshire"
+    },
+    {
+      "id": 4798,
+      "name": "Gareth Bacon",
+      "party": "Conservative",
+      "constituency": "Orpington"
+    },
+    {
+      "id": 4850,
+      "name": "Gareth Davies",
+      "party": "Conservative",
+      "constituency": "Grantham and Bourne"
+    },
+    {
+      "id": 4595,
+      "name": "Gareth Snell",
+      "party": "Labour",
+      "constituency": "Stoke-on-Trent Central"
+    },
+    {
+      "id": 177,
+      "name": "Gareth Thomas",
+      "party": "Labour",
+      "constituency": "Harrow West"
+    },
+    {
+      "id": 4360,
+      "name": "Gavin Robinson",
+      "party": "Democratic Unionist Party",
+      "constituency": "Belfast East"
+    },
+    {
+      "id": 249,
+      "name": "Geoffrey Clifton-Brown",
+      "party": "Conservative",
+      "constituency": "North Cotswolds"
+    },
+    {
+      "id": 4501,
+      "name": "Gerald Jones",
+      "party": "Labour",
+      "constituency": "Merthyr Tydfil and Aberdare"
+    },
+    {
+      "id": 4571,
+      "name": "Gill Furniss",
+      "party": "Labour",
+      "constituency": "Sheffield Brightside and Hillsborough"
+    },
+    {
+      "id": 5104,
+      "name": "Gill German",
+      "party": "Labour",
+      "constituency": "Clwyd North"
+    },
+    {
+      "id": 5189,
+      "name": "Gordon McKee",
+      "party": "Labour",
+      "constituency": "Glasgow South"
+    },
+    {
+      "id": 5275,
+      "name": "Graeme Downie",
+      "party": "Labour",
+      "constituency": "Dunfermline and Dollar"
+    },
+    {
+      "id": 449,
+      "name": "Graham Stringer",
+      "party": "Labour",
+      "constituency": "Blackley and Middleton South"
+    },
+    {
+      "id": 1482,
+      "name": "Graham Stuart",
+      "party": "Conservative",
+      "constituency": "Beverley and Holderness"
+    },
+    {
+      "id": 5167,
+      "name": "Gregor Poynton",
+      "party": "Labour",
+      "constituency": "Livingston"
+    },
+    {
+      "id": 5351,
+      "name": "Gregory Stafford",
+      "party": "Conservative",
+      "constituency": "Farnham and Bordon"
+    },
+    {
+      "id": 5059,
+      "name": "Gurinder Singh Josan",
+      "party": "Labour",
+      "constituency": "Smethwick"
+    },
+    {
+      "id": 5148,
+      "name": "Hamish Falconer",
+      "party": "Labour",
+      "constituency": "Lincoln"
+    },
+    {
+      "id": 5311,
+      "name": "Harriet Cross",
+      "party": "Conservative",
+      "constituency": "Gordon and Buchan"
+    },
+    {
+      "id": 4107,
+      "name": "Harriett Baldwin",
+      "party": "Conservative",
+      "constituency": "West Worcestershire"
+    },
+    {
+      "id": 4038,
+      "name": "Heidi Alexander",
+      "party": "Labour",
+      "constituency": "Swindon South"
+    },
+    {
+      "id": 4018,
+      "name": "Helen Grant",
+      "party": "Conservative",
+      "constituency": "Maidstone and Malling"
+    },
+    {
+      "id": 5192,
+      "name": "Helena Dollimore",
+      "party": "Labour",
+      "constituency": "Hastings and Rye"
+    },
+    {
+      "id": 5121,
+      "name": "Henry Tufnell",
+      "party": "Labour",
+      "constituency": "Mid and South Pembrokeshire"
+    },
+    {
+      "id": 413,
+      "name": "Hilary Benn",
+      "party": "Labour",
+      "constituency": "Leeds South"
+    },
+    {
+      "id": 152,
+      "name": "Iain Duncan Smith",
+      "party": "Conservative",
+      "constituency": "Chingford and Woodford Green"
+    },
+    {
+      "id": 3966,
+      "name": "Ian Murray",
+      "party": "Labour",
+      "constituency": "Edinburgh South"
+    },
+    {
+      "id": 5136,
+      "name": "Imogen Walker",
+      "party": "Labour",
+      "constituency": "Hamilton and Clyde Valley"
+    },
+    {
+      "id": 5145,
+      "name": "Irene Campbell",
+      "party": "Labour",
+      "constituency": "North Ayrshire and Arran"
+    },
+    {
+      "id": 5131,
+      "name": "Jack Abbott",
+      "party": "Labour",
+      "constituency": "Ipswich"
+    },
+    {
+      "id": 5340,
+      "name": "Jack Rankin",
+      "party": "Conservative",
+      "constituency": "Windsor"
+    },
+    {
+      "id": 5077,
+      "name": "Jacob Collier",
+      "party": "Labour",
+      "constituency": "Burton and Uttoxeter"
+    },
+    {
+      "id": 5236,
+      "name": "Jade Botterill",
+      "party": "Labour",
+      "constituency": "Ossett and Denby Dale"
+    },
+    {
+      "id": 5082,
+      "name": "Jake Richards",
+      "party": "Labour",
+      "constituency": "Rother Valley"
+    },
+    {
+      "id": 4519,
+      "name": "James Cartlidge",
+      "party": "Conservative",
+      "constituency": "South Suffolk"
+    },
+    {
+      "id": 4366,
+      "name": "James Cleverly",
+      "party": "Conservative",
+      "constituency": "Braintree"
+    },
+    {
+      "id": 4637,
+      "name": "James Frith",
+      "party": "Labour",
+      "constituency": "Bury North"
+    },
+    {
+      "id": 5047,
+      "name": "James Naish",
+      "party": "Labour",
+      "constituency": "Rushcliffe"
+    },
+    {
+      "id": 4787,
+      "name": "James Wild",
+      "party": "Conservative",
+      "constituency": "North West Norfolk"
+    },
+    {
+      "id": 4698,
+      "name": "Janet Daby",
+      "party": "Labour",
+      "constituency": "Lewisham East"
+    },
+    {
+      "id": 5056,
+      "name": "Jen Craft",
+      "party": "Labour",
+      "constituency": "Thurrock"
+    },
+    {
+      "id": 1572,
+      "name": "Jeremy Hunt",
+      "party": "Conservative",
+      "constituency": "Godalming and Ash"
+    },
+    {
+      "id": 1560,
+      "name": "Jeremy Wright",
+      "party": "Conservative",
+      "constituency": "Kenilworth and Southam"
+    },
+    {
+      "id": 4739,
+      "name": "Jerome Mayhew",
+      "party": "Conservative",
+      "constituency": "Broadland and Fakenham"
+    },
+    {
+      "id": 5156,
+      "name": "Jess Asato",
+      "party": "Labour",
+      "constituency": "Lowestoft"
+    },
+    {
+      "id": 4370,
+      "name": "Jess Phillips",
+      "party": "Labour",
+      "constituency": "Birmingham Yardley"
+    },
+    {
+      "id": 3991,
+      "name": "Jesse Norman",
+      "party": "Conservative",
+      "constituency": "Hereford and South Herefordshire"
+    },
+    {
+      "id": 1548,
+      "name": "Jessica Morden",
+      "party": "Labour",
+      "constituency": "Newport East"
+    },
+    {
+      "id": 5202,
+      "name": "Jessica Toale",
+      "party": "Labour",
+      "constituency": "Bournemouth West"
+    },
+    {
+      "id": 5356,
+      "name": "Jim Allister",
+      "party": "Traditional Unionist Voice",
+      "constituency": "North Antrim"
+    },
+    {
+      "id": 5223,
+      "name": "Jim Dickson",
+      "party": "Labour",
+      "constituency": "Dartford"
+    },
+    {
+      "id": 4131,
+      "name": "Jim Shannon",
+      "party": "Democratic Unionist Party",
+      "constituency": "Strangford"
+    },
+    {
+      "id": 4673,
+      "name": "Jo Platt",
+      "party": "Labour",
+      "constituency": "Leigh and Atherton"
+    },
+    {
+      "id": 5105,
+      "name": "Jo White",
+      "party": "Labour",
+      "constituency": "Bassetlaw"
+    },
+    {
+      "id": 5036,
+      "name": "Jodie Gosling",
+      "party": "Labour",
+      "constituency": "Nuneaton"
+    },
+    {
+      "id": 5081,
+      "name": "Joe Morris",
+      "party": "Labour",
+      "constituency": "Hexham"
+    },
+    {
+      "id": 5255,
+      "name": "Joe Robertson",
+      "party": "Conservative",
+      "constituency": "Isle of Wight East"
+    },
+    {
+      "id": 5358,
+      "name": "John Cooper",
+      "party": "Conservative",
+      "constituency": "Dumfries and Galloway"
+    },
+    {
+      "id": 350,
+      "name": "John Hayes",
+      "party": "Conservative",
+      "constituency": "South Holland and The Deepings"
+    },
+    {
+      "id": 5127,
+      "name": "John Slinger",
+      "party": "Labour",
+      "constituency": "Rugby"
+    },
+    {
+      "id": 5342,
+      "name": "John Whitby",
+      "party": "Labour",
+      "constituency": "Derbyshire Dales"
+    },
+    {
+      "id": 5115,
+      "name": "Jon Pearce",
+      "party": "Labour",
+      "constituency": "High Peak"
+    },
+    {
+      "id": 5256,
+      "name": "Jonathan Davies",
+      "party": "Labour",
+      "constituency": "Mid Derbyshire"
+    },
+    {
+      "id": 5264,
+      "name": "Jonathan Hinder",
+      "party": "Labour",
+      "constituency": "Pendle and Clitheroe"
+    },
+    {
+      "id": 4119,
+      "name": "Jonathan Reynolds",
+      "party": "Labour",
+      "constituency": "Stalybridge and Hyde"
+    },
+    {
+      "id": 5187,
+      "name": "Josh Dean",
+      "party": "Labour",
+      "constituency": "Hertford and Stortford"
+    },
+    {
+      "id": 5295,
+      "name": "Josh Fenton-Glynn",
+      "party": "Labour",
+      "constituency": "Calder Valley"
+    },
+    {
+      "id": 5033,
+      "name": "Josh MacAlister",
+      "party": "Labour",
+      "constituency": "Whitehaven and Workington"
+    },
+    {
+      "id": 5034,
+      "name": "Josh Newbury",
+      "party": "Labour",
+      "constituency": "Cannock Chase"
+    },
+    {
+      "id": 5060,
+      "name": "Josh Simons",
+      "party": "Labour",
+      "constituency": "Makerfield"
+    },
+    {
+      "id": 4118,
+      "name": "Julian Smith",
+      "party": "Conservative",
+      "constituency": "Skipton and Ripon"
+    },
+    {
+      "id": 5058,
+      "name": "Juliet Campbell",
+      "party": "Labour",
+      "constituency": "Broxtowe"
+    },
+    {
+      "id": 4418,
+      "name": "Justin Madders",
+      "party": "Labour",
+      "constituency": "Ellesmere Port and Bromborough"
+    },
+    {
+      "id": 5039,
+      "name": "Kanishka Narayan",
+      "party": "Labour",
+      "constituency": "Vale of Glamorgan"
+    },
+    {
+      "id": 4444,
+      "name": "Karin Smyth",
+      "party": "Labour",
+      "constituency": "Bristol South"
+    },
+    {
+      "id": 5224,
+      "name": "Kate Dearden",
+      "party": "Labour",
+      "constituency": "Halifax"
+    },
+    {
+      "id": 5285,
+      "name": "Katie Lam",
+      "party": "Conservative",
+      "constituency": "Weald of Kent"
+    },
+    {
+      "id": 5260,
+      "name": "Katie White",
+      "party": "Labour",
+      "constituency": "Leeds North West"
+    },
+    {
+      "id": 5309,
+      "name": "Katrina Murray",
+      "party": "Labour",
+      "constituency": "Cumbernauld and Kirkintilloch"
+    },
+    {
+      "id": 4993,
+      "name": "Keir Mather",
+      "party": "Labour",
+      "constituency": "Selby"
+    },
+    {
+      "id": 5200,
+      "name": "Kenneth Stevenson",
+      "party": "Labour",
+      "constituency": "Airdrie and Shotts"
+    },
+    {
+      "id": 5300,
+      "name": "Kevin McKenna",
+      "party": "Labour",
+      "constituency": "Sittingbourne and Sheppey"
+    },
+    {
+      "id": 4860,
+      "name": "Kieran Mullan",
+      "party": "Conservative",
+      "constituency": "Bexhill and Battle"
+    },
+    {
+      "id": 4923,
+      "name": "Kim Leadbeater",
+      "party": "Labour",
+      "constituency": "Spen Valley"
+    },
+    {
+      "id": 5095,
+      "name": "Kirith Entwistle",
+      "party": "Labour",
+      "constituency": "Bolton North East"
+    },
+    {
+      "id": 5179,
+      "name": "Kirsteen Sullivan",
+      "party": "Labour",
+      "constituency": "Bathgate and Linlithgow"
+    },
+    {
+      "id": 5114,
+      "name": "Kirsty McNeill",
+      "party": "Labour",
+      "constituency": "Midlothian"
+    },
+    {
+      "id": 5341,
+      "name": "Laura Kyrke-Smith",
+      "party": "Labour",
+      "constituency": "Aylesbury"
+    },
+    {
+      "id": 4780,
+      "name": "Laura Trott",
+      "party": "Conservative",
+      "constituency": "Sevenoaks"
+    },
+    {
+      "id": 5298,
+      "name": "Lauren Edwards",
+      "party": "Labour",
+      "constituency": "Rochester and Strood"
+    },
+    {
+      "id": 5269,
+      "name": "Lauren Sullivan",
+      "party": "Labour",
+      "constituency": "Gravesham"
+    },
+    {
+      "id": 5234,
+      "name": "Laurence Turner",
+      "party": "Labour",
+      "constituency": "Birmingham Northfield"
+    },
+    {
+      "id": 5233,
+      "name": "Lee Pitcher",
+      "party": "Labour",
+      "constituency": "Doncaster East and the Isle of Axholme"
+    },
+    {
+      "id": 5290,
+      "name": "Leigh Ingham",
+      "party": "Labour",
+      "constituency": "Stafford"
+    },
+    {
+      "id": 5028,
+      "name": "Lewis Atkinson",
+      "party": "Labour",
+      "constituency": "Sunderland Central"
+    },
+    {
+      "id": 5050,
+      "name": "Lewis Cocking",
+      "party": "Conservative",
+      "constituency": "Broxbourne"
+    },
+    {
+      "id": 1171,
+      "name": "Liam Byrne",
+      "party": "Labour",
+      "constituency": "Birmingham Hodge Hill and Solihull North"
+    },
+    {
+      "id": 5132,
+      "name": "Liam Conlon",
+      "party": "Labour",
+      "constituency": "Beckenham and Penge"
+    },
+    {
+      "id": 4029,
+      "name": "Lilian Greenwood",
+      "party": "Labour",
+      "constituency": "Nottingham South"
+    },
+    {
+      "id": 5043,
+      "name": "Lillian Jones",
+      "party": "Labour",
+      "constituency": "Kilmarnock and Loudoun"
+    },
+    {
+      "id": 5332,
+      "name": "Lincoln Jopp",
+      "party": "Conservative",
+      "constituency": "Spelthorne"
+    },
+    {
+      "id": 5107,
+      "name": "Linsey Farnsworth",
+      "party": "Labour",
+      "constituency": "Amber Valley"
+    },
+    {
+      "id": 4082,
+      "name": "Lisa Nandy",
+      "party": "Labour",
+      "constituency": "Wigan"
+    },
+    {
+      "id": 4618,
+      "name": "Liz Twist",
+      "party": "Labour",
+      "constituency": "Blaydon and Consett"
+    },
+    {
+      "id": 5225,
+      "name": "Lizzi Collinge",
+      "party": "Labour",
+      "constituency": "Morecambe and Lunesdale"
+    },
+    {
+      "id": 5217,
+      "name": "Lloyd Hatton",
+      "party": "Labour",
+      "constituency": "South Dorset"
+    },
+    {
+      "id": 5037,
+      "name": "Lola McEvoy",
+      "party": "Labour",
+      "constituency": "Darlington"
+    },
+    {
+      "id": 5232,
+      "name": "Lorraine Beavers",
+      "party": "Labour",
+      "constituency": "Blackpool North and Fleetwood"
+    },
+    {
+      "id": 4932,
+      "name": "Louie French",
+      "party": "Conservative",
+      "constituency": "Old Bexley and Sidcup"
+    },
+    {
+      "id": 5258,
+      "name": "Louise Jones",
+      "party": "Labour",
+      "constituency": "North East Derbyshire"
+    },
+    {
+      "id": 4263,
+      "name": "Lucy Powell",
+      "party": "Labour",
+      "constituency": "Manchester Central"
+    },
+    {
+      "id": 5112,
+      "name": "Luke Akehurst",
+      "party": "Labour",
+      "constituency": "North Durham"
+    },
+    {
+      "id": 5199,
+      "name": "Luke Charters",
+      "party": "Labour",
+      "constituency": "York Outer"
+    },
+    {
+      "id": 4781,
+      "name": "Luke Evans",
+      "party": "Conservative",
+      "constituency": "Hinckley and Bosworth"
+    },
+    {
+      "id": 5248,
+      "name": "Luke Murphy",
+      "party": "Labour",
+      "constituency": "Basingstoke"
+    },
+    {
+      "id": 5147,
+      "name": "Luke Myer",
+      "party": "Labour",
+      "constituency": "Middlesbrough South and East Cleveland"
+    },
+    {
+      "id": 4682,
+      "name": "Luke Pollard",
+      "party": "Labour",
+      "constituency": "Plymouth Sutton and Devonport"
+    },
+    {
+      "id": 5103,
+      "name": "Luke Taylor",
+      "party": "Liberal Democrat",
+      "constituency": "Sutton and Cheam"
+    },
+    {
+      "id": 5122,
+      "name": "Manuela Perteghella",
+      "party": "Liberal Democrat",
+      "constituency": "Stratford-on-Avon"
+    },
+    {
+      "id": 5272,
+      "name": "Margaret Mullane",
+      "party": "Labour",
+      "constituency": "Dagenham and Rainham"
+    },
+    {
+      "id": 483,
+      "name": "Maria Eagle",
+      "party": "Labour",
+      "constituency": "Liverpool Garston"
+    },
+    {
+      "id": 4457,
+      "name": "Marie Rimmer",
+      "party": "Labour",
+      "constituency": "St Helens South and Whiston"
+    },
+    {
+      "id": 5031,
+      "name": "Mark Ferguson",
+      "party": "Labour",
+      "constituency": "Gateshead Central and Whickham"
+    },
+    {
+      "id": 1444,
+      "name": "Mark Francois",
+      "party": "Conservative",
+      "constituency": "Rayleigh and Wickford"
+    },
+    {
+      "id": 473,
+      "name": "Mark Hendrick",
+      "party": "Labour",
+      "constituency": "Preston"
+    },
+    {
+      "id": 5166,
+      "name": "Mark Sewards",
+      "party": "Labour",
+      "constituency": "Leeds South West and Morley"
+    },
+    {
+      "id": 1383,
+      "name": "Mark Tami",
+      "party": "Labour",
+      "constituency": "Alyn and Deeside"
+    },
+    {
+      "id": 4676,
+      "name": "Marsha De Cordova",
+      "party": "Labour",
+      "constituency": "Battersea"
+    },
+    {
+      "id": 5129,
+      "name": "Martin McCluskey",
+      "party": "Labour",
+      "constituency": "Inverclyde and Renfrewshire West"
+    },
+    {
+      "id": 5251,
+      "name": "Martin Rhodes",
+      "party": "Labour",
+      "constituency": "Glasgow North"
+    },
+    {
+      "id": 3957,
+      "name": "Martin Vickers",
+      "party": "Conservative",
+      "constituency": "Brigg and Immingham"
+    },
+    {
+      "id": 1579,
+      "name": "Mary Creagh",
+      "party": "Labour",
+      "constituency": "Coventry East"
+    },
+    {
+      "id": 4126,
+      "name": "Mary Glindon",
+      "party": "Labour",
+      "constituency": "Newcastle upon Tyne East and Wallsend"
+    },
+    {
+      "id": 4654,
+      "name": "Matt Rodda",
+      "party": "Labour",
+      "constituency": "Reading Central"
+    },
+    {
+      "id": 5130,
+      "name": "Matt Turmaine",
+      "party": "Labour",
+      "constituency": "Watford"
+    },
+    {
+      "id": 4844,
+      "name": "Matt Vickers",
+      "party": "Conservative",
+      "constituency": "Stockton West"
+    },
+    {
+      "id": 4617,
+      "name": "Matt Western",
+      "party": "Labour",
+      "constituency": "Warwick and Leamington"
+    },
+    {
+      "id": 5162,
+      "name": "Matthew Patrick",
+      "party": "Labour",
+      "constituency": "Wirral West"
+    },
+    {
+      "id": 4520,
+      "name": "Matthew Pennycook",
+      "party": "Labour",
+      "constituency": "Greenwich and Woolwich"
+    },
+    {
+      "id": 5137,
+      "name": "Maureen Burke",
+      "party": "Labour",
+      "constituency": "Glasgow North East"
+    },
+    {
+      "id": 5228,
+      "name": "Maya Ellis",
+      "party": "Labour",
+      "constituency": "Ribble Valley"
+    },
+    {
+      "id": 3935,
+      "name": "Mel Stride",
+      "party": "Conservative",
+      "constituency": "Central Devon"
+    },
+    {
+      "id": 4464,
+      "name": "Melanie Onn",
+      "party": "Labour",
+      "constituency": "Great Grimsby and Cleethorpes"
+    },
+    {
+      "id": 5099,
+      "name": "Miatta Fahnbulleh",
+      "party": "Labour",
+      "constituency": "Peckham"
+    },
+    {
+      "id": 4998,
+      "name": "Michael Shanks",
+      "party": "Labour",
+      "constituency": "Rutherglen"
+    },
+    {
+      "id": 5242,
+      "name": "Michael Wheeler",
+      "party": "Labour",
+      "constituency": "Worsley and Eccles"
+    },
+    {
+      "id": 5049,
+      "name": "Michelle Scrogham",
+      "party": "Labour",
+      "constituency": "Barrow and Furness"
+    },
+    {
+      "id": 5226,
+      "name": "Michelle Welsh",
+      "party": "Labour",
+      "constituency": "Sherwood Forest"
+    },
+    {
+      "id": 5316,
+      "name": "Mike Reader",
+      "party": "Labour",
+      "constituency": "Northampton South"
+    },
+    {
+      "id": 5266,
+      "name": "Mike Tapp",
+      "party": "Labour",
+      "constituency": "Dover and Deal"
+    },
+    {
+      "id": 4384,
+      "name": "Mike Wood",
+      "party": "Conservative",
+      "constituency": "Kingswinford and South Staffordshire"
+    },
+    {
+      "id": 4513,
+      "name": "Mims Davies",
+      "party": "Conservative",
+      "constituency": "East Grinstead and Uckfield"
+    },
+    {
+      "id": 5053,
+      "name": "Natalie Fleet",
+      "party": "Labour",
+      "constituency": "Bolsover"
+    },
+    {
+      "id": 5119,
+      "name": "Natasha Irons",
+      "party": "Labour",
+      "constituency": "Croydon East"
+    },
+    {
+      "id": 4811,
+      "name": "Navendu Mishra",
+      "party": "Labour",
+      "constituency": "Stockport"
+    },
+    {
+      "id": 4368,
+      "name": "Neil Coyle",
+      "party": "Labour",
+      "constituency": "Bermondsey and Old Southwark"
+    },
+    {
+      "id": 4853,
+      "name": "Neil Hudson",
+      "party": "Conservative",
+      "constituency": "Epping Forest"
+    },
+    {
+      "id": 4679,
+      "name": "Neil O'Brien",
+      "party": "Conservative",
+      "constituency": "Harborough, Oadby and Wigston"
+    },
+    {
+      "id": 5197,
+      "name": "Neil Shastri-Hurst",
+      "party": "Conservative",
+      "constituency": "Solihull West and Shirley"
+    },
+    {
+      "id": 5180,
+      "name": "Nesil Caliskan",
+      "party": "Labour",
+      "constituency": "Barking"
+    },
+    {
+      "id": 4056,
+      "name": "Nicholas Dakin",
+      "party": "Labour",
+      "constituency": "Scunthorpe"
+    },
+    {
+      "id": 3928,
+      "name": "Nick Smith",
+      "party": "Labour",
+      "constituency": "Blaenau Gwent and Rhymney"
+    },
+    {
+      "id": 5091,
+      "name": "Nigel Farage",
+      "party": "Reform UK",
+      "constituency": "Clacton"
+    },
+    {
+      "id": 4407,
+      "name": "Nigel Huddleston",
+      "party": "Conservative",
+      "constituency": "Droitwich and Evesham"
+    },
+    {
+      "id": 5302,
+      "name": "Noah Law",
+      "party": "Labour",
+      "constituency": "St Austell and Newquay"
+    },
+    {
+      "id": 4441,
+      "name": "Oliver Dowden",
+      "party": "Conservative",
+      "constituency": "Hertsmere"
+    },
+    {
+      "id": 5135,
+      "name": "Oliver Ryan",
+      "party": "Independent",
+      "constituency": "Burnley"
+    },
+    {
+      "id": 5337,
+      "name": "Olivia Bailey",
+      "party": "Labour",
+      "constituency": "Reading West and Mid Berkshire"
+    },
+    {
+      "id": 5042,
+      "name": "Pam Cox",
+      "party": "Labour",
+      "constituency": "Colchester"
+    },
+    {
+      "id": 5190,
+      "name": "Patricia Ferguson",
+      "party": "Labour",
+      "constituency": "Glasgow West"
+    },
+    {
+      "id": 5303,
+      "name": "Patrick Spencer",
+      "party": "Independent",
+      "constituency": "Central Suffolk and North Ipswich"
+    },
+    {
+      "id": 5317,
+      "name": "Paul Davies",
+      "party": "Labour",
+      "constituency": "Colne Valley"
+    },
+    {
+      "id": 5074,
+      "name": "Paul Foster",
+      "party": "Labour",
+      "constituency": "South Ribble"
+    },
+    {
+      "id": 4803,
+      "name": "Paul Holmes",
+      "party": "Conservative",
+      "constituency": "Hamble Valley"
+    },
+    {
+      "id": 5071,
+      "name": "Paul Waugh",
+      "party": "Labour",
+      "constituency": "Rochdale"
+    },
+    {
+      "id": 4828,
+      "name": "Paula Barker",
+      "party": "Labour",
+      "constituency": "Liverpool Wavertree"
+    },
+    {
+      "id": 4938,
+      "name": "Paulette Hamilton",
+      "party": "Labour",
+      "constituency": "Birmingham Erdington"
+    },
+    {
+      "id": 5208,
+      "name": "Perran Moon",
+      "party": "Labour",
+      "constituency": "Camborne and Redruth"
+    },
+    {
+      "id": 5330,
+      "name": "Peter Bedford",
+      "party": "Conservative",
+      "constituency": "Mid Leicestershire"
+    },
+    {
+      "id": 4397,
+      "name": "Peter Dowd",
+      "party": "Labour",
+      "constituency": "Bootle"
+    },
+    {
+      "id": 5209,
+      "name": "Peter Fortune",
+      "party": "Conservative",
+      "constituency": "Bromley and Biggin Hill"
+    },
+    {
+      "id": 4505,
+      "name": "Peter Kyle",
+      "party": "Labour",
+      "constituency": "Hove and Portslade"
+    },
+    {
+      "id": 5345,
+      "name": "Peter Lamb",
+      "party": "Labour",
+      "constituency": "Crawley"
+    },
+    {
+      "id": 5163,
+      "name": "Peter Prinsley",
+      "party": "Labour",
+      "constituency": "Bury St Edmunds and Stowmarket"
+    },
+    {
+      "id": 5165,
+      "name": "Peter Swallow",
+      "party": "Labour",
+      "constituency": "Bracknell"
+    },
+    {
+      "id": 5128,
+      "name": "Phil Brickell",
+      "party": "Labour",
+      "constituency": "Bolton West"
+    },
+    {
+      "id": 5123,
+      "name": "Polly Billington",
+      "party": "Labour",
+      "constituency": "East Thanet"
+    },
+    {
+      "id": 4603,
+      "name": "Preet Kaur Gill",
+      "party": "Labour",
+      "constituency": "Birmingham Edgbaston"
+    },
+    {
+      "id": 4066,
+      "name": "Priti Patel",
+      "party": "Conservative",
+      "constituency": "Witham"
+    },
+    {
+      "id": 5257,
+      "name": "Rachel Blake",
+      "party": "Labour",
+      "constituency": "Cities of London and Westminster"
+    },
+    {
+      "id": 4873,
+      "name": "Rachel Hopkins",
+      "party": "Labour",
+      "constituency": "Luton South and South Bedfordshire"
+    },
+    {
+      "id": 5065,
+      "name": "Rachel Taylor",
+      "party": "Labour",
+      "constituency": "North Warwickshire and Bedworth"
+    },
+    {
+      "id": 3948,
+      "name": "Rebecca Harris",
+      "party": "Conservative",
+      "constituency": "Castle Point"
+    },
+    {
+      "id": 5297,
+      "name": "Rebecca Paul",
+      "party": "Conservative",
+      "constituency": "Reigate"
+    },
+    {
+      "id": 5301,
+      "name": "Rebecca Smith",
+      "party": "Conservative",
+      "constituency": "South West Devon"
+    },
+    {
+      "id": 5253,
+      "name": "Richard Baker",
+      "party": "Labour",
+      "constituency": "Glenrothes and Mid Fife"
+    },
+    {
+      "id": 3912,
+      "name": "Richard Fuller",
+      "party": "Conservative",
+      "constituency": "North Bedfordshire"
+    },
+    {
+      "id": 4813,
+      "name": "Richard Holden",
+      "party": "Conservative",
+      "constituency": "Basildon and Billericay"
+    },
+    {
+      "id": 5144,
+      "name": "Richard Quigley",
+      "party": "Labour",
+      "constituency": "Isle of Wight West"
+    },
+    {
+      "id": 5161,
+      "name": "Richard Tice",
+      "party": "Reform UK",
+      "constituency": "Boston and Skegness"
+    },
+    {
+      "id": 4320,
+      "name": "Robert Jenrick",
+      "party": "Conservative",
+      "constituency": "Newark"
+    },
+    {
+      "id": 5319,
+      "name": "Robin Swann",
+      "party": "Ulster Unionist Party",
+      "constituency": "South Antrim"
+    },
+    {
+      "id": 4573,
+      "name": "Rosena Allin-Khan",
+      "party": "Labour",
+      "constituency": "Tooting"
+    },
+    {
+      "id": 5331,
+      "name": "Rosie Wrighting",
+      "party": "Labour",
+      "constituency": "Kettering"
+    },
+    {
+      "id": 5158,
+      "name": "Rupert Lowe",
+      "party": "Independent",
+      "constituency": "Great Yarmouth"
+    },
+    {
+      "id": 4138,
+      "name": "Rushanara Ali",
+      "party": "Labour",
+      "constituency": "Bethnal Green and Stepney"
+    },
+    {
+      "id": 4716,
+      "name": "Ruth Jones",
+      "party": "Labour",
+      "constituency": "Newport West and Islwyn"
+    },
+    {
+      "id": 5178,
+      "name": "Sally Jameson",
+      "party": "Labour",
+      "constituency": "Doncaster Central"
+    },
+    {
+      "id": 5308,
+      "name": "Sam Carling",
+      "party": "Labour",
+      "constituency": "North West Cambridgeshire"
+    },
+    {
+      "id": 5108,
+      "name": "Sam Rushworth",
+      "party": "Labour",
+      "constituency": "Bishop Auckland"
+    },
+    {
+      "id": 4976,
+      "name": "Samantha Dixon",
+      "party": "Labour",
+      "constituency": "Chester North and Neston"
+    },
+    {
+      "id": 5150,
+      "name": "Samantha Niblett",
+      "party": "Labour",
+      "constituency": "South Derbyshire"
+    },
+    {
+      "id": 1593,
+      "name": "Sammy Wilson",
+      "party": "Democratic Unionist Party",
+      "constituency": "East Antrim"
+    },
+    {
+      "id": 5088,
+      "name": "Sarah Coombes",
+      "party": "Labour",
+      "constituency": "West Bromwich"
+    },
+    {
+      "id": 5001,
+      "name": "Sarah Edwards",
+      "party": "Labour",
+      "constituency": "Tamworth"
+    },
+    {
+      "id": 5154,
+      "name": "Sarah Hall",
+      "party": "Labour",
+      "constituency": "Warrington South"
+    },
+    {
+      "id": 4777,
+      "name": "Sarah Owen",
+      "party": "Labour",
+      "constituency": "Luton North"
+    },
+    {
+      "id": 5403,
+      "name": "Sarah Pochin",
+      "party": "Reform UK",
+      "constituency": "Runcorn and Helsby"
+    },
+    {
+      "id": 5324,
+      "name": "Sarah Russell",
+      "party": "Labour",
+      "constituency": "Congleton"
+    },
+    {
+      "id": 5204,
+      "name": "Sarah Sackman",
+      "party": "Labour",
+      "constituency": "Finchley and Golders Green"
+    },
+    {
+      "id": 5117,
+      "name": "Sarah Smith",
+      "party": "Labour",
+      "constituency": "Hyndburn"
+    },
+    {
+      "id": 5271,
+      "name": "Satvir Kaur",
+      "party": "Labour",
+      "constituency": "Southampton Test"
+    },
+    {
+      "id": 5212,
+      "name": "Scott Arthur",
+      "party": "Labour",
+      "constituency": "Edinburgh South West"
+    },
+    {
+      "id": 5328,
+      "name": "Sean Woodcock",
+      "party": "Labour",
+      "constituency": "Banbury"
+    },
+    {
+      "id": 5068,
+      "name": "Shivani Raja",
+      "party": "Conservative",
+      "constituency": "Leicester East"
+    },
+    {
+      "id": 193,
+      "name": "Siobhain McDonagh",
+      "party": "Labour",
+      "constituency": "Mitcham and Morden"
+    },
+    {
+      "id": 5247,
+      "name": "Sojan Joseph",
+      "party": "Labour",
+      "constituency": "Ashford"
+    },
+    {
+      "id": 5274,
+      "name": "Sonia Kumar",
+      "party": "Labour",
+      "constituency": "Dudley"
+    },
+    {
+      "id": 4088,
+      "name": "Stella Creasy",
+      "party": "Labour",
+      "constituency": "Walthamstow"
+    },
+    {
+      "id": 4607,
+      "name": "Stephanie Peacock",
+      "party": "Labour",
+      "constituency": "Barnsley South"
+    },
+    {
+      "id": 4264,
+      "name": "Stephen Doughty",
+      "party": "Labour",
+      "constituency": "Cardiff South and Penarth"
+    },
+    {
+      "id": 4359,
+      "name": "Stephen Kinnock",
+      "party": "Labour",
+      "constituency": "Aberafan Maesteg"
+    },
+    {
+      "id": 4653,
+      "name": "Stephen Morgan",
+      "party": "Labour",
+      "constituency": "Portsmouth South"
+    },
+    {
+      "id": 4095,
+      "name": "Steve Barclay",
+      "party": "Conservative",
+      "constituency": "North East Cambridgeshire"
+    },
+    {
+      "id": 5064,
+      "name": "Steve Race",
+      "party": "Labour",
+      "constituency": "Exeter"
+    },
+    {
+      "id": 5221,
+      "name": "Steve Witherden",
+      "party": "Labour",
+      "constituency": "Montgomeryshire and Glyndŵr"
+    },
+    {
+      "id": 5194,
+      "name": "Steve Yemm",
+      "party": "Labour",
+      "constituency": "Mansfield"
+    },
+    {
+      "id": 4742,
+      "name": "Stuart Anderson",
+      "party": "Conservative",
+      "constituency": "South Shropshire"
+    },
+    {
+      "id": 4032,
+      "name": "Stuart Andrew",
+      "party": "Conservative",
+      "constituency": "Daventry"
+    },
+    {
+      "id": 4779,
+      "name": "Taiwo Owatemi",
+      "party": "Labour",
+      "constituency": "Coventry North West"
+    },
+    {
+      "id": 4638,
+      "name": "Tanmanjeet Singh Dhesi",
+      "party": "Labour",
+      "constituency": "Slough"
+    },
+    {
+      "id": 5338,
+      "name": "Terry Jermy",
+      "party": "Labour",
+      "constituency": "South West Norfolk"
+    },
+    {
+      "id": 4089,
+      "name": "Tessa Munt",
+      "party": "Liberal Democrat",
+      "constituency": "Wells and Mendip Hills"
+    },
+    {
+      "id": 3952,
+      "name": "Toby Perkins",
+      "party": "Labour",
+      "constituency": "Chesterfield"
+    },
+    {
+      "id": 5087,
+      "name": "Tom Collins",
+      "party": "Labour",
+      "constituency": "Worcester"
+    },
+    {
+      "id": 5032,
+      "name": "Tom Gordon",
+      "party": "Liberal Democrat",
+      "constituency": "Harrogate and Knaresborough"
+    },
+    {
+      "id": 5222,
+      "name": "Tom Rutland",
+      "party": "Labour",
+      "constituency": "East Worthing and Shoreham"
+    },
+    {
+      "id": 4462,
+      "name": "Tom Tugendhat",
+      "party": "Conservative",
+      "constituency": "Tonbridge"
+    },
+    {
+      "id": 4623,
+      "name": "Tonia Antoniazzi",
+      "party": "Labour",
+      "constituency": "Gower"
+    },
+    {
+      "id": 5067,
+      "name": "Tony Vaughan",
+      "party": "Labour",
+      "constituency": "Folkestone and Hythe"
+    },
+    {
+      "id": 5246,
+      "name": "Torcuil Crichton",
+      "party": "Labour",
+      "constituency": "Na h-Eileanan an Iar"
+    },
+    {
+      "id": 5188,
+      "name": "Tracy Gilbert",
+      "party": "Labour",
+      "constituency": "Edinburgh North and Leith"
+    },
+    {
+      "id": 5220,
+      "name": "Tristan Osborne",
+      "party": "Labour",
+      "constituency": "Chatham and Aylesford"
+    },
+    {
+      "id": 4518,
+      "name": "Tulip Siddiq",
+      "party": "Labour",
+      "constituency": "Hampstead and Highgate"
+    },
+    {
+      "id": 4491,
+      "name": "Vicky Foxcroft",
+      "party": "Labour",
+      "constituency": "Lewisham North"
+    },
+    {
+      "id": 5230,
+      "name": "Warinder Juss",
+      "party": "Labour",
+      "constituency": "Wolverhampton West"
+    },
+    {
+      "id": 4358,
+      "name": "Wendy Morton",
+      "party": "Conservative",
+      "constituency": "Aldridge-Brownhills"
+    },
+    {
+      "id": 5035,
+      "name": "Will Stone",
+      "party": "Labour",
+      "constituency": "Swindon North"
+    },
+    {
+      "id": 5267,
+      "name": "Yuan Yang",
+      "party": "Labour",
+      "constituency": "Earley and Woodley"
+    },
+    {
+      "id": 420,
+      "name": "Yvette Cooper",
+      "party": "Labour",
+      "constituency": "Pontefract, Castleford and Knottingley"
+    }
+  ],
+  "noes": [
+    {
+      "id": 5231,
+      "name": "Adnan Hussain",
+      "party": "Independent",
+      "constituency": "Blackburn"
+    },
+    {
+      "id": 5320,
+      "name": "Adrian Ramsay",
+      "party": "Green Party",
+      "constituency": "Waveney Valley"
+    },
+    {
+      "id": 5288,
+      "name": "Al Pinkerton",
+      "party": "Liberal Democrat",
+      "constituency": "Surrey Heath"
+    },
+    {
+      "id": 227,
+      "name": "Andrew George",
+      "party": "Liberal Democrat",
+      "constituency": "St Ives"
+    },
+    {
+      "id": 4790,
+      "name": "Apsana Begum",
+      "party": "Independent",
+      "constituency": "Poplar and Limehouse"
+    },
+    {
+      "id": 5102,
+      "name": "Carla Denyer",
+      "party": "Green Party",
+      "constituency": "Bristol Central"
+    },
+    {
+      "id": 4500,
+      "name": "Clive Lewis",
+      "party": "Labour",
+      "constituency": "Norwich South"
+    },
+    {
+      "id": 4846,
+      "name": "Colum Eastwood",
+      "party": "Social Democratic & Labour Party",
+      "constituency": "Foyle"
+    },
+    {
+      "id": 172,
+      "name": "Diane Abbott",
+      "party": "Labour",
+      "constituency": "Hackney North and Stoke Newington"
+    },
+    {
+      "id": 5249,
+      "name": "Ellie Chowns",
+      "party": "Green Party",
+      "constituency": "North Herefordshire"
+    },
+    {
+      "id": 3973,
+      "name": "Grahame Morris",
+      "party": "Labour",
+      "constituency": "Easington"
+    },
+    {
+      "id": 4831,
+      "name": "Ian Byrne",
+      "party": "Labour",
+      "constituency": "Liverpool West Derby"
+    },
+    {
+      "id": 4394,
+      "name": "Imran Hussain",
+      "party": "Labour",
+      "constituency": "Bradford East"
+    },
+    {
+      "id": 185,
+      "name": "Jeremy Corbyn",
+      "party": "Independent",
+      "constituency": "Islington North"
+    },
+    {
+      "id": 178,
+      "name": "John McDonnell",
+      "party": "Independent",
+      "constituency": "Hayes and Harlington"
+    },
+    {
+      "id": 4824,
+      "name": "Kim Johnson",
+      "party": "Labour",
+      "constituency": "Liverpool Riverside"
+    },
+    {
+      "id": 5103,
+      "name": "Luke Taylor",
+      "party": "Liberal Democrat",
+      "constituency": "Sutton and Cheam"
+    },
+    {
+      "id": 5122,
+      "name": "Manuela Perteghella",
+      "party": "Liberal Democrat",
+      "constituency": "Stratford-on-Avon"
+    },
+    {
+      "id": 4869,
+      "name": "Nadia Whittome",
+      "party": "Labour",
+      "constituency": "Nottingham East"
+    },
+    {
+      "id": 4493,
+      "name": "Richard Burgon",
+      "party": "Labour",
+      "constituency": "Leeds East"
+    },
+    {
+      "id": 5120,
+      "name": "Shockat Adam",
+      "party": "Independent",
+      "constituency": "Leicester South"
+    },
+    {
+      "id": 5314,
+      "name": "Siân Berry",
+      "party": "Green Party",
+      "constituency": "Brighton Pavilion"
+    },
+    {
+      "id": 4747,
+      "name": "Tahir Ali",
+      "party": "Labour",
+      "constituency": "Birmingham Hall Green and Moseley"
+    },
+    {
+      "id": 4089,
+      "name": "Tessa Munt",
+      "party": "Liberal Democrat",
+      "constituency": "Wells and Mendip Hills"
+    },
+    {
+      "id": 5032,
+      "name": "Tom Gordon",
+      "party": "Liberal Democrat",
+      "constituency": "Harrogate and Knaresborough"
+    },
+    {
+      "id": 4786,
+      "name": "Zarah Sultana",
+      "party": "Independent",
+      "constituency": "Coventry South"
+    }
+  ],
+  "aye_tellers": [
+    {
+      "id": 4871,
+      "name": "Christian Wakeford",
+      "party": "Labour",
+      "constituency": "Bury South"
+    },
+    {
+      "id": 5011,
+      "name": "Gen Kitchen",
+      "party": "Labour",
+      "constituency": "Wellingborough and Rushden"
+    }
+  ],
+  "no_tellers": [
+    {
+      "id": 5357,
+      "name": "Ayoub Khan",
+      "party": "Independent",
+      "constituency": "Birmingham Perry Barr"
+    },
+    {
+      "id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "party": "Labour",
+      "constituency": "Clapham and Brixton Hill"
+    }
+  ]
+}

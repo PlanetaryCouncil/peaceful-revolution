@@ -1,0 +1,162 @@
+{
+  "iso": "GBR",
+  "country": "United Kingdom",
+  "updated": "2026-10-01",
+  "method": "Primary sources only: Hansard, the Commons Votes record, official responses, and members' own words in their own channels. Press coverage is linked as context and labelled as press. Quotes are verbatim. No scores, no verdicts.",
+  "divisions": ["2078"],
+  "members": [
+    {
+      "id": "UK-185",
+      "parliament_id": 185,
+      "name": "Jeremy Corbyn",
+      "constituency": "Islington North",
+      "party": "Your Party",
+      "background_url": "https://en.wikipedia.org/wiki/Jeremy_Corbyn",
+      "records": [
+        {
+          "date": "2025-07-02",
+          "kind": "vote",
+          "title": "Voted No on proscribing Palestine Action",
+          "division": "2078",
+          "sources": [
+            { "label": "Commons Votes, division 252", "url": "https://votes.parliament.uk/votes/commons/division/2078", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "kind": "hansard",
+          "title": "Commons debate: Prevention and Suppression of Terrorism",
+          "quote": "Surely we should be looking at the issue that Palestine Action is concerned about, as well as the supply of weapons from this country to Israel, which has made all that possible.",
+          "sources": [
+            { "label": "Hansard", "url": "https://hansard.parliament.uk/Commons/2025-07-02/debates/6C9338E8-E516-494A-81A2-B3FEF549DD48/PreventionAndSuppressionOfTerrorism#contribution-53AA2A1F-A362-48E0-9DF4-E2E5A60B1636", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "kind": "hansard",
+          "title": "Asked for separate votes on the three groups in the order",
+          "quote": "I and many others outside, I am sure, think it would be fair if we took individual votes on the three.",
+          "sources": [
+            { "label": "Hansard", "url": "https://hansard.parliament.uk/Commons/2025-07-02/debates/6C9338E8-E516-494A-81A2-B3FEF549DD48/PreventionAndSuppressionOfTerrorism#contribution-C8CCD603-9EEE-430B-A607-CB05ABFE1F06", "type": "primary" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UK-4786",
+      "parliament_id": 4786,
+      "name": "Zarah Sultana",
+      "constituency": "Coventry South",
+      "party": "Your Party",
+      "background_url": "https://en.wikipedia.org/wiki/Zarah_Sultana",
+      "records": [
+        {
+          "date": "2025-07-02",
+          "kind": "vote",
+          "title": "Voted No on proscribing Palestine Action",
+          "division": "2078",
+          "sources": [
+            { "label": "Commons Votes, division 252", "url": "https://votes.parliament.uk/votes/commons/division/2078", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "kind": "hansard",
+          "title": "Speech against the order. The official report ends mid-sentence",
+          "quote": "So I say this loudly and proudly on Wednesday 2 July 2025—",
+          "note": "This is the last line of her speech as printed in Hansard. She says she finished the sentence with “We are all Palestine Action” before the Chair intervened.",
+          "sources": [
+            { "label": "Hansard", "url": "https://hansard.parliament.uk/Commons/2025-07-02/debates/6C9338E8-E516-494A-81A2-B3FEF549DD48/PreventionAndSuppressionOfTerrorism#contribution-7D981FEE-AA64-4EB1-AEF7-5D4B47A69613", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2025-07-08",
+          "kind": "statement",
+          "title": "Says Parliament and Hansard removed the words from her speech",
+          "quote": "Parliament and Hansard have removed “We are all Palestine Action” from my speech on Wednesday 2 July 2025 — despite me saying it.",
+          "sources": [
+            { "label": "X, @zarahsultana", "url": "https://x.com/zarahsultana/status/1942583215132168450", "type": "primary" },
+            { "label": "Facebook, Zarah Sultana MP", "url": "https://www.facebook.com/ZarahSultanaMP/posts/parliament-and-hansard-have-removed-we-are-all-palestine-action-from-my-speech-o/1320205896333467/", "type": "primary" },
+            { "label": "The National", "url": "https://www.thenational.scot/news/25298395.mps-we-palestine-action-comment-edited-hansard/", "type": "press" }
+          ]
+        },
+        {
+          "date": "2025-07-16",
+          "kind": "hansard",
+          "title": "Point of order putting the words on the record; the Chair replies",
+          "quote": "In my speech on Wednesday 2 July 2025 during the debate on the prevention and suppression of terrorism, I said the words, “We are all Palestine Action.”",
+          "reply": { "who": "Nusrat Ghani, Deputy Speaker", "quote": "Hansard has its own editorial policy. If she wishes to have her words corrected, she needs to take that up directly with Hansard. That is not a responsibility of the Chair." },
+          "sources": [
+            { "label": "Hansard", "url": "https://hansard.parliament.uk/Commons/2025-07-16/debates/8E50D4EA-A779-4E7A-95BD-52104C0978DB/PointsOfOrder#contribution-51F15A5C-4EFD-488A-9D44-6F7143E36B1E", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2025-08-07",
+          "kind": "foi",
+          "title": "House of Commons explains the omission in a freedom-of-information reply",
+          "quote": "The remark was made after the Deputy Speaker had said ‘Order’, because of that limit. It is standard practice for the Hansard record to stop when the Chair intervenes to bring a speech to an end when the time limit has been reached.",
+          "sources": [
+            { "label": "House of Commons FOI reply, via WhatDoTheyKnow", "url": "https://www.whatdotheyknow.com/request/potential_redaction_of_the_hansa", "type": "primary" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "UK-4500",
+      "parliament_id": 4500,
+      "name": "Clive Lewis",
+      "constituency": "Norwich South",
+      "party": "Labour",
+      "background_url": "https://en.wikipedia.org/wiki/Clive_Lewis_(politician)",
+      "records": [
+        {
+          "date": "2025-07-02",
+          "kind": "vote",
+          "title": "Voted No on proscribing Palestine Action",
+          "division": "2078",
+          "sources": [
+            { "label": "Commons Votes, division 252", "url": "https://votes.parliament.uk/votes/commons/division/2078", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2025-07-02",
+          "kind": "hansard",
+          "title": "Commons debate: Prevention and Suppression of Terrorism",
+          "quote": "We do not have to agree with the behaviour or actions of Palestine Action to make the case today that this proscription is wrong.",
+          "sources": [
+            { "label": "Hansard", "url": "https://hansard.parliament.uk/Commons/2025-07-02/debates/6C9338E8-E516-494A-81A2-B3FEF549DD48/PreventionAndSuppressionOfTerrorism#contribution-056C96B6-8B55-46C2-B290-CF34DDACD485", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2026-02-10",
+          "kind": "hansard",
+          "title": "Commons: Ministry of Defence Palantir contracts",
+          "quote": "This deal with Palantir stinks.",
+          "sources": [
+            { "label": "Hansard", "url": "https://hansard.parliament.uk/Commons/2026-02-10/debates/FECED111-4FA8-4343-BFAF-18D6C13808D0/MinistryOfDefencePalantirContracts#contribution-79299758-B174-4012-A08A-592574491D56", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "kind": "op-ed",
+          "title": "Tom Watson’s move to Palantir is the latest sign of how far the rot has spread in UK politics",
+          "note": "His own article, written after Tom Watson became Palantir’s senior vice-president for the UK.",
+          "sources": [
+            { "label": "The Guardian, by Clive Lewis", "url": "https://www.theguardian.com/commentisfree/2026/sep/24/tom-watson-palantir-uk-politics", "type": "primary" }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "kind": "event",
+          "title": "Reads out Tom Watson’s letter to him at a Labour conference fringe event",
+          "quote": "That, to me, was an implicit threat.",
+          "reply": { "who": "Tom Watson, letter to Clive Lewis, as read out", "quote": "By my count, you’ve spoken about Palantir almost 130 times since 2020; around 50 in the past year alone." },
+          "sources": [
+            { "label": "Livestream, The Citizens fringe event", "url": "https://www.youtube.com/live/Nj3B4oAlSYo", "type": "primary" },
+            { "label": "The Nerve", "url": "https://www.thenerve.news/p/clive-lewis-tom-watson-palentir-letter-labour-conference-citizens-event", "type": "press" }
+          ]
+        }
+      ]
+    }
+  ]
+}
