@@ -160,6 +160,15 @@
   .pnl-status.improving .led{background:var(--gold-bright);box-shadow:0 0 8px var(--gold-bright)}
   .pnl-meta{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--text-dim);margin-top:11px;line-height:1.55}
   .pnl-meta b{color:var(--text)}
+  .pnl-protest{margin-top:13px;padding:9px 11px;border:1px solid var(--line);border-left:2px solid #1f72c4;
+    border-radius:8px;font-family:"IBM Plex Mono",monospace;font-size:11.5px;background:#fff}
+  .pnl-protest .pr-when{color:#1f72c4;font-weight:600;letter-spacing:.02em}
+  .pnl-protest .pr-theme{color:var(--text);display:block;margin-top:2px;font-family:"Inter",system-ui,sans-serif;font-size:13px}
+  .pnl-protest a,.pnl-protest .pr-src{display:block;margin-top:5px;font-size:10.5px;color:var(--text-faint);text-decoration:none}
+  .pnl-protest a{color:#1f72c4}
+  .chip.protest{border-style:dashed}
+  .chip.protest .led{background:#fff;box-shadow:inset 0 0 0 2px #1f72c4}
+  .legend i.ring{background:#fff;box-shadow:inset 0 0 0 2px #1f72c4}
   .pnl-election{margin-top:13px;padding:9px 11px;border:1px solid var(--line);border-left:2px solid var(--accent);
     border-radius:3px;background:var(--panel-2,transparent);font-family:"IBM Plex Mono",monospace;font-size:11.5px;line-height:1.5}
   .pnl-election .el-when{color:var(--accent);font-weight:600;letter-spacing:.02em}
@@ -185,7 +194,7 @@
   <header>
     <div class="eyebrow">Conceptual activation instrument · curated &amp; sourced · <a href="uk.html">UK fractal →</a> &nbsp;·&nbsp; <a href="brazil.html">Brasil →</a></div>
     <h1>Peaceful Revolution — <span class="em">Activation Threshold</span></h1>
-    <p class="sub">A curated situation map of the world — peaceful revolutions, coups, and wars. Dark blue marks any country with a situation, including where people have taken power <i>peacefully</i>; only peaceful revolutions count toward the 51% threshold that rewrites the Charter by those present. Wars are shown in red for context, deliberately not counted. Click any country for its status and a source to dig deeper.</p>
+    <p class="sub">A curated situation map of the world — peaceful revolutions, coups, and wars. Dark blue marks any country with a situation, including where people have taken power <i>peacefully</i>; only peaceful revolutions count toward the 51% threshold that rewrites the Charter by those present. Wars are shown in red for context, deliberately not counted. Ringed dots mark live protest movements — also shown, not counted. Click any country for its status and a source to dig deeper.</p>
   </header>
 
   <!-- DEVELOPING DISPATCH -->
@@ -219,6 +228,7 @@
   <div class="legend" aria-label="Map legend">
     <span><i style="background:#103d8c"></i> situation — revolution <em>(counted)</em>, developing, coup, improvement</span>
     <span><i style="background:#d64545"></i> war / armed conflict</span>
+    <span><i class="ring"></i> protest movement <em>(not counted)</em></span>
     <span><i class="dia" style="background:#103d8c"></i> non-UN polity</span>
     <span><i style="background:#eef4fc;border:1px solid #cbdcf1"></i> dormant</span>
   </div>
@@ -302,6 +312,34 @@ const IMPROVING = {
   SYR:{ year:2024, event:"Fall of the Assad regime", note:"post-Assad transition" },
   LBN:{ year:2024, note:"ceasefire & new government" },
 };
+
+/* Protest movements — mass, mostly youth-led mobilisation. An overlay, not a
+   status: a country can be a counted revolution AND still protesting. Shown,
+   never counted. iso -> {theme, since?, event? (Wikipedia title, "#Section" ok)}.
+   Compiled from Robert Muggah / SecDev, "A map of discontent" (2026), checked
+   against Wikipedia; US and Brazil have no Wikipedia article yet. */
+const PROTEST = {
+  FRA:{ theme:"Schools, costs, policing", since:2026, event:"2026 French student protests" },
+  BEL:{ theme:"Education reform", since:2026, event:"2026 European unrest#Belgium" },
+  DEU:{ theme:"Education and conscription", since:2026, event:"2026 European unrest#Germany" },
+  AUT:{ theme:"University budgets", since:2026, event:"2026 European unrest#Austria" },
+  ESP:{ theme:"Housing", since:2026, event:"2026 Spanish housing protests" },
+  PRT:{ theme:"Housing, rents", since:2026, event:"2026 Portuguese housing protests" },
+  ITA:{ theme:"Cost of living, war", since:2026, event:"2026 Italian unrest" },
+  GRC:{ theme:"Student housing", since:2026, event:"2026 European unrest#Greece" },
+  IRL:{ theme:"Cost of living, student fees", since:2026, event:"2026 European unrest#Ireland" },
+  ALB:{ theme:"Youth anti-corruption, anti-government", since:2026, event:"2026 Albanian student protests" },
+  SRB:{ theme:"Anti-corruption student movement", since:2024, event:"2024–present Serbian anti-corruption protests" },
+  MAR:{ theme:"Gen Z 212 — education, healthcare, public spending", since:2025, event:"2025 Moroccan Gen Z protests" },
+  KEN:{ theme:"Finance bill", since:2024, event:"Kenya Finance Bill protests" },
+  NPL:{ theme:"Gen Z protests", since:2025, event:"2025 Nepalese Gen Z protests" },
+  BGD:{ theme:"Student uprising", since:2024, event:"2024 Bangladesh quota reform movement" },
+  IND:{ theme:"Youth electoral protest (Election Commission)", since:2026, event:"2026 anti-CEC protests" },
+  IDN:{ theme:"Cuts and militarisation", since:2025, event:"2025–2026 Indonesian protests" },
+  USA:{ theme:"Campus governance and academic freedom" },
+  BRA:{ theme:"Education funding and cost of living" },
+};
+const PROTEST_SOURCE = "Robert Muggah / SecDev, \u201cA map of discontent\u201d (2026)";
 
 /* Optional specific-event links for revolutions (else falls back to country Wikipedia). */
 const REV_EVENT = {
@@ -421,7 +459,11 @@ function wikiUrl(e){
   const base = (e.wiki || e.name.replace(/\s*\(.*?\)\s*/g,"")).trim().replace(/ /g,"_");
   return "https://en.wikipedia.org/wiki/"+encodeURIComponent(base);
 }
-function eventUrl(title){ return "https://en.wikipedia.org/wiki/"+encodeURIComponent(title.trim().replace(/ /g,"_")); }
+function eventUrl(title){
+  const [page, section] = title.trim().split("#");
+  const enc = t => encodeURIComponent(t.trim().replace(/ /g,"_"));
+  return "https://en.wikipedia.org/wiki/" + enc(page) + (section ? "#" + enc(section) : "");
+}
 
 /* ============================================================
    MAP  (Plotly choropleth + marker overlays)
@@ -449,7 +491,7 @@ function hoverText(){
   return ISO.map(iso=>{
     const e=LOOKUP[iso];
     const yr = e.year ? "  ·  "+e.year : "";
-    return `<b>${e.name}</b>${yr}<br>${statusTag(e.status)}`;
+    return `<b>${e.name}</b>${yr}<br>${statusTag(e.status)}${PROTEST[iso] ? "<br>◯ protest movement" : ""}`;
   });
 }
 
@@ -460,6 +502,19 @@ function developingTrace(){
     lon:DEV_KEYS.map(k=>DEVELOPING[k].lon), lat:DEV_KEYS.map(k=>DEVELOPING[k].lat), _iso:DEV_KEYS,
     marker:{ size:13, color:"#103d8c", line:{color:"#ffffff", width:1.3}, opacity:0.95 },
     hovertext:DEV_KEYS.map(k=>`<b>${UN_MEMBERS[k]}</b> — developing · ${DEVELOPING[k].note}`),
+    hoverinfo:"text", showlegend:false,
+  };
+}
+const PROTEST_KEYS = Object.keys(PROTEST);
+function protestTrace(){
+  // White dot with a blue ring: readable on both the pale land and the dark-blue
+  // situation fill, and clearly not the solid "developing" marker or war red.
+  const pos = PROTEST_KEYS.map(k=>CENTROIDS[k]);
+  return {
+    type:"scattergeo", mode:"markers",
+    lat:pos.map(c=>c[0]), lon:pos.map(c=>c[1]), _iso:PROTEST_KEYS,
+    marker:{ size:7, color:"#ffffff", line:{color:"#1f72c4", width:1.8}, opacity:1 },
+    hovertext:PROTEST_KEYS.map(k=>`<b>${LOOKUP[k].name}</b> — protest movement<br>${PROTEST[k].theme}`),
     hoverinfo:"text", showlegend:false,
   };
 }
@@ -481,7 +536,7 @@ function drawMap(){
     hovertemplate:"%{text}<extra></extra>",
     colorscale:COLORSCALE, zmin:0, zmax:4, showscale:false,
     marker:{line:{color:"#ffffff", width:0.5}},
-  }, developingTrace(), nonUnTrace()];
+  }, protestTrace(), developingTrace(), nonUnTrace()];
   const layout={
     paper_bgcolor:"rgba(0,0,0,0)", plot_bgcolor:"rgba(0,0,0,0)",
     margin:{l:0,r:0,t:0,b:0},
@@ -504,7 +559,11 @@ function drawMap(){
       else if(p.data && p.data._key) select(p.data._key[p.pointIndex]);
     });
     const rm = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if(!rm){ let big=false; setInterval(()=>{ big=!big; Plotly.restyle("map", {"marker.size":[big?16:12]}, [1]); }, 1100); }
+    // Pulse only the developing marker. Find its trace by identity, not position:
+    // a hard-coded index silently started pulsing the protest layer once a trace
+    // was added in front of it.
+    const devIdx = data.findIndex(t => t._iso === DEV_KEYS);
+    if(!rm && devIdx >= 0){ let big=false; setInterval(()=>{ big=!big; Plotly.restyle("map", {"marker.size":[big?16:12]}, [devIdx]); }, 1100); }
   });
 }
 
@@ -609,6 +668,7 @@ function renderRoster(){
     Object.keys(WAR).forEach(k=>addChip(el,k,"chip war",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">war '${String(WAR[k].year).slice(2)}</span>`,"war / armed conflict"));
     Object.keys(COUP).forEach(k=>addChip(el,k,"chip coup",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">coup '${String(COUP[k].year).slice(2)}</span>`,"coup d'état"));
     Object.keys(SEEDED).forEach(k=>addChip(el,k,"chip",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">'${String(SEEDED[k]).slice(2)}</span>`,"peaceful revolution"));
+    PROTEST_KEYS.filter(k=>LOOKUP[k].status==="dormant").forEach(k=>addChip(el,k,"chip protest",`<span class="led"></span>${UN_MEMBERS[k]} <span class="yr">protest</span>`, PROTEST[k].theme));
     NONUN_KEYS.forEach(k=>addChip(el,k,"chip nonun",`<span class="led"></span>${NON_UN[k].name}`, NON_UN[k].note));
   }
   [...el.children].forEach(b=>{
@@ -686,6 +746,19 @@ function electionHtml(iso){
   </div>`;
 }
 
+function protestHtml(iso){
+  const p = PROTEST[iso];
+  if(!p) return "";
+  const src = p.event
+    ? `<a href="${eventUrl(p.event)}" target="_blank" rel="noopener">${esc(p.event.replace("#"," \u00b7 "))} &#8599;</a>`
+    : `<span class="pr-src">source: ${esc(PROTEST_SOURCE)}</span>`;
+  return `<div class="pnl-protest">
+    <span class="pr-when">PROTEST MOVEMENT${p.since ? ` &middot; since ${p.since}` : ""}</span>
+    <span class="pr-theme">${esc(p.theme)}</span>
+    ${src}
+  </div>`;
+}
+
 function renderPanel(){
   const body=document.getElementById("panelBody");
   if(!selected){ body.innerHTML=PLACEHOLDER; return; }
@@ -724,6 +797,7 @@ function renderPanel(){
     <h2 class="pnl-name">${e.name}</h2>
     <span class="pnl-status ${STATUS.cls}"><span class="led"></span>${STATUS.label}</span>
     <div class="pnl-meta">${meta}</div>
+    ${protestHtml(selected)}
     ${electionHtml(selected)}
     <div class="sources">
       <div class="sources-label">Source · dig deeper</div>

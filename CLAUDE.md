@@ -52,5 +52,10 @@ National elections and referendums worldwide, from Wikipedia's national electora
 
 **National only** — no by-elections, local or regional votes; a country with no line may simply have nothing scheduled inside the fetched years (the UK's next is 2029). Wikidata SPARQL and IFES ElectionGuide were both tried and rejected; `data/elections/README.md` records why, and the sibling-date parsing trap that silently dropped Brazil on the first pass.
 
+## Protest movements (`PROTEST` in `index.html`)
+An overlay, not a status: a country can be a counted revolution (Serbia) or developing (Albania) and still carry a protest marker. Shown as a white dot with a blue ring, never counted toward the 51%. Each entry has a theme, a start year and a Wikipedia `event` title — `"Page#Section"` works and `eventUrl()` keeps the anchor. Seeded 2026-10-20 from Robert Muggah / SecDev, "A map of discontent" (2026), checked against Wikipedia; the US and Brazil entries have no article yet and cite that map instead.
+
+The developing marker's pulse finds its trace by identity (`t._iso === DEV_KEYS`), not by index — a hard-coded `[1]` started pulsing the protest layer the moment a trace was inserted ahead of it.
+
 ## Layer feed (`data/layer/`)
 Machine-readable Planetary Council membership for third-party maps: `planetary-council.geojson` + `.json`, generated from the rosters in `index.html` by `node scripts/build-layer-feed.js` — rerun it whenever the rosters change. Served CORS-open (`*`) on GitHub Pages. Docs + WorldMonitor upstream-proposal draft: `LAYER-FEED.md`.
