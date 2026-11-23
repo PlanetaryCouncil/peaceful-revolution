@@ -66,6 +66,6 @@ not yet submitted.*
 >
 > Properties per point: `iso3`, `name`, `status` (member/candidate), `since`, `event`.
 > Happy to adapt the schema to your marker conventions, add `sebuf` typing, or maintain the
-> layer as a PR to `src/services/` if you'd take it. We already embed your `/embed` map on our
-> site (protests + conflicts), so the integration would be mutual.
+> layer as a PR to `src/services/` if you'd take it. We already link to World Monitor from every
+> country panel on our map, so the integration would be mutual.
 

@@ -57,5 +57,8 @@ An overlay, not a status: a country can be a counted revolution (Serbia) or deve
 
 The developing marker's pulse finds its trace by identity (`t._iso === DEV_KEYS`), not by index — a hard-coded `[1]` started pulsing the protest layer the moment a trace was inserted ahead of it.
 
+## One map only
+The World Monitor live map used to be embedded under ours as an iframe. It was removed on 2026-11-23 at the user's request ("one is enough, we can link to external sources"). Two maps on one page confused people. World Monitor is now an external link in each country panel. Don't add a second embedded map; link out instead.
+
 ## Layer feed (`data/layer/`)
 Machine-readable Planetary Council membership for third-party maps: `planetary-council.geojson` + `.json`, generated from the rosters in `index.html` by `node scripts/build-layer-feed.js` — rerun it whenever the rosters change. Served CORS-open (`*`) on GitHub Pages. Docs + WorldMonitor upstream-proposal draft: `LAYER-FEED.md`.
