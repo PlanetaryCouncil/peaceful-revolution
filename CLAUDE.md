@@ -29,13 +29,14 @@ Static server, no dependencies: launch config `static` (`python3 -m http.server 
 ## Deploy
 GitHub Pages — `CNAME` → `map.planetarycouncil.org`, `.nojekyll` present. Push to `main` to publish.
 
-## Design palette (decided 2026-06-30)
-**White + UN blue, "similar to UN".** Light surfaces, dark-navy text, UN-blue accent (`#1f72c4`).
-- Any country with a **situation** (peaceful revolution / developing / coup / recent improvement) → **dark blue** (`#103d8c`).
-- **War is the single semantic exception → red** (`#d64545`).
+## Design palette (decided 2026-06-30, green added 2026-11-24)
+**White + UN blue, "similar to UN", with green for people power.** Light surfaces, dark-navy text, UN-blue accent (`#1f72c4`).
+- **Peaceful revolution (counted) → green** (`#17803f`).
+- **Developing revolution and protest movements → light green** (`#8fd6a0` with a `#17803f` outline). Not counted.
+- **Coup and recent improvement → dark blue** (`#103d8c`).
+- **War → red** (`#d64545`).
 - Dormant countries blend into the land tone; ocean is light blue; country borders white.
-- Only **peaceful revolutions count** toward the 51% threshold; that distinction lives in the meter / chips / side panel, not in map hue.
-- Do not reintroduce the old green/yellow/orange/teal tier colours. Red is reserved for war only.
+- Green replaced dark blue for revolutions on 2026-11-24 at the user's request ("light green for ongoing / recent protests / revolutions while green are the successful revolutions"). Still do not reintroduce the old yellow/orange/teal tiers.
 
 Map colours are set in the JS `COLORSCALE` + the Plotly `geo` layout (land/ocean/lakes/country) and the marker traces; the CSS `:root` drives all chrome.
 
