@@ -35,6 +35,7 @@ GitHub Pages — `CNAME` → `map.planetarycouncil.org`, `.nojekyll` present. Pu
 - **Developing revolution and protest movements → light green** (`#8fd6a0` with a `#17803f` outline). Not counted.
 - **Coup and recent improvement → dark blue** (`#103d8c`).
 - **War → red** (`#d64545`).
+- **Peaceful revolution or developing revolution AND a 2025 war → green and red diagonal stripes.** War here means the curated `WAR` roster or an Uppsala 2025 war located in the country (`WAR_2025`); Iran and Mali on 2026-11-24. Plotly maps have no fill patterns, so `applyStripes()` sets an SVG pattern on those country shapes after every redraw (`plotly_afterplot`). The panel shows a second "War in 2025 · Uppsala data" pill for any country with an Uppsala war that is not already on the `WAR` roster.
 - Dormant countries blend into the land tone; ocean is light blue; country borders white.
 - Green replaced dark blue for revolutions on 2026-11-24 at the user's request ("light green for ongoing / recent protests / revolutions while green are the successful revolutions"). Still do not reintroduce the old yellow/orange/teal tiers.
 

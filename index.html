@@ -236,6 +236,7 @@
     <span><i style="background:#8fd6a0;box-shadow:inset 0 0 0 1.5px #17803f"></i> developing revolution / protest movement <em>(not counted yet)</em></span>
     <span><i style="background:#103d8c"></i> coup, recent improvement</span>
     <span><i style="background:#d64545"></i> war / armed conflict</span>
+    <span><i style="background:repeating-linear-gradient(45deg,#17803f 0 3px,#d64545 3px 6px)"></i> peaceful revolution <em>and</em> war in 2025</span>
     <span><i class="cring"></i> armed conflict in 2025 — circle size = deaths <em>(separate view, Uppsala data)</em></span>
     <span><i class="dia" style="background:#103d8c"></i> non-UN polity</span>
     <span><i style="background:#eef4fc;border:1px solid #cbdcf1"></i> dormant</span>
@@ -485,11 +486,13 @@ function statusTag(s){
        : s==="developing" ? "◆ developing"
        : "○ dormant";
 }
+let WAR_2025 = new Set();   // filled from the Uppsala file once it loads
 function hoverText(){
   return ISO.map(iso=>{
     const e=LOOKUP[iso];
     const yr = e.year ? "  ·  "+e.year : "";
-    return `<b>${e.name}</b>${yr}<br>${statusTag(e.status)}${PROTEST[iso] ? "<br>◯ protest movement" : ""}`;
+    const war2025 = e.status !== "war" && WAR_2025.has(iso) ? "<br>war in 2025 (Uppsala data)" : "";
+    return `<b>${e.name}</b>${yr}<br>${statusTag(e.status)}${war2025}${PROTEST[iso] ? "<br>◯ protest movement" : ""}`;
   });
 }
 
@@ -528,6 +531,39 @@ function nonUnTrace(){
 }
 
 let MAP_READY = Promise.resolve();
+/* Revolution AND war. The status model holds one status per country, so a
+   country can be a counted peaceful revolution while Uppsala records a war on its
+   soil in 2025 (Iran, Mali). Those are drawn with green and red stripes so neither
+   fact hides the other. Plotly has no fill patterns for maps, so after every
+   redraw the stripe pattern is applied to those country shapes directly. */
+function warIso(){
+  const w = new Set(Object.keys(WAR));
+  if(CONFLICTS) CONFLICTS.rows.forEach(r => { if(r.war) r.location_iso3.forEach(i => w.add(i)); });
+  return w;
+}
+function bothIso(){
+  const w = warIso();
+  return new Set(ISO.filter(i => (LOOKUP[i].status === "online" || LOOKUP[i].status === "developing") && w.has(i)));
+}
+function applyStripes(){
+  const gd = document.getElementById("map"); if(!gd) return;
+  const svg = gd.querySelector("svg.main-svg"); if(!svg) return;
+  if(!svg.querySelector("#rw-stripes")){
+    const NS = "http://www.w3.org/2000/svg";
+    let defs = svg.querySelector("defs"); if(!defs){ defs = document.createElementNS(NS,"defs"); svg.prepend(defs); }
+    const pat = document.createElementNS(NS,"pattern");
+    pat.setAttribute("id","rw-stripes"); pat.setAttribute("patternUnits","userSpaceOnUse");
+    pat.setAttribute("width","8"); pat.setAttribute("height","8"); pat.setAttribute("patternTransform","rotate(45)");
+    pat.innerHTML = '<rect width="4" height="8" fill="#17803f"/><rect x="4" width="4" height="8" fill="#d64545"/>';
+    defs.appendChild(pat);
+  }
+  const both = bothIso();
+  gd.querySelectorAll(".choroplethlocation").forEach(el => {
+    const d = el.__data__; const loc = d && (d.loc || (d.properties && d.properties.ct && d.id));
+    if(loc && both.has(loc)) el.style.fill = "url(#rw-stripes)";
+  });
+}
+
 function drawMap(){
   const data=[{
     type:"choropleth", locationmode:"ISO-3",
@@ -551,6 +587,7 @@ function drawMap(){
   };
   MAP_READY = Plotly.newPlot("map", data, layout, {scrollZoom:true, displayModeBar:false, responsive:true}).then(()=>{
     const gd=document.getElementById("map");
+    gd.on("plotly_afterplot", applyStripes); applyStripes();
     gd.on("plotly_click", ev=>{
       const p = ev.points && ev.points[0]; if(!p) return;
       if(p.location) select(p.location);
@@ -793,9 +830,11 @@ function setView(v){
 async function loadConflicts(){
   try { CONFLICTS = await(await fetch("data/conflicts/ucdp-2025.json")).json(); }
   catch(e){ console.warn("conflicts not loaded:", e); return; }
+  WAR_2025 = new Set(CONFLICTS.rows.filter(r => r.war).flatMap(r => r.location_iso3));
   await MAP_READY;   // drawMap() starts first; add the layer once the plot exists
+  Plotly.restyle("map", {text:[hoverText()]}, [0]);
   const t = conflictTrace(); t.visible = VIEW === "conflicts";
-  Plotly.addTraces("map", t);
+  Plotly.addTraces("map", t);   // triggers plotly_afterplot, which re-applies the stripes
   if(selected) renderPanel();
 }
 function conflictHtml(iso){
@@ -856,6 +895,7 @@ function renderPanel(){
     <div class="pnl-iso">${e.kind==="nonun"?"non-UN polity":selected}</div>
     <h2 class="pnl-name">${e.name}</h2>
     <span class="pnl-status ${STATUS.cls}"><span class="led"></span>${STATUS.label}</span>
+    ${e.status !== "war" && WAR_2025.has(selected) ? `<span class="pnl-status war"><span class="led"></span>WAR IN 2025 &middot; UPPSALA DATA</span>` : ""}
     <div class="pnl-meta">${meta}</div>
     ${VIEW === "conflicts" ? conflictHtml(selected) : protestHtml(selected)}
     ${electionHtml(selected)}
