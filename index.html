@@ -207,7 +207,7 @@
   <div class="dispatch" role="status">
     <span class="pulse" aria-hidden="true"></span>
     <span class="dlabel">LIVE · DEVELOPING</span>
-    <span class="dtext"><b>Albania</b> — the <a href="https://flamingorevolution.org/" target="_blank" rel="noopener">Flamingo Revolution</a> is unfolding. Marked in blue; counted only once it crosses the threshold.</span>
+    <span class="dtext"><b>Albania</b> — the <a href="https://flamingorevolution.org/" target="_blank" rel="noopener">Flamingo Revolution</a> is unfolding. Marked in light green; counted only once it crosses the threshold.</span>
   </div>
 
   <!-- THRESHOLD METER -->
@@ -275,7 +275,7 @@
 /* Online: a peaceful revolution / popular uprising has taken hold. iso -> year */
 const SEEDED = {
   LKA:2022, BGD:2024, NPL:2025, KEN:2024, IDN:2025, MDG:2025, TZA:2025,
-  MLI:2025, SRB:2024, GEO:2024, ROU:2025, IRN:2025, MOZ:2024, VEN:2024, ARM:2018,
+  MLI:2025, SRB:2024, GEO:2024, ROU:2025, MOZ:2024, VEN:2024, ARM:2018,
   SVK:2025, TUR:2025, MEX:2025, CHL:2019,
 };
 
@@ -299,6 +299,7 @@ const WAR = {
   UKR:{ year:2022, event:"Russian invasion of Ukraine" },
   SDN:{ year:2023, event:"Sudanese civil war (2023–present)" },
   COD:{ year:2022, event:"Kivu conflict" },
+  IRN:{ year:2025, event:"Iran–Israel war" },   // was wrongly counted as a 2025 peaceful revolution until 2026-11-24
 };
 
 /* Recent improvement — a fragile turn for the better (ceasefire, fall of a
@@ -336,6 +337,7 @@ const PROTEST = {
   ARG:{ theme:"Student protests against austerity", since:2026, event:"Gen Z protests#Ongoing" },
   USA:{ theme:"Campus governance and academic freedom" },
   BRA:{ theme:"Education funding and cost of living" },
+  IRN:{ theme:"Nationwide uprising crushed in January 2026; exact death toll unknown, estimates from 3,117 (government) to 36,500+", since:2025, event:"2025–2026 Iranian protests" },
 };
 const PROTEST_SOURCE = "Robert Muggah / SecDev, \u201cA map of discontent\u201d (2026)";
 
