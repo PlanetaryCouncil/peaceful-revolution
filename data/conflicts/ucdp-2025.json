@@ -1,0 +1,4181 @@
+{
+ "source": "Uppsala Conflict Data Program, Uppsala University, datasets version 26.1, year 2025: Dyadic + Battle-Related Deaths (dyadic), Non-State Conflict, One-sided Violence. https://ucdp.uu.se/downloads/ Licence CC BY 4.0. Full names from the UCDP Actor dataset 26.1.",
+ "year": 2025,
+ "retrieved": "2026-11-24",
+ "notes": "One row per fighting pair (dyad). location_iso3 is where the fighting took place; states_involved_iso3 lists every government named on either side, including allies with troops in the fight. 'Government of Yemen (North Yemen)' is the Sanaa authority (Ansar Allah); the Aden government is 'Forces of the Presidential Leadership Council'.",
+ "totals": {
+  "state_conflicts": 65,
+  "interstate_conflicts": 8,
+  "wars": 13,
+  "nonstate_conflicts": 75,
+  "deaths_best": 244579
+ },
+ "rows": [
+  {
+   "type": "State vs state",
+   "side_a": "Government of Russia (Soviet Union)",
+   "side_a_allies": "Government of North Korea",
+   "side_b": "Government of Ukraine",
+   "side_b_allies": "",
+   "location": "Russia (Soviet Union), Ukraine",
+   "location_iso3": [
+    "RUS",
+    "UKR"
+   ],
+   "states_involved_iso3": [
+    "PRK",
+    "RUS",
+    "UKR"
+   ],
+   "deaths_best": 94741,
+   "deaths_low": 87321,
+   "deaths_high": 140889,
+   "war": true,
+   "conflict_id": 13243,
+   "dyad_id": 14117
+  },
+  {
+   "type": "State vs state",
+   "side_a": "Government of Iran",
+   "side_a_allies": "",
+   "side_b": "Government of Israel",
+   "side_b_allies": "Government of United States of America",
+   "location": "Iran, Israel",
+   "location_iso3": [
+    "IRN",
+    "ISR"
+   ],
+   "states_involved_iso3": [
+    "IRN",
+    "ISR",
+    "USA"
+   ],
+   "deaths_best": 1222,
+   "deaths_low": 1094,
+   "deaths_high": 1224,
+   "war": true,
+   "conflict_id": 14609,
+   "dyad_id": 15633
+  },
+  {
+   "type": "State vs state",
+   "side_a": "Government of United Kingdom, Government of United States of America",
+   "side_a_allies": "Government of Australia, Government of Bahrain, Government of Canada, Government of Netherlands, Government of New Zealand, Government of Norway, Government of Singapore, Government of Sri Lanka",
+   "side_b": "Government of Yemen (North Yemen)",
+   "side_b_allies": "",
+   "location": "United Kingdom, United States of America, Yemen (North Yemen)",
+   "location_iso3": [
+    "GBR",
+    "USA",
+    "YEM"
+   ],
+   "states_involved_iso3": [
+    "AUS",
+    "BHR",
+    "CAN",
+    "GBR",
+    "LKA",
+    "NLD",
+    "NOR",
+    "NZL",
+    "SGP",
+    "USA",
+    "YEM"
+   ],
+   "deaths_best": 781,
+   "deaths_low": 337,
+   "deaths_high": 1044,
+   "war": false,
+   "conflict_id": 16099,
+   "dyad_id": 17738
+  },
+  {
+   "type": "State vs state",
+   "side_a": "Government of Cambodia (Kampuchea)",
+   "side_a_allies": "",
+   "side_b": "Government of Thailand",
+   "side_b_allies": "",
+   "location": "Cambodia (Kampuchea), Thailand",
+   "location_iso3": [
+    "KHM",
+    "THA"
+   ],
+   "states_involved_iso3": [
+    "KHM",
+    "THA"
+   ],
+   "deaths_best": 252,
+   "deaths_low": 249,
+   "deaths_high": 442,
+   "war": false,
+   "conflict_id": 294,
+   "dyad_id": 634
+  },
+  {
+   "type": "State vs state",
+   "side_a": "Government of Afghanistan",
+   "side_a_allies": "",
+   "side_b": "Government of Pakistan",
+   "side_b_allies": "",
+   "location": "Afghanistan, Pakistan",
+   "location_iso3": [
+    "AFG",
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "AFG",
+    "PAK"
+   ],
+   "deaths_best": 178,
+   "deaths_low": 86,
+   "deaths_high": 426,
+   "war": false,
+   "conflict_id": 11639,
+   "dyad_id": 12291
+  },
+  {
+   "type": "State vs state",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Government of Yemen (North Yemen)",
+   "side_b_allies": "",
+   "location": "Israel, Yemen (North Yemen)",
+   "location_iso3": [
+    "ISR",
+    "YEM"
+   ],
+   "states_involved_iso3": [
+    "ISR",
+    "YEM"
+   ],
+   "deaths_best": 164,
+   "deaths_low": 94,
+   "deaths_high": 197,
+   "war": false,
+   "conflict_id": 16470,
+   "dyad_id": 18195
+  },
+  {
+   "type": "State vs state",
+   "side_a": "Government of India",
+   "side_a_allies": "",
+   "side_b": "Government of Pakistan",
+   "side_b_allies": "",
+   "location": "India, Pakistan",
+   "location_iso3": [
+    "IND",
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "IND",
+    "PAK"
+   ],
+   "deaths_best": 67,
+   "deaths_low": 64,
+   "deaths_high": 94,
+   "war": false,
+   "conflict_id": 218,
+   "dyad_id": 422
+  },
+  {
+   "type": "State vs state",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Government of Syria",
+   "side_b_allies": "",
+   "location": "Israel, Syria",
+   "location_iso3": [
+    "ISR",
+    "SYR"
+   ],
+   "states_involved_iso3": [
+    "ISR",
+    "SYR"
+   ],
+   "deaths_best": 35,
+   "deaths_low": 35,
+   "deaths_high": 35,
+   "war": false,
+   "conflict_id": 302,
+   "dyad_id": 649
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of DR Congo (Zaire)",
+   "side_a_allies": "Government of Burundi, Government of Indonesia, Government of Kenya, Government of Malawi, Government of Nepal, Government of South Africa, Government of Tanzania",
+   "side_b": "Congo River Alliance (AFC)",
+   "side_b_allies": "Government of Rwanda",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [
+    "BDI",
+    "COD",
+    "IDN",
+    "KEN",
+    "MWI",
+    "NPL",
+    "RWA",
+    "TZA",
+    "ZAF"
+   ],
+   "deaths_best": 4253,
+   "deaths_low": 4086,
+   "deaths_high": 21116,
+   "war": true,
+   "conflict_id": 283,
+   "dyad_id": 17740
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Somalia",
+   "side_a_allies": "Government of Djibouti, Government of Egypt, Government of Ethiopia, Government of Ghana, Government of Kenya, Government of Nigeria, Government of Sierra Leone, Government of Uganda, Government of United States of America, Government of Zambia",
+   "side_b": "Al-Shabaab",
+   "side_b_allies": "",
+   "location": "Somalia",
+   "location_iso3": [
+    "SOM"
+   ],
+   "states_involved_iso3": [
+    "DJI",
+    "EGY",
+    "ETH",
+    "GHA",
+    "KEN",
+    "NGA",
+    "SLE",
+    "SOM",
+    "UGA",
+    "USA",
+    "ZMB"
+   ],
+   "deaths_best": 2989,
+   "deaths_low": 2963,
+   "deaths_high": 3567,
+   "war": true,
+   "conflict_id": 337,
+   "dyad_id": 750
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Burkina Faso",
+   "side_a_allies": "Government of Niger",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Burkina Faso",
+   "location_iso3": [
+    "BFA"
+   ],
+   "states_involved_iso3": [
+    "BFA",
+    "NER"
+   ],
+   "deaths_best": 2939,
+   "deaths_low": 2870,
+   "deaths_high": 4367,
+   "war": true,
+   "conflict_id": 360,
+   "dyad_id": 15175
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Nigeria",
+   "side_a_allies": "Government of Cameroon, Government of Niger, Government of United States of America",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [
+    "CMR",
+    "NER",
+    "NGA",
+    "USA"
+   ],
+   "deaths_best": 1662,
+   "deaths_low": 1489,
+   "deaths_high": 1863,
+   "war": true,
+   "conflict_id": 13641,
+   "dyad_id": 14669
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Haiti",
+   "side_a_allies": "Government of Bahamas, Government of Belize, Government of El Salvador, Government of Guatemala, Government of Jamaica, Government of Kenya",
+   "side_b": "Viv Ansanm",
+   "side_b_allies": "",
+   "location": "Haiti",
+   "location_iso3": [
+    "HTI"
+   ],
+   "states_involved_iso3": [
+    "BHS",
+    "BLZ",
+    "GTM",
+    "HTI",
+    "JAM",
+    "KEN",
+    "SLV"
+   ],
+   "deaths_best": 1211,
+   "deaths_low": 1113,
+   "deaths_high": 1336,
+   "war": true,
+   "conflict_id": 381,
+   "dyad_id": 17970
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Mali",
+   "side_a_allies": "Government of Russia (Soviet Union)",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Mali",
+   "location_iso3": [
+    "MLI"
+   ],
+   "states_involved_iso3": [
+    "MLI",
+    "RUS"
+   ],
+   "deaths_best": 1086,
+   "deaths_low": 1043,
+   "deaths_high": 1455,
+   "war": true,
+   "conflict_id": 11347,
+   "dyad_id": 15108
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Niger",
+   "side_a_allies": "Government of Burkina Faso, Government of Mali, Government of Nigeria",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Niger",
+   "location_iso3": [
+    "NER"
+   ],
+   "states_involved_iso3": [
+    "BFA",
+    "MLI",
+    "NER",
+    "NGA"
+   ],
+   "deaths_best": 535,
+   "deaths_low": 521,
+   "deaths_high": 641,
+   "war": false,
+   "conflict_id": 13639,
+   "dyad_id": 14668
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Ethiopia",
+   "side_a_allies": "Government of Kenya",
+   "side_b": "Oromo Liberation Army (OLA)",
+   "side_b_allies": "",
+   "location": "Ethiopia",
+   "location_iso3": [
+    "ETH"
+   ],
+   "states_involved_iso3": [
+    "ETH",
+    "KEN"
+   ],
+   "deaths_best": 477,
+   "deaths_low": 421,
+   "deaths_high": 4420,
+   "war": false,
+   "conflict_id": 413,
+   "dyad_id": 16240
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Yemen (North Yemen)",
+   "side_a_allies": "",
+   "side_b": "Forces of the Presidential Leadership Council",
+   "side_b_allies": "Government of Bahrain, Government of Saudi Arabia, Government of United Arab Emirates",
+   "location": "Yemen (North Yemen)",
+   "location_iso3": [
+    "YEM"
+   ],
+   "states_involved_iso3": [
+    "ARE",
+    "BHR",
+    "SAU",
+    "YEM"
+   ],
+   "deaths_best": 444,
+   "deaths_low": 405,
+   "deaths_high": 450,
+   "war": false,
+   "conflict_id": 230,
+   "dyad_id": 14595
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Mozambique",
+   "side_a_allies": "Government of Rwanda, Government of Tanzania",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Mozambique",
+   "location_iso3": [
+    "MOZ"
+   ],
+   "states_involved_iso3": [
+    "MOZ",
+    "RWA",
+    "TZA"
+   ],
+   "deaths_best": 245,
+   "deaths_low": 164,
+   "deaths_high": 285,
+   "war": false,
+   "conflict_id": 14845,
+   "dyad_id": 16022
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Nigeria",
+   "side_a_allies": "Government of Chad, Government of Niger",
+   "side_b": "Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, known as Boko Haram (JAS)",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [
+    "NER",
+    "NGA",
+    "TCD"
+   ],
+   "deaths_best": 195,
+   "deaths_low": 148,
+   "deaths_high": 220,
+   "war": false,
+   "conflict_id": 297,
+   "dyad_id": 640
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Mali",
+   "side_a_allies": "Government of Burkina Faso, Government of Niger, Government of Russia (Soviet Union)",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Mali",
+   "location_iso3": [
+    "MLI"
+   ],
+   "states_involved_iso3": [
+    "BFA",
+    "MLI",
+    "NER",
+    "RUS"
+   ],
+   "deaths_best": 189,
+   "deaths_low": 188,
+   "deaths_high": 236,
+   "war": false,
+   "conflict_id": 14113,
+   "dyad_id": 15259
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Syria",
+   "side_a_allies": "Government of Turkey",
+   "side_b": "Syrian Democratic Forces (SDF)",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [
+    "SYR",
+    "TUR"
+   ],
+   "deaths_best": 171,
+   "deaths_low": 170,
+   "deaths_high": 193,
+   "war": false,
+   "conflict_id": 13809,
+   "dyad_id": 14784
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Somalia",
+   "side_a_allies": "Government of United States of America",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Somalia",
+   "location_iso3": [
+    "SOM"
+   ],
+   "states_involved_iso3": [
+    "SOM",
+    "USA"
+   ],
+   "deaths_best": 106,
+   "deaths_low": 72,
+   "deaths_high": 106,
+   "war": false,
+   "conflict_id": 14197,
+   "dyad_id": 15077
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Burkina Faso",
+   "side_a_allies": "Government of Mali, Government of Niger",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Burkina Faso",
+   "location_iso3": [
+    "BFA"
+   ],
+   "states_involved_iso3": [
+    "BFA",
+    "MLI",
+    "NER"
+   ],
+   "deaths_best": 92,
+   "deaths_low": 92,
+   "deaths_high": 124,
+   "war": false,
+   "conflict_id": 13840,
+   "dyad_id": 14953
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Central African Republic",
+   "side_a_allies": "Government of Bangladesh, Government of Bhutan, Government of Burkina Faso, Government of Burundi, Government of Cambodia (Kampuchea), Government of Cameroon, Government of China, Government of Congo, Government of Djibouti, Government of Egypt, Government of France, Government of Gambia, Government of Ghana, Government of Indonesia, Government of Ivory Coast, Government of Jordan, Government of Mali, Government of Mauritania, Government of Mongolia, Government of Morocco, Government of Nepal, Government of Niger, Government of Pakistan, Government of Peru, Government of Portugal, Government of Romania, Government of Russia (Soviet Union), Government of Rwanda, Government of Senegal, Government of Serbia (Yugoslavia), Government of Spain, Government of Sri Lanka, Government of Tanzania, Government of Togo, Government of Tunisia, Government of Turkey, Government of Vietnam (North Vietnam), Government of Zambia",
+   "side_b": "Coalition for Fundamental Change (CPC-F)",
+   "side_b_allies": "",
+   "location": "Central African Republic",
+   "location_iso3": [
+    "CAF"
+   ],
+   "states_involved_iso3": [
+    "BDI",
+    "BFA",
+    "BGD",
+    "BTN",
+    "CAF",
+    "CHN",
+    "CIV",
+    "CMR",
+    "COG",
+    "DJI",
+    "EGY",
+    "ESP",
+    "FRA",
+    "GHA",
+    "GMB",
+    "IDN",
+    "JOR",
+    "KHM",
+    "LKA",
+    "MAR",
+    "MLI",
+    "MNG",
+    "MRT",
+    "NER",
+    "NPL",
+    "PAK",
+    "PER",
+    "PRT",
+    "ROU",
+    "RUS",
+    "RWA",
+    "SEN",
+    "SRB",
+    "TGO",
+    "TUN",
+    "TUR",
+    "TZA",
+    "VNM",
+    "ZMB"
+   ],
+   "deaths_best": 91,
+   "deaths_low": 91,
+   "deaths_high": 91,
+   "war": false,
+   "conflict_id": 416,
+   "dyad_id": 18304
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Mali",
+   "side_a_allies": "Government of Russia (Soviet Union)",
+   "side_b": "Azawad Liberation Front (FLA)",
+   "side_b_allies": "",
+   "location": "Mali",
+   "location_iso3": [
+    "MLI"
+   ],
+   "states_involved_iso3": [
+    "MLI",
+    "RUS"
+   ],
+   "deaths_best": 82,
+   "deaths_low": 81,
+   "deaths_high": 144,
+   "war": false,
+   "conflict_id": 16038,
+   "dyad_id": 17666
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Iraq",
+   "side_a_allies": "Government of France, Government of United Kingdom, Government of United States of America",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Iraq",
+   "location_iso3": [
+    "IRQ"
+   ],
+   "states_involved_iso3": [
+    "FRA",
+    "GBR",
+    "IRQ",
+    "USA"
+   ],
+   "deaths_best": 77,
+   "deaths_low": 75,
+   "deaths_high": 85,
+   "war": false,
+   "conflict_id": 259,
+   "dyad_id": 524
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Cameroon",
+   "side_a_allies": "Government of Nigeria",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Cameroon",
+   "location_iso3": [
+    "CMR"
+   ],
+   "states_involved_iso3": [
+    "CMR",
+    "NGA"
+   ],
+   "deaths_best": 62,
+   "deaths_low": 62,
+   "deaths_high": 77,
+   "war": false,
+   "conflict_id": 13638,
+   "dyad_id": 14666
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Central African Republic",
+   "side_a_allies": "Government of Bangladesh, Government of Bhutan, Government of Burkina Faso, Government of Burundi, Government of Cambodia (Kampuchea), Government of Cameroon, Government of China, Government of Congo, Government of Djibouti, Government of Egypt, Government of France, Government of Gambia, Government of Ghana, Government of Indonesia, Government of Ivory Coast, Government of Jordan, Government of Mali, Government of Mauritania, Government of Mongolia, Government of Morocco, Government of Nepal, Government of Niger, Government of Pakistan, Government of Peru, Government of Portugal, Government of Romania, Government of Russia (Soviet Union), Government of Rwanda, Government of Senegal, Government of Serbia (Yugoslavia), Government of Spain, Government of Sri Lanka, Government of Tanzania, Government of Togo, Government of Tunisia, Government of Turkey, Government of Vietnam (North Vietnam), Government of Zambia",
+   "side_b": "Coalition of Patriots for Change (CPC)",
+   "side_b_allies": "",
+   "location": "Central African Republic",
+   "location_iso3": [
+    "CAF"
+   ],
+   "states_involved_iso3": [
+    "BDI",
+    "BFA",
+    "BGD",
+    "BTN",
+    "CAF",
+    "CHN",
+    "CIV",
+    "CMR",
+    "COG",
+    "DJI",
+    "EGY",
+    "ESP",
+    "FRA",
+    "GHA",
+    "GMB",
+    "IDN",
+    "JOR",
+    "KHM",
+    "LKA",
+    "MAR",
+    "MLI",
+    "MNG",
+    "MRT",
+    "NER",
+    "NPL",
+    "PAK",
+    "PER",
+    "PRT",
+    "ROU",
+    "RUS",
+    "RWA",
+    "SEN",
+    "SRB",
+    "TGO",
+    "TUN",
+    "TUR",
+    "TZA",
+    "VNM",
+    "ZMB"
+   ],
+   "deaths_best": 55,
+   "deaths_low": 51,
+   "deaths_high": 57,
+   "war": false,
+   "conflict_id": 416,
+   "dyad_id": 16562
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Central African Republic",
+   "side_a_allies": "Government of Bangladesh, Government of Bhutan, Government of Burkina Faso, Government of Burundi, Government of Cambodia (Kampuchea), Government of Cameroon, Government of China, Government of Congo, Government of Djibouti, Government of Egypt, Government of France, Government of Gambia, Government of Ghana, Government of Indonesia, Government of Ivory Coast, Government of Jordan, Government of Mali, Government of Mauritania, Government of Mongolia, Government of Morocco, Government of Nepal, Government of Niger, Government of Pakistan, Government of Peru, Government of Portugal, Government of Romania, Government of Russia (Soviet Union), Government of Rwanda, Government of Senegal, Government of Serbia (Yugoslavia), Government of Spain, Government of Sri Lanka, Government of Tanzania, Government of Togo, Government of Tunisia, Government of Turkey, Government of Vietnam (North Vietnam), Government of Zambia",
+   "side_b": "Military Coalition for People's Salvation and Recovery (CMSPR)",
+   "side_b_allies": "",
+   "location": "Central African Republic",
+   "location_iso3": [
+    "CAF"
+   ],
+   "states_involved_iso3": [
+    "BDI",
+    "BFA",
+    "BGD",
+    "BTN",
+    "CAF",
+    "CHN",
+    "CIV",
+    "CMR",
+    "COG",
+    "DJI",
+    "EGY",
+    "ESP",
+    "FRA",
+    "GHA",
+    "GMB",
+    "IDN",
+    "JOR",
+    "KHM",
+    "LKA",
+    "MAR",
+    "MLI",
+    "MNG",
+    "MRT",
+    "NER",
+    "NPL",
+    "PAK",
+    "PER",
+    "PRT",
+    "ROU",
+    "RUS",
+    "RWA",
+    "SEN",
+    "SRB",
+    "TGO",
+    "TUN",
+    "TUR",
+    "TZA",
+    "VNM",
+    "ZMB"
+   ],
+   "deaths_best": 51,
+   "deaths_low": 51,
+   "deaths_high": 65,
+   "war": false,
+   "conflict_id": 416,
+   "dyad_id": 18287
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Cameroon",
+   "side_a_allies": "Government of Chad",
+   "side_b": "Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, known as Boko Haram (JAS)",
+   "side_b_allies": "",
+   "location": "Cameroon",
+   "location_iso3": [
+    "CMR"
+   ],
+   "states_involved_iso3": [
+    "CMR",
+    "TCD"
+   ],
+   "deaths_best": 45,
+   "deaths_low": 32,
+   "deaths_high": 53,
+   "war": false,
+   "conflict_id": 353,
+   "dyad_id": 12422
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of DR Congo (Zaire)",
+   "side_a_allies": "Government of Indonesia, Government of Kenya, Government of Nepal, Government of South Africa, Government of Tanzania, Government of Uganda",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [
+    "COD",
+    "IDN",
+    "KEN",
+    "NPL",
+    "TZA",
+    "UGA",
+    "ZAF"
+   ],
+   "deaths_best": 36,
+   "deaths_low": 32,
+   "deaths_high": 106,
+   "war": false,
+   "conflict_id": 14692,
+   "dyad_id": 15998
+  },
+  {
+   "type": "State vs armed group, foreign troops involved",
+   "side_a": "Government of Syria",
+   "side_a_allies": "Government of United States of America",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [
+    "SYR",
+    "USA"
+   ],
+   "deaths_best": 29,
+   "deaths_low": 29,
+   "deaths_high": 29,
+   "war": false,
+   "conflict_id": 13604,
+   "dyad_id": 14620
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Hamas",
+   "side_b_allies": "",
+   "location": "Israel",
+   "location_iso3": [
+    "ISR"
+   ],
+   "states_involved_iso3": [
+    "ISR"
+   ],
+   "deaths_best": 14127,
+   "deaths_low": 13523,
+   "deaths_high": 14796,
+   "war": true,
+   "conflict_id": 234,
+   "dyad_id": 477
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Sudan",
+   "side_a_allies": "",
+   "side_b": "Sudan Founding Alliance, which includes the Rapid Support Forces (SFA)",
+   "side_b_allies": "",
+   "location": "Sudan",
+   "location_iso3": [
+    "SDN"
+   ],
+   "states_involved_iso3": [
+    "SDN"
+   ],
+   "deaths_best": 10253,
+   "deaths_low": 9754,
+   "deaths_high": 10595,
+   "war": true,
+   "conflict_id": 309,
+   "dyad_id": 18621
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Ethiopia",
+   "side_a_allies": "",
+   "side_b": "Fano",
+   "side_b_allies": "",
+   "location": "Ethiopia",
+   "location_iso3": [
+    "ETH"
+   ],
+   "states_involved_iso3": [
+    "ETH"
+   ],
+   "deaths_best": 3835,
+   "deaths_low": 2275,
+   "deaths_high": 12282,
+   "war": true,
+   "conflict_id": 16069,
+   "dyad_id": 17147
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Pakistan",
+   "side_a_allies": "",
+   "side_b": "Taliban Movement of Pakistan (TTP)",
+   "side_b_allies": "",
+   "location": "Pakistan",
+   "location_iso3": [
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "PAK"
+   ],
+   "deaths_best": 2268,
+   "deaths_low": 2213,
+   "deaths_high": 2386,
+   "war": true,
+   "conflict_id": 404,
+   "dyad_id": 857
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Sudan",
+   "side_a_allies": "",
+   "side_b": "Rapid Support Forces (RSF)",
+   "side_b_allies": "",
+   "location": "Sudan",
+   "location_iso3": [
+    "SDN"
+   ],
+   "states_involved_iso3": [
+    "SDN"
+   ],
+   "deaths_best": 1936,
+   "deaths_low": 1884,
+   "deaths_high": 1986,
+   "war": true,
+   "conflict_id": 309,
+   "dyad_id": 17497
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Myanmar (Burma)",
+   "side_a_allies": "",
+   "side_b": "National Unity Government (NUG)",
+   "side_b_allies": "",
+   "location": "Myanmar (Burma)",
+   "location_iso3": [
+    "MMR"
+   ],
+   "states_involved_iso3": [
+    "MMR"
+   ],
+   "deaths_best": 1101,
+   "deaths_low": 1097,
+   "deaths_high": 1740,
+   "war": true,
+   "conflict_id": 222,
+   "dyad_id": 16759
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Pakistan",
+   "side_a_allies": "",
+   "side_b": "Baloch National Freedom Movement (BRAS)",
+   "side_b_allies": "",
+   "location": "Pakistan",
+   "location_iso3": [
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "PAK"
+   ],
+   "deaths_best": 526,
+   "deaths_low": 475,
+   "deaths_high": 1815,
+   "war": false,
+   "conflict_id": 325,
+   "dyad_id": 16177
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Syria",
+   "side_a_allies": "",
+   "side_b": "Military Council for the Liberation of Syria",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [
+    "SYR"
+   ],
+   "deaths_best": 500,
+   "deaths_low": 500,
+   "deaths_high": 500,
+   "war": false,
+   "conflict_id": 299,
+   "dyad_id": 18395
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of India",
+   "side_a_allies": "",
+   "side_b": "Communist Party of India (Maoist)",
+   "side_b_allies": "",
+   "location": "India",
+   "location_iso3": [
+    "IND"
+   ],
+   "states_involved_iso3": [
+    "IND"
+   ],
+   "deaths_best": 417,
+   "deaths_low": 415,
+   "deaths_high": 430,
+   "war": false,
+   "conflict_id": 227,
+   "dyad_id": 453
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Hezbollah",
+   "side_b_allies": "",
+   "location": "Israel",
+   "location_iso3": [
+    "ISR"
+   ],
+   "states_involved_iso3": [
+    "ISR"
+   ],
+   "deaths_best": 337,
+   "deaths_low": 337,
+   "deaths_high": 339,
+   "war": false,
+   "conflict_id": 426,
+   "dyad_id": 891
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Myanmar (Burma)",
+   "side_a_allies": "",
+   "side_b": "United League of Arakan (ULA)",
+   "side_b_allies": "",
+   "location": "Myanmar (Burma)",
+   "location_iso3": [
+    "MMR"
+   ],
+   "states_involved_iso3": [
+    "MMR"
+   ],
+   "deaths_best": 286,
+   "deaths_low": 286,
+   "deaths_high": 321,
+   "war": false,
+   "conflict_id": 223,
+   "dyad_id": 11387
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of South Sudan",
+   "side_a_allies": "",
+   "side_b": "Sudan People's Liberation Movement/Army in Opposition (SPLM/A-IO)",
+   "side_b_allies": "",
+   "location": "South Sudan",
+   "location_iso3": [
+    "SSD"
+   ],
+   "states_involved_iso3": [
+    "SSD"
+   ],
+   "deaths_best": 282,
+   "deaths_low": 277,
+   "deaths_high": 446,
+   "war": false,
+   "conflict_id": 11345,
+   "dyad_id": 12413
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Myanmar (Burma)",
+   "side_a_allies": "",
+   "side_b": "Palaung State Liberation Front (PSLF)",
+   "side_b_allies": "",
+   "location": "Myanmar (Burma)",
+   "location_iso3": [
+    "MMR"
+   ],
+   "states_involved_iso3": [
+    "MMR"
+   ],
+   "deaths_best": 252,
+   "deaths_low": 252,
+   "deaths_high": 252,
+   "war": true,
+   "conflict_id": 222,
+   "dyad_id": 14273
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Myanmar (Burma)",
+   "side_a_allies": "",
+   "side_b": "Kachin Independence Organization (KIO)",
+   "side_b_allies": "",
+   "location": "Myanmar (Burma)",
+   "location_iso3": [
+    "MMR"
+   ],
+   "states_involved_iso3": [
+    "MMR"
+   ],
+   "deaths_best": 220,
+   "deaths_low": 190,
+   "deaths_high": 253,
+   "war": false,
+   "conflict_id": 231,
+   "dyad_id": 461
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Palestinian Islamic Jihad (PIJ)",
+   "side_b_allies": "",
+   "location": "Israel",
+   "location_iso3": [
+    "ISR"
+   ],
+   "states_involved_iso3": [
+    "ISR"
+   ],
+   "deaths_best": 211,
+   "deaths_low": 209,
+   "deaths_high": 218,
+   "war": true,
+   "conflict_id": 234,
+   "dyad_id": 478
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Pakistan",
+   "side_a_allies": "",
+   "side_b": "Ittihad-ul-Mujahideen Pakistan (IMP)",
+   "side_b_allies": "",
+   "location": "Pakistan",
+   "location_iso3": [
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "PAK"
+   ],
+   "deaths_best": 194,
+   "deaths_low": 181,
+   "deaths_high": 328,
+   "war": true,
+   "conflict_id": 404,
+   "dyad_id": 18458
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of DR Congo (Zaire)",
+   "side_a_allies": "",
+   "side_b": "Convention for the Popular Revolution (CRP)",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [
+    "COD"
+   ],
+   "deaths_best": 175,
+   "deaths_low": 167,
+   "deaths_high": 181,
+   "war": true,
+   "conflict_id": 283,
+   "dyad_id": 18485
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Niger",
+   "side_a_allies": "",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Niger",
+   "location_iso3": [
+    "NER"
+   ],
+   "states_involved_iso3": [
+    "NER"
+   ],
+   "deaths_best": 167,
+   "deaths_low": 153,
+   "deaths_high": 198,
+   "war": false,
+   "conflict_id": 430,
+   "dyad_id": 15174
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Colombia",
+   "side_a_allies": "",
+   "side_b": "Revolutionary Armed Forces of Colombia, Central General Staff (FARC-EMC)",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [
+    "COL"
+   ],
+   "deaths_best": 155,
+   "deaths_low": 140,
+   "deaths_high": 185,
+   "war": false,
+   "conflict_id": 289,
+   "dyad_id": 17247
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Myanmar (Burma)",
+   "side_a_allies": "",
+   "side_b": "Karen National Union (KNU)",
+   "side_b_allies": "",
+   "location": "Myanmar (Burma)",
+   "location_iso3": [
+    "MMR"
+   ],
+   "states_involved_iso3": [
+    "MMR"
+   ],
+   "deaths_best": 151,
+   "deaths_low": 151,
+   "deaths_high": 320,
+   "war": false,
+   "conflict_id": 221,
+   "dyad_id": 428
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Benin",
+   "side_a_allies": "",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Benin",
+   "location_iso3": [
+    "BEN"
+   ],
+   "states_involved_iso3": [
+    "BEN"
+   ],
+   "deaths_best": 149,
+   "deaths_low": 140,
+   "deaths_high": 193,
+   "war": false,
+   "conflict_id": 15256,
+   "dyad_id": 16685
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Philippines",
+   "side_a_allies": "",
+   "side_b": "Communist Party of the Philippines (CPP)",
+   "side_b_allies": "",
+   "location": "Philippines",
+   "location_iso3": [
+    "PHL"
+   ],
+   "states_involved_iso3": [
+    "PHL"
+   ],
+   "deaths_best": 141,
+   "deaths_low": 135,
+   "deaths_high": 141,
+   "war": false,
+   "conflict_id": 209,
+   "dyad_id": 411
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Cameroon",
+   "side_a_allies": "",
+   "side_b": "Ambazonia insurgents",
+   "side_b_allies": "",
+   "location": "Cameroon",
+   "location_iso3": [
+    "CMR"
+   ],
+   "states_involved_iso3": [
+    "CMR"
+   ],
+   "deaths_best": 133,
+   "deaths_low": 130,
+   "deaths_high": 136,
+   "war": false,
+   "conflict_id": 14129,
+   "dyad_id": 15895
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Indonesia",
+   "side_a_allies": "",
+   "side_b": "Organization for a Free Papua (OPM)",
+   "side_b_allies": "",
+   "location": "Indonesia",
+   "location_iso3": [
+    "IDN"
+   ],
+   "states_involved_iso3": [
+    "IDN"
+   ],
+   "deaths_best": 104,
+   "deaths_low": 74,
+   "deaths_high": 132,
+   "war": false,
+   "conflict_id": 291,
+   "dyad_id": 628
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Colombia",
+   "side_a_allies": "",
+   "side_b": "National Liberation Army (ELN)",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [
+    "COL"
+   ],
+   "deaths_best": 98,
+   "deaths_low": 95,
+   "deaths_high": 99,
+   "war": false,
+   "conflict_id": 289,
+   "dyad_id": 624
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of India",
+   "side_a_allies": "",
+   "side_b": "Kashmir insurgents",
+   "side_b_allies": "",
+   "location": "India",
+   "location_iso3": [
+    "IND"
+   ],
+   "states_involved_iso3": [
+    "IND"
+   ],
+   "deaths_best": 93,
+   "deaths_low": 87,
+   "deaths_high": 158,
+   "war": false,
+   "conflict_id": 364,
+   "dyad_id": 792
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Sudan",
+   "side_a_allies": "",
+   "side_b": "Sudan People's Liberation Movement/Army-North (SPLM/A-North)",
+   "side_b_allies": "",
+   "location": "Sudan",
+   "location_iso3": [
+    "SDN"
+   ],
+   "states_involved_iso3": [
+    "SDN"
+   ],
+   "deaths_best": 80,
+   "deaths_low": 80,
+   "deaths_high": 80,
+   "war": true,
+   "conflict_id": 309,
+   "dyad_id": 11975
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Myanmar (Burma)",
+   "side_a_allies": "",
+   "side_b": "Karenni National Progressive Party (KNPP)",
+   "side_b_allies": "",
+   "location": "Myanmar (Burma)",
+   "location_iso3": [
+    "MMR"
+   ],
+   "states_involved_iso3": [
+    "MMR"
+   ],
+   "deaths_best": 73,
+   "deaths_low": 73,
+   "deaths_high": 93,
+   "war": false,
+   "conflict_id": 253,
+   "dyad_id": 511
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Palestinian Mujahideen Movement",
+   "side_b_allies": "",
+   "location": "Israel",
+   "location_iso3": [
+    "ISR"
+   ],
+   "states_involved_iso3": [
+    "ISR"
+   ],
+   "deaths_best": 70,
+   "deaths_low": 63,
+   "deaths_high": 70,
+   "war": true,
+   "conflict_id": 234,
+   "dyad_id": 18806
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Togo",
+   "side_a_allies": "",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Togo",
+   "location_iso3": [
+    "TGO"
+   ],
+   "states_involved_iso3": [
+    "TGO"
+   ],
+   "deaths_best": 69,
+   "deaths_low": 18,
+   "deaths_high": 69,
+   "war": false,
+   "conflict_id": 358,
+   "dyad_id": 16955
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Rwanda",
+   "side_a_allies": "",
+   "side_b": "Democratic Forces for the Liberation of Rwanda, Abacunguzi Fighting Forces (FDLR-FOCA)",
+   "side_b_allies": "",
+   "location": "Rwanda",
+   "location_iso3": [
+    "RWA"
+   ],
+   "states_involved_iso3": [
+    "RWA"
+   ],
+   "deaths_best": 60,
+   "deaths_low": 12,
+   "deaths_high": 84,
+   "war": false,
+   "conflict_id": 374,
+   "dyad_id": 12102
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Afghanistan",
+   "side_a_allies": "",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Afghanistan",
+   "location_iso3": [
+    "AFG"
+   ],
+   "states_involved_iso3": [
+    "AFG"
+   ],
+   "deaths_best": 56,
+   "deaths_low": 27,
+   "deaths_high": 85,
+   "war": false,
+   "conflict_id": 13637,
+   "dyad_id": 14320
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Turkey",
+   "side_a_allies": "",
+   "side_b": "Kurdistan Workers' Party (PKK)",
+   "side_b_allies": "",
+   "location": "Turkey",
+   "location_iso3": [
+    "TUR"
+   ],
+   "states_involved_iso3": [
+    "TUR"
+   ],
+   "deaths_best": 55,
+   "deaths_low": 52,
+   "deaths_high": 90,
+   "war": false,
+   "conflict_id": 354,
+   "dyad_id": 781
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Pakistan",
+   "side_a_allies": "",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Pakistan",
+   "location_iso3": [
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "PAK"
+   ],
+   "deaths_best": 54,
+   "deaths_low": 51,
+   "deaths_high": 54,
+   "war": false,
+   "conflict_id": 13936,
+   "dyad_id": 14319
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Iran",
+   "side_a_allies": "",
+   "side_b": "Jaish al-Adl",
+   "side_b_allies": "",
+   "location": "Iran",
+   "location_iso3": [
+    "IRN"
+   ],
+   "states_involved_iso3": [
+    "IRN"
+   ],
+   "deaths_best": 52,
+   "deaths_low": 44,
+   "deaths_high": 65,
+   "war": false,
+   "conflict_id": 338,
+   "dyad_id": 12556
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Mozambique",
+   "side_a_allies": "",
+   "side_b": "Naparama",
+   "side_b_allies": "",
+   "location": "Mozambique",
+   "location_iso3": [
+    "MOZ"
+   ],
+   "states_involved_iso3": [
+    "MOZ"
+   ],
+   "deaths_best": 51,
+   "deaths_low": 34,
+   "deaths_high": 64,
+   "war": false,
+   "conflict_id": 332,
+   "dyad_id": 18188
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Pakistan",
+   "side_a_allies": "",
+   "side_b": "Forces of Hafiz Gul Bahadur (HGB)",
+   "side_b_allies": "",
+   "location": "Pakistan",
+   "location_iso3": [
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "PAK"
+   ],
+   "deaths_best": 49,
+   "deaths_low": 43,
+   "deaths_high": 49,
+   "war": true,
+   "conflict_id": 404,
+   "dyad_id": 12287
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Nigeria",
+   "side_a_allies": "",
+   "side_b": "Indigenous People of Biafra (IPOB)",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [
+    "NGA"
+   ],
+   "deaths_best": 48,
+   "deaths_low": 30,
+   "deaths_high": 67,
+   "war": false,
+   "conflict_id": 303,
+   "dyad_id": 14636
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Colombia",
+   "side_a_allies": "",
+   "side_b": "General Staff of the Blocs and Front (EMBF)",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [
+    "COL"
+   ],
+   "deaths_best": 45,
+   "deaths_low": 44,
+   "deaths_high": 46,
+   "war": false,
+   "conflict_id": 289,
+   "dyad_id": 18128
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Kenya",
+   "side_a_allies": "",
+   "side_b": "Al-Shabaab",
+   "side_b_allies": "",
+   "location": "Kenya",
+   "location_iso3": [
+    "KEN"
+   ],
+   "states_involved_iso3": [
+    "KEN"
+   ],
+   "deaths_best": 44,
+   "deaths_low": 43,
+   "deaths_high": 94,
+   "war": false,
+   "conflict_id": 13646,
+   "dyad_id": 10589
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Thailand",
+   "side_a_allies": "",
+   "side_b": "Patani insurgents",
+   "side_b_allies": "",
+   "location": "Thailand",
+   "location_iso3": [
+    "THA"
+   ],
+   "states_involved_iso3": [
+    "THA"
+   ],
+   "deaths_best": 36,
+   "deaths_low": 19,
+   "deaths_high": 37,
+   "war": false,
+   "conflict_id": 423,
+   "dyad_id": 888
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of India",
+   "side_a_allies": "",
+   "side_b": "United Liberation Front of Western South East Asia (UNLFW)",
+   "side_b_allies": "",
+   "location": "India",
+   "location_iso3": [
+    "IND"
+   ],
+   "states_involved_iso3": [
+    "IND"
+   ],
+   "deaths_best": 27,
+   "deaths_low": 27,
+   "deaths_high": 27,
+   "war": false,
+   "conflict_id": 13653,
+   "dyad_id": 14685
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Popular Resistance Committees (PRC)",
+   "side_b_allies": "",
+   "location": "Israel",
+   "location_iso3": [
+    "ISR"
+   ],
+   "states_involved_iso3": [
+    "ISR"
+   ],
+   "deaths_best": 26,
+   "deaths_low": 23,
+   "deaths_high": 26,
+   "war": true,
+   "conflict_id": 234,
+   "dyad_id": 481
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Angola",
+   "side_a_allies": "",
+   "side_b": "Front for the Liberation of the Enclave of Cabinda, Armed Forces of Cabinda, Tiago Nzita faction (FLEC-FAC-TN)",
+   "side_b_allies": "",
+   "location": "Angola",
+   "location_iso3": [
+    "AGO"
+   ],
+   "states_involved_iso3": [
+    "AGO"
+   ],
+   "deaths_best": 25,
+   "deaths_low": 5,
+   "deaths_high": 95,
+   "war": false,
+   "conflict_id": 387,
+   "dyad_id": 15993
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Yemen (North Yemen)",
+   "side_a_allies": "",
+   "side_b": "Southern Transitional Council (STC)",
+   "side_b_allies": "",
+   "location": "Yemen (North Yemen)",
+   "location_iso3": [
+    "YEM"
+   ],
+   "states_involved_iso3": [
+    "YEM"
+   ],
+   "deaths_best": 25,
+   "deaths_low": 20,
+   "deaths_high": 25,
+   "war": false,
+   "conflict_id": 402,
+   "dyad_id": 16617
+  },
+  {
+   "type": "State vs armed group",
+   "side_a": "Government of Afghanistan",
+   "side_a_allies": "",
+   "side_b": "National Resistance Front of Afghanistan (NRF)",
+   "side_b_allies": "",
+   "location": "Afghanistan",
+   "location_iso3": [
+    "AFG"
+   ],
+   "states_involved_iso3": [
+    "AFG"
+   ],
+   "deaths_best": 25,
+   "deaths_low": 11,
+   "deaths_high": 109,
+   "war": false,
+   "conflict_id": 333,
+   "dyad_id": 16825
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Jalisco Cartel New Generation",
+   "side_a_allies": "",
+   "side_b": "Santa Rosa de Lima Cartel",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 1489,
+   "deaths_low": 429,
+   "deaths_high": 1489,
+   "war": false,
+   "conflict_id": 14532,
+   "dyad_id": 15809
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Sinaloa Cartel - Los Chapitos",
+   "side_a_allies": "",
+   "side_b": "Sinaloa Cartel - Los Mayos",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 1095,
+   "deaths_low": 797,
+   "deaths_high": 1216,
+   "war": false,
+   "conflict_id": 15082,
+   "dyad_id": 16465
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Juarez Cartel",
+   "side_a_allies": "",
+   "side_b": "Sinaloa Cartel",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 1075,
+   "deaths_low": 352,
+   "deaths_high": 1076,
+   "war": false,
+   "conflict_id": 4652,
+   "dyad_id": 5262
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Jalisco Cartel New Generation",
+   "side_a_allies": "",
+   "side_b": "Sinaloa Cartel",
+   "side_b_allies": "",
+   "location": "Guatemala, Mexico",
+   "location_iso3": [
+    "GTM",
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 996,
+   "deaths_low": 127,
+   "deaths_high": 1051,
+   "war": false,
+   "conflict_id": 13737,
+   "dyad_id": 14799
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Carteles Unidos",
+   "side_a_allies": "",
+   "side_b": "Jalisco Cartel New Generation, Los Blancos de Troya, Los de la Virgen, Los Viagras",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 780,
+   "deaths_low": 203,
+   "deaths_high": 780,
+   "war": false,
+   "conflict_id": 16498,
+   "dyad_id": 18331
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Puntland State of Somalia",
+   "side_a_allies": "",
+   "side_b": "Islamic State (IS)",
+   "side_b_allies": "",
+   "location": "Somalia",
+   "location_iso3": [
+    "SOM"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 774,
+   "deaths_low": 771,
+   "deaths_high": 844,
+   "war": false,
+   "conflict_id": 16734,
+   "dyad_id": 18661
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Congo River Alliance (AFC)",
+   "side_a_allies": "",
+   "side_b": "Patriotic Defence Volunteers (VDP)",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 769,
+   "deaths_low": 733,
+   "deaths_high": 3645,
+   "war": false,
+   "conflict_id": 16179,
+   "dyad_id": 17833
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Jalisco Cartel New Generation, Sinaloa Cartel - Los Chapitos",
+   "side_a_allies": "",
+   "side_b": "Sinaloa Cartel - Los Mayos",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 692,
+   "deaths_low": 325,
+   "deaths_high": 692,
+   "war": false,
+   "conflict_id": 16799,
+   "dyad_id": 18749
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Jalisco Cartel New Generation",
+   "side_a_allies": "",
+   "side_b": "La Barredora",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 661,
+   "deaths_low": 104,
+   "deaths_high": 661,
+   "war": false,
+   "conflict_id": 16447,
+   "dyad_id": 18269
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Caborca Cartel, Sinaloa Cartel - Los Mayos",
+   "side_a_allies": "",
+   "side_b": "Sinaloa Cartel - Los Chapitos",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 468,
+   "deaths_low": 19,
+   "deaths_high": 468,
+   "war": false,
+   "conflict_id": 15243,
+   "dyad_id": 16672
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Fulani",
+   "side_a_allies": "",
+   "side_b": "Tiv",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 388,
+   "deaths_low": 276,
+   "deaths_high": 449,
+   "war": false,
+   "conflict_id": 4973,
+   "dyad_id": 5583
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Cartel Independiente de Acapulco",
+   "side_a_allies": "",
+   "side_b": "Los Rusos",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 372,
+   "deaths_low": 185,
+   "deaths_high": 373,
+   "war": false,
+   "conflict_id": 16392,
+   "dyad_id": 18190
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Syrian National Army (SNA)",
+   "side_a_allies": "",
+   "side_b": "Syrian Democratic Forces (SDF)",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 345,
+   "deaths_low": 345,
+   "deaths_high": 355,
+   "war": false,
+   "conflict_id": 14803,
+   "dyad_id": 16135
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Islamic State (IS)",
+   "side_a_allies": "",
+   "side_b": "Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, known as Boko Haram (JAS)",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 333,
+   "deaths_low": 331,
+   "deaths_high": 363,
+   "war": false,
+   "conflict_id": 13884,
+   "dyad_id": 15023
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Los Choneros",
+   "side_a_allies": "",
+   "side_b": "Los Lobos",
+   "side_b_allies": "",
+   "location": "Ecuador",
+   "location_iso3": [
+    "ECU"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 288,
+   "deaths_low": 201,
+   "deaths_high": 412,
+   "war": false,
+   "conflict_id": 15386,
+   "dyad_id": 16872
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Luac Jang Dinka, Pan-Juaj Dinka",
+   "side_a_allies": "",
+   "side_b": "Jalwau Dinka",
+   "side_b_allies": "",
+   "location": "South Sudan",
+   "location_iso3": [
+    "SSD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 226,
+   "deaths_low": 226,
+   "deaths_high": 226,
+   "war": false,
+   "conflict_id": 16670,
+   "dyad_id": 18565
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Southern Tribes Gathering, Syrian Council of Tribes and Clans",
+   "side_a_allies": "",
+   "side_b": "Suwayda Military Council",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 194,
+   "deaths_low": 194,
+   "deaths_high": 194,
+   "war": false,
+   "conflict_id": 16895,
+   "dyad_id": 18856
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Comando Vermelho",
+   "side_a_allies": "",
+   "side_b": "First Capital Command (PCC)",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 188,
+   "deaths_low": 118,
+   "deaths_high": 195,
+   "war": false,
+   "conflict_id": 13972,
+   "dyad_id": 15142
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Anuak",
+   "side_a_allies": "",
+   "side_b": "Nuer",
+   "side_b_allies": "",
+   "location": "Ethiopia",
+   "location_iso3": [
+    "ETH"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 159,
+   "deaths_low": 159,
+   "deaths_high": 159,
+   "war": false,
+   "conflict_id": 4582,
+   "dyad_id": 5192
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Islamic State (IS)",
+   "side_a_allies": "",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Burkina Faso, Mali",
+   "location_iso3": [
+    "BFA",
+    "MLI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 154,
+   "deaths_low": 149,
+   "deaths_high": 238,
+   "war": false,
+   "conflict_id": 14864,
+   "dyad_id": 16207
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Sudan Liberation Force Alliance (SLFA), Sudan Liberation Movement/Army (SLM/A)",
+   "side_a_allies": "",
+   "side_b": "Rapid Support Forces (RSF)",
+   "side_b_allies": "",
+   "location": "Sudan",
+   "location_iso3": [
+    "SDN"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 120,
+   "deaths_low": 120,
+   "deaths_high": 120,
+   "war": false,
+   "conflict_id": 16792,
+   "dyad_id": 18741
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Birom",
+   "side_a_allies": "",
+   "side_b": "Fulani",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 118,
+   "deaths_low": 113,
+   "deaths_high": 121,
+   "war": false,
+   "conflict_id": 4948,
+   "dyad_id": 5558
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Islamic State (IS)",
+   "side_a_allies": "",
+   "side_b": "Syrian Democratic Forces (SDF)",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 115,
+   "deaths_low": 114,
+   "deaths_high": 115,
+   "war": false,
+   "conflict_id": 13616,
+   "dyad_id": 14637
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Forces of the Presidential Leadership Council",
+   "side_a_allies": "",
+   "side_b": "Southern Transitional Council (STC)",
+   "side_b_allies": "",
+   "location": "Yemen (North Yemen)",
+   "location_iso3": [
+    "YEM"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 109,
+   "deaths_low": 67,
+   "deaths_high": 109,
+   "war": false,
+   "conflict_id": 14623,
+   "dyad_id": 15915
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Amhara Fano National Force (AFNF)",
+   "side_a_allies": "",
+   "side_b": "Amhara Fano Popular Organization (AFPO)",
+   "side_b_allies": "",
+   "location": "Ethiopia",
+   "location_iso3": [
+    "ETH"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 105,
+   "deaths_low": 105,
+   "deaths_high": 106,
+   "war": false,
+   "conflict_id": 16626,
+   "dyad_id": 18507
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Dan na Ambassagou",
+   "side_a_allies": "",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Mali",
+   "location_iso3": [
+    "MLI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 89,
+   "deaths_low": 89,
+   "deaths_high": 89,
+   "war": false,
+   "conflict_id": 14622,
+   "dyad_id": 15914
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "al-Qaida in the Arabian Peninsula (AQAP)",
+   "side_a_allies": "",
+   "side_b": "Forces of the Presidential Leadership Council",
+   "side_b_allies": "",
+   "location": "Yemen (North Yemen)",
+   "location_iso3": [
+    "YEM"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 87,
+   "deaths_low": 59,
+   "deaths_high": 89,
+   "war": false,
+   "conflict_id": 13587,
+   "dyad_id": 14596
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Forces of Tony Peña",
+   "side_a_allies": "",
+   "side_b": "Los Hondureños",
+   "side_b_allies": "",
+   "location": "Costa Rica",
+   "location_iso3": [
+    "CRI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 84,
+   "deaths_low": 2,
+   "deaths_high": 91,
+   "war": false,
+   "conflict_id": 16190,
+   "dyad_id": 17872
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Fulani",
+   "side_a_allies": "",
+   "side_b": "Ron-Kulere",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 82,
+   "deaths_low": 82,
+   "deaths_high": 85,
+   "war": false,
+   "conflict_id": 13904,
+   "dyad_id": 15051
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Fulani",
+   "side_a_allies": "",
+   "side_b": "Irigwe",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 78,
+   "deaths_low": 78,
+   "deaths_high": 80,
+   "war": false,
+   "conflict_id": 14083,
+   "dyad_id": 15214
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Los Ardillos",
+   "side_a_allies": "",
+   "side_b": "Los Tlacos",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 76,
+   "deaths_low": 66,
+   "deaths_high": 78,
+   "war": false,
+   "conflict_id": 15453,
+   "dyad_id": 16953
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Southern Tribes Gathering",
+   "side_a_allies": "",
+   "side_b": "Suwayda Military Council",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 75,
+   "deaths_low": 75,
+   "deaths_high": 75,
+   "war": false,
+   "conflict_id": 16893,
+   "dyad_id": 18854
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Bonde dos 40",
+   "side_a_allies": "",
+   "side_b": "First Capital Command (PCC)",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 70,
+   "deaths_low": 70,
+   "deaths_high": 70,
+   "war": false,
+   "conflict_id": 15843,
+   "dyad_id": 17429
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Gaitanista Army of Colombia (EGC)",
+   "side_a_allies": "",
+   "side_b": "La Terraza",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 70,
+   "deaths_low": 52,
+   "deaths_high": 76,
+   "war": false,
+   "conflict_id": 16660,
+   "dyad_id": 18547
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Farmers (Central African Republic)",
+   "side_a_allies": "",
+   "side_b": "Herders (Central African Republic)",
+   "side_b_allies": "",
+   "location": "Central African Republic",
+   "location_iso3": [
+    "CAF"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 69,
+   "deaths_low": 69,
+   "deaths_high": 78,
+   "war": false,
+   "conflict_id": 13689,
+   "dyad_id": 14736
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Fulani",
+   "side_a_allies": "",
+   "side_b": "Ngambay",
+   "side_b_allies": "",
+   "location": "Chad",
+   "location_iso3": [
+    "TCD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 69,
+   "deaths_low": 68,
+   "deaths_high": 70,
+   "war": false,
+   "conflict_id": 16607,
+   "dyad_id": 18479
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Kusasi",
+   "side_a_allies": "",
+   "side_b": "Mamprusi",
+   "side_b_allies": "",
+   "location": "Ghana",
+   "location_iso3": [
+    "GHA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 67,
+   "deaths_low": 34,
+   "deaths_high": 73,
+   "war": false,
+   "conflict_id": 4658,
+   "dyad_id": 5268
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Black Axe",
+   "side_a_allies": "",
+   "side_b": "Eyie",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 67,
+   "deaths_low": 63,
+   "deaths_high": 74,
+   "war": false,
+   "conflict_id": 10823,
+   "dyad_id": 11433
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Farmers (Nigeria)",
+   "side_a_allies": "",
+   "side_b": "Herders (Nigeria)",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 64,
+   "deaths_low": 64,
+   "deaths_high": 71,
+   "war": false,
+   "conflict_id": 13876,
+   "dyad_id": 15013
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Dozos (Mali)",
+   "side_a_allies": "",
+   "side_b": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_b_allies": "",
+   "location": "Mali",
+   "location_iso3": [
+    "MLI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 62,
+   "deaths_low": 62,
+   "deaths_high": 74,
+   "war": false,
+   "conflict_id": 13988,
+   "dyad_id": 15162
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Forces of Churro",
+   "side_a_allies": "",
+   "side_b": "Los Gemelos",
+   "side_b_allies": "",
+   "location": "Costa Rica",
+   "location_iso3": [
+    "CRI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 58,
+   "deaths_low": 32,
+   "deaths_high": 67,
+   "war": false,
+   "conflict_id": 16821,
+   "dyad_id": 18776
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "National Liberation Army (ELN)",
+   "side_a_allies": "",
+   "side_b": "General Staff of the Blocs and Front (EMBF)",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 57,
+   "deaths_low": 51,
+   "deaths_high": 119,
+   "war": false,
+   "conflict_id": 16350,
+   "dyad_id": 18127
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Los Costenos",
+   "side_a_allies": "",
+   "side_b": "Los Pepes",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 55,
+   "deaths_low": 43,
+   "deaths_high": 75,
+   "war": false,
+   "conflict_id": 16082,
+   "dyad_id": 17722
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "First Capital Command (PCC)",
+   "side_a_allies": "",
+   "side_b": "Sindicato do Crime",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 54,
+   "deaths_low": 47,
+   "deaths_high": 55,
+   "war": false,
+   "conflict_id": 14224,
+   "dyad_id": 15409
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Revolutionary Armed Forces of Colombia, Central General Staff (FARC-EMC)",
+   "side_a_allies": "",
+   "side_b": "National Liberation Army (ELN)",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 53,
+   "deaths_low": 53,
+   "deaths_high": 55,
+   "war": false,
+   "conflict_id": 15700,
+   "dyad_id": 17253
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Fulani",
+   "side_a_allies": "",
+   "side_b": "Idoma",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 51,
+   "deaths_low": 35,
+   "deaths_high": 55,
+   "war": false,
+   "conflict_id": 11676,
+   "dyad_id": 12342
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Comando Vermelho",
+   "side_a_allies": "",
+   "side_b": "Família Terror Amapá",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 51,
+   "deaths_low": 49,
+   "deaths_high": 51,
+   "war": false,
+   "conflict_id": 16898,
+   "dyad_id": 18858
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Guardians of the State (GDE), First Capital Command (PCC)",
+   "side_a_allies": "",
+   "side_b": "Sindicato do Crime",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 50,
+   "deaths_low": 50,
+   "deaths_high": 52,
+   "war": false,
+   "conflict_id": 15517,
+   "dyad_id": 17026
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Fulani",
+   "side_a_allies": "",
+   "side_b": "Munga",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 49,
+   "deaths_low": 49,
+   "deaths_high": 52,
+   "war": false,
+   "conflict_id": 16845,
+   "dyad_id": 18803
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Dassanetch",
+   "side_a_allies": "",
+   "side_b": "Turkana",
+   "side_b_allies": "",
+   "location": "Ethiopia, Kenya",
+   "location_iso3": [
+    "ETH",
+    "KEN"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 45,
+   "deaths_low": 43,
+   "deaths_high": 48,
+   "war": false,
+   "conflict_id": 4672,
+   "dyad_id": 5282
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Chain Guys",
+   "side_a_allies": "",
+   "side_b": "Full Force",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 45,
+   "deaths_low": 33,
+   "deaths_high": 45,
+   "war": false,
+   "conflict_id": 16124,
+   "dyad_id": 17769
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Bonde dos 40",
+   "side_a_allies": "",
+   "side_b": "Comando Vermelho",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 44,
+   "deaths_low": 36,
+   "deaths_high": 44,
+   "war": false,
+   "conflict_id": 15842,
+   "dyad_id": 17428
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Jalisco Cartel New Generation",
+   "side_a_allies": "",
+   "side_b": "Gulf Cartel - Grupo Sombra faction",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 43,
+   "deaths_low": 6,
+   "deaths_high": 43,
+   "war": false,
+   "conflict_id": 16520,
+   "dyad_id": 18354
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Fulani",
+   "side_a_allies": "",
+   "side_b": "Mushere",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 42,
+   "deaths_low": 40,
+   "deaths_high": 44,
+   "war": false,
+   "conflict_id": 16796,
+   "dyad_id": 18745
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Bor Dinka",
+   "side_a_allies": "",
+   "side_b": "Acholi, Murle",
+   "side_b_allies": "",
+   "location": "South Sudan",
+   "location_iso3": [
+    "SSD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 41,
+   "deaths_low": 41,
+   "deaths_high": 41,
+   "war": false,
+   "conflict_id": 16529,
+   "dyad_id": 18365
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Hadhramaut Tribal Alliance (HTA)",
+   "side_a_allies": "",
+   "side_b": "Southern Transitional Council (STC)",
+   "side_b_allies": "",
+   "location": "Yemen (North Yemen)",
+   "location_iso3": [
+    "YEM"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 41,
+   "deaths_low": 39,
+   "deaths_high": 41,
+   "war": false,
+   "conflict_id": 16749,
+   "dyad_id": 18685
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Black Axe",
+   "side_a_allies": "",
+   "side_b": "Supreme Viking Confraternity (SVC)",
+   "side_b_allies": "",
+   "location": "Nigeria, South Africa",
+   "location_iso3": [
+    "NGA",
+    "ZAF"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 36,
+   "deaths_low": 29,
+   "deaths_high": 39,
+   "war": false,
+   "conflict_id": 10825,
+   "dyad_id": 11435
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Gaitanista Army of Colombia (EGC)",
+   "side_a_allies": "",
+   "side_b": "National Liberation Army (ELN)",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 35,
+   "deaths_low": 31,
+   "deaths_high": 70,
+   "war": false,
+   "conflict_id": 14485,
+   "dyad_id": 15750
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Bonde dos 13, First Capital Command (PCC)",
+   "side_a_allies": "",
+   "side_b": "Comando Vermelho",
+   "side_b_allies": "",
+   "location": "Bolivia, Brazil",
+   "location_iso3": [
+    "BOL",
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 35,
+   "deaths_low": 30,
+   "deaths_high": 37,
+   "war": false,
+   "conflict_id": 15614,
+   "dyad_id": 17152
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Los Tiguerones Fenix faction",
+   "side_a_allies": "",
+   "side_b": "Los Tiguerones Igualitos faction",
+   "side_b_allies": "",
+   "location": "Ecuador",
+   "location_iso3": [
+    "ECU"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 34,
+   "deaths_low": 34,
+   "deaths_high": 34,
+   "war": false,
+   "conflict_id": 16505,
+   "dyad_id": 18339
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Gawaar Nuer",
+   "side_a_allies": "",
+   "side_b": "Lou Nuer",
+   "side_b_allies": "",
+   "location": "South Sudan",
+   "location_iso3": [
+    "SSD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 33,
+   "deaths_low": 21,
+   "deaths_high": 33,
+   "war": false,
+   "conflict_id": 15828,
+   "dyad_id": 17412
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Bulala",
+   "side_a_allies": "",
+   "side_b": "Kreda",
+   "side_b_allies": "",
+   "location": "Chad",
+   "location_iso3": [
+    "TCD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 33,
+   "deaths_low": 33,
+   "deaths_high": 33,
+   "war": false,
+   "conflict_id": 16757,
+   "dyad_id": 18694
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Comando Vermelho",
+   "side_a_allies": "",
+   "side_b": "Terceiro Comando Puro",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 32,
+   "deaths_low": 32,
+   "deaths_high": 32,
+   "war": false,
+   "conflict_id": 11934,
+   "dyad_id": 12693
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Union of Revolutionaries for the Defense of the Congolese People (URDPC)",
+   "side_a_allies": "",
+   "side_b": "Zaire self-defense group",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 32,
+   "deaths_low": 31,
+   "deaths_high": 33,
+   "war": false,
+   "conflict_id": 15029,
+   "dyad_id": 16402
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Los Lobos",
+   "side_a_allies": "",
+   "side_b": "Los Lobos Box",
+   "side_b_allies": "",
+   "location": "Ecuador",
+   "location_iso3": [
+    "ECU"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 31,
+   "deaths_low": 31,
+   "deaths_high": 32,
+   "war": false,
+   "conflict_id": 16255,
+   "dyad_id": 17958
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Revolutionary Armed Forces of Colombia, Central General Staff (FARC-EMC)",
+   "side_a_allies": "",
+   "side_b": "General Staff of the Blocs and Front (EMBF)",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 31,
+   "deaths_low": 31,
+   "deaths_high": 32,
+   "war": false,
+   "conflict_id": 16339,
+   "dyad_id": 18114
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Birifor",
+   "side_a_allies": "",
+   "side_b": "Gonja",
+   "side_b_allies": "",
+   "location": "Ghana",
+   "location_iso3": [
+    "GHA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 31,
+   "deaths_low": 31,
+   "deaths_high": 31,
+   "war": false,
+   "conflict_id": 16666,
+   "dyad_id": 18554
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Yakuman tribe",
+   "side_a_allies": "",
+   "side_b": "Yangukim tribe",
+   "side_b_allies": "",
+   "location": "Papua New Guinea",
+   "location_iso3": [
+    "PNG"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 31,
+   "deaths_low": 31,
+   "deaths_high": 31,
+   "war": false,
+   "conflict_id": 16756,
+   "dyad_id": 18693
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Gaitanista Army of Colombia (EGC)",
+   "side_a_allies": "",
+   "side_b": "Autodefensas Conquistadoras de la Sierra Nevada",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 29,
+   "deaths_low": 28,
+   "deaths_high": 33,
+   "war": false,
+   "conflict_id": 16044,
+   "dyad_id": 17674
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Agatu",
+   "side_a_allies": "",
+   "side_b": "Fulani",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 28,
+   "deaths_low": 13,
+   "deaths_high": 28,
+   "war": false,
+   "conflict_id": 11675,
+   "dyad_id": 12341
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Jalisco Cartel New Generation, Sangre Nueva Zeta",
+   "side_a_allies": "",
+   "side_b": "Los Rojos",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 28,
+   "deaths_low": 28,
+   "deaths_high": 28,
+   "war": false,
+   "conflict_id": 15708,
+   "dyad_id": 17267
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Murle",
+   "side_a_allies": "",
+   "side_b": "Toposa",
+   "side_b_allies": "",
+   "location": "South Sudan",
+   "location_iso3": [
+    "SSD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 27,
+   "deaths_low": 13,
+   "deaths_high": 27,
+   "war": false,
+   "conflict_id": 16216,
+   "dyad_id": 17908
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Hausa",
+   "side_a_allies": "",
+   "side_b": "Fulani",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 26,
+   "deaths_low": 20,
+   "deaths_high": 29,
+   "war": false,
+   "conflict_id": 9341,
+   "dyad_id": 9951
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "al-Qaida in the Arabian Peninsula (AQAP)",
+   "side_a_allies": "",
+   "side_b": "Southern Transitional Council (STC)",
+   "side_b_allies": "",
+   "location": "Yemen (North Yemen)",
+   "location_iso3": [
+    "YEM"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 25,
+   "deaths_low": 17,
+   "deaths_high": 25,
+   "war": false,
+   "conflict_id": 14740,
+   "dyad_id": 16059
+  },
+  {
+   "type": "Armed group vs armed group",
+   "side_a": "Islamic State (IS)",
+   "side_a_allies": "",
+   "side_b": "Naparama",
+   "side_b_allies": "",
+   "location": "Mozambique",
+   "location_iso3": [
+    "MOZ"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 25,
+   "deaths_low": 19,
+   "deaths_high": 28,
+   "war": false,
+   "conflict_id": 15756,
+   "dyad_id": 17327
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Sudan Founding Alliance, which includes the Rapid Support Forces (SFA)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Sudan",
+   "location_iso3": [
+    "SDN"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 61973,
+   "deaths_low": 8288,
+   "deaths_high": 77011,
+   "war": false,
+   "conflict_id": 16712,
+   "dyad_id": 18623
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Islamic State (IS)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Afghanistan, Burkina Faso, Cameroon, Democratic Republic of the Congo (Zaire), Iraq, Mali, Mozambique, Niger, Nigeria, Pakistan, Philippines, Syria",
+   "location_iso3": [
+    "AFG",
+    "BFA",
+    "CMR",
+    "COD",
+    "IRQ",
+    "MLI",
+    "MOZ",
+    "NER",
+    "NGA",
+    "PAK",
+    "PHL",
+    "SYR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 2399,
+   "deaths_low": 2302,
+   "deaths_high": 2506,
+   "war": false,
+   "conflict_id": 506,
+   "dyad_id": 973
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Syria",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [
+    "SYR"
+   ],
+   "deaths_best": 1721,
+   "deaths_low": 1415,
+   "deaths_high": 1993,
+   "war": false,
+   "conflict_id": 711,
+   "dyad_id": 1178
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Congo River Alliance (AFC)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 1390,
+   "deaths_low": 1070,
+   "deaths_high": 1583,
+   "war": false,
+   "conflict_id": 16101,
+   "dyad_id": 17741
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Tanzania",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Tanzania",
+   "location_iso3": [
+    "TZA"
+   ],
+   "states_involved_iso3": [
+    "TZA"
+   ],
+   "deaths_best": 1009,
+   "deaths_low": 408,
+   "deaths_high": 2692,
+   "war": false,
+   "conflict_id": 470,
+   "dyad_id": 937
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Viv Ansanm",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Haiti",
+   "location_iso3": [
+    "HTI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 960,
+   "deaths_low": 923,
+   "deaths_high": 972,
+   "war": false,
+   "conflict_id": 16265,
+   "dyad_id": 17971
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Burkina Faso",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Burkina Faso, Mali",
+   "location_iso3": [
+    "BFA",
+    "MLI"
+   ],
+   "states_involved_iso3": [
+    "BFA"
+   ],
+   "deaths_best": 784,
+   "deaths_low": 784,
+   "deaths_high": 863,
+   "war": false,
+   "conflict_id": 695,
+   "dyad_id": 1162
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Group for the Support of Islam and Muslims (JNIM)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Benin, Burkina Faso, Mali, Niger",
+   "location_iso3": [
+    "BEN",
+    "BFA",
+    "MLI",
+    "NER"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 592,
+   "deaths_low": 590,
+   "deaths_high": 875,
+   "war": false,
+   "conflict_id": 13968,
+   "dyad_id": 15136
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Ethiopia",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Ethiopia",
+   "location_iso3": [
+    "ETH"
+   ],
+   "states_involved_iso3": [
+    "ETH"
+   ],
+   "deaths_best": 574,
+   "deaths_low": 111,
+   "deaths_high": 625,
+   "war": false,
+   "conflict_id": 474,
+   "dyad_id": 941
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Sudan",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Sudan",
+   "location_iso3": [
+    "SDN"
+   ],
+   "states_involved_iso3": [
+    "SDN"
+   ],
+   "deaths_best": 437,
+   "deaths_low": 389,
+   "deaths_high": 437,
+   "war": false,
+   "conflict_id": 480,
+   "dyad_id": 947
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Union of Revolutionaries for the Defense of the Congolese People (URDPC)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 425,
+   "deaths_low": 398,
+   "deaths_high": 427,
+   "war": false,
+   "conflict_id": 14745,
+   "dyad_id": 16065
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, known as Boko Haram (JAS)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Cameroon, Chad, Nigeria",
+   "location_iso3": [
+    "CMR",
+    "TCD",
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 389,
+   "deaths_low": 293,
+   "deaths_high": 496,
+   "war": false,
+   "conflict_id": 1850,
+   "dyad_id": 2332
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Rapid Support Forces (RSF)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Sudan",
+   "location_iso3": [
+    "SDN"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 358,
+   "deaths_low": 358,
+   "deaths_high": 591,
+   "war": false,
+   "conflict_id": 15913,
+   "dyad_id": 17514
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Mali, Government of Russia (Soviet Union)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Mali",
+   "location_iso3": [
+    "MLI"
+   ],
+   "states_involved_iso3": [
+    "MLI",
+    "RUS"
+   ],
+   "deaths_best": 322,
+   "deaths_low": 299,
+   "deaths_high": 371,
+   "war": false,
+   "conflict_id": 16369,
+   "dyad_id": 18152
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Military Council for the Liberation of Syria",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 211,
+   "deaths_low": 211,
+   "deaths_high": 211,
+   "war": false,
+   "conflict_id": 16564,
+   "dyad_id": 18425
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Myanmar (Burma)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Myanmar (Burma)",
+   "location_iso3": [
+    "MMR"
+   ],
+   "states_involved_iso3": [
+    "MMR"
+   ],
+   "deaths_best": 207,
+   "deaths_low": 204,
+   "deaths_high": 211,
+   "war": false,
+   "conflict_id": 488,
+   "dyad_id": 955
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of DR Congo (Zaire)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [
+    "COD"
+   ],
+   "deaths_best": 187,
+   "deaths_low": 71,
+   "deaths_high": 193,
+   "war": false,
+   "conflict_id": 467,
+   "dyad_id": 934
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Patriotic Defence Volunteers (VDP)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 186,
+   "deaths_low": 75,
+   "deaths_high": 310,
+   "war": false,
+   "conflict_id": 16066,
+   "dyad_id": 17706
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Gran Grif",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Haiti",
+   "location_iso3": [
+    "HTI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 175,
+   "deaths_low": 174,
+   "deaths_high": 177,
+   "war": false,
+   "conflict_id": 15163,
+   "dyad_id": 16572
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Fano",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Ethiopia",
+   "location_iso3": [
+    "ETH"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 160,
+   "deaths_low": 102,
+   "deaths_high": 181,
+   "war": false,
+   "conflict_id": 15364,
+   "dyad_id": 16832
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Baloch National Freedom Movement (BRAS)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Pakistan",
+   "location_iso3": [
+    "PAK"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 158,
+   "deaths_low": 39,
+   "deaths_high": 158,
+   "war": false,
+   "conflict_id": 14859,
+   "dyad_id": 16202
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Gaitanista Army of Colombia (EGC)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 110,
+   "deaths_low": 50,
+   "deaths_high": 127,
+   "war": false,
+   "conflict_id": 14486,
+   "dyad_id": 15751
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Mali",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Mali",
+   "location_iso3": [
+    "MLI"
+   ],
+   "states_involved_iso3": [
+    "MLI"
+   ],
+   "deaths_best": 109,
+   "deaths_low": 88,
+   "deaths_high": 132,
+   "war": false,
+   "conflict_id": 454,
+   "dyad_id": 921
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Russia (Soviet Union)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Central African Republic, Mali, Russia (Soviet Union), Sudan, Ukraine",
+   "location_iso3": [
+    "CAF",
+    "MLI",
+    "RUS",
+    "SDN",
+    "UKR"
+   ],
+   "states_involved_iso3": [
+    "RUS"
+   ],
+   "deaths_best": 106,
+   "deaths_low": 89,
+   "deaths_high": 108,
+   "war": false,
+   "conflict_id": 453,
+   "dyad_id": 920
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Mozambique",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Mozambique",
+   "location_iso3": [
+    "MOZ"
+   ],
+   "states_involved_iso3": [
+    "MOZ"
+   ],
+   "deaths_best": 96,
+   "deaths_low": 77,
+   "deaths_high": 190,
+   "war": false,
+   "conflict_id": 700,
+   "dyad_id": 1167
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Israel",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Israel",
+   "location_iso3": [
+    "ISR"
+   ],
+   "states_involved_iso3": [
+    "ISR"
+   ],
+   "deaths_best": 91,
+   "deaths_low": 89,
+   "deaths_high": 93,
+   "war": false,
+   "conflict_id": 483,
+   "dyad_id": 950
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Oromo Liberation Army (OLA)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Ethiopia",
+   "location_iso3": [
+    "ETH"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 90,
+   "deaths_low": 90,
+   "deaths_high": 90,
+   "war": false,
+   "conflict_id": 14893,
+   "dyad_id": 16241
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "National Liberation Army (ELN)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 81,
+   "deaths_low": 60,
+   "deaths_high": 92,
+   "war": false,
+   "conflict_id": 606,
+   "dyad_id": 1073
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Revolutionary Armed Forces of Colombia, Central General Staff (FARC-EMC)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 74,
+   "deaths_low": 61,
+   "deaths_high": 82,
+   "war": false,
+   "conflict_id": 15697,
+   "dyad_id": 17248
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Comando Vermelho",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Brazil",
+   "location_iso3": [
+    "BRA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 68,
+   "deaths_low": 42,
+   "deaths_high": 72,
+   "war": false,
+   "conflict_id": 1222,
+   "dyad_id": 1702
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Mobondo",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 68,
+   "deaths_low": 58,
+   "deaths_high": 71,
+   "war": false,
+   "conflict_id": 15893,
+   "dyad_id": 17488
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Burundi",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Burundi",
+   "location_iso3": [
+    "BDI"
+   ],
+   "states_involved_iso3": [
+    "BDI"
+   ],
+   "deaths_best": 62,
+   "deaths_low": 53,
+   "deaths_high": 63,
+   "war": false,
+   "conflict_id": 471,
+   "dyad_id": 938
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Forces of Bello Turji",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 61,
+   "deaths_low": 48,
+   "deaths_high": 61,
+   "war": false,
+   "conflict_id": 16382,
+   "dyad_id": 18174
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "La Coalition",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Haiti",
+   "location_iso3": [
+    "HTI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 55,
+   "deaths_low": 55,
+   "deaths_high": 55,
+   "war": false,
+   "conflict_id": 16592,
+   "dyad_id": 18460
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Rwanda",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [
+    "RWA"
+   ],
+   "deaths_best": 54,
+   "deaths_low": 54,
+   "deaths_high": 267,
+   "war": false,
+   "conflict_id": 472,
+   "dyad_id": 939
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Forces of Barbaru",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 53,
+   "deaths_low": 53,
+   "deaths_high": 53,
+   "war": false,
+   "conflict_id": 16373,
+   "dyad_id": 18158
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Indigenous People of Biafra (IPOB)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 50,
+   "deaths_low": 0,
+   "deaths_high": 101,
+   "war": false,
+   "conflict_id": 13903,
+   "dyad_id": 15050
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Yemen (North Yemen)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Yemen (North Yemen)",
+   "location_iso3": [
+    "YEM"
+   ],
+   "states_involved_iso3": [
+    "YEM"
+   ],
+   "deaths_best": 46,
+   "deaths_low": 12,
+   "deaths_high": 51,
+   "war": false,
+   "conflict_id": 715,
+   "dyad_id": 1182
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Los Monos",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Argentina",
+   "location_iso3": [
+    "ARG"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 45,
+   "deaths_low": 45,
+   "deaths_high": 45,
+   "war": false,
+   "conflict_id": 16775,
+   "dyad_id": 18716
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Ambazonia insurgents",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Cameroon",
+   "location_iso3": [
+    "CMR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 44,
+   "deaths_low": 34,
+   "deaths_high": 47,
+   "war": false,
+   "conflict_id": 14605,
+   "dyad_id": 15896
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Kashmir insurgents",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "India",
+   "location_iso3": [
+    "IND"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 43,
+   "deaths_low": 41,
+   "deaths_high": 43,
+   "war": false,
+   "conflict_id": 522,
+   "dyad_id": 989
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Pakistan",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Afghanistan, Pakistan",
+   "location_iso3": [
+    "AFG",
+    "PAK"
+   ],
+   "states_involved_iso3": [
+    "PAK"
+   ],
+   "deaths_best": 39,
+   "deaths_low": 39,
+   "deaths_high": 56,
+   "war": false,
+   "conflict_id": 730,
+   "dyad_id": 1197
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Communist Party of India (Maoist)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "India",
+   "location_iso3": [
+    "IND"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 38,
+   "deaths_low": 36,
+   "deaths_high": 42,
+   "war": false,
+   "conflict_id": 499,
+   "dyad_id": 966
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Sinaloa Cartel",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 37,
+   "deaths_low": 24,
+   "deaths_high": 41,
+   "war": false,
+   "conflict_id": 1224,
+   "dyad_id": 1704
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Forces of Dan Saadiya",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 37,
+   "deaths_low": 37,
+   "deaths_high": 57,
+   "war": false,
+   "conflict_id": 16625,
+   "dyad_id": 18506
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Saraya Ansar al-Sunna",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Syria",
+   "location_iso3": [
+    "SYR"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 35,
+   "deaths_low": 35,
+   "deaths_high": 35,
+   "war": false,
+   "conflict_id": 16813,
+   "dyad_id": 18768
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Azande Ani Kpi Gbe (AAKG)",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Central African Republic",
+   "location_iso3": [
+    "CAF"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 30,
+   "deaths_low": 30,
+   "deaths_high": 30,
+   "war": false,
+   "conflict_id": 16103,
+   "dyad_id": 17744
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Jalisco Cartel New Generation",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Mexico",
+   "location_iso3": [
+    "MEX"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 28,
+   "deaths_low": 13,
+   "deaths_high": 28,
+   "war": false,
+   "conflict_id": 1943,
+   "dyad_id": 2425
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Government of Afghanistan",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Afghanistan, Iran",
+   "location_iso3": [
+    "AFG",
+    "IRN"
+   ],
+   "states_involved_iso3": [
+    "AFG"
+   ],
+   "deaths_best": 27,
+   "deaths_low": 18,
+   "deaths_high": 54,
+   "war": false,
+   "conflict_id": 484,
+   "dyad_id": 951
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Autodefensas Conquistadoras de la Sierra Nevada",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 27,
+   "deaths_low": 17,
+   "deaths_high": 30,
+   "war": false,
+   "conflict_id": 15189,
+   "dyad_id": 16604
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Kokorat sans ras",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Haiti",
+   "location_iso3": [
+    "HTI"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 27,
+   "deaths_low": 26,
+   "deaths_high": 27,
+   "war": false,
+   "conflict_id": 16085,
+   "dyad_id": 17725
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Full Force",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Nigeria",
+   "location_iso3": [
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 27,
+   "deaths_low": 27,
+   "deaths_high": 27,
+   "war": false,
+   "conflict_id": 16885,
+   "dyad_id": 18846
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Zaire self-defense group",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Democratic Republic of the Congo (Zaire)",
+   "location_iso3": [
+    "COD"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 26,
+   "deaths_low": 23,
+   "deaths_high": 30,
+   "war": false,
+   "conflict_id": 15044,
+   "dyad_id": 16419
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Los Costenos",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Colombia",
+   "location_iso3": [
+    "COL"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 26,
+   "deaths_low": 25,
+   "deaths_high": 28,
+   "war": false,
+   "conflict_id": 16154,
+   "dyad_id": 17805
+  },
+  {
+   "type": "Attacks on civilians",
+   "side_a": "Lakurawa",
+   "side_a_allies": "",
+   "side_b": "Civilians",
+   "side_b_allies": "",
+   "location": "Niger, Nigeria",
+   "location_iso3": [
+    "NER",
+    "NGA"
+   ],
+   "states_involved_iso3": [],
+   "deaths_best": 26,
+   "deaths_low": 24,
+   "deaths_high": 28,
+   "war": false,
+   "conflict_id": 16371,
+   "dyad_id": 18156
+  }
+ ]
+}
