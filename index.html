@@ -237,7 +237,7 @@
     <span><i style="background:#103d8c"></i> coup, recent improvement</span>
     <span><i style="background:#d64545"></i> war / armed conflict</span>
     <span><i style="background:repeating-linear-gradient(45deg,#17803f 0 3px,#d64545 3px 6px)"></i> peaceful revolution <em>and</em> war in 2025</span>
-    <span><i class="cring"></i> armed conflict in 2025 — circle size = deaths <em>(separate view, Uppsala data)</em></span>
+    <span><i class="cring"></i> armed conflict in 2025 — circle size = deaths <em>(conflicts view or Both, Uppsala data)</em></span>
     <span><i class="dia" style="background:#103d8c"></i> non-UN polity</span>
     <span><i style="background:#eef4fc;border:1px solid #cbdcf1"></i> dormant</span>
   </div>
@@ -249,6 +249,7 @@
         <div class="view-switch" role="group" aria-label="Map layer">
           <button type="button" id="viewRev" aria-pressed="true" onclick="setView('revolutions')">Revolutions &amp; protests</button>
           <button type="button" id="viewWar" class="cf" aria-pressed="false" onclick="setView('conflicts')">Armed conflicts 2025</button>
+          <button type="button" id="viewBoth" aria-pressed="false" onclick="setView('both')">Both</button>
         </div>
         <div id="map"></div>
         <div class="map-hint">click a country for its status &amp; sources ▸</div>
@@ -822,11 +823,12 @@ function setView(v){
   VIEW = v;
   document.getElementById("viewRev").setAttribute("aria-pressed", v === "revolutions");
   document.getElementById("viewWar").setAttribute("aria-pressed", v === "conflicts");
+  document.getElementById("viewBoth").setAttribute("aria-pressed", v === "both");
   const gd = document.getElementById("map"); if(!gd || !gd.data) return;
   const idx = (pred) => gd.data.map((t,i)=>pred(t)?i:-1).filter(i=>i>=0);
   const conf = idx(t => t._conflicts), revo = idx(t => t._iso === PROTEST_KEYS || t._iso === DEV_KEYS);
-  if(conf.length) Plotly.restyle("map", {visible: v === "conflicts"}, conf);
-  if(revo.length) Plotly.restyle("map", {visible: v === "revolutions"}, revo);
+  if(conf.length) Plotly.restyle("map", {visible: v !== "revolutions"}, conf);
+  if(revo.length) Plotly.restyle("map", {visible: v !== "conflicts"}, revo);
   if(selected) renderPanel();
 }
 async function loadConflicts(){
@@ -835,7 +837,7 @@ async function loadConflicts(){
   WAR_2025 = new Set(CONFLICTS.rows.filter(r => r.war).flatMap(r => r.location_iso3));
   await MAP_READY;   // drawMap() starts first; add the layer once the plot exists
   Plotly.restyle("map", {text:[hoverText()]}, [0]);
-  const t = conflictTrace(); t.visible = VIEW === "conflicts";
+  const t = conflictTrace(); t.visible = VIEW !== "revolutions";
   Plotly.addTraces("map", t);   // triggers plotly_afterplot, which re-applies the stripes
   if(selected) renderPanel();
 }
@@ -899,7 +901,7 @@ function renderPanel(){
     <span class="pnl-status ${STATUS.cls}"><span class="led"></span>${STATUS.label}</span>
     ${e.status !== "war" && WAR_2025.has(selected) ? `<span class="pnl-status war"><span class="led"></span>WAR IN 2025 &middot; UPPSALA DATA</span>` : ""}
     <div class="pnl-meta">${meta}</div>
-    ${VIEW === "conflicts" ? conflictHtml(selected) : protestHtml(selected)}
+    ${VIEW !== "revolutions" ? conflictHtml(selected) : ""}${VIEW !== "conflicts" ? protestHtml(selected) : ""}
     ${electionHtml(selected)}
     <div class="sources">
       <div class="sources-label">Source · dig deeper</div>
